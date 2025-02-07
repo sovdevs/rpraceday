@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="new file format class distance indicators&#10;HTML simplified">
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="improvement in data. Added footer version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/races/885357.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/885357.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/races/885358.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/885358.txt" afterDir="false" />
@@ -128,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738925944461</updated>
-      <workItem from="1738925951792" duration="13909000" />
+      <workItem from="1738925951792" duration="15379000" />
     </task>
     <task id="LOCAL-00001" summary="v 0.1 Dark mode, hash function, raceid">
       <option name="closed" value="true" />
@@ -210,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738941611346</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="improvement in data. Added footer version">
+      <option name="closed" value="true" />
+      <created>1738945089939</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1738945089939</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,6 +235,7 @@
     <MESSAGE value="updated race data" />
     <MESSAGE value="copyable attempt for demo codes" />
     <MESSAGE value="new file format class distance indicators&#10;HTML simplified" />
-    <option name="LAST_COMMIT_MESSAGE" value="new file format class distance indicators&#10;HTML simplified" />
+    <MESSAGE value="improvement in data. Added footer version" />
+    <option name="LAST_COMMIT_MESSAGE" value="improvement in data. Added footer version" />
   </component>
 </project>
