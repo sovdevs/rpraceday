@@ -265,28 +265,6 @@
             document.body.classList.add("dark-mode");
         }
 
-    document.addEventListener("DOMContentLoaded", function() {
-        document.querySelectorAll(".copyable").forEach(function(span) {
-            span.addEventListener("click", function() {
-                const targetId = this.getAttribute("data-target");
-                const inputField = document.getElementById(targetId);
-                const textToCopy = this.textContent.trim();
-
-                if (inputField) {
-                    inputField.value = textToCopy; // ✅ Update input field
-
-                    // ✅ Copy text to clipboard
-                    navigator.clipboard.writeText(textToCopy).then(() => {
-                        // ✅ Success: Highlight input field
-                        inputField.style.backgroundColor = "#d4edda"; // Light green
-                        setTimeout(() => inputField.style.backgroundColor = "", 800);
-                    }).catch(err => {
-                        console.error("Failed to copy:", err);
-                    });
-                }
-            });
-        });
-    });
     </script>
 </body>
 </html>
