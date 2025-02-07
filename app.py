@@ -4,7 +4,7 @@ import json
 
 app = Flask(__name__, static_folder="static")  # Ensure static folder is recognized
 
-RACE_TXT_DIR = "./races"
+RACE_TXT_DIR = "static/races"
 HASH_FILE = "hash_codes.json"
 
 # Load hash codes

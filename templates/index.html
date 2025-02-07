@@ -184,8 +184,16 @@
 <body>
     <button class="dark-mode-toggle" onclick="toggleDarkMode()">🌙 Toggle Dark Mode</button>
 
+
+
     <div class="container">
         <h1>🏇 RP Raceday Demo</h1>
+        <!-- ✅ Live Time Display -->
+        <div class="time-container">
+            ⏳ **Current Time in London (GMT/BST):** <span id="london-time">Loading...</span><br>
+            🕰 **Your Local Time:** <span id="browser-time">Loading...</span>
+        </div>
+
         <h2> Enter a race ID and hash. For hashes, please email us. Here is one to get you started: 885367: 8f81ef03</h2>
         <form method="POST">
             <input type="text" name="race_id" placeholder="Enter Race ID" required>
@@ -209,10 +217,29 @@
     </div>
 
     <script>
+
+        function updateTime() {
+        // ✅ Get Browser Local Time (24-hour format)
+        const localTime = new Date();
+        const localFormatted = localTime.toLocaleTimeString("en-GB", { hour12: false });
+
+        // ✅ Get London Time (GMT/BST, 24-hour format)
+        const options = { timeZone: "Europe/London", hourCycle: "h23", hour: "2-digit", minute: "2-digit", second: "2-digit" };
+        const londonTime = new Intl.DateTimeFormat("en-GB", options).format(new Date());
+
+        // ✅ Update the HTML elements
+        document.getElementById("browser-time").innerText = localFormatted;
+        document.getElementById("london-time").innerText = londonTime;
+    }
+
+
         function toggleDarkMode() {
             document.body.classList.toggle("dark-mode");
             localStorage.setItem("darkMode", document.body.classList.contains("dark-mode"));
         }
+            // ✅ Auto-update time every second
+        setInterval(updateTime, 1000);
+        updateTime(); // Run immediately
 
         // Apply stored dark mode preference
         if (localStorage.getItem("darkMode") === "true") {
