@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="new txt files">
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="new txt files and updated version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/races/884453.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/884453.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/races/885371.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/885371.txt" afterDir="false" />
@@ -49,7 +49,6 @@
       <change beforePath="$PROJECT_DIR$/static/races/887786.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887786.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/races/887787.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887787.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/races/887866.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887866.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +124,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738925944461</updated>
-      <workItem from="1738925951792" duration="26998000" />
+      <workItem from="1738925951792" duration="28764000" />
     </task>
     <task id="LOCAL-00001" summary="v 0.1 Dark mode, hash function, raceid">
       <option name="closed" value="true" />
@@ -263,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739022728689</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="new txt files and updated version">
+      <option name="closed" value="true" />
+      <created>1739030111031</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1739030111031</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,6 +291,7 @@
     <MESSAGE value="improvement in data. updated footer version" />
     <MESSAGE value="Todays data, Hash code samples. updated footer version. New data format with horses for first time" />
     <MESSAGE value="new txt files" />
-    <option name="LAST_COMMIT_MESSAGE" value="new txt files" />
+    <MESSAGE value="new txt files and updated version" />
+    <option name="LAST_COMMIT_MESSAGE" value="new txt files and updated version" />
   </component>
 </project>
