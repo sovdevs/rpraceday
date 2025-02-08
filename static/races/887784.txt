@@ -17,9 +17,9 @@
 🎨 Colour: br
 👤 Trainer: Gerard Keane
 📍 Trainer Location: Trim, Co Meath
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 2
+📌 Trainer 14 Days Runs: 2
 📊 Trainer RTF: 50%
 🏇 Jockey: Tom Harney
 🌱 Breeder: Kenneth Parkhill
@@ -29,7 +29,7 @@
 🔢 Number: 4
 🎯 Draw Position: Unknown
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 127.0
 📉 TS (Top Speed): 114.0
 🎲 Odds: 3.25 💰💰
@@ -40,128 +40,144 @@
 🌱 Going Runs: 2
 🏆 Going Wins: 1
 🏥 Medical History: None
+🏇 Jockey Stats: 1 (6) | 17%% | Profit: -1.00
+📌 Stats Jockey Last 14 Wins: 1
+📌 Stats Jockey Last 14 Wins Pct: 17%
+📌 Stats Jockey Last 14 Profit: -1.00
+🏆 Jockey OVR: 0 (14) | 0%% | Profit: -14.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -14.00
+📊 Trainer Last 14: 0 (1) | 0%% | Profit: -1.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -1.00
+💰 Trainer OVR: 0 (4) | 0%% | Profit: -4.00
+📌 Stats Trainer Ovr Wins: 0
+📌 Stats Trainer Ovr Wins Pct: 0%
+📌 Stats Trainer Ovr Profit: -4.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-13 13:18:00
 🏟️ Course: Punchestown
 🗒️ Course Comments: right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses
-📏 Distance: 16.5 furlongs 🔽
+📏 Distance: 16.5 furlongs 🔼
 👜 Prize: 💰 5,950
 🏆 Race Description: HcH
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: travelled strongly, held up in rear, headway 5th, went second going easily before 2 out, led going easily and went clear after 2 out, canter
 ⏳ Days since previous run (to today's run): 25 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-14 13:02:00
 🏟️ Course: Fairyhouse
 🗒️ Course Comments: right-handed, galloping, testing track (1m6f circuit)
-📏 Distance: 16.5 furlongs 🔽
+📏 Distance: 16.5 furlongs 🔼
 👜 Prize: 💰 6,261
 🏆 Race Description: NvHcH
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: held up in rear, jumped left 1st, midfield after 4 out, headway and prominent on near side of group after 3 out, challenging when not fluent 2 out, soon ridden, kept on well towards finish
 ⏳ Days since previous run (to today's run): 30 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-11-03 16:10:00
 🏟️ Course: Curragh
 🗒️ Course Comments: right-handed, galloping, testing, horseshoe (2m) + chute (races up to 1m)
-📏 Distance: 12.0 furlongs 🔼
+📏 Distance: 12.0 furlongs 🔽
 👜 Prize: 💰 10,435
 🏆 Race Description: 🍼 Md
 🥇 Outcome: 10
 💰 Odds: N/A (None)
 📝 Comment: midfield, headway and in touch with leaders against far rail over 2f out, weakened from over 1f out
 ⏳ Days since previous run (to today's run): 40 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-10-23 15:20:00
 🏟️ Course: Navan
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 14.0 furlongs 🔼
+📏 Distance: 14.0 furlongs 🔽
 👜 Prize: 💰 6,261
 🏆 Race Description: 🍼 Md
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: dwelt start, towards rear, headway into midfield under 4f out, in touch with leaders on near side of group over 2f out, no extra from over 1f out
 ⏳ Days since previous run (to today's run): 11 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-10-12 15:05:00
 🏟️ Course: Fairyhouse
 🗒️ Course Comments: right-handed, galloping, testing track (1m6f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 5,478
 🏆 Race Description: HcH
 🥇 Outcome: 6
 💰 Odds: N/A (None)
 📝 Comment: midfield, headway and prominent 3 out, challenging 2 out, weakened from last
 ⏳ Days since previous run (to today's run): 11 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 6
 📅 Race Date: 2024-10-08 13:45:00
 🏟️ Course: Galway
 🗒️ Course Comments: right-handed, undulating, testing track (1m2f rectangle)
-📏 Distance: 16.5 furlongs 🔽
+📏 Distance: 16.5 furlongs 🔼
 👜 Prize: 💰 5,217
 🏆 Race Description: HcH
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: midfield, in touch with leaders after 3 out, headway and challenging before last, ridden after last, led narrowly final strides
 ⏳ Days since previous run (to today's run): 4 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 7
 📅 Race Date: 2024-08-26 13:30:00
 🏟️ Course: Downpatrick
 🗒️ Course Comments: right-handed, sharp, undulating track (1m2f circuit)
-📏 Distance: 18.0 furlongs 🔽
+📏 Distance: 18.0 furlongs 🔼
 👜 Prize: 💰 5,217
 🏆 Race Description: HcH
 🥇 Outcome: 7
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, brief headway and prominent after 2 out, weakened before last
 ⏳ Days since previous run (to today's run): 43 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 8
 📅 Race Date: 2024-08-12 17:53:00
 🏟️ Course: Ballinrobe
 🗒️ Course Comments: right-handed, fairly sharp track (1m4f oval)
-📏 Distance: 17.0 furlongs 🔽
+📏 Distance: 17.0 furlongs 🔼
 👜 Prize: 💰 5,478
 🏆 Race Description: HcH
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, soon in touch with leaders, left in second 3 out, hampered by loose horse before 2 out, led approaching last, ran on well run-in, headed final strides
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 9
 📅 Race Date: 2024-07-31 17:40:00
 🏟️ Course: Galway
 🗒️ Course Comments: right-handed, undulating, testing track (1m2f rectangle)
-📏 Distance: 12.0 furlongs 🔼
+📏 Distance: 12.0 furlongs 🔽
 👜 Prize: 💰 8,870
 🏆 Race Description: 🍼 Md
 🥇 Outcome: 4
 💰 Odds: N/A (None)
 📝 Comment: held up in rear, raced extremely wide but steady headway from over 3f out, carried left home turn, stayed on inside final furlong, did well in the circumstances
 ⏳ Days since previous run (to today's run): 12 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 10
 📅 Race Date: 2024-04-11 13:35:00
 🏟️ Course: Limerick
 🗒️ Course Comments: right-handed, undulating track (1m3f oval)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 5,739
 🏆 Race Description: HcH
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, prominent, no extra after 2 out, weakened run-in
 ⏳ Days since previous run (to today's run): 111 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 11
 📅 Race Date: 2024-03-10 14:17:00
 🏟️ Course: Naas
@@ -173,7 +189,7 @@
 💰 Odds: N/A (None)
 📝 Comment: never better than midfield
 ⏳ Days since previous run (to today's run): 31 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: well-dressed (Opening odds: 4.33)
@@ -183,9 +199,9 @@
 🎨 Colour: b
 👤 Trainer: Eddie & Patrick Harty
 📍 Trainer Location: Curragh, Co Kildare
-📊 Trainer 14-Day Win %: 17%
+📌 Trainer 14 Days Percent: 17.0
 📌 Trainer 14 Days Wins: 1
-🏇 Trainer Runs (Last 14 Days): 6
+📌 Trainer 14 Days Runs: 6
 📊 Trainer RTF: 50%
 🏇 Jockey: Cian Cullinan
 🌱 Breeder: Mrs Noreen McManus
@@ -195,7 +211,7 @@
 🔢 Number: 1
 🎯 Draw Position: Unknown
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 121.0
 📉 TS (Top Speed): 80.0
 🎲 Odds: 4.33 💰💰💰
@@ -206,44 +222,60 @@
 🌱 Going Runs: 3
 🏆 Going Wins: 1
 🏥 Medical History: None
+🏇 Jockey Stats: 1 (3) | 33%% | Profit: +4.00
+📌 Stats Jockey Last 14 Wins: 1
+📌 Stats Jockey Last 14 Wins Pct: 33%
+📌 Stats Jockey Last 14 Profit: +4.00
+🏆 Jockey OVR: 2 (9) | 22%% | Profit: +24.00
+📌 Stats Jockey Ovr Wins: 2
+📌 Stats Jockey Ovr Wins Pct: 22%
+📌 Stats Jockey Ovr Profit: +24.00
+📊 Trainer Last 14: 1 (5) | 20%% | Profit: +2.00
+📌 Stats Trainer Last 14 Wins: 1
+📌 Stats Trainer Last 14 Wins Pct: 20%
+📌 Stats Trainer Last 14 Profit: +2.00
+💰 Trainer OVR: 2 (12) | 17%% | Profit: +5.00
+📌 Stats Trainer Ovr Wins: 2
+📌 Stats Trainer Ovr Wins Pct: 17%
+📌 Stats Trainer Ovr Profit: +5.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-25 15:23:00
 🏟️ Course: Fairyhouse
 🗒️ Course Comments: right-handed, galloping, testing track (1m6f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 6,198
 🏆 Race Description: HcH
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, prominent 2nd, led after 3 out, clear going okay when nudged along after 2 out, ran on, comfortably
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-15 12:35:00
 🏟️ Course: Navan
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 20.0 furlongs 🔽
+📏 Distance: 20.0 furlongs 🔼
 👜 Prize: 💰 10,435
 🏆 Race Description: HcH
 🥇 Outcome: 10
 💰 Odds: N/A (None)
 📝 Comment: towards rear early, in touch with leaders 4 out, weakened after 2 out
 ⏳ Days since previous run (to today's run): 41 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-11-24 15:00:00
 🏟️ Course: Punchestown
 🗒️ Course Comments: right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses
-📏 Distance: 17.0 furlongs 🔽
+📏 Distance: 17.0 furlongs 🔼
 👜 Prize: 💰 8,348
 🏆 Race Description: NvHcH
 🥇 Outcome: 7
 💰 Odds: N/A (None)
 📝 Comment: held up in rear, brief headway before 3 out, not fluent and weakened 2 out, no impression
 ⏳ Days since previous run (to today's run): 20 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-03-23 14:17:00
 🏟️ Course: Navan
@@ -255,7 +287,7 @@
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, prominent 3 out, went second going okay after 2 out, challenging when not fluent and stumbled last, kept on but no match for winner
 ⏳ Days since previous run (to today's run): 246 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-02-25 13:55:00
 🏟️ Course: Naas
@@ -267,7 +299,7 @@
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, headway and went fourth on inner after 2 out, no extra after last
 ⏳ Days since previous run (to today's run): 27 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: doctor-churchill (Opening odds: 6.0)
@@ -277,9 +309,9 @@
 🎨 Colour: b
 👤 Trainer: Patrick Joseph Hayes
 📍 Trainer Location: Friarstown, Co. Kildare
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 2
+📌 Trainer 14 Days Runs: 2
 📊 Trainer RTF: Unknown%
 🏇 Jockey: Conor Smithers
 🌱 Breeder: Pierce Molony
@@ -289,7 +321,7 @@
 🔢 Number: 5
 🎯 Draw Position: Unknown
 🎭 Headgear: p
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 119.0
 📉 TS (Top Speed): 21.0
 🎲 Odds: 6.0 💰💰💰💰
@@ -300,20 +332,36 @@
 🌱 Going Runs: 0
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (1) | 0%% | Profit: -1.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: 0%
+📌 Stats Jockey Last 14 Profit: -1.00
+🏆 Jockey OVR: 0 (15) | 0%% | Profit: -15.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -15.00
+📊 Trainer Last 14: 0 (0) | -% | Profit: 0.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: -
+📌 Stats Trainer Last 14 Profit: 0.00
+💰 Trainer OVR: 1 (1) | 100%% | Profit: +28.00
+📌 Stats Trainer Ovr Wins: 1
+📌 Stats Trainer Ovr Wins Pct: 100%
+📌 Stats Trainer Ovr Profit: +28.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-05 15:05:00
 🏟️ Course: Naas
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 19.0 furlongs 🔽
+📏 Distance: 19.0 furlongs 🔼
 👜 Prize: 💰 6,694
 🏆 Race Description: HcH
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: reduced visibility, soon prominent, led narrowly 3 out, went clear home turn, stayed on
 ⏳ Days since previous run (to today's run): 33 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: fairyland-opera (Opening odds: 10.0)
@@ -323,9 +371,9 @@
 🎨 Colour: b
 👤 Trainer: Mrs Lorna Fowler
 📍 Trainer Location: Summerhill, Co Meath
-📊 Trainer 14-Day Win %: N/A
+📌 Trainer 14 Days Percent: Unknown
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 0
+📌 Trainer 14 Days Runs: 0
 📊 Trainer RTF: Unknown%
 🏇 Jockey: Conor Clarke
 🌱 Breeder: Mrs T K Cooper & Miss Diana Cooper
@@ -335,7 +383,7 @@
 🔢 Number: 9
 🎯 Draw Position: Unknown
 🎭 Headgear: t
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 119.0
 📉 TS (Top Speed): 57.0
 🎲 Odds: 10.0 💰💰💰💰💰
@@ -346,44 +394,60 @@
 🌱 Going Runs: 1
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (2) | 0%% | Profit: -2.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: 0%
+📌 Stats Jockey Last 14 Profit: -2.00
+🏆 Jockey OVR: 0 (1) | 0%% | Profit: -1.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -1.00
+📊 Trainer Last 14: 0 (0) | -% | Profit: 0.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: -
+📌 Stats Trainer Last 14 Profit: 0.00
+💰 Trainer OVR: 0 (7) | 0%% | Profit: -7.00
+📌 Stats Trainer Ovr Wins: 0
+📌 Stats Trainer Ovr Wins Pct: 0%
+📌 Stats Trainer Ovr Profit: -7.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-05 14:30:00
 🏟️ Course: Naas
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 7,438
 🏆 Race Description: 🍼 MdH
 🥇 Outcome: 8
 💰 Odds: N/A (None)
 📝 Comment: prominent, weakening when not fluent 2 out
 ⏳ Days since previous run (to today's run): 33 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-11-10 12:20:00
 🏟️ Course: Naas
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 6,522
 🏆 Race Description: 🍼 MdH
 🥇 Outcome: 3 🥉
 💰 Odds: N/A (None)
 📝 Comment: prominent, not fluent 2 out, ridden and challenging last, weakened and lost second towards finish
 ⏳ Days since previous run (to today's run): 56 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-05-09 16:10:00
 🏟️ Course: Tipperary
 🗒️ Course Comments: left-handed, sharp, flat track (1m2f circuit)
-📏 Distance: 16.5 furlongs 🔽
+📏 Distance: 16.5 furlongs 🔼
 👜 Prize: 💰 5,478
 🏆 Race Description: 🍼 MdHM
 🥇 Outcome: 12
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, prominent, disputed lead 4 out, weakened after 3 out
 ⏳ Days since previous run (to today's run): 184 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-02-25 13:55:00
 🏟️ Course: Naas
@@ -395,7 +459,7 @@
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, weakening when mistake last
 ⏳ Days since previous run (to today's run): 74 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: duke-of-leggagh (Opening odds: 11.0)
@@ -405,9 +469,9 @@
 🎨 Colour: gr
 👤 Trainer: Michael Mulvany
 📍 Trainer Location: Kells, Co. Meath
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 3
+📌 Trainer 14 Days Runs: 3
 📊 Trainer RTF: 67%
 🏇 Jockey: Patrick M Obrien
 🌱 Breeder: Larry Mulvany
@@ -417,7 +481,7 @@
 🔢 Number: 10
 🎯 Draw Position: Unknown
 🎭 Headgear: t
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 125.0
 📉 TS (Top Speed): 81.0
 🎲 Odds: 11.0 💰💰💰💰💰
@@ -428,140 +492,156 @@
 🌱 Going Runs: 1
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (4) | 0%% | Profit: -4.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: 0%
+📌 Stats Jockey Last 14 Profit: -4.00
+🏆 Jockey OVR: 0 (13) | 0%% | Profit: -13.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -13.00
+📊 Trainer Last 14: 0 (2) | 0%% | Profit: -2.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -2.00
+💰 Trainer OVR: 0 (11) | 0%% | Profit: -11.00
+📌 Stats Trainer Ovr Wins: 0
+📌 Stats Trainer Ovr Wins Pct: 0%
+📌 Stats Trainer Ovr Profit: -11.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-25 15:23:00
 🏟️ Course: Fairyhouse
 🗒️ Course Comments: right-handed, galloping, testing track (1m6f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 6,198
 🏆 Race Description: HcH
 🥇 Outcome: 3 🥉
 💰 Odds: N/A (None)
 📝 Comment: prominent, led from 4th, joined after 4 out, headed before 3 out, outpaced after 3 out, mistake when jumped slightly right 2 out, keeping on when jumped slightly right last, soon went third again, no match for first two
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-16 13:30:00
 🏟️ Course: Naas
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 19.5 furlongs 🔽
+📏 Distance: 19.5 furlongs 🔼
 👜 Prize: 💰 6,522
 🏆 Race Description: 🍼 4yMdH
 🥇 Outcome: 14
 💰 Odds: N/A (None)
 📝 Comment: towards rear throughout, tailed off
 ⏳ Days since previous run (to today's run): 40 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-12-07 11:30:00
 🏟️ Course: Navan
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 6,522
 🏆 Race Description: 🍼 4yMdH
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: prominent, carried right 1st, left in second 5th, lost position after 2 out, kept on but no impression run-in
 ⏳ Days since previous run (to today's run): 9 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-11-16 11:40:00
 🏟️ Course: Navan
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 20.0 furlongs 🔽
+📏 Distance: 20.0 furlongs 🔼
 👜 Prize: 💰 7,826
 🏆 Race Description: 🍼 MdH
 🥇 Outcome: 7
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, not fluent 7th, weakened after 2 out
 ⏳ Days since previous run (to today's run): 20 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-10-28 13:00:00
 🏟️ Course: Galway
 🗒️ Course Comments: right-handed, undulating, testing track (1m2f rectangle)
-📏 Distance: 8.5 furlongs 🔼
+📏 Distance: 8.5 furlongs 🔽
 👜 Prize: 💰 6,261
 🏆 Race Description: Hc
 🥇 Outcome: 11
 💰 Odds: N/A (None)
 📝 Comment: towards rear on outer throughout
 ⏳ Days since previous run (to today's run): 18 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 6
 📅 Race Date: 2024-06-03 15:35:00
 🏟️ Course: Gowran Park
 🗒️ Course Comments: right-handed, undulating track (1m4f circuit)
-📏 Distance: 9.5 furlongs 🔼
+📏 Distance: 9.5 furlongs 🔽
 👜 Prize: 💰 6,522
 🏆 Race Description: Hc
 🥇 Outcome: 14
 💰 Odds: N/A (None)
 📝 Comment: started quickly, led and pushed along briefly early, prominent after 1f, lost position but in touch with leaders before halfway, weakened over 2f out
 ⏳ Days since previous run (to today's run): 146 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 7
 📅 Race Date: 2024-05-20 18:50:00
 🏟️ Course: Roscommon
 🗒️ Course Comments: right-handed, sharp (1m2f circuit)
-📏 Distance: 12.0 furlongs 🔼
+📏 Distance: 12.0 furlongs 🔽
 👜 Prize: 💰 6,522
 🏆 Race Description: Hc
 🥇 Outcome: 7
 💰 Odds: N/A (None)
 📝 Comment: prominent, weakened from over 2f out
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 8
 📅 Race Date: 2024-05-13 17:55:00
 🏟️ Course: Roscommon
 🗒️ Course Comments: right-handed, sharp (1m2f circuit)
-📏 Distance: 12.0 furlongs 🔼
+📏 Distance: 12.0 furlongs 🔽
 👜 Prize: 💰 6,000
 🏆 Race Description: Hc
 🥇 Outcome: 3 🥉
 💰 Odds: N/A (None)
 📝 Comment: led, ridden when headed under 2f out, ran on but no extra and lost second towards finish
 ⏳ Days since previous run (to today's run): 7 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 9
 📅 Race Date: 2024-04-23 17:15:00
 🏟️ Course: Gowran Park
 🗒️ Course Comments: right-handed, undulating track (1m4f circuit)
-📏 Distance: 9.5 furlongs 🔼
+📏 Distance: 9.5 furlongs 🔽
 👜 Prize: 💰 5,478
 🏆 Race Description: Hc
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: led narrowly, ridden and headed when hampered by loose horse under 2f out, rallied towards far side inside final 110yds, went second but no chance with winner towards finish
 ⏳ Days since previous run (to today's run): 20 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 10
 📅 Race Date: 2024-04-10 13:15:00
 🏟️ Course: Leopardstown
 🗒️ Course Comments: left-handed, flat, galloping track (1m6f oval)
-📏 Distance: 10.0 furlongs 🔼
+📏 Distance: 10.0 furlongs 🔽
 👜 Prize: 💰 7,826
 🏆 Race Description: Hc
 🥇 Outcome: 3 🥉
 💰 Odds: N/A (None)
 📝 Comment: started quickly, took keen hold, led narrowly early, prominent after 1f, outpaced 2f out, kept on and went third inside final 110yds, no match for first two
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 11
 📅 Race Date: 2024-03-24 15:45:00
 🏟️ Course: Naas
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit), chute for sprints
-📏 Distance: 7.0 furlongs 🔼
+📏 Distance: 7.0 furlongs 🔽
 👜 Prize: 💰 8,348
 🏆 Race Description: Hc
 🥇 Outcome: 7
 💰 Odds: N/A (None)
 📝 Comment: started quickly, prominent, in touch with leaders when outpaced over 3f out, soon no impression
 ⏳ Days since previous run (to today's run): 16 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: mercury-mission (Opening odds: 15.0)
@@ -571,9 +651,9 @@
 🎨 Colour: b
 👤 Trainer: P J Rothwell
 📍 Trainer Location: Tinahely, Co Wicklow
-📊 Trainer 14-Day Win %: 4%
+📌 Trainer 14 Days Percent: 4.0
 📌 Trainer 14 Days Wins: 1
-🏇 Trainer Runs (Last 14 Days): 23
+📌 Trainer 14 Days Runs: 23
 📊 Trainer RTF: 35%
 🏇 Jockey: Paddy Hanlon
 🌱 Breeder: Flaxman Stables Ireland Limited & R Cantoni
@@ -583,7 +663,7 @@
 🔢 Number: 12
 🎯 Draw Position: Unknown
 🎭 Headgear: p
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 126.0
 📉 TS (Top Speed): 75.0
 🎲 Odds: 15.0 💰💰💰💰💰
@@ -594,104 +674,120 @@
 🌱 Going Runs: 5
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (6) | 0%% | Profit: -6.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: 0%
+📌 Stats Jockey Last 14 Profit: -6.00
+🏆 Jockey OVR: 0 (4) | 0%% | Profit: -4.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -4.00
+📊 Trainer Last 14: 1 (23) | 4%% | Profit: -18.50
+📌 Stats Trainer Last 14 Wins: 1
+📌 Stats Trainer Last 14 Wins Pct: 4%
+📌 Stats Trainer Last 14 Profit: -18.50
+💰 Trainer OVR: 3 (90) | 3%% | Profit: -27.50
+📌 Stats Trainer Ovr Wins: 3
+📌 Stats Trainer Ovr Wins Pct: 3%
+📌 Stats Trainer Ovr Profit: -27.50
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-12 15:25:00
 🏟️ Course: Punchestown
 🗒️ Course Comments: right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses
-📏 Distance: 20.5 furlongs 🔽
+📏 Distance: 20.5 furlongs 🔼
 👜 Prize: 💰 7,438
 🏆 Race Description: HcH
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, held up in last, mistake 1st, headway after 2 out, stayed on run-in, not reach leaders
 ⏳ Days since previous run (to today's run): 26 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-08 14:50:00
 🏟️ Course: Cork
 🗒️ Course Comments: right-handed flat and level (1m4f oval)
-📏 Distance: 20.0 furlongs 🔽
+📏 Distance: 20.0 furlongs 🔼
 👜 Prize: 💰 6,000
 🏆 Race Description: HcH
 🥇 Outcome: 3 🥉
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, held up in rear, steady headway after 4 out, ran on when ridden and went third after last, nearest finish
 ⏳ Days since previous run (to today's run): 35 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-11-09 14:47:00
 🏟️ Course: Gowran Park
 🗒️ Course Comments: right-handed, undulating track (1m4f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 7,826
 🏆 Race Description: NvHcH
 🥇 Outcome: F
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, in rear, some headway and 4 lengths down when fell heavily 2 out
 ⏳ Days since previous run (to today's run): 29 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-10-11 13:50:00
 🏟️ Course: Downpatrick
 🗒️ Course Comments: right-handed, sharp, undulating track (1m2f circuit)
-📏 Distance: 17.5 furlongs 🔽
+📏 Distance: 17.5 furlongs 🔼
 👜 Prize: 💰 5,739
 🏆 Race Description: NvHcH
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: in rear, slightly hampered 4 out, in touch with leaders 3 out, weakened from 2 out
 ⏳ Days since previous run (to today's run): 29 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-07-18 17:02:00
 🏟️ Course: Killarney
 🗒️ Course Comments: left-handed, sharp track (1m2f oval)
-📏 Distance: 20.5 furlongs 🔽
+📏 Distance: 20.5 furlongs 🔼
 👜 Prize: 💰 6,783
 🏆 Race Description: HcH
 🥇 Outcome: 13
 💰 Odds: N/A (None)
 📝 Comment: midfield, mistake 7th, weakened 8th
 ⏳ Days since previous run (to today's run): 84 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 6
 📅 Race Date: 2024-06-01 18:55:00
 🏟️ Course: Tramore
 🗒️ Course Comments: right-handed, undulating, sharp track
-📏 Distance: 22.0 furlongs 🔽
+📏 Distance: 22.0 furlongs 🔼
 👜 Prize: 💰 6,261
 🏆 Race Description: HcH
 🥇 Outcome: 8
 💰 Odds: N/A (None)
 📝 Comment: led narrowly, headed but prominent after 4th, weakened from 3 out
 ⏳ Days since previous run (to today's run): 46 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 7
 📅 Race Date: 2024-05-13 17:10:00
 🏟️ Course: Killarney
 🗒️ Course Comments: left-handed, sharp track (1m2f oval)
-📏 Distance: 20.0 furlongs 🔽
+📏 Distance: 20.0 furlongs 🔼
 👜 Prize: 💰 8,609
 🏆 Race Description: HcH
 🥇 Outcome: 4
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, bit short of room on turn before 3 out, soon headway, pressed leaders after 2 out, no extra when lost third run-in (jockey said gelding hung badly right turning in)
 ⏳ Days since previous run (to today's run): 19 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 8
 📅 Race Date: 2024-04-01 13:23:00
 🏟️ Course: Cork
 🗒️ Course Comments: right-handed flat and level (1m4f oval)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 6,000
 🏆 Race Description: HcH
 🥇 Outcome: 12
 💰 Odds: N/A (None)
 📝 Comment: led, headed but prominent halfway, weakened before 3 out
 ⏳ Days since previous run (to today's run): 42 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: miss-gherkin (Opening odds: 17.0)
@@ -701,9 +797,9 @@
 🎨 Colour: b
 👤 Trainer: Peter Croke
 📍 Trainer Location: Glenealy, Co. Wicklow
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 1
+📌 Trainer 14 Days Runs: 1
 📊 Trainer RTF: Unknown%
 🏇 Jockey: Harry Sexton
 🌱 Breeder: John O'Dwyer
@@ -713,7 +809,7 @@
 🔢 Number: 6
 🎯 Draw Position: Unknown
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 123.0
 📉 TS (Top Speed): 101.0
 🎲 Odds: 17.0 💰💰💰💰💰
@@ -724,104 +820,120 @@
 🌱 Going Runs: 4
 🏆 Going Wins: 1
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (4) | 0%% | Profit: -4.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: 0%
+📌 Stats Jockey Last 14 Profit: -4.00
+🏆 Jockey OVR: 0 (8) | 0%% | Profit: -8.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -8.00
+📊 Trainer Last 14: 0 (1) | 0%% | Profit: -1.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -1.00
+💰 Trainer OVR: 0 (6) | 0%% | Profit: -6.00
+📌 Stats Trainer Ovr Wins: 0
+📌 Stats Trainer Ovr Wins Pct: 0%
+📌 Stats Trainer Ovr Profit: -6.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2024-12-21 14:30:00
 🏟️ Course: Thurles
 🗒️ Course Comments: right-handed, undulating track (1m2f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 8,348
 🏆 Race Description: HcH
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: prominent, led after 2nd, not fluent 3rd, headed when not fluent 4th, soon disputed lead, pressed leader after 3 out, lost position before 2 out, in touch with leaders when switched left after 2 out, lost fourth post
 ⏳ Days since previous run (to today's run): 48 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-11-10 14:35:00
 🏟️ Course: Naas
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 15,130
 🏆 Race Description: ChG3
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: didn't always jump with fluency, in rear throughout
 ⏳ Days since previous run (to today's run): 40 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-10-02 12:15:00
 🏟️ Course: Sligo
 🗒️ Course Comments: right-handed, sharp, undulating track, testing finish (1m circuit)
-📏 Distance: 17.5 furlongs 🔽
+📏 Distance: 17.5 furlongs 🔼
 👜 Prize: 💰 7,826
 🏆 Race Description: ChM
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: raced in second, not fluent 3rd, led 2 out, headed and no extra run-in
 ⏳ Days since previous run (to today's run): 39 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-09-06 17:15:00
 🏟️ Course: Kilbeggan
 🗒️ Course Comments: right-handed, sharp, undulating track (1m1f circuit)
-📏 Distance: 20.0 furlongs 🔽
+📏 Distance: 20.0 furlongs 🔼
 👜 Prize: 💰 5,739
 🏆 Race Description: Ch
 🥇 Outcome: 9
 💰 Odds: N/A (None)
 📝 Comment: prominent behind clear leader, not fluent 3 out, soon lost fourth, weakened after 2 out, tailed off
 ⏳ Days since previous run (to today's run): 25 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-08-22 16:06:00
 🏟️ Course: Killarney
 🗒️ Course Comments: left-handed, sharp track (1m2f oval)
-📏 Distance: 17.0 furlongs 🔽
+📏 Distance: 17.0 furlongs 🔼
 👜 Prize: 💰 23,478
 🏆 Race Description: HcH
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: prominent on inner, outpaced before 2 out, kept on run-in
 ⏳ Days since previous run (to today's run): 15 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 6
 📅 Race Date: 2024-07-23 17:23:00
 🏟️ Course: Ballinrobe
 🗒️ Course Comments: right-handed, fairly sharp track (1m4f oval)
-📏 Distance: 17.5 furlongs 🔽
+📏 Distance: 17.5 furlongs 🔼
 👜 Prize: 💰 6,000
 🏆 Race Description: NvH
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: pressed leader, not fluent 5th, joined leader 3 out, led before 2 out, pushed along when headed from last, ridden and no extra run-in
 ⏳ Days since previous run (to today's run): 29 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 7
 📅 Race Date: 2024-04-22 16:10:00
 🏟️ Course: Tramore
 🗒️ Course Comments: right-handed, undulating, sharp track
-📏 Distance: 16.5 furlongs 🔽
+📏 Distance: 16.5 furlongs 🔼
 👜 Prize: 💰 5,217
 🏆 Race Description: HcH
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: made virtually all, led from 1st, went clear after 2 out, mistake last, pushed out, comfortably
 ⏳ Days since previous run (to today's run): 92 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 8
 📅 Race Date: 2024-03-03 15:25:00
 🏟️ Course: Leopardstown
 🗒️ Course Comments: left-handed, flat, galloping track (1m6f oval)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 5,739
 🏆 Race Description: HcH
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: prominent behind clear leaders early, lost position before halfway, headway before 2 out, led approaching last, ridden out (trainer said, regarding the apparent improvement in form, that mare benefitted from a drop back in trip on better ground coupled with a very good ride)
 ⏳ Days since previous run (to today's run): 50 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: ballycallan-king (Opening odds: 19.0)
@@ -831,9 +943,9 @@
 🎨 Colour: br
 👤 Trainer: Barry J Fitzgerald
 📍 Trainer Location: Old Loughlin, Carlow
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 3
+📌 Trainer 14 Days Runs: 3
 📊 Trainer RTF: Unknown%
 🏇 Jockey: Sean Cleary-Farrell
 🌱 Breeder: J C Condon
@@ -843,7 +955,7 @@
 🔢 Number: 3
 🎯 Draw Position: Unknown
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 119.0
 📉 TS (Top Speed): Unknown
 🎲 Odds: 19.0 💰💰💰💰💰
@@ -854,128 +966,144 @@
 🌱 Going Runs: 2
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (0) | -% | Profit: 0.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: -
+📌 Stats Jockey Last 14 Profit: 0.00
+🏆 Jockey OVR: 0 (3) | 0%% | Profit: -3.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -3.00
+📊 Trainer Last 14: 0 (3) | 0%% | Profit: -3.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -3.00
+💰 Trainer OVR: 0 (9) | 0%% | Profit: -9.00
+📌 Stats Trainer Ovr Wins: 0
+📌 Stats Trainer Ovr Wins Pct: 0%
+📌 Stats Trainer Ovr Profit: -9.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-15 13:30:00
 🏟️ Course: Clonmel
 🗒️ Course Comments: right-handed, undulating, stiff uphill finish (1m2f)
-📏 Distance: 17.0 furlongs 🔽
+📏 Distance: 17.0 furlongs 🔼
 👜 Prize: 💰 5,702
 🏆 Race Description: H
 🥇 Outcome: 4
 💰 Odds: N/A (None)
 📝 Comment: always behind, didn't always jump with fluency
 ⏳ Days since previous run (to today's run): 23 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-26 14:40:00
 🏟️ Course: Limerick
 🗒️ Course Comments: right-handed, undulating track (1m3f oval)
-📏 Distance: 17.5 furlongs 🔽
+📏 Distance: 17.5 furlongs 🔼
 👜 Prize: 💰 7,826
 🏆 Race Description: NvCh
 🥇 Outcome: F
 💰 Odds: N/A (None)
 📝 Comment: in rear, hampered 3rd, no impression from 3 out, mistake and fell last
 ⏳ Days since previous run (to today's run): 19 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-12-03 15:35:00
 🏟️ Course: Clonmel
 🗒️ Course Comments: right-handed, undulating, stiff uphill finish (1m2f)
-📏 Distance: 17.5 furlongs 🔽
+📏 Distance: 17.5 furlongs 🔼
 👜 Prize: 💰 5,739
 🏆 Race Description: Ch
 🥇 Outcome: NR ❗
 💰 Odds: N/A (0.0)
 📝 Comment: reserve
 ⏳ Days since previous run (to today's run): 22 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-11-22 15:07:00
 🏟️ Course: Tipperary
 🗒️ Course Comments: left-handed, sharp, flat track (1m2f circuit)
-📏 Distance: 16.5 furlongs 🔽
+📏 Distance: 16.5 furlongs 🔼
 👜 Prize: 💰 5,739
 🏆 Race Description: Ch
 🥇 Outcome: NR ❗
 💰 Odds: N/A (0.0)
 📝 Comment: unsuitable ground
 ⏳ Days since previous run (to today's run): 11 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-10-28 15:55:00
 🏟️ Course: Wexford
 🗒️ Course Comments: Left-handed (was r-h before spring 2015), fairly sharp track (1m2f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 5,739
 🏆 Race Description: Ch
 🥇 Outcome: NR ❗
 💰 Odds: N/A (0.0)
 📝 Comment: unsuitable ground
 ⏳ Days since previous run (to today's run): 24 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 6
 📅 Race Date: 2024-05-02 14:40:00
 🏟️ Course: Punchestown
 🗒️ Course Comments: right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses
-📏 Distance: 16.5 furlongs 🔽
+📏 Distance: 16.5 furlongs 🔼
 👜 Prize: 💰 10,435
 🏆 Race Description: HcH
 🥇 Outcome: 13
 💰 Odds: N/A (None)
 📝 Comment: didn't always jump with fluency, in rear, badly hampered by faller 1st, some headway when bit short of room after 2 out, no impression
 ⏳ Days since previous run (to today's run): 179 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 7
 📅 Race Date: 2024-04-11 14:10:00
 🏟️ Course: Limerick
 🗒️ Course Comments: right-handed, undulating track (1m3f oval)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 6,000
 🏆 Race Description: NvHcH
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: prominent, led going best and went clear before 2 out, ridden out, comfortably
 ⏳ Days since previous run (to today's run): 21 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 8
 📅 Race Date: 2024-03-16 15:40:00
 🏟️ Course: Thurles
 🗒️ Course Comments: right-handed, undulating track (1m2f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 6,522
 🏆 Race Description: 🍼 MdH
 🥇 Outcome: NR ❗
 💰 Odds: N/A (0.0)
 📝 Comment: unsuitable ground
 ⏳ Days since previous run (to today's run): 25 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 9
 📅 Race Date: 2024-03-05 15:40:00
 🏟️ Course: Thurles
 🗒️ Course Comments: right-handed, undulating track (1m2f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 5,217
 🏆 Race Description: 🍼 MdH
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: didn't always jump with fluency, took keen hold, led, headed and prominent from 3rd, joined leader before straight, weakened quickly 2 out
 ⏳ Days since previous run (to today's run): 11 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 10
 📅 Race Date: 2024-02-24 13:30:00
 🏟️ Course: Fairyhouse
 🗒️ Course Comments: right-handed, galloping, testing track (1m6f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 10,435
 🏆 Race Description: 🍼 MdH
 🥇 Outcome: 4
 💰 Odds: N/A (None)
 📝 Comment: prominent, lost position briefly after 3 out, ran on approaching last, went fourth towards finish
 ⏳ Days since previous run (to today's run): 10 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: the-truant (Opening odds: 21.0)
@@ -985,9 +1113,9 @@
 🎨 Colour: gr
 👤 Trainer: Paul W Flynn
 📍 Trainer Location: Colehill, Co Longford
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 6
+📌 Trainer 14 Days Runs: 6
 📊 Trainer RTF: 50%
 🏇 Jockey: Benjamin P Kennedy(2)
 🌱 Breeder: Windflower Overseas
@@ -997,7 +1125,7 @@
 🔢 Number: 11
 🎯 Draw Position: Unknown
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 123.0
 📉 TS (Top Speed): 90.0
 🎲 Odds: 21.0 💰💰💰💰💰💰
@@ -1008,152 +1136,168 @@
 🌱 Going Runs: 7
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (1) | 0%% | Profit: -1.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: 0%
+📌 Stats Jockey Last 14 Profit: -1.00
+🏆 Jockey OVR: 0 (14) | 0%% | Profit: -14.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -14.00
+📊 Trainer Last 14: 0 (3) | 0%% | Profit: -3.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -3.00
+💰 Trainer OVR: 0 (10) | 0%% | Profit: -10.00
+📌 Stats Trainer Ovr Wins: 0
+📌 Stats Trainer Ovr Wins Pct: 0%
+📌 Stats Trainer Ovr Profit: -10.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2024-09-23 16:25:00
 🏟️ Course: Listowel
 🗒️ Course Comments: left-handed, flat track (1m2f oval)
-📏 Distance: 14.5 furlongs 🔼
+📏 Distance: 14.5 furlongs 🔽
 👜 Prize: 💰 5,478
 🏆 Race Description: Hc
 🥇 Outcome: 11
 💰 Odds: N/A (None)
 📝 Comment: slowly into stride, in rear, brief headway from 2f out, kept on inside final 110yds
 ⏳ Days since previous run (to today's run): 137 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-08-23 16:55:00
 🏟️ Course: Kilbeggan
 🗒️ Course Comments: right-handed, sharp, undulating track (1m1f circuit)
-📏 Distance: 18.5 furlongs 🔽
+📏 Distance: 18.5 furlongs 🔼
 👜 Prize: 💰 6,261
 🏆 Race Description: HcH
 🥇 Outcome: 7
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, headway after 3 out, challenging 2 out, lost position approaching last, weakened run-in
 ⏳ Days since previous run (to today's run): 30 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-08-08 18:35:00
 🏟️ Course: Sligo
 🗒️ Course Comments: right-handed, sharp, undulating track, testing finish (1m circuit)
-📏 Distance: 20.5 furlongs 🔽
+📏 Distance: 20.5 furlongs 🔼
 👜 Prize: 💰 7,826
 🏆 Race Description: HcH
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: held up in rear, headway before 2 out, went third approaching last, went second run-in, kept on
 ⏳ Days since previous run (to today's run): 14 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-08-04 12:50:00
 🏟️ Course: Galway
 🗒️ Course Comments: right-handed, undulating, testing track (1m2f rectangle)
-📏 Distance: 16.5 furlongs 🔽
+📏 Distance: 16.5 furlongs 🔼
 👜 Prize: 💰 8,870
 🏆 Race Description: HcH
 🥇 Outcome: 10
 💰 Odds: N/A (None)
 📝 Comment: prominent, weakened before 2 out
 ⏳ Days since previous run (to today's run): 4 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-07-29 16:25:00
 🏟️ Course: Galway
 🗒️ Course Comments: right-handed, undulating, testing track (1m2f rectangle)
-📏 Distance: 16.5 furlongs 🔽
+📏 Distance: 16.5 furlongs 🔼
 👜 Prize: 💰 8,870
 🏆 Race Description: HcH
 🥇 Outcome: NR ❗
 💰 Odds: N/A (0.0)
 📝 Comment: reserve
 ⏳ Days since previous run (to today's run): 5 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 6
 📅 Race Date: 2024-07-08 18:10:00
 🏟️ Course: Roscommon
 🗒️ Course Comments: right-handed, sharp (1m2f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 5,739
 🏆 Race Description: HcH
 🥇 Outcome: 3 🥉
 💰 Odds: N/A (None)
 📝 Comment: prominent, briefly disputed lead from 1st, bit short of room before 3 out, outpaced when ridden after 2 out, kept on towards finish, went third final stride, no match for first two
 ⏳ Days since previous run (to today's run): 20 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 7
 📅 Race Date: 2024-06-28 18:15:00
 🏟️ Course: Curragh
 🗒️ Course Comments: right-handed, galloping, testing, horseshoe (2m) + chute (races up to 1m)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 20,870
 🏆 Race Description: Hc
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: prominent, went second when ridden under 2f out, challenging inside final furlong, just held
 ⏳ Days since previous run (to today's run): 9 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 8
 📅 Race Date: 2024-06-11 17:45:00
 🏟️ Course: Sligo
 🗒️ Course Comments: right-handed, sharp, undulating track, testing finish (1m circuit)
-📏 Distance: 18.0 furlongs 🔽
+📏 Distance: 18.0 furlongs 🔼
 👜 Prize: 💰 5,478
 🏆 Race Description: HcH
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: pressed leader, joined leader going easily after 2 out, led home turn, went clear when ridden after last, reduced lead towards finish, always doing enough
 ⏳ Days since previous run (to today's run): 17 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 9
 📅 Race Date: 2024-06-02 14:30:00
 🏟️ Course: Kilbeggan
 🗒️ Course Comments: right-handed, sharp, undulating track (1m1f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 5,217
 🏆 Race Description: HcH
 🥇 Outcome: NR ❗
 💰 Odds: N/A (0.0)
 📝 Comment: coughing
 ⏳ Days since previous run (to today's run): 9 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 10
 📅 Race Date: 2024-05-18 15:15:00
 🏟️ Course: Navan
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 13.0 furlongs 🔼
+📏 Distance: 13.0 furlongs 🔽
 👜 Prize: 💰 5,217
 🏆 Race Description: Hc
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: held up in midfield, headway up the centre over 2f out, ran on well and went second inside final 110yds, no match for winner
 ⏳ Days since previous run (to today's run): 14 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 11
 📅 Race Date: 2024-05-09 15:50:00
 🏟️ Course: Gowran Park
 🗒️ Course Comments: right-handed, undulating track (1m4f circuit)
-📏 Distance: 14.0 furlongs 🔼
+📏 Distance: 14.0 furlongs 🔽
 👜 Prize: 💰 5,478
 🏆 Race Description: Hc
 🥇 Outcome: 10
 💰 Odds: N/A (None)
 📝 Comment: never better than midfield
 ⏳ Days since previous run (to today's run): 8 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 12
 📅 Race Date: 2024-04-24 18:25:00
 🏟️ Course: Gowran Park
 🗒️ Course Comments: right-handed, undulating track (1m4f circuit)
-📏 Distance: 13.5 furlongs 🔼
+📏 Distance: 13.5 furlongs 🔽
 👜 Prize: 💰 5,217
 🏆 Race Description: Hc
 🥇 Outcome: 6
 💰 Odds: N/A (None)
 📝 Comment: held up in rear, headway on near side of group from over 3f out, kept on but no impression inside final furlong
 ⏳ Days since previous run (to today's run): 14 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: your-honor (Opening odds: 21.0)
@@ -1163,9 +1307,9 @@
 🎨 Colour: b
 👤 Trainer: J A Nash
 📍 Trainer Location: The Curragh, Co. Kildare
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 2
+📌 Trainer 14 Days Runs: 2
 📊 Trainer RTF: Unknown%
 🏇 Jockey: Peter Smithers
 🌱 Breeder: Albert Conneally & Lawman Syndicate
@@ -1175,7 +1319,7 @@
 🔢 Number: 2
 🎯 Draw Position: Unknown
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 126.0
 📉 TS (Top Speed): 86.0
 🎲 Odds: 21.0 💰💰💰💰💰💰
@@ -1186,68 +1330,84 @@
 🌱 Going Runs: 7
 🏆 Going Wins: 1
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (7) | 0%% | Profit: -7.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: 0%
+📌 Stats Jockey Last 14 Profit: -7.00
+🏆 Jockey OVR: 1 (15) | 7%% | Profit: -6.50
+📌 Stats Jockey Ovr Wins: 1
+📌 Stats Jockey Ovr Wins Pct: 7%
+📌 Stats Jockey Ovr Profit: -6.50
+📊 Trainer Last 14: 0 (2) | 0%% | Profit: -2.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -2.00
+💰 Trainer OVR: 0 (16) | 0%% | Profit: -16.00
+📌 Stats Trainer Ovr Wins: 0
+📌 Stats Trainer Ovr Wins Pct: 0%
+📌 Stats Trainer Ovr Profit: -16.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-25 15:50:00
 🏟️ Course: Doncaster
 🗒️ Course Comments: left-handed, galloping, flat track
-📏 Distance: 19.5 furlongs 🔽
+📏 Distance: 19.5 furlongs 🔼
 👜 Prize: 💰 15,843
 🏆 Race Description: 2HcH
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: soon prominent behind clear leader, prominent 1st, lost position 3rd, towards rear last (usual 4 out), outpaced omitted 3 out, soon no impression
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-31 14:35:00
 🏟️ Course: Punchestown
 🗒️ Course Comments: right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses
-📏 Distance: 19.0 furlongs 🔽
+📏 Distance: 19.0 furlongs 🔼
 👜 Prize: 💰 8,609
 🏆 Race Description: HcH
 🥇 Outcome: 7
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, weakened before last
 ⏳ Days since previous run (to today's run): 25 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-10-23 15:50:00
 🏟️ Course: Navan
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 14.0 furlongs 🔼
+📏 Distance: 14.0 furlongs 🔽
 👜 Prize: 💰 5,217
 🏆 Race Description: Hc
 🥇 Outcome: 12
 💰 Odds: N/A (None)
 📝 Comment: prominent, in touch with leaders when pushed along over 4f out, weakened over 2f out
 ⏳ Days since previous run (to today's run): 68 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-04-12 16:15:00
 🏟️ Course: Aintree
 🗒️ Course Comments: left-handed, flat track; Mildmay sharp; National galloping, stiff fences
-📏 Distance: 16.5 furlongs 🔽
+📏 Distance: 16.5 furlongs 🔼
 👜 Prize: 💰 25,720
 🏆 Race Description: 2HcH
 🥇 Outcome: 16
 💰 Odds: N/A (None)
 📝 Comment: led, headed before 4th, lost position 5th, mistake and weakened 4 out, tailed off
 ⏳ Days since previous run (to today's run): 193 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-02-24 14:40:00
 🏟️ Course: Fairyhouse
 🗒️ Course Comments: right-handed, galloping, testing track (1m6f circuit)
-📏 Distance: 20.5 furlongs 🔽
+📏 Distance: 20.5 furlongs 🔼
 👜 Prize: 💰 10,957
 🏆 Race Description: HcH
 🥇 Outcome: PU
 💰 Odds: N/A (None)
 📝 Comment: towards rear throughout, mistake 5th, pulled up 2 out
 ⏳ Days since previous run (to today's run): 48 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: bynx (Opening odds: 23.0)
@@ -1257,9 +1417,9 @@
 🎨 Colour: b
 👤 Trainer: Martin Hassett
 📍 Trainer Location: Burnchurch, Co Tipperary
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 2
+📌 Trainer 14 Days Runs: 2
 📊 Trainer RTF: 50%
 🏇 Jockey: Ross Berry(2)
 🌱 Breeder: Caroline, Mark & Stephanie Hanly
@@ -1269,7 +1429,7 @@
 🔢 Number: 8
 🎯 Draw Position: Unknown
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 117.0
 📉 TS (Top Speed): 96.0
 🎲 Odds: 23.0 💰💰💰💰💰💰
@@ -1280,20 +1440,36 @@
 🌱 Going Runs: 4
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (5) | 0%% | Profit: -5.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: 0%
+📌 Stats Jockey Last 14 Profit: -5.00
+🏆 Jockey OVR: 0 (1) | 0%% | Profit: -1.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -1.00
+📊 Trainer Last 14: 0 (2) | 0%% | Profit: -2.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -2.00
+💰 Trainer OVR: 0 (1) | 0%% | Profit: -1.00
+📌 Stats Trainer Ovr Wins: 0
+📌 Stats Trainer Ovr Wins Pct: 0%
+📌 Stats Trainer Ovr Profit: -1.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-17 14:15:00
 🏟️ Course: Cork
 🗒️ Course Comments: right-handed flat and level (1m4f oval)
-📏 Distance: 20.0 furlongs 🔽
+📏 Distance: 20.0 furlongs 🔼
 👜 Prize: 💰 8,926
 🏆 Race Description: HcHM
 🥇 Outcome: 6
 💰 Odds: N/A (None)
 📝 Comment: disputed lead and pressed leader early, led narrowly 5th, not fluent 6th, soon joined, headed before 3 out, weakened before 2 out
 ⏳ Days since previous run (to today's run): 21 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2025-01-01 14:50:00
 🏟️ Course: Tramore
@@ -1305,67 +1481,67 @@
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, pulled up quickly before 5th (jockey said mare lost her action coming down the hill but seemed fine after pulling up; vet reported mare to be post race normal)
 ⏳ Days since previous run (to today's run): 15 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-10-10 16:25:00
 🏟️ Course: Thurles
 🗒️ Course Comments: right-handed, undulating track (1m2f circuit)
-📏 Distance: 16.5 furlongs 🔽
+📏 Distance: 16.5 furlongs 🔼
 👜 Prize: 💰 5,478
 🏆 Race Description: Hc
 🥇 Outcome: 9
 💰 Odds: N/A (None)
 📝 Comment: midfield, lost position 2f out, soon switched left, kept on inside final furlong, never on terms
 ⏳ Days since previous run (to today's run): 82 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-09-26 15:37:00
 🏟️ Course: Listowel
 🗒️ Course Comments: left-handed, flat track (1m2f oval)
-📏 Distance: 20.0 furlongs 🔽
+📏 Distance: 20.0 furlongs 🔼
 👜 Prize: 💰 8,609
 🏆 Race Description: HcH
 🥇 Outcome: 14
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders on inner, weakened 3 out, eased when no chance 2 out
 ⏳ Days since previous run (to today's run): 14 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-08-29 16:35:00
 🏟️ Course: Navan
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 14.0 furlongs 🔼
+📏 Distance: 14.0 furlongs 🔽
 👜 Prize: 💰 5,217
 🏆 Race Description: Hc
 🥇 Outcome: 12
 💰 Odds: N/A (None)
 📝 Comment: held up in rear, headway into midfield when switched left under 2f out, not clear run 1f out, soon switched right and ran on, eased when short of room towards finish
 ⏳ Days since previous run (to today's run): 27 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 6
 📅 Race Date: 2024-08-17 17:30:00
 🏟️ Course: Tramore
 🗒️ Course Comments: right-handed, undulating, sharp track
-📏 Distance: 12.0 furlongs 🔼
+📏 Distance: 12.0 furlongs 🔽
 👜 Prize: 💰 5,478
 🏆 Race Description: Hc
 🥇 Outcome: 7
 💰 Odds: N/A (None)
 📝 Comment: never better than midfield, kept on final furlong, never on terms
 ⏳ Days since previous run (to today's run): 11 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 7
 📅 Race Date: 2024-07-17 19:20:00
 🏟️ Course: Killarney
 🗒️ Course Comments: left-handed, sharp track (1m2f oval)
-📏 Distance: 14.5 furlongs 🔼
+📏 Distance: 14.5 furlongs 🔽
 👜 Prize: 💰 5,739
 🏆 Race Description: Hc
 🥇 Outcome: NR ❗
 💰 Odds: N/A (0.0)
 📝 Comment: coughing
 ⏳ Days since previous run (to today's run): 30 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: master-otis (Opening odds: 34.0)
@@ -1375,9 +1551,9 @@
 🎨 Colour: gr
 👤 Trainer: Thomas Mullins
 📍 Trainer Location: Goresbridge, Co Kilkenny
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 6
+📌 Trainer 14 Days Runs: 6
 📊 Trainer RTF: 50%
 🏇 Jockey: Niall Moore
 🌱 Breeder: Mr M Enright
@@ -1387,7 +1563,7 @@
 🔢 Number: 7
 🎯 Draw Position: Unknown
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 125.0
 📉 TS (Top Speed): 50.0
 🎲 Odds: 34.0 💰💰💰💰💰💰
@@ -1398,92 +1574,108 @@
 🌱 Going Runs: 5
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 1 (8) | 13%% | Profit: +21.00
+📌 Stats Jockey Last 14 Wins: 1
+📌 Stats Jockey Last 14 Wins Pct: 13%
+📌 Stats Jockey Last 14 Profit: +21.00
+🏆 Jockey OVR: 0 (10) | 0%% | Profit: -10.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -10.00
+📊 Trainer Last 14: 0 (5) | 0%% | Profit: -5.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -5.00
+💰 Trainer OVR: 2 (37) | 5%% | Profit: -22.00
+📌 Stats Trainer Ovr Wins: 2
+📌 Stats Trainer Ovr Wins Pct: 5%
+📌 Stats Trainer Ovr Profit: -22.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2024-11-03 13:10:00
 🏟️ Course: Cork
 🗒️ Course Comments: right-handed flat and level (1m4f oval)
-📏 Distance: 16.5 furlongs 🔽
+📏 Distance: 16.5 furlongs 🔼
 👜 Prize: 💰 6,261
 🏆 Race Description: HcH
 🥇 Outcome: PU
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, midfield 4th, dropped to rear after 4 out, tailed off when pulled up before 3 out
 ⏳ Days since previous run (to today's run): 96 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-10-06 13:50:00
 🏟️ Course: Killarney
 🗒️ Course Comments: left-handed, sharp track (1m2f oval)
-📏 Distance: 17.0 furlongs 🔽
+📏 Distance: 17.0 furlongs 🔼
 👜 Prize: 💰 8,087
 🏆 Race Description: NvH
 🥇 Outcome: PU
 💰 Odds: N/A (None)
 📝 Comment: in rear, ridden and weakened from 4 out, pulled up before 2 out
 ⏳ Days since previous run (to today's run): 27 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-08-02 16:00:00
 🏟️ Course: Galway
 🗒️ Course Comments: right-handed, undulating, testing track (1m2f rectangle)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 41,739
 🏆 Race Description: HcH
 🥇 Outcome: 14
 💰 Odds: N/A (None)
 📝 Comment: midfield, dropped to rear after 3 out, detached before 2 out
 ⏳ Days since previous run (to today's run): 64 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-07-06 16:58:00
 🏟️ Course: Bellewstown
 🗒️ Course Comments: left-handed, sharp, undulating track (1m1f oval)
-📏 Distance: 17.0 furlongs 🔽
+📏 Distance: 17.0 furlongs 🔼
 👜 Prize: 💰 26,087
 🏆 Race Description: HcH
 🥇 Outcome: NR ❗
 💰 Odds: N/A (0.0)
 📝 Comment: reserve
 ⏳ Days since previous run (to today's run): 26 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-05-11 13:50:00
 🏟️ Course: Cork
 🗒️ Course Comments: right-handed flat and level (1m4f oval)
-📏 Distance: 17.5 furlongs 🔽
+📏 Distance: 17.5 furlongs 🔼
 👜 Prize: 💰 6,261
 🏆 Race Description: NvH
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders on outer, headway and led narrowly against near rail 2 out, ridden clear final 110yds, readily
 ⏳ Days since previous run (to today's run): 56 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 6
 📅 Race Date: 2024-04-01 13:05:00
 🏟️ Course: Fairyhouse
 🗒️ Course Comments: right-handed, galloping, testing track (1m6f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 10,435
 🏆 Race Description: NvHcH
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: midfield, in touch with leaders when not fluent and slightly hampered 3 out, headway and joined leader when bad mistake 2 out, soon no impression
 ⏳ Days since previous run (to today's run): 40 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 7
 📅 Race Date: 2024-03-03 14:15:00
 🏟️ Course: Leopardstown
 🗒️ Course Comments: left-handed, flat, galloping track (1m6f oval)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 6,783
 🏆 Race Description: 🍼 MdH
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: midfield, headway before 2 out, challenging approaching last, jumped slightly right last, kept on well, just held
 ⏳ Days since previous run (to today's run): 28 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🔹 MOST RECENT 3 RACES (Last 12 Months, Grouped by Horse)
@@ -1494,9 +1686,9 @@
 🎨 Colour: br
 👤 Trainer: Gerard Keane
 📍 Trainer Location: Trim, Co Meath
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 2
+📌 Trainer 14 Days Runs: 2
 📊 Trainer RTF: 50%
 🏇 Jockey: Tom Harney
 🌱 Breeder: Kenneth Parkhill
@@ -1506,7 +1698,7 @@
 🔢 Number: 4
 🎯 Draw Position: Unknown
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 127.0
 📉 TS (Top Speed): 114.0
 🎲 Odds: 3.25 💰💰
@@ -1517,44 +1709,60 @@
 🌱 Going Runs: 2
 🏆 Going Wins: 1
 🏥 Medical History: None
+🏇 Jockey Stats: 1 (6) | 17%% | Profit: -1.00
+📌 Stats Jockey Last 14 Wins: 1
+📌 Stats Jockey Last 14 Wins Pct: 17%
+📌 Stats Jockey Last 14 Profit: -1.00
+🏆 Jockey OVR: 0 (14) | 0%% | Profit: -14.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -14.00
+📊 Trainer Last 14: 0 (1) | 0%% | Profit: -1.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -1.00
+💰 Trainer OVR: 0 (4) | 0%% | Profit: -4.00
+📌 Stats Trainer Ovr Wins: 0
+📌 Stats Trainer Ovr Wins Pct: 0%
+📌 Stats Trainer Ovr Profit: -4.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-13 13:18:00
 🏟️ Course: Punchestown
 🗒️ Course Comments: right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses
-📏 Distance: 16.5 furlongs 🔽
+📏 Distance: 16.5 furlongs 🔼
 👜 Prize: 💰 5,950
 🏆 Race Description: HcH
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: travelled strongly, held up in rear, headway 5th, went second going easily before 2 out, led going easily and went clear after 2 out, canter
 ⏳ Days since previous run (to today's run): 25 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-14 13:02:00
 🏟️ Course: Fairyhouse
 🗒️ Course Comments: right-handed, galloping, testing track (1m6f circuit)
-📏 Distance: 16.5 furlongs 🔽
+📏 Distance: 16.5 furlongs 🔼
 👜 Prize: 💰 6,261
 🏆 Race Description: NvHcH
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: held up in rear, jumped left 1st, midfield after 4 out, headway and prominent on near side of group after 3 out, challenging when not fluent 2 out, soon ridden, kept on well towards finish
 ⏳ Days since previous run (to today's run): 30 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-11-03 16:10:00
 🏟️ Course: Curragh
 🗒️ Course Comments: right-handed, galloping, testing, horseshoe (2m) + chute (races up to 1m)
-📏 Distance: 12.0 furlongs 🔼
+📏 Distance: 12.0 furlongs 🔽
 👜 Prize: 💰 10,435
 🏆 Race Description: 🍼 Md
 🥇 Outcome: 10
 💰 Odds: N/A (None)
 📝 Comment: midfield, headway and in touch with leaders against far rail over 2f out, weakened from over 1f out
 ⏳ Days since previous run (to today's run): 40 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: well-dressed (Opening odds: 4.33)
@@ -1564,9 +1772,9 @@
 🎨 Colour: b
 👤 Trainer: Eddie & Patrick Harty
 📍 Trainer Location: Curragh, Co Kildare
-📊 Trainer 14-Day Win %: 17%
+📌 Trainer 14 Days Percent: 17.0
 📌 Trainer 14 Days Wins: 1
-🏇 Trainer Runs (Last 14 Days): 6
+📌 Trainer 14 Days Runs: 6
 📊 Trainer RTF: 50%
 🏇 Jockey: Cian Cullinan
 🌱 Breeder: Mrs Noreen McManus
@@ -1576,7 +1784,7 @@
 🔢 Number: 1
 🎯 Draw Position: Unknown
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 121.0
 📉 TS (Top Speed): 80.0
 🎲 Odds: 4.33 💰💰💰
@@ -1587,44 +1795,60 @@
 🌱 Going Runs: 3
 🏆 Going Wins: 1
 🏥 Medical History: None
+🏇 Jockey Stats: 1 (3) | 33%% | Profit: +4.00
+📌 Stats Jockey Last 14 Wins: 1
+📌 Stats Jockey Last 14 Wins Pct: 33%
+📌 Stats Jockey Last 14 Profit: +4.00
+🏆 Jockey OVR: 2 (9) | 22%% | Profit: +24.00
+📌 Stats Jockey Ovr Wins: 2
+📌 Stats Jockey Ovr Wins Pct: 22%
+📌 Stats Jockey Ovr Profit: +24.00
+📊 Trainer Last 14: 1 (5) | 20%% | Profit: +2.00
+📌 Stats Trainer Last 14 Wins: 1
+📌 Stats Trainer Last 14 Wins Pct: 20%
+📌 Stats Trainer Last 14 Profit: +2.00
+💰 Trainer OVR: 2 (12) | 17%% | Profit: +5.00
+📌 Stats Trainer Ovr Wins: 2
+📌 Stats Trainer Ovr Wins Pct: 17%
+📌 Stats Trainer Ovr Profit: +5.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-25 15:23:00
 🏟️ Course: Fairyhouse
 🗒️ Course Comments: right-handed, galloping, testing track (1m6f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 6,198
 🏆 Race Description: HcH
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, prominent 2nd, led after 3 out, clear going okay when nudged along after 2 out, ran on, comfortably
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-15 12:35:00
 🏟️ Course: Navan
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 20.0 furlongs 🔽
+📏 Distance: 20.0 furlongs 🔼
 👜 Prize: 💰 10,435
 🏆 Race Description: HcH
 🥇 Outcome: 10
 💰 Odds: N/A (None)
 📝 Comment: towards rear early, in touch with leaders 4 out, weakened after 2 out
 ⏳ Days since previous run (to today's run): 41 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-11-24 15:00:00
 🏟️ Course: Punchestown
 🗒️ Course Comments: right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses
-📏 Distance: 17.0 furlongs 🔽
+📏 Distance: 17.0 furlongs 🔼
 👜 Prize: 💰 8,348
 🏆 Race Description: NvHcH
 🥇 Outcome: 7
 💰 Odds: N/A (None)
 📝 Comment: held up in rear, brief headway before 3 out, not fluent and weakened 2 out, no impression
 ⏳ Days since previous run (to today's run): 20 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: doctor-churchill (Opening odds: 6.0)
@@ -1634,9 +1858,9 @@
 🎨 Colour: b
 👤 Trainer: Patrick Joseph Hayes
 📍 Trainer Location: Friarstown, Co. Kildare
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 2
+📌 Trainer 14 Days Runs: 2
 📊 Trainer RTF: Unknown%
 🏇 Jockey: Conor Smithers
 🌱 Breeder: Pierce Molony
@@ -1646,7 +1870,7 @@
 🔢 Number: 5
 🎯 Draw Position: Unknown
 🎭 Headgear: p
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 119.0
 📉 TS (Top Speed): 21.0
 🎲 Odds: 6.0 💰💰💰💰
@@ -1657,20 +1881,36 @@
 🌱 Going Runs: 0
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (1) | 0%% | Profit: -1.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: 0%
+📌 Stats Jockey Last 14 Profit: -1.00
+🏆 Jockey OVR: 0 (15) | 0%% | Profit: -15.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -15.00
+📊 Trainer Last 14: 0 (0) | -% | Profit: 0.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: -
+📌 Stats Trainer Last 14 Profit: 0.00
+💰 Trainer OVR: 1 (1) | 100%% | Profit: +28.00
+📌 Stats Trainer Ovr Wins: 1
+📌 Stats Trainer Ovr Wins Pct: 100%
+📌 Stats Trainer Ovr Profit: +28.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-05 15:05:00
 🏟️ Course: Naas
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 19.0 furlongs 🔽
+📏 Distance: 19.0 furlongs 🔼
 👜 Prize: 💰 6,694
 🏆 Race Description: HcH
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: reduced visibility, soon prominent, led narrowly 3 out, went clear home turn, stayed on
 ⏳ Days since previous run (to today's run): 33 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: fairyland-opera (Opening odds: 10.0)
@@ -1680,9 +1920,9 @@
 🎨 Colour: b
 👤 Trainer: Mrs Lorna Fowler
 📍 Trainer Location: Summerhill, Co Meath
-📊 Trainer 14-Day Win %: N/A
+📌 Trainer 14 Days Percent: Unknown
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 0
+📌 Trainer 14 Days Runs: 0
 📊 Trainer RTF: Unknown%
 🏇 Jockey: Conor Clarke
 🌱 Breeder: Mrs T K Cooper & Miss Diana Cooper
@@ -1692,7 +1932,7 @@
 🔢 Number: 9
 🎯 Draw Position: Unknown
 🎭 Headgear: t
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 119.0
 📉 TS (Top Speed): 57.0
 🎲 Odds: 10.0 💰💰💰💰💰
@@ -1703,44 +1943,60 @@
 🌱 Going Runs: 1
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (2) | 0%% | Profit: -2.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: 0%
+📌 Stats Jockey Last 14 Profit: -2.00
+🏆 Jockey OVR: 0 (1) | 0%% | Profit: -1.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -1.00
+📊 Trainer Last 14: 0 (0) | -% | Profit: 0.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: -
+📌 Stats Trainer Last 14 Profit: 0.00
+💰 Trainer OVR: 0 (7) | 0%% | Profit: -7.00
+📌 Stats Trainer Ovr Wins: 0
+📌 Stats Trainer Ovr Wins Pct: 0%
+📌 Stats Trainer Ovr Profit: -7.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-05 14:30:00
 🏟️ Course: Naas
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 7,438
 🏆 Race Description: 🍼 MdH
 🥇 Outcome: 8
 💰 Odds: N/A (None)
 📝 Comment: prominent, weakening when not fluent 2 out
 ⏳ Days since previous run (to today's run): 33 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-11-10 12:20:00
 🏟️ Course: Naas
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 6,522
 🏆 Race Description: 🍼 MdH
 🥇 Outcome: 3 🥉
 💰 Odds: N/A (None)
 📝 Comment: prominent, not fluent 2 out, ridden and challenging last, weakened and lost second towards finish
 ⏳ Days since previous run (to today's run): 56 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-05-09 16:10:00
 🏟️ Course: Tipperary
 🗒️ Course Comments: left-handed, sharp, flat track (1m2f circuit)
-📏 Distance: 16.5 furlongs 🔽
+📏 Distance: 16.5 furlongs 🔼
 👜 Prize: 💰 5,478
 🏆 Race Description: 🍼 MdHM
 🥇 Outcome: 12
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, prominent, disputed lead 4 out, weakened after 3 out
 ⏳ Days since previous run (to today's run): 184 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: duke-of-leggagh (Opening odds: 11.0)
@@ -1750,9 +2006,9 @@
 🎨 Colour: gr
 👤 Trainer: Michael Mulvany
 📍 Trainer Location: Kells, Co. Meath
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 3
+📌 Trainer 14 Days Runs: 3
 📊 Trainer RTF: 67%
 🏇 Jockey: Patrick M Obrien
 🌱 Breeder: Larry Mulvany
@@ -1762,7 +2018,7 @@
 🔢 Number: 10
 🎯 Draw Position: Unknown
 🎭 Headgear: t
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 125.0
 📉 TS (Top Speed): 81.0
 🎲 Odds: 11.0 💰💰💰💰💰
@@ -1773,44 +2029,60 @@
 🌱 Going Runs: 1
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (4) | 0%% | Profit: -4.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: 0%
+📌 Stats Jockey Last 14 Profit: -4.00
+🏆 Jockey OVR: 0 (13) | 0%% | Profit: -13.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -13.00
+📊 Trainer Last 14: 0 (2) | 0%% | Profit: -2.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -2.00
+💰 Trainer OVR: 0 (11) | 0%% | Profit: -11.00
+📌 Stats Trainer Ovr Wins: 0
+📌 Stats Trainer Ovr Wins Pct: 0%
+📌 Stats Trainer Ovr Profit: -11.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-25 15:23:00
 🏟️ Course: Fairyhouse
 🗒️ Course Comments: right-handed, galloping, testing track (1m6f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 6,198
 🏆 Race Description: HcH
 🥇 Outcome: 3 🥉
 💰 Odds: N/A (None)
 📝 Comment: prominent, led from 4th, joined after 4 out, headed before 3 out, outpaced after 3 out, mistake when jumped slightly right 2 out, keeping on when jumped slightly right last, soon went third again, no match for first two
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-16 13:30:00
 🏟️ Course: Naas
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 19.5 furlongs 🔽
+📏 Distance: 19.5 furlongs 🔼
 👜 Prize: 💰 6,522
 🏆 Race Description: 🍼 4yMdH
 🥇 Outcome: 14
 💰 Odds: N/A (None)
 📝 Comment: towards rear throughout, tailed off
 ⏳ Days since previous run (to today's run): 40 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-12-07 11:30:00
 🏟️ Course: Navan
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 6,522
 🏆 Race Description: 🍼 4yMdH
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: prominent, carried right 1st, left in second 5th, lost position after 2 out, kept on but no impression run-in
 ⏳ Days since previous run (to today's run): 9 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: mercury-mission (Opening odds: 15.0)
@@ -1820,9 +2092,9 @@
 🎨 Colour: b
 👤 Trainer: P J Rothwell
 📍 Trainer Location: Tinahely, Co Wicklow
-📊 Trainer 14-Day Win %: 4%
+📌 Trainer 14 Days Percent: 4.0
 📌 Trainer 14 Days Wins: 1
-🏇 Trainer Runs (Last 14 Days): 23
+📌 Trainer 14 Days Runs: 23
 📊 Trainer RTF: 35%
 🏇 Jockey: Paddy Hanlon
 🌱 Breeder: Flaxman Stables Ireland Limited & R Cantoni
@@ -1832,7 +2104,7 @@
 🔢 Number: 12
 🎯 Draw Position: Unknown
 🎭 Headgear: p
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 126.0
 📉 TS (Top Speed): 75.0
 🎲 Odds: 15.0 💰💰💰💰💰
@@ -1843,44 +2115,60 @@
 🌱 Going Runs: 5
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (6) | 0%% | Profit: -6.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: 0%
+📌 Stats Jockey Last 14 Profit: -6.00
+🏆 Jockey OVR: 0 (4) | 0%% | Profit: -4.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -4.00
+📊 Trainer Last 14: 1 (23) | 4%% | Profit: -18.50
+📌 Stats Trainer Last 14 Wins: 1
+📌 Stats Trainer Last 14 Wins Pct: 4%
+📌 Stats Trainer Last 14 Profit: -18.50
+💰 Trainer OVR: 3 (90) | 3%% | Profit: -27.50
+📌 Stats Trainer Ovr Wins: 3
+📌 Stats Trainer Ovr Wins Pct: 3%
+📌 Stats Trainer Ovr Profit: -27.50
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-12 15:25:00
 🏟️ Course: Punchestown
 🗒️ Course Comments: right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses
-📏 Distance: 20.5 furlongs 🔽
+📏 Distance: 20.5 furlongs 🔼
 👜 Prize: 💰 7,438
 🏆 Race Description: HcH
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, held up in last, mistake 1st, headway after 2 out, stayed on run-in, not reach leaders
 ⏳ Days since previous run (to today's run): 26 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-08 14:50:00
 🏟️ Course: Cork
 🗒️ Course Comments: right-handed flat and level (1m4f oval)
-📏 Distance: 20.0 furlongs 🔽
+📏 Distance: 20.0 furlongs 🔼
 👜 Prize: 💰 6,000
 🏆 Race Description: HcH
 🥇 Outcome: 3 🥉
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, held up in rear, steady headway after 4 out, ran on when ridden and went third after last, nearest finish
 ⏳ Days since previous run (to today's run): 35 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-11-09 14:47:00
 🏟️ Course: Gowran Park
 🗒️ Course Comments: right-handed, undulating track (1m4f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 7,826
 🏆 Race Description: NvHcH
 🥇 Outcome: F
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, in rear, some headway and 4 lengths down when fell heavily 2 out
 ⏳ Days since previous run (to today's run): 29 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: miss-gherkin (Opening odds: 17.0)
@@ -1890,9 +2178,9 @@
 🎨 Colour: b
 👤 Trainer: Peter Croke
 📍 Trainer Location: Glenealy, Co. Wicklow
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 1
+📌 Trainer 14 Days Runs: 1
 📊 Trainer RTF: Unknown%
 🏇 Jockey: Harry Sexton
 🌱 Breeder: John O'Dwyer
@@ -1902,7 +2190,7 @@
 🔢 Number: 6
 🎯 Draw Position: Unknown
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 123.0
 📉 TS (Top Speed): 101.0
 🎲 Odds: 17.0 💰💰💰💰💰
@@ -1913,44 +2201,60 @@
 🌱 Going Runs: 4
 🏆 Going Wins: 1
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (4) | 0%% | Profit: -4.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: 0%
+📌 Stats Jockey Last 14 Profit: -4.00
+🏆 Jockey OVR: 0 (8) | 0%% | Profit: -8.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -8.00
+📊 Trainer Last 14: 0 (1) | 0%% | Profit: -1.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -1.00
+💰 Trainer OVR: 0 (6) | 0%% | Profit: -6.00
+📌 Stats Trainer Ovr Wins: 0
+📌 Stats Trainer Ovr Wins Pct: 0%
+📌 Stats Trainer Ovr Profit: -6.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2024-12-21 14:30:00
 🏟️ Course: Thurles
 🗒️ Course Comments: right-handed, undulating track (1m2f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 8,348
 🏆 Race Description: HcH
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: prominent, led after 2nd, not fluent 3rd, headed when not fluent 4th, soon disputed lead, pressed leader after 3 out, lost position before 2 out, in touch with leaders when switched left after 2 out, lost fourth post
 ⏳ Days since previous run (to today's run): 48 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-11-10 14:35:00
 🏟️ Course: Naas
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 15,130
 🏆 Race Description: ChG3
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: didn't always jump with fluency, in rear throughout
 ⏳ Days since previous run (to today's run): 40 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-10-02 12:15:00
 🏟️ Course: Sligo
 🗒️ Course Comments: right-handed, sharp, undulating track, testing finish (1m circuit)
-📏 Distance: 17.5 furlongs 🔽
+📏 Distance: 17.5 furlongs 🔼
 👜 Prize: 💰 7,826
 🏆 Race Description: ChM
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: raced in second, not fluent 3rd, led 2 out, headed and no extra run-in
 ⏳ Days since previous run (to today's run): 39 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: ballycallan-king (Opening odds: 19.0)
@@ -1960,9 +2264,9 @@
 🎨 Colour: br
 👤 Trainer: Barry J Fitzgerald
 📍 Trainer Location: Old Loughlin, Carlow
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 3
+📌 Trainer 14 Days Runs: 3
 📊 Trainer RTF: Unknown%
 🏇 Jockey: Sean Cleary-Farrell
 🌱 Breeder: J C Condon
@@ -1972,7 +2276,7 @@
 🔢 Number: 3
 🎯 Draw Position: Unknown
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 119.0
 📉 TS (Top Speed): Unknown
 🎲 Odds: 19.0 💰💰💰💰💰
@@ -1983,44 +2287,60 @@
 🌱 Going Runs: 2
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (0) | -% | Profit: 0.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: -
+📌 Stats Jockey Last 14 Profit: 0.00
+🏆 Jockey OVR: 0 (3) | 0%% | Profit: -3.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -3.00
+📊 Trainer Last 14: 0 (3) | 0%% | Profit: -3.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -3.00
+💰 Trainer OVR: 0 (9) | 0%% | Profit: -9.00
+📌 Stats Trainer Ovr Wins: 0
+📌 Stats Trainer Ovr Wins Pct: 0%
+📌 Stats Trainer Ovr Profit: -9.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-15 13:30:00
 🏟️ Course: Clonmel
 🗒️ Course Comments: right-handed, undulating, stiff uphill finish (1m2f)
-📏 Distance: 17.0 furlongs 🔽
+📏 Distance: 17.0 furlongs 🔼
 👜 Prize: 💰 5,702
 🏆 Race Description: H
 🥇 Outcome: 4
 💰 Odds: N/A (None)
 📝 Comment: always behind, didn't always jump with fluency
 ⏳ Days since previous run (to today's run): 23 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-26 14:40:00
 🏟️ Course: Limerick
 🗒️ Course Comments: right-handed, undulating track (1m3f oval)
-📏 Distance: 17.5 furlongs 🔽
+📏 Distance: 17.5 furlongs 🔼
 👜 Prize: 💰 7,826
 🏆 Race Description: NvCh
 🥇 Outcome: F
 💰 Odds: N/A (None)
 📝 Comment: in rear, hampered 3rd, no impression from 3 out, mistake and fell last
 ⏳ Days since previous run (to today's run): 19 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-12-03 15:35:00
 🏟️ Course: Clonmel
 🗒️ Course Comments: right-handed, undulating, stiff uphill finish (1m2f)
-📏 Distance: 17.5 furlongs 🔽
+📏 Distance: 17.5 furlongs 🔼
 👜 Prize: 💰 5,739
 🏆 Race Description: Ch
 🥇 Outcome: NR ❗
 💰 Odds: N/A (0.0)
 📝 Comment: reserve
 ⏳ Days since previous run (to today's run): 22 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: the-truant (Opening odds: 21.0)
@@ -2030,9 +2350,9 @@
 🎨 Colour: gr
 👤 Trainer: Paul W Flynn
 📍 Trainer Location: Colehill, Co Longford
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 6
+📌 Trainer 14 Days Runs: 6
 📊 Trainer RTF: 50%
 🏇 Jockey: Benjamin P Kennedy(2)
 🌱 Breeder: Windflower Overseas
@@ -2042,7 +2362,7 @@
 🔢 Number: 11
 🎯 Draw Position: Unknown
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 123.0
 📉 TS (Top Speed): 90.0
 🎲 Odds: 21.0 💰💰💰💰💰💰
@@ -2053,44 +2373,60 @@
 🌱 Going Runs: 7
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (1) | 0%% | Profit: -1.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: 0%
+📌 Stats Jockey Last 14 Profit: -1.00
+🏆 Jockey OVR: 0 (14) | 0%% | Profit: -14.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -14.00
+📊 Trainer Last 14: 0 (3) | 0%% | Profit: -3.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -3.00
+💰 Trainer OVR: 0 (10) | 0%% | Profit: -10.00
+📌 Stats Trainer Ovr Wins: 0
+📌 Stats Trainer Ovr Wins Pct: 0%
+📌 Stats Trainer Ovr Profit: -10.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2024-09-23 16:25:00
 🏟️ Course: Listowel
 🗒️ Course Comments: left-handed, flat track (1m2f oval)
-📏 Distance: 14.5 furlongs 🔼
+📏 Distance: 14.5 furlongs 🔽
 👜 Prize: 💰 5,478
 🏆 Race Description: Hc
 🥇 Outcome: 11
 💰 Odds: N/A (None)
 📝 Comment: slowly into stride, in rear, brief headway from 2f out, kept on inside final 110yds
 ⏳ Days since previous run (to today's run): 137 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-08-23 16:55:00
 🏟️ Course: Kilbeggan
 🗒️ Course Comments: right-handed, sharp, undulating track (1m1f circuit)
-📏 Distance: 18.5 furlongs 🔽
+📏 Distance: 18.5 furlongs 🔼
 👜 Prize: 💰 6,261
 🏆 Race Description: HcH
 🥇 Outcome: 7
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, headway after 3 out, challenging 2 out, lost position approaching last, weakened run-in
 ⏳ Days since previous run (to today's run): 30 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-08-08 18:35:00
 🏟️ Course: Sligo
 🗒️ Course Comments: right-handed, sharp, undulating track, testing finish (1m circuit)
-📏 Distance: 20.5 furlongs 🔽
+📏 Distance: 20.5 furlongs 🔼
 👜 Prize: 💰 7,826
 🏆 Race Description: HcH
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: held up in rear, headway before 2 out, went third approaching last, went second run-in, kept on
 ⏳ Days since previous run (to today's run): 14 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: your-honor (Opening odds: 21.0)
@@ -2100,9 +2436,9 @@
 🎨 Colour: b
 👤 Trainer: J A Nash
 📍 Trainer Location: The Curragh, Co. Kildare
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 2
+📌 Trainer 14 Days Runs: 2
 📊 Trainer RTF: Unknown%
 🏇 Jockey: Peter Smithers
 🌱 Breeder: Albert Conneally & Lawman Syndicate
@@ -2112,7 +2448,7 @@
 🔢 Number: 2
 🎯 Draw Position: Unknown
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 126.0
 📉 TS (Top Speed): 86.0
 🎲 Odds: 21.0 💰💰💰💰💰💰
@@ -2123,44 +2459,60 @@
 🌱 Going Runs: 7
 🏆 Going Wins: 1
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (7) | 0%% | Profit: -7.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: 0%
+📌 Stats Jockey Last 14 Profit: -7.00
+🏆 Jockey OVR: 1 (15) | 7%% | Profit: -6.50
+📌 Stats Jockey Ovr Wins: 1
+📌 Stats Jockey Ovr Wins Pct: 7%
+📌 Stats Jockey Ovr Profit: -6.50
+📊 Trainer Last 14: 0 (2) | 0%% | Profit: -2.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -2.00
+💰 Trainer OVR: 0 (16) | 0%% | Profit: -16.00
+📌 Stats Trainer Ovr Wins: 0
+📌 Stats Trainer Ovr Wins Pct: 0%
+📌 Stats Trainer Ovr Profit: -16.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-25 15:50:00
 🏟️ Course: Doncaster
 🗒️ Course Comments: left-handed, galloping, flat track
-📏 Distance: 19.5 furlongs 🔽
+📏 Distance: 19.5 furlongs 🔼
 👜 Prize: 💰 15,843
 🏆 Race Description: 2HcH
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: soon prominent behind clear leader, prominent 1st, lost position 3rd, towards rear last (usual 4 out), outpaced omitted 3 out, soon no impression
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-31 14:35:00
 🏟️ Course: Punchestown
 🗒️ Course Comments: right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses
-📏 Distance: 19.0 furlongs 🔽
+📏 Distance: 19.0 furlongs 🔼
 👜 Prize: 💰 8,609
 🏆 Race Description: HcH
 🥇 Outcome: 7
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, weakened before last
 ⏳ Days since previous run (to today's run): 25 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-10-23 15:50:00
 🏟️ Course: Navan
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 14.0 furlongs 🔼
+📏 Distance: 14.0 furlongs 🔽
 👜 Prize: 💰 5,217
 🏆 Race Description: Hc
 🥇 Outcome: 12
 💰 Odds: N/A (None)
 📝 Comment: prominent, in touch with leaders when pushed along over 4f out, weakened over 2f out
 ⏳ Days since previous run (to today's run): 68 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: bynx (Opening odds: 23.0)
@@ -2170,9 +2522,9 @@
 🎨 Colour: b
 👤 Trainer: Martin Hassett
 📍 Trainer Location: Burnchurch, Co Tipperary
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 2
+📌 Trainer 14 Days Runs: 2
 📊 Trainer RTF: 50%
 🏇 Jockey: Ross Berry(2)
 🌱 Breeder: Caroline, Mark & Stephanie Hanly
@@ -2182,7 +2534,7 @@
 🔢 Number: 8
 🎯 Draw Position: Unknown
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 117.0
 📉 TS (Top Speed): 96.0
 🎲 Odds: 23.0 💰💰💰💰💰💰
@@ -2193,20 +2545,36 @@
 🌱 Going Runs: 4
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (5) | 0%% | Profit: -5.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: 0%
+📌 Stats Jockey Last 14 Profit: -5.00
+🏆 Jockey OVR: 0 (1) | 0%% | Profit: -1.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -1.00
+📊 Trainer Last 14: 0 (2) | 0%% | Profit: -2.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -2.00
+💰 Trainer OVR: 0 (1) | 0%% | Profit: -1.00
+📌 Stats Trainer Ovr Wins: 0
+📌 Stats Trainer Ovr Wins Pct: 0%
+📌 Stats Trainer Ovr Profit: -1.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-17 14:15:00
 🏟️ Course: Cork
 🗒️ Course Comments: right-handed flat and level (1m4f oval)
-📏 Distance: 20.0 furlongs 🔽
+📏 Distance: 20.0 furlongs 🔼
 👜 Prize: 💰 8,926
 🏆 Race Description: HcHM
 🥇 Outcome: 6
 💰 Odds: N/A (None)
 📝 Comment: disputed lead and pressed leader early, led narrowly 5th, not fluent 6th, soon joined, headed before 3 out, weakened before 2 out
 ⏳ Days since previous run (to today's run): 21 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2025-01-01 14:50:00
 🏟️ Course: Tramore
@@ -2218,19 +2586,19 @@
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, pulled up quickly before 5th (jockey said mare lost her action coming down the hill but seemed fine after pulling up; vet reported mare to be post race normal)
 ⏳ Days since previous run (to today's run): 15 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-10-10 16:25:00
 🏟️ Course: Thurles
 🗒️ Course Comments: right-handed, undulating track (1m2f circuit)
-📏 Distance: 16.5 furlongs 🔽
+📏 Distance: 16.5 furlongs 🔼
 👜 Prize: 💰 5,478
 🏆 Race Description: Hc
 🥇 Outcome: 9
 💰 Odds: N/A (None)
 📝 Comment: midfield, lost position 2f out, soon switched left, kept on inside final furlong, never on terms
 ⏳ Days since previous run (to today's run): 82 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: master-otis (Opening odds: 34.0)
@@ -2240,9 +2608,9 @@
 🎨 Colour: gr
 👤 Trainer: Thomas Mullins
 📍 Trainer Location: Goresbridge, Co Kilkenny
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 6
+📌 Trainer 14 Days Runs: 6
 📊 Trainer RTF: 50%
 🏇 Jockey: Niall Moore
 🌱 Breeder: Mr M Enright
@@ -2252,7 +2620,7 @@
 🔢 Number: 7
 🎯 Draw Position: Unknown
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 125.0
 📉 TS (Top Speed): 50.0
 🎲 Odds: 34.0 💰💰💰💰💰💰
@@ -2263,44 +2631,60 @@
 🌱 Going Runs: 5
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 1 (8) | 13%% | Profit: +21.00
+📌 Stats Jockey Last 14 Wins: 1
+📌 Stats Jockey Last 14 Wins Pct: 13%
+📌 Stats Jockey Last 14 Profit: +21.00
+🏆 Jockey OVR: 0 (10) | 0%% | Profit: -10.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -10.00
+📊 Trainer Last 14: 0 (5) | 0%% | Profit: -5.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -5.00
+💰 Trainer OVR: 2 (37) | 5%% | Profit: -22.00
+📌 Stats Trainer Ovr Wins: 2
+📌 Stats Trainer Ovr Wins Pct: 5%
+📌 Stats Trainer Ovr Profit: -22.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2024-11-03 13:10:00
 🏟️ Course: Cork
 🗒️ Course Comments: right-handed flat and level (1m4f oval)
-📏 Distance: 16.5 furlongs 🔽
+📏 Distance: 16.5 furlongs 🔼
 👜 Prize: 💰 6,261
 🏆 Race Description: HcH
 🥇 Outcome: PU
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, midfield 4th, dropped to rear after 4 out, tailed off when pulled up before 3 out
 ⏳ Days since previous run (to today's run): 96 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-10-06 13:50:00
 🏟️ Course: Killarney
 🗒️ Course Comments: left-handed, sharp track (1m2f oval)
-📏 Distance: 17.0 furlongs 🔽
+📏 Distance: 17.0 furlongs 🔼
 👜 Prize: 💰 8,087
 🏆 Race Description: NvH
 🥇 Outcome: PU
 💰 Odds: N/A (None)
 📝 Comment: in rear, ridden and weakened from 4 out, pulled up before 2 out
 ⏳ Days since previous run (to today's run): 27 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-08-02 16:00:00
 🏟️ Course: Galway
 🗒️ Course Comments: right-handed, undulating, testing track (1m2f rectangle)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 41,739
 🏆 Race Description: HcH
 🥇 Outcome: 14
 💰 Odds: N/A (None)
 📝 Comment: midfield, dropped to rear after 3 out, detached before 2 out
 ⏳ Days since previous run (to today's run): 64 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🔹 ALL RACES THIS COURSE (Grouped by Horse)
@@ -2311,9 +2695,9 @@
 🎨 Colour: br
 👤 Trainer: Gerard Keane
 📍 Trainer Location: Trim, Co Meath
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 2
+📌 Trainer 14 Days Runs: 2
 📊 Trainer RTF: 50%
 🏇 Jockey: Tom Harney
 🌱 Breeder: Kenneth Parkhill
@@ -2323,7 +2707,7 @@
 🔢 Number: 4
 🎯 Draw Position: Unknown
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 127.0
 📉 TS (Top Speed): 114.0
 🎲 Odds: 3.25 💰💰
@@ -2334,6 +2718,22 @@
 🌱 Going Runs: 2
 🏆 Going Wins: 1
 🏥 Medical History: None
+🏇 Jockey Stats: 1 (6) | 17%% | Profit: -1.00
+📌 Stats Jockey Last 14 Wins: 1
+📌 Stats Jockey Last 14 Wins Pct: 17%
+📌 Stats Jockey Last 14 Profit: -1.00
+🏆 Jockey OVR: 0 (14) | 0%% | Profit: -14.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -14.00
+📊 Trainer Last 14: 0 (1) | 0%% | Profit: -1.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -1.00
+💰 Trainer OVR: 0 (4) | 0%% | Profit: -4.00
+📌 Stats Trainer Ovr Wins: 0
+📌 Stats Trainer Ovr Wins Pct: 0%
+📌 Stats Trainer Ovr Profit: -4.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -2347,7 +2747,7 @@
 💰 Odds: N/A (None)
 📝 Comment: never better than midfield
 ⏳ Days since previous run (to today's run): 334 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: well-dressed (Opening odds: 4.33)
@@ -2357,9 +2757,9 @@
 🎨 Colour: b
 👤 Trainer: Eddie & Patrick Harty
 📍 Trainer Location: Curragh, Co Kildare
-📊 Trainer 14-Day Win %: 17%
+📌 Trainer 14 Days Percent: 17.0
 📌 Trainer 14 Days Wins: 1
-🏇 Trainer Runs (Last 14 Days): 6
+📌 Trainer 14 Days Runs: 6
 📊 Trainer RTF: 50%
 🏇 Jockey: Cian Cullinan
 🌱 Breeder: Mrs Noreen McManus
@@ -2369,7 +2769,7 @@
 🔢 Number: 1
 🎯 Draw Position: Unknown
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 121.0
 📉 TS (Top Speed): 80.0
 🎲 Odds: 4.33 💰💰💰
@@ -2380,6 +2780,22 @@
 🌱 Going Runs: 3
 🏆 Going Wins: 1
 🏥 Medical History: None
+🏇 Jockey Stats: 1 (3) | 33%% | Profit: +4.00
+📌 Stats Jockey Last 14 Wins: 1
+📌 Stats Jockey Last 14 Wins Pct: 33%
+📌 Stats Jockey Last 14 Profit: +4.00
+🏆 Jockey OVR: 2 (9) | 22%% | Profit: +24.00
+📌 Stats Jockey Ovr Wins: 2
+📌 Stats Jockey Ovr Wins Pct: 22%
+📌 Stats Jockey Ovr Profit: +24.00
+📊 Trainer Last 14: 1 (5) | 20%% | Profit: +2.00
+📌 Stats Trainer Last 14 Wins: 1
+📌 Stats Trainer Last 14 Wins Pct: 20%
+📌 Stats Trainer Last 14 Profit: +2.00
+💰 Trainer OVR: 2 (12) | 17%% | Profit: +5.00
+📌 Stats Trainer Ovr Wins: 2
+📌 Stats Trainer Ovr Wins Pct: 17%
+📌 Stats Trainer Ovr Profit: +5.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -2393,7 +2809,7 @@
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, headway and went fourth on inner after 2 out, no extra after last
 ⏳ Days since previous run (to today's run): 348 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: doctor-churchill (Opening odds: 6.0)
@@ -2403,9 +2819,9 @@
 🎨 Colour: b
 👤 Trainer: Patrick Joseph Hayes
 📍 Trainer Location: Friarstown, Co. Kildare
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 2
+📌 Trainer 14 Days Runs: 2
 📊 Trainer RTF: Unknown%
 🏇 Jockey: Conor Smithers
 🌱 Breeder: Pierce Molony
@@ -2415,7 +2831,7 @@
 🔢 Number: 5
 🎯 Draw Position: Unknown
 🎭 Headgear: p
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 119.0
 📉 TS (Top Speed): 21.0
 🎲 Odds: 6.0 💰💰💰💰
@@ -2426,20 +2842,36 @@
 🌱 Going Runs: 0
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (1) | 0%% | Profit: -1.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: 0%
+📌 Stats Jockey Last 14 Profit: -1.00
+🏆 Jockey OVR: 0 (15) | 0%% | Profit: -15.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -15.00
+📊 Trainer Last 14: 0 (0) | -% | Profit: 0.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: -
+📌 Stats Trainer Last 14 Profit: 0.00
+💰 Trainer OVR: 1 (1) | 100%% | Profit: +28.00
+📌 Stats Trainer Ovr Wins: 1
+📌 Stats Trainer Ovr Wins Pct: 100%
+📌 Stats Trainer Ovr Profit: +28.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-05 15:05:00
 🏟️ Course: Naas
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 19.0 furlongs 🔽
+📏 Distance: 19.0 furlongs 🔼
 👜 Prize: 💰 6,694
 🏆 Race Description: HcH
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: reduced visibility, soon prominent, led narrowly 3 out, went clear home turn, stayed on
 ⏳ Days since previous run (to today's run): 33 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: fairyland-opera (Opening odds: 10.0)
@@ -2449,9 +2881,9 @@
 🎨 Colour: b
 👤 Trainer: Mrs Lorna Fowler
 📍 Trainer Location: Summerhill, Co Meath
-📊 Trainer 14-Day Win %: N/A
+📌 Trainer 14 Days Percent: Unknown
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 0
+📌 Trainer 14 Days Runs: 0
 📊 Trainer RTF: Unknown%
 🏇 Jockey: Conor Clarke
 🌱 Breeder: Mrs T K Cooper & Miss Diana Cooper
@@ -2461,7 +2893,7 @@
 🔢 Number: 9
 🎯 Draw Position: Unknown
 🎭 Headgear: t
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 119.0
 📉 TS (Top Speed): 57.0
 🎲 Odds: 10.0 💰💰💰💰💰
@@ -2472,32 +2904,48 @@
 🌱 Going Runs: 1
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (2) | 0%% | Profit: -2.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: 0%
+📌 Stats Jockey Last 14 Profit: -2.00
+🏆 Jockey OVR: 0 (1) | 0%% | Profit: -1.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -1.00
+📊 Trainer Last 14: 0 (0) | -% | Profit: 0.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: -
+📌 Stats Trainer Last 14 Profit: 0.00
+💰 Trainer OVR: 0 (7) | 0%% | Profit: -7.00
+📌 Stats Trainer Ovr Wins: 0
+📌 Stats Trainer Ovr Wins Pct: 0%
+📌 Stats Trainer Ovr Profit: -7.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-05 14:30:00
 🏟️ Course: Naas
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 7,438
 🏆 Race Description: 🍼 MdH
 🥇 Outcome: 8
 💰 Odds: N/A (None)
 📝 Comment: prominent, weakening when not fluent 2 out
 ⏳ Days since previous run (to today's run): 33 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-11-10 12:20:00
 🏟️ Course: Naas
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 6,522
 🏆 Race Description: 🍼 MdH
 🥇 Outcome: 3 🥉
 💰 Odds: N/A (None)
 📝 Comment: prominent, not fluent 2 out, ridden and challenging last, weakened and lost second towards finish
 ⏳ Days since previous run (to today's run): 56 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-02-25 13:55:00
 🏟️ Course: Naas
@@ -2509,7 +2957,7 @@
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, weakening when mistake last
 ⏳ Days since previous run (to today's run): 258 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: duke-of-leggagh (Opening odds: 11.0)
@@ -2519,9 +2967,9 @@
 🎨 Colour: gr
 👤 Trainer: Michael Mulvany
 📍 Trainer Location: Kells, Co. Meath
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 3
+📌 Trainer 14 Days Runs: 3
 📊 Trainer RTF: 67%
 🏇 Jockey: Patrick M Obrien
 🌱 Breeder: Larry Mulvany
@@ -2531,7 +2979,7 @@
 🔢 Number: 10
 🎯 Draw Position: Unknown
 🎭 Headgear: t
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 125.0
 📉 TS (Top Speed): 81.0
 🎲 Odds: 11.0 💰💰💰💰💰
@@ -2542,32 +2990,48 @@
 🌱 Going Runs: 1
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (4) | 0%% | Profit: -4.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: 0%
+📌 Stats Jockey Last 14 Profit: -4.00
+🏆 Jockey OVR: 0 (13) | 0%% | Profit: -13.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -13.00
+📊 Trainer Last 14: 0 (2) | 0%% | Profit: -2.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -2.00
+💰 Trainer OVR: 0 (11) | 0%% | Profit: -11.00
+📌 Stats Trainer Ovr Wins: 0
+📌 Stats Trainer Ovr Wins Pct: 0%
+📌 Stats Trainer Ovr Profit: -11.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2024-12-16 13:30:00
 🏟️ Course: Naas
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 19.5 furlongs 🔽
+📏 Distance: 19.5 furlongs 🔼
 👜 Prize: 💰 6,522
 🏆 Race Description: 🍼 4yMdH
 🥇 Outcome: 14
 💰 Odds: N/A (None)
 📝 Comment: towards rear throughout, tailed off
 ⏳ Days since previous run (to today's run): 53 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-03-24 15:45:00
 🏟️ Course: Naas
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit), chute for sprints
-📏 Distance: 7.0 furlongs 🔼
+📏 Distance: 7.0 furlongs 🔽
 👜 Prize: 💰 8,348
 🏆 Race Description: Hc
 🥇 Outcome: 7
 💰 Odds: N/A (None)
 📝 Comment: started quickly, prominent, in touch with leaders when outpaced over 3f out, soon no impression
 ⏳ Days since previous run (to today's run): 266 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: miss-gherkin (Opening odds: 17.0)
@@ -2577,9 +3041,9 @@
 🎨 Colour: b
 👤 Trainer: Peter Croke
 📍 Trainer Location: Glenealy, Co. Wicklow
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 1
+📌 Trainer 14 Days Runs: 1
 📊 Trainer RTF: Unknown%
 🏇 Jockey: Harry Sexton
 🌱 Breeder: John O'Dwyer
@@ -2589,7 +3053,7 @@
 🔢 Number: 6
 🎯 Draw Position: Unknown
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 123.0
 📉 TS (Top Speed): 101.0
 🎲 Odds: 17.0 💰💰💰💰💰
@@ -2600,20 +3064,36 @@
 🌱 Going Runs: 4
 🏆 Going Wins: 1
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (4) | 0%% | Profit: -4.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: 0%
+📌 Stats Jockey Last 14 Profit: -4.00
+🏆 Jockey OVR: 0 (8) | 0%% | Profit: -8.00
+📌 Stats Jockey Ovr Wins: 0
+📌 Stats Jockey Ovr Wins Pct: 0%
+📌 Stats Jockey Ovr Profit: -8.00
+📊 Trainer Last 14: 0 (1) | 0%% | Profit: -1.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -1.00
+💰 Trainer OVR: 0 (6) | 0%% | Profit: -6.00
+📌 Stats Trainer Ovr Wins: 0
+📌 Stats Trainer Ovr Wins Pct: 0%
+📌 Stats Trainer Ovr Profit: -6.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2024-11-10 14:35:00
 🏟️ Course: Naas
 🗒️ Course Comments: left-handed, undulating, galloping track (1m4f circuit)
-📏 Distance: 16.0 furlongs 🔽
+📏 Distance: 16.0 furlongs 🔼
 👜 Prize: 💰 15,130
 🏆 Race Description: ChG3
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: didn't always jump with fluency, in rear throughout
 ⏳ Days since previous run (to today's run): 89 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🔹 ALL RACES THIS DISTANCE (Grouped by Horse)

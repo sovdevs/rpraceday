@@ -17,9 +17,9 @@
 🎨 Colour: b
 👤 Trainer: Warren Greatrex
 📍 Trainer Location: Upper Lambourn, Berks
-📊 Trainer 14-Day Win %: 8%
+📌 Trainer 14 Days Percent: 8.0
 📌 Trainer 14 Days Wins: 1
-🏇 Trainer Runs (Last 14 Days): 12
+📌 Trainer 14 Days Runs: 12
 📊 Trainer RTF: 33%
 🏇 Jockey: James Bowen
 🌱 Breeder: Mrs Karine Perreau
@@ -29,7 +29,7 @@
 🔢 Number: 8
 🎯 Draw Position: 0.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 148.0
 📉 TS (Top Speed): 110.0
 🎲 Odds: 3.0 💰💰
@@ -40,20 +40,36 @@
 🌱 Going Runs: 8
 🏆 Going Wins: 2
 🏥 Medical History: None
+🏇 Jockey Stats: 4 (24) | 17%% | Profit: -9.92
+📌 Stats Jockey Last 14 Wins: 4
+📌 Stats Jockey Last 14 Wins Pct: 17%
+📌 Stats Jockey Last 14 Profit: -9.92
+🏆 Jockey OVR: 11 (76) | 14%% | Profit: -18.35
+📌 Stats Jockey Ovr Wins: 11
+📌 Stats Jockey Ovr Wins Pct: 14%
+📌 Stats Jockey Ovr Profit: -18.35
+📊 Trainer Last 14: 1 (12) | 8%% | Profit: -7.00
+📌 Stats Trainer Last 14 Wins: 1
+📌 Stats Trainer Last 14 Wins Pct: 8%
+📌 Stats Trainer Last 14 Profit: -7.00
+💰 Trainer OVR: 3 (45) | 7%% | Profit: -23.00
+📌 Stats Trainer Ovr Wins: 3
+📌 Stats Trainer Ovr Wins Pct: 7%
+📌 Stats Trainer Ovr Profit: -23.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-17 13:15:00
 🏟️ Course: Windsor
 🗒️ Course Comments: left hand; fairly sharp track
-📏 Distance: 24.0 furlongs 🔽
+📏 Distance: 24.0 furlongs 🔼
 👜 Prize: 💰 10,714
 🏆 Race Description: 3NvHcCh
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: towards rear but in touch with leaders, headway 6th, left in second and pushed along 3 out, led 2 out, comfortably
 ⏳ Days since previous run (to today's run): 21 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-18 13:15:00
 🏟️ Course: Newbury
@@ -65,55 +81,55 @@
 💰 Odds: N/A (None)
 📝 Comment: jumped well, in touch with leaders, headway and prominent on outer home turn, led after 4 out, pushed out, readily
 ⏳ Days since previous run (to today's run): 30 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-11-28 14:00:00
 🏟️ Course: Taunton
 🗒️ Course Comments: right-handed, sharp track
-📏 Distance: 23.0 furlongs 🔼
+📏 Distance: 23.0 furlongs 🔽
 👜 Prize: 💰 7,124
 🏆 Race Description: 4NvHcCh
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: raced in second, not fluent 3 out, soon lost ground, rallied before 2 out, not fluent last, kept on
 ⏳ Days since previous run (to today's run): 19 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-04-19 13:20:00
 🏟️ Course: Ayr
 🗒️ Course Comments: left-handed, fairly galloping track
-📏 Distance: 24.5 furlongs 🔽
+📏 Distance: 24.5 furlongs 🔼
 👜 Prize: 💰 8,450
 🏆 Race Description: 3HcH
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: held up in rear, some headway but still plenty to do 3 out, stayed on from 2 out, went fourth run-in, went second inside final 110yds, nearest finish
 ⏳ Days since previous run (to today's run): 223 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-04-01 15:55:00
 🏟️ Course: Chepstow
 🗒️ Course Comments: left-handed, galloping, and undulating.
-📏 Distance: 19.5 furlongs 🔼
+📏 Distance: 19.5 furlongs 🔽
 👜 Prize: 💰 4,330
 🏆 Race Description: 4HcH
 🥇 Outcome: 4
 💰 Odds: N/A (None)
 📝 Comment: midfield, headway 4 out, pressed leaders 3 out, outpaced 2 out, weakened and lost third approaching last
 ⏳ Days since previous run (to today's run): 17 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 6
 📅 Race Date: 2024-02-21 17:15:00
 🏟️ Course: Ludlow
 🗒️ Course Comments: right-handed, sharp track
-📏 Distance: 21.5 furlongs 🔼
+📏 Distance: 21.5 furlongs 🔽
 👜 Prize: 💰 5,357
 🏆 Race Description: 4HcH
 🥇 Outcome: 4
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, weakened 2 out
 ⏳ Days since previous run (to today's run): 39 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: lord-of-thunder (Opening odds: 4.5)
@@ -123,9 +139,9 @@
 🎨 Colour: br
 👤 Trainer: Joe Tizzard
 📍 Trainer Location: Milborne Port, Dorset
-📊 Trainer 14-Day Win %: 20%
+📌 Trainer 14 Days Percent: 20.0
 📌 Trainer 14 Days Wins: 4
-🏇 Trainer Runs (Last 14 Days): 20
+📌 Trainer 14 Days Runs: 20
 📊 Trainer RTF: 50%
 🏇 Jockey: Brendan Powell
 🌱 Breeder: Parkville Stud
@@ -135,7 +151,7 @@
 🔢 Number: 7
 🎯 Draw Position: 0.0
 🎭 Headgear: t
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 146.0
 📉 TS (Top Speed): 87.0
 🎲 Odds: 4.5 💰💰💰
@@ -146,44 +162,60 @@
 🌱 Going Runs: 4
 🏆 Going Wins: 1
 🏥 Medical History: None
+🏇 Jockey Stats: 4 (24) | 17%% | Profit: -5.13
+📌 Stats Jockey Last 14 Wins: 4
+📌 Stats Jockey Last 14 Wins Pct: 17%
+📌 Stats Jockey Last 14 Profit: -5.13
+🏆 Jockey OVR: 8 (70) | 11%% | Profit: +0.88
+📌 Stats Jockey Ovr Wins: 8
+📌 Stats Jockey Ovr Wins Pct: 11%
+📌 Stats Jockey Ovr Profit: +0.88
+📊 Trainer Last 14: 4 (20) | 20%% | Profit: -8.13
+📌 Stats Trainer Last 14 Wins: 4
+📌 Stats Trainer Last 14 Wins Pct: 20%
+📌 Stats Trainer Last 14 Profit: -8.13
+💰 Trainer OVR: 5 (34) | 15%% | Profit: -0.13
+📌 Stats Trainer Ovr Wins: 5
+📌 Stats Trainer Ovr Wins Pct: 15%
+📌 Stats Trainer Ovr Profit: -0.13
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-11 13:15:00
 🏟️ Course: Ffos Las
 🗒️ Course Comments: left-handed, flat, galloping
-📏 Distance: 19.5 furlongs 🔼
+📏 Distance: 19.5 furlongs 🔽
 👜 Prize: 💰 26,790
 🏆 Race Description: 1NvChG2
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: held up in rear, badly hampered by faller 7th, headway before 4 out, went second 4 out, no chance with winner when not fluent last, kept on last
 ⏳ Days since previous run (to today's run): 27 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-06 13:00:00
 🏟️ Course: Exeter
 🗒️ Course Comments: right-handed, very undulating, testing track
-📏 Distance: 19.0 furlongs 🔼
+📏 Distance: 19.0 furlongs 🔽
 👜 Prize: 💰 9,242
 🏆 Race Description: 3HcCh
 🥇 Outcome: 4
 💰 Odds: N/A (None)
 📝 Comment: led narrowly or disputed lead, prominent before 8th, led 10th, headed before 4 out, not fluent 3 out, weakened gradually approaching last
 ⏳ Days since previous run (to today's run): 36 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-10-26 12:10:00
 🏟️ Course: Cheltenham
 🗒️ Course Comments: left-handed, galloping, undulating and testing track with stiff fences
-📏 Distance: 20.0 furlongs 🔼
+📏 Distance: 20.0 furlongs 🔽
 👜 Prize: 💰 10,562
 🏆 Race Description: 3NvHcCh
 🥇 Outcome: F
 💰 Odds: N/A (None)
 📝 Comment: prominent, pushed along after 3 out, disputing third when fell 2 out
 ⏳ Days since previous run (to today's run): 41 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: pic-roc (Opening odds: 5.0)
@@ -193,9 +225,9 @@
 🎨 Colour: ch
 👤 Trainer: Ben Pauling
 📍 Trainer Location: Naunton Downs, Gloucs
-📊 Trainer 14-Day Win %: 18%
+📌 Trainer 14 Days Percent: 18.0
 📌 Trainer 14 Days Wins: 4
-🏇 Trainer Runs (Last 14 Days): 22
+📌 Trainer 14 Days Runs: 22
 📊 Trainer RTF: 41%
 🏇 Jockey: Ben Jones
 🌱 Breeder: Cian O'Doherty
@@ -205,7 +237,7 @@
 🔢 Number: 3
 🎯 Draw Position: 0.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 142.0
 📉 TS (Top Speed): 102.0
 🎲 Odds: 5.0 💰💰💰
@@ -216,68 +248,84 @@
 🌱 Going Runs: 4
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 4 (22) | 18%% | Profit: -3.04
+📌 Stats Jockey Last 14 Wins: 4
+📌 Stats Jockey Last 14 Wins Pct: 18%
+📌 Stats Jockey Last 14 Profit: -3.04
+🏆 Jockey OVR: 6 (46) | 13%% | Profit: -7.75
+📌 Stats Jockey Ovr Wins: 6
+📌 Stats Jockey Ovr Wins Pct: 13%
+📌 Stats Jockey Ovr Profit: -7.75
+📊 Trainer Last 14: 4 (22) | 18%% | Profit: -6.32
+📌 Stats Trainer Last 14 Wins: 4
+📌 Stats Trainer Last 14 Wins Pct: 18%
+📌 Stats Trainer Last 14 Profit: -6.32
+💰 Trainer OVR: 11 (79) | 14%% | Profit: -26.18
+📌 Stats Trainer Ovr Wins: 11
+📌 Stats Trainer Ovr Wins Pct: 14%
+📌 Stats Trainer Ovr Profit: -26.18
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-13 13:38:00
 🏟️ Course: Exeter
 🗒️ Course Comments: right-handed, very undulating, testing track
-📏 Distance: 19.0 furlongs 🔼
+📏 Distance: 19.0 furlongs 🔽
 👜 Prize: 💰 8,303
 🏆 Race Description: 3NvHcCh
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: led, prominent when headed after 7th, pressed winner and going okay from 3 out, ridden after last, kept on well towards finish
 ⏳ Days since previous run (to today's run): 25 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-11-11 12:00:00
 🏟️ Course: Carlisle
 🗒️ Course Comments: right-handed, galloping, undulating and testing track
-📏 Distance: 20.0 furlongs 🔼
+📏 Distance: 20.0 furlongs 🔽
 👜 Prize: 💰 8,833
 🏆 Race Description: 3NvHcCh
 🥇 Outcome: F
 💰 Odds: N/A (None)
 📝 Comment: led, sprawled on landing and fell 5th
 ⏳ Days since previous run (to today's run): 63 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-04-27 16:20:00
 🏟️ Course: Sandown
 🗒️ Course Comments: right-handed, galloping, testing track
-📏 Distance: 20.0 furlongs 🔼
+📏 Distance: 20.0 furlongs 🔽
 👜 Prize: 💰 18,210
 🏆 Race Description: 2HcH
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, outpaced and lost position when not fluent 3 out, rallied 2 out, stayed on and went second run-in, no match for winner
 ⏳ Days since previous run (to today's run): 197 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-03-09 13:50:00
 🏟️ Course: Sandown
 🗒️ Course Comments: right-handed, galloping, testing track
-📏 Distance: 20.0 furlongs 🔼
+📏 Distance: 20.0 furlongs 🔽
 👜 Prize: 💰 45,016
 🏆 Race Description: 1NvHcHG3
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: led, not fluent 6th, good jump 2 out, ridden approaching last, 2 lengths ahead last, no extra and headed towards finish
 ⏳ Days since previous run (to today's run): 49 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-02-17 13:15:00
 🏟️ Course: Ascot
 🗒️ Course Comments: right-handed, galloping, testing track with stiff fences
-📏 Distance: 19.5 furlongs 🔼
+📏 Distance: 19.5 furlongs 🔽
 👜 Prize: 💰 13,008
 🏆 Race Description: 2NvH
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: didn't always jump with fluency, raced in second, shaken up and led just before 2 out, edged left after 2 out, ridden run-in, kept on well
 ⏳ Days since previous run (to today's run): 21 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: saint-davy (Opening odds: 6.5)
@@ -287,9 +335,9 @@
 🎨 Colour: b
 👤 Trainer: Jonjo & A J Oneill
 📍 Trainer Location: Cheltenham, Gloucs
-📊 Trainer 14-Day Win %: 14%
+📌 Trainer 14 Days Percent: 14.0
 📌 Trainer 14 Days Wins: 2
-🏇 Trainer Runs (Last 14 Days): 14
+📌 Trainer 14 Days Runs: 14
 📊 Trainer RTF: 57%
 🏇 Jockey: Jonjo Oneill Jr
 🌱 Breeder: A & C Choupeault & E Rineau
@@ -299,7 +347,7 @@
 🔢 Number: 1
 🎯 Draw Position: 0.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 143.0
 📉 TS (Top Speed): 114.0
 🎲 Odds: 6.5 💰💰💰💰
@@ -310,44 +358,60 @@
 🌱 Going Runs: 4
 🏆 Going Wins: 1
 🏥 Medical History: None
+🏇 Jockey Stats: 2 (10) | 20%% | Profit: +2.50
+📌 Stats Jockey Last 14 Wins: 2
+📌 Stats Jockey Last 14 Wins Pct: 20%
+📌 Stats Jockey Last 14 Profit: +2.50
+🏆 Jockey OVR: 9 (78) | 12%% | Profit: +8.38
+📌 Stats Jockey Ovr Wins: 9
+📌 Stats Jockey Ovr Wins Pct: 12%
+📌 Stats Jockey Ovr Profit: +8.38
+📊 Trainer Last 14: 2 (14) | 14%% | Profit: -2.00
+📌 Stats Trainer Last 14 Wins: 2
+📌 Stats Trainer Last 14 Wins Pct: 14%
+📌 Stats Trainer Last 14 Profit: -2.00
+💰 Trainer OVR: 2 (12) | 17%% | Profit: +22.00
+📌 Stats Trainer Ovr Wins: 2
+📌 Stats Trainer Ovr Wins Pct: 17%
+📌 Stats Trainer Ovr Profit: +22.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-11 13:15:00
 🏟️ Course: Ffos Las
 🗒️ Course Comments: left-handed, flat, galloping
-📏 Distance: 19.5 furlongs 🔼
+📏 Distance: 19.5 furlongs 🔽
 👜 Prize: 💰 26,790
 🏆 Race Description: 1NvChG2
 🥇 Outcome: F
 💰 Odds: N/A (None)
 📝 Comment: midfield, headway before 4 out, outpaced after 4 out, fell 3 out
 ⏳ Days since previous run (to today's run): 27 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-06 14:33:00
 🏟️ Course: Sandown
 🗒️ Course Comments: right-handed, galloping, testing track
-📏 Distance: 24.0 furlongs 🔽
+📏 Distance: 24.0 furlongs 🔼
 👜 Prize: 💰 37,018
 🏆 Race Description: 1NvChG2
 🥇 Outcome: 3 🥉
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, prominent, pecked on landing 12th, outpaced when not fluent 2 out, soon ridden, rallied and disputing second when jockey dropped whip run-in, no extra towards finish
 ⏳ Days since previous run (to today's run): 35 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-04-25 15:20:00
 🏟️ Course: Warwick
 🗒️ Course Comments: left-handed, sharp track
-📏 Distance: 25.0 furlongs 🔽
+📏 Distance: 25.0 furlongs 🔼
 👜 Prize: 💰 10,562
 🏆 Race Description: 3HcH
 🥇 Outcome: NR ❗
 💰 Odds: N/A (0.0)
 📝 Comment: unsuitable ground
 ⏳ Days since previous run (to today's run): 224 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-03-16 14:25:00
 🏟️ Course: Uttoxeter
@@ -359,7 +423,7 @@
 💰 Odds: N/A (None)
 📝 Comment: prominent, weakened 2 out
 ⏳ Days since previous run (to today's run): 40 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: toss-of-a-coin (Opening odds: 9.0)
@@ -369,9 +433,9 @@
 🎨 Colour: b
 👤 Trainer: Paul Nicholls
 📍 Trainer Location: Ditcheat, Somerset
-📊 Trainer 14-Day Win %: 11%
+📌 Trainer 14 Days Percent: 11.0
 📌 Trainer 14 Days Wins: 4
-🏇 Trainer Runs (Last 14 Days): 36
+📌 Trainer 14 Days Runs: 36
 📊 Trainer RTF: 42%
 🏇 Jockey: Harry Cobden
 🌱 Breeder: Margaret Treacy On His Own Stables
@@ -392,56 +456,72 @@
 🌱 Going Runs: 3
 🏆 Going Wins: 1
 🏥 Medical History: None
+🏇 Jockey Stats: 5 (36) | 14%% | Profit: -14.65
+📌 Stats Jockey Last 14 Wins: 5
+📌 Stats Jockey Last 14 Wins Pct: 14%
+📌 Stats Jockey Last 14 Profit: -14.65
+🏆 Jockey OVR: 46 (197) | 23%% | Profit: -25.32
+📌 Stats Jockey Ovr Wins: 46
+📌 Stats Jockey Ovr Wins Pct: 23%
+📌 Stats Jockey Ovr Profit: -25.32
+📊 Trainer Last 14: 4 (36) | 11%% | Profit: -22.18
+📌 Stats Trainer Last 14 Wins: 4
+📌 Stats Trainer Last 14 Wins Pct: 11%
+📌 Stats Trainer Last 14 Profit: -22.18
+💰 Trainer OVR: 48 (198) | 24%% | Profit: -8.48
+📌 Stats Trainer Ovr Wins: 48
+📌 Stats Trainer Ovr Wins Pct: 24%
+📌 Stats Trainer Ovr Profit: -8.48
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2024-12-19 13:55:00
 🏟️ Course: Exeter
 🗒️ Course Comments: right-handed, very undulating, testing track
-📏 Distance: 24.5 furlongs 🔽
+📏 Distance: 24.5 furlongs 🔼
 👜 Prize: 💰 10,298
 🏆 Race Description: 3HcCh
 🥇 Outcome: PU
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, not fluent 13th, weakened after 5 out, pulled up before 4 out (jockey said gelding stopped quickly; vet said a post-race examination revealed no abnormalities)
 ⏳ Days since previous run (to today's run): 50 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-11-24 13:25:00
 🏟️ Course: Uttoxeter
 🗒️ Course Comments: left-handed, fairly galloping, track
-📏 Distance: 24.0 furlongs 🔽
+📏 Distance: 24.0 furlongs 🔼
 👜 Prize: 💰 6,179
 🏆 Race Description: 3NvHcCh
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: led, pressed leader before 2nd, hit on nose by rival's whip after 2 out (usual 3 out), disputed lead last, lost position inside final 110yds, kept on
 ⏳ Days since previous run (to today's run): 25 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-04-08 15:08:00
 🏟️ Course: Wincanton
 🗒️ Course Comments: right-handed, galloping track
-📏 Distance: 20.0 furlongs 🔼
+📏 Distance: 20.0 furlongs 🔽
 👜 Prize: 💰 7,922
 🏆 Race Description: 3HcH
 🥇 Outcome: 4
 💰 Odds: N/A (None)
 📝 Comment: disputed lead, raced in second 2nd, not fluent 3rd, pressed leader after 3 out, briefly led home turn, weakened last
 ⏳ Days since previous run (to today's run): 229 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-03-01 15:35:00
 🏟️ Course: Newbury
 🗒️ Course Comments: left-handed, galloping track with stiff fences
-📏 Distance: 20.5 furlongs 🔼
+📏 Distance: 20.5 furlongs 🔽
 👜 Prize: 💰 5,446
 🏆 Race Description: 3NvH
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: made all, set steady pace, not fluent 4 out, faced challenge when not fluent 2 out, ridden run-in, soon edged right, kept on when against near rail inside final furlong (jockey said gelding hung right-handed under pressure)
 ⏳ Days since previous run (to today's run): 37 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: hillcrest (Opening odds: 17.0)
@@ -451,9 +531,9 @@
 🎨 Colour: br
 👤 Trainer: Henry Daly
 📍 Trainer Location: Stanton Lacy, Shropshire
-📊 Trainer 14-Day Win %: 13%
+📌 Trainer 14 Days Percent: 13.0
 📌 Trainer 14 Days Wins: 2
-🏇 Trainer Runs (Last 14 Days): 15
+📌 Trainer 14 Days Runs: 15
 📊 Trainer RTF: 27%
 🏇 Jockey: Sam Twiston-Davies
 🌱 Breeder: A Craigie
@@ -474,56 +554,72 @@
 🌱 Going Runs: 3
 🏆 Going Wins: 1
 🏥 Medical History: None
+🏇 Jockey Stats: 5 (36) | 14%% | Profit: -8.77
+📌 Stats Jockey Last 14 Wins: 5
+📌 Stats Jockey Last 14 Wins Pct: 14%
+📌 Stats Jockey Last 14 Profit: -8.77
+🏆 Jockey OVR: 9 (101) | 9%% | Profit: -48.84
+📌 Stats Jockey Ovr Wins: 9
+📌 Stats Jockey Ovr Wins Pct: 9%
+📌 Stats Jockey Ovr Profit: -48.84
+📊 Trainer Last 14: 2 (15) | 13%% | Profit: -7.50
+📌 Stats Trainer Last 14 Wins: 2
+📌 Stats Trainer Last 14 Wins Pct: 13%
+📌 Stats Trainer Last 14 Profit: -7.50
+💰 Trainer OVR: 2 (14) | 14%% | Profit: -7.17
+📌 Stats Trainer Ovr Wins: 2
+📌 Stats Trainer Ovr Wins Pct: 14%
+📌 Stats Trainer Ovr Profit: -7.17
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-11 13:15:00
 🏟️ Course: Ffos Las
 🗒️ Course Comments: left-handed, flat, galloping
-📏 Distance: 19.5 furlongs 🔼
+📏 Distance: 19.5 furlongs 🔽
 👜 Prize: 💰 26,790
 🏆 Race Description: 1NvChG2
 🥇 Outcome: UR
 💰 Odds: N/A (None)
 📝 Comment: midfield, headway before 6th, badly hampered by faller and unseated after 3 out
 ⏳ Days since previous run (to today's run): 27 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-14 12:40:00
 🏟️ Course: Cheltenham
 🗒️ Course Comments: left-handed, galloping, undulating and testing track with stiff fences
-📏 Distance: 25.5 furlongs 🔽
+📏 Distance: 25.5 furlongs 🔼
 👜 Prize: 💰 10,562
 🏆 Race Description: 3NvHcCh
 🥇 Outcome: PU
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, not fluent 2nd, towards rear when mistake 10th, mistake 12th, not fluent 14th, struggling when not fluent 5 out, soon pulled up
 ⏳ Days since previous run (to today's run): 28 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-11-24 13:25:00
 🏟️ Course: Uttoxeter
 🗒️ Course Comments: left-handed, fairly galloping, track
-📏 Distance: 24.0 furlongs 🔽
+📏 Distance: 24.0 furlongs 🔼
 👜 Prize: 💰 6,179
 🏆 Race Description: 3NvHcCh
 🥇 Outcome: NR ❗
 💰 Odds: N/A (0.0)
 📝 Comment: self certificate
 ⏳ Days since previous run (to today's run): 19 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-11-23 13:50:00
 🏟️ Course: Haydock
 🗒️ Course Comments: left-handed, galloping chase track with stiff fences; sharp hurdles track
-📏 Distance: 21.5 furlongs 🔼
+📏 Distance: 21.5 furlongs 🔽
 👜 Prize: 💰 26,164
 🏆 Race Description: 2Ch
 🥇 Outcome: 4
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, pressed leader, awkward jump 3rd, led 5th, headed 9th, mistake 11th, weakening when awkward jump 2 out, soon weakened, went modest fourth last
 ⏳ Days since previous run (to today's run): 0 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: menaggio (Opening odds: 21.0)
@@ -533,9 +629,9 @@
 🎨 Colour: b
 👤 Trainer: Alan King
 📍 Trainer Location: Barbury Castle, Wilts
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 21
+📌 Trainer 14 Days Runs: 21
 📊 Trainer RTF: 43%
 🏇 Jockey: Tom Cannon
 🌱 Breeder: Ormond Bloodstock Ltd
@@ -545,7 +641,7 @@
 🔢 Number: 5
 🎯 Draw Position: 0.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 143.0
 📉 TS (Top Speed): 107.0
 🎲 Odds: 21.0 💰💰💰💰💰💰
@@ -556,68 +652,84 @@
 🌱 Going Runs: 1
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 1 (22) | 5%% | Profit: -18.25
+📌 Stats Jockey Last 14 Wins: 1
+📌 Stats Jockey Last 14 Wins Pct: 5%
+📌 Stats Jockey Last 14 Profit: -18.25
+🏆 Jockey OVR: 9 (109) | 8%% | Profit: -61.57
+📌 Stats Jockey Ovr Wins: 9
+📌 Stats Jockey Ovr Wins Pct: 8%
+📌 Stats Jockey Ovr Profit: -61.57
+📊 Trainer Last 14: 0 (20) | 0%% | Profit: -20.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -20.00
+💰 Trainer OVR: 9 (114) | 8%% | Profit: -68.57
+📌 Stats Trainer Ovr Wins: 9
+📌 Stats Trainer Ovr Wins Pct: 8%
+📌 Stats Trainer Ovr Profit: -68.57
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2024-12-28 15:35:00
 🏟️ Course: Newbury
 🗒️ Course Comments: left-handed, galloping track with stiff fences
-📏 Distance: 22.5 furlongs 🔼
+📏 Distance: 22.5 furlongs 🔽
 👜 Prize: 💰 11,090
 🏆 Race Description: 3NvHcCh
 🥇 Outcome: PU
 💰 Odds: N/A (None)
 📝 Comment: prominent, weakened quickly after 13th, soon pulled up (vet said gelding bled from the nose)
 ⏳ Days since previous run (to today's run): 41 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-11-18 13:50:00
 🏟️ Course: Plumpton
 🗒️ Course Comments: left-handed, sharp, undulating track
-📏 Distance: 20.0 furlongs 🔼
+📏 Distance: 20.0 furlongs 🔽
 👜 Prize: 💰 10,562
 🏆 Race Description: 3NvHcCh
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: raced in second, pressed leader 4 out, led after 3 out, went further clear approaching last, eased towards finish, easily
 ⏳ Days since previous run (to today's run): 40 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-10-21 14:55:00
 🏟️ Course: Plumpton
 🗒️ Course Comments: left-handed, sharp, undulating track
-📏 Distance: 20.0 furlongs 🔼
+📏 Distance: 20.0 furlongs 🔽
 👜 Prize: 💰 9,242
 🏆 Race Description: 3HcCh
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: raced in second, headway when unbalanced on turn after 2 out (usual 3 out), soon challenging, led last (usual 2 out), ridden and went clear run-in, readily
 ⏳ Days since previous run (to today's run): 27 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-05-06 16:50:00
 🏟️ Course: Kempton
 🗒️ Course Comments: right-handed, sharpish, flat track
-📏 Distance: 21.0 furlongs 🔼
+📏 Distance: 21.0 furlongs 🔽
 👜 Prize: 💰 5,281
 🏆 Race Description: 4HcH
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: prominent, led narrowly before 2 out, headed when pecked on landing last, pressed winner run-in, no extra towards finish
 ⏳ Days since previous run (to today's run): 167 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-03-16 16:30:00
 🏟️ Course: Kempton
 🗒️ Course Comments: right-handed, sharpish, flat track
-📏 Distance: 21.0 furlongs 🔼
+📏 Distance: 21.0 furlongs 🔽
 👜 Prize: 💰 4,357
 🏆 Race Description: 4NvH
 🥇 Outcome: 3 🥉
 💰 Odds: N/A (None)
 📝 Comment: prominent, weakened before 2 out, left in modest third last
 ⏳ Days since previous run (to today's run): 51 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: emailandy (Opening odds: 21.0)
@@ -627,9 +739,9 @@
 🎨 Colour: b
 👤 Trainer: Paul Nicholls
 📍 Trainer Location: Ditcheat, Somerset
-📊 Trainer 14-Day Win %: 11%
+📌 Trainer 14 Days Percent: 11.0
 📌 Trainer 14 Days Wins: 4
-🏇 Trainer Runs (Last 14 Days): 36
+📌 Trainer 14 Days Runs: 36
 📊 Trainer RTF: 42%
 🏇 Jockey: Freddie Gingell(3)
 🌱 Breeder: Peter & Sandra McCarthy
@@ -639,7 +751,7 @@
 🔢 Number: 4
 🎯 Draw Position: 0.0
 🎭 Headgear: tp
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): Unknown
 📉 TS (Top Speed): Unknown
 🎲 Odds: 21.0 💰💰💰💰💰💰
@@ -650,68 +762,84 @@
 🌱 Going Runs: 1
 🏆 Going Wins: 0
 🏥 Medical History: 2023-07-11: Wind Surgery
+🏇 Jockey Stats: 2 (9) | 22%% | Profit: -3.56
+📌 Stats Jockey Last 14 Wins: 2
+📌 Stats Jockey Last 14 Wins Pct: 22%
+📌 Stats Jockey Last 14 Profit: -3.56
+🏆 Jockey OVR: 2 (11) | 18%% | Profit: +2.50
+📌 Stats Jockey Ovr Wins: 2
+📌 Stats Jockey Ovr Wins Pct: 18%
+📌 Stats Jockey Ovr Profit: +2.50
+📊 Trainer Last 14: 4 (36) | 11%% | Profit: -22.18
+📌 Stats Trainer Last 14 Wins: 4
+📌 Stats Trainer Last 14 Wins Pct: 11%
+📌 Stats Trainer Last 14 Profit: -22.18
+💰 Trainer OVR: 48 (198) | 24%% | Profit: -8.48
+📌 Stats Trainer Ovr Wins: 48
+📌 Stats Trainer Ovr Wins Pct: 24%
+📌 Stats Trainer Ovr Profit: -8.48
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2024-12-26 15:40:00
 🏟️ Course: Kempton
 🗒️ Course Comments: right-handed, sharpish, flat track
-📏 Distance: 21.0 furlongs 🔼
+📏 Distance: 21.0 furlongs 🔽
 👜 Prize: 💰 12,674
 🏆 Race Description: 3HcH
 🥇 Outcome: PU
 💰 Odds: N/A (None)
 📝 Comment: whipped round start and lost many lengths start, detached when pulled up after 1st
 ⏳ Days since previous run (to today's run): 43 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-11-16 14:55:00
 🏟️ Course: Cheltenham
 🗒️ Course Comments: left-handed, galloping, undulating and testing track with stiff fences
-📏 Distance: 24.0 furlongs 🔽
+📏 Distance: 24.0 furlongs 🔼
 👜 Prize: 💰 15,609
 🏆 Race Description: 2HcH
 🥇 Outcome: 12
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, weakened after 2 out
 ⏳ Days since previous run (to today's run): 40 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-04-27 16:20:00
 🏟️ Course: Sandown
 🗒️ Course Comments: right-handed, galloping, testing track
-📏 Distance: 20.0 furlongs 🔼
+📏 Distance: 20.0 furlongs 🔽
 👜 Prize: 💰 18,210
 🏆 Race Description: 2HcH
 🥇 Outcome: 9
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, dropped to midfield 2nd, weakened before 2 out
 ⏳ Days since previous run (to today's run): 202 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-03-31 16:25:00
 🏟️ Course: Plumpton
 🗒️ Course Comments: left-handed, sharp, undulating track
-📏 Distance: 20.5 furlongs 🔼
+📏 Distance: 20.5 furlongs 🔽
 👜 Prize: 💰 13,202
 🏆 Race Description: 3HcH
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: pressed leader, mistake 6th, led 7th, pushed along 2 out, ridden and clear with one other approaching last, kept on well run-in, won going away
 ⏳ Days since previous run (to today's run): 26 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-03-09 13:50:00
 🏟️ Course: Sandown
 🗒️ Course Comments: right-handed, galloping, testing track
-📏 Distance: 20.0 furlongs 🔼
+📏 Distance: 20.0 furlongs 🔽
 👜 Prize: 💰 45,016
 🏆 Race Description: 1NvHcHG3
 🥇 Outcome: 3 🥉
 💰 Odds: N/A (None)
 📝 Comment: prominent on outer, ridden before 2 out, stayed on
 ⏳ Days since previous run (to today's run): 22 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🔹 MOST RECENT 3 RACES (Last 12 Months, Grouped by Horse)
@@ -722,9 +850,9 @@
 🎨 Colour: b
 👤 Trainer: Warren Greatrex
 📍 Trainer Location: Upper Lambourn, Berks
-📊 Trainer 14-Day Win %: 8%
+📌 Trainer 14 Days Percent: 8.0
 📌 Trainer 14 Days Wins: 1
-🏇 Trainer Runs (Last 14 Days): 12
+📌 Trainer 14 Days Runs: 12
 📊 Trainer RTF: 33%
 🏇 Jockey: James Bowen
 🌱 Breeder: Mrs Karine Perreau
@@ -734,7 +862,7 @@
 🔢 Number: 8
 🎯 Draw Position: 0.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 148.0
 📉 TS (Top Speed): 110.0
 🎲 Odds: 3.0 💰💰
@@ -745,20 +873,36 @@
 🌱 Going Runs: 8
 🏆 Going Wins: 2
 🏥 Medical History: None
+🏇 Jockey Stats: 4 (24) | 17%% | Profit: -9.92
+📌 Stats Jockey Last 14 Wins: 4
+📌 Stats Jockey Last 14 Wins Pct: 17%
+📌 Stats Jockey Last 14 Profit: -9.92
+🏆 Jockey OVR: 11 (76) | 14%% | Profit: -18.35
+📌 Stats Jockey Ovr Wins: 11
+📌 Stats Jockey Ovr Wins Pct: 14%
+📌 Stats Jockey Ovr Profit: -18.35
+📊 Trainer Last 14: 1 (12) | 8%% | Profit: -7.00
+📌 Stats Trainer Last 14 Wins: 1
+📌 Stats Trainer Last 14 Wins Pct: 8%
+📌 Stats Trainer Last 14 Profit: -7.00
+💰 Trainer OVR: 3 (45) | 7%% | Profit: -23.00
+📌 Stats Trainer Ovr Wins: 3
+📌 Stats Trainer Ovr Wins Pct: 7%
+📌 Stats Trainer Ovr Profit: -23.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-17 13:15:00
 🏟️ Course: Windsor
 🗒️ Course Comments: left hand; fairly sharp track
-📏 Distance: 24.0 furlongs 🔽
+📏 Distance: 24.0 furlongs 🔼
 👜 Prize: 💰 10,714
 🏆 Race Description: 3NvHcCh
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: towards rear but in touch with leaders, headway 6th, left in second and pushed along 3 out, led 2 out, comfortably
 ⏳ Days since previous run (to today's run): 21 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-18 13:15:00
 🏟️ Course: Newbury
@@ -770,19 +914,19 @@
 💰 Odds: N/A (None)
 📝 Comment: jumped well, in touch with leaders, headway and prominent on outer home turn, led after 4 out, pushed out, readily
 ⏳ Days since previous run (to today's run): 30 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-11-28 14:00:00
 🏟️ Course: Taunton
 🗒️ Course Comments: right-handed, sharp track
-📏 Distance: 23.0 furlongs 🔼
+📏 Distance: 23.0 furlongs 🔽
 👜 Prize: 💰 7,124
 🏆 Race Description: 4NvHcCh
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: raced in second, not fluent 3 out, soon lost ground, rallied before 2 out, not fluent last, kept on
 ⏳ Days since previous run (to today's run): 19 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: lord-of-thunder (Opening odds: 4.5)
@@ -792,9 +936,9 @@
 🎨 Colour: br
 👤 Trainer: Joe Tizzard
 📍 Trainer Location: Milborne Port, Dorset
-📊 Trainer 14-Day Win %: 20%
+📌 Trainer 14 Days Percent: 20.0
 📌 Trainer 14 Days Wins: 4
-🏇 Trainer Runs (Last 14 Days): 20
+📌 Trainer 14 Days Runs: 20
 📊 Trainer RTF: 50%
 🏇 Jockey: Brendan Powell
 🌱 Breeder: Parkville Stud
@@ -804,7 +948,7 @@
 🔢 Number: 7
 🎯 Draw Position: 0.0
 🎭 Headgear: t
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 146.0
 📉 TS (Top Speed): 87.0
 🎲 Odds: 4.5 💰💰💰
@@ -815,44 +959,60 @@
 🌱 Going Runs: 4
 🏆 Going Wins: 1
 🏥 Medical History: None
+🏇 Jockey Stats: 4 (24) | 17%% | Profit: -5.13
+📌 Stats Jockey Last 14 Wins: 4
+📌 Stats Jockey Last 14 Wins Pct: 17%
+📌 Stats Jockey Last 14 Profit: -5.13
+🏆 Jockey OVR: 8 (70) | 11%% | Profit: +0.88
+📌 Stats Jockey Ovr Wins: 8
+📌 Stats Jockey Ovr Wins Pct: 11%
+📌 Stats Jockey Ovr Profit: +0.88
+📊 Trainer Last 14: 4 (20) | 20%% | Profit: -8.13
+📌 Stats Trainer Last 14 Wins: 4
+📌 Stats Trainer Last 14 Wins Pct: 20%
+📌 Stats Trainer Last 14 Profit: -8.13
+💰 Trainer OVR: 5 (34) | 15%% | Profit: -0.13
+📌 Stats Trainer Ovr Wins: 5
+📌 Stats Trainer Ovr Wins Pct: 15%
+📌 Stats Trainer Ovr Profit: -0.13
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-11 13:15:00
 🏟️ Course: Ffos Las
 🗒️ Course Comments: left-handed, flat, galloping
-📏 Distance: 19.5 furlongs 🔼
+📏 Distance: 19.5 furlongs 🔽
 👜 Prize: 💰 26,790
 🏆 Race Description: 1NvChG2
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: held up in rear, badly hampered by faller 7th, headway before 4 out, went second 4 out, no chance with winner when not fluent last, kept on last
 ⏳ Days since previous run (to today's run): 27 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-06 13:00:00
 🏟️ Course: Exeter
 🗒️ Course Comments: right-handed, very undulating, testing track
-📏 Distance: 19.0 furlongs 🔼
+📏 Distance: 19.0 furlongs 🔽
 👜 Prize: 💰 9,242
 🏆 Race Description: 3HcCh
 🥇 Outcome: 4
 💰 Odds: N/A (None)
 📝 Comment: led narrowly or disputed lead, prominent before 8th, led 10th, headed before 4 out, not fluent 3 out, weakened gradually approaching last
 ⏳ Days since previous run (to today's run): 36 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-10-26 12:10:00
 🏟️ Course: Cheltenham
 🗒️ Course Comments: left-handed, galloping, undulating and testing track with stiff fences
-📏 Distance: 20.0 furlongs 🔼
+📏 Distance: 20.0 furlongs 🔽
 👜 Prize: 💰 10,562
 🏆 Race Description: 3NvHcCh
 🥇 Outcome: F
 💰 Odds: N/A (None)
 📝 Comment: prominent, pushed along after 3 out, disputing third when fell 2 out
 ⏳ Days since previous run (to today's run): 41 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: pic-roc (Opening odds: 5.0)
@@ -862,9 +1022,9 @@
 🎨 Colour: ch
 👤 Trainer: Ben Pauling
 📍 Trainer Location: Naunton Downs, Gloucs
-📊 Trainer 14-Day Win %: 18%
+📌 Trainer 14 Days Percent: 18.0
 📌 Trainer 14 Days Wins: 4
-🏇 Trainer Runs (Last 14 Days): 22
+📌 Trainer 14 Days Runs: 22
 📊 Trainer RTF: 41%
 🏇 Jockey: Ben Jones
 🌱 Breeder: Cian O'Doherty
@@ -874,7 +1034,7 @@
 🔢 Number: 3
 🎯 Draw Position: 0.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 142.0
 📉 TS (Top Speed): 102.0
 🎲 Odds: 5.0 💰💰💰
@@ -885,44 +1045,60 @@
 🌱 Going Runs: 4
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 4 (22) | 18%% | Profit: -3.04
+📌 Stats Jockey Last 14 Wins: 4
+📌 Stats Jockey Last 14 Wins Pct: 18%
+📌 Stats Jockey Last 14 Profit: -3.04
+🏆 Jockey OVR: 6 (46) | 13%% | Profit: -7.75
+📌 Stats Jockey Ovr Wins: 6
+📌 Stats Jockey Ovr Wins Pct: 13%
+📌 Stats Jockey Ovr Profit: -7.75
+📊 Trainer Last 14: 4 (22) | 18%% | Profit: -6.32
+📌 Stats Trainer Last 14 Wins: 4
+📌 Stats Trainer Last 14 Wins Pct: 18%
+📌 Stats Trainer Last 14 Profit: -6.32
+💰 Trainer OVR: 11 (79) | 14%% | Profit: -26.18
+📌 Stats Trainer Ovr Wins: 11
+📌 Stats Trainer Ovr Wins Pct: 14%
+📌 Stats Trainer Ovr Profit: -26.18
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-13 13:38:00
 🏟️ Course: Exeter
 🗒️ Course Comments: right-handed, very undulating, testing track
-📏 Distance: 19.0 furlongs 🔼
+📏 Distance: 19.0 furlongs 🔽
 👜 Prize: 💰 8,303
 🏆 Race Description: 3NvHcCh
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: led, prominent when headed after 7th, pressed winner and going okay from 3 out, ridden after last, kept on well towards finish
 ⏳ Days since previous run (to today's run): 25 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-11-11 12:00:00
 🏟️ Course: Carlisle
 🗒️ Course Comments: right-handed, galloping, undulating and testing track
-📏 Distance: 20.0 furlongs 🔼
+📏 Distance: 20.0 furlongs 🔽
 👜 Prize: 💰 8,833
 🏆 Race Description: 3NvHcCh
 🥇 Outcome: F
 💰 Odds: N/A (None)
 📝 Comment: led, sprawled on landing and fell 5th
 ⏳ Days since previous run (to today's run): 63 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-04-27 16:20:00
 🏟️ Course: Sandown
 🗒️ Course Comments: right-handed, galloping, testing track
-📏 Distance: 20.0 furlongs 🔼
+📏 Distance: 20.0 furlongs 🔽
 👜 Prize: 💰 18,210
 🏆 Race Description: 2HcH
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, outpaced and lost position when not fluent 3 out, rallied 2 out, stayed on and went second run-in, no match for winner
 ⏳ Days since previous run (to today's run): 197 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: saint-davy (Opening odds: 6.5)
@@ -932,9 +1108,9 @@
 🎨 Colour: b
 👤 Trainer: Jonjo & A J Oneill
 📍 Trainer Location: Cheltenham, Gloucs
-📊 Trainer 14-Day Win %: 14%
+📌 Trainer 14 Days Percent: 14.0
 📌 Trainer 14 Days Wins: 2
-🏇 Trainer Runs (Last 14 Days): 14
+📌 Trainer 14 Days Runs: 14
 📊 Trainer RTF: 57%
 🏇 Jockey: Jonjo Oneill Jr
 🌱 Breeder: A & C Choupeault & E Rineau
@@ -944,7 +1120,7 @@
 🔢 Number: 1
 🎯 Draw Position: 0.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 143.0
 📉 TS (Top Speed): 114.0
 🎲 Odds: 6.5 💰💰💰💰
@@ -955,44 +1131,60 @@
 🌱 Going Runs: 4
 🏆 Going Wins: 1
 🏥 Medical History: None
+🏇 Jockey Stats: 2 (10) | 20%% | Profit: +2.50
+📌 Stats Jockey Last 14 Wins: 2
+📌 Stats Jockey Last 14 Wins Pct: 20%
+📌 Stats Jockey Last 14 Profit: +2.50
+🏆 Jockey OVR: 9 (78) | 12%% | Profit: +8.38
+📌 Stats Jockey Ovr Wins: 9
+📌 Stats Jockey Ovr Wins Pct: 12%
+📌 Stats Jockey Ovr Profit: +8.38
+📊 Trainer Last 14: 2 (14) | 14%% | Profit: -2.00
+📌 Stats Trainer Last 14 Wins: 2
+📌 Stats Trainer Last 14 Wins Pct: 14%
+📌 Stats Trainer Last 14 Profit: -2.00
+💰 Trainer OVR: 2 (12) | 17%% | Profit: +22.00
+📌 Stats Trainer Ovr Wins: 2
+📌 Stats Trainer Ovr Wins Pct: 17%
+📌 Stats Trainer Ovr Profit: +22.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-11 13:15:00
 🏟️ Course: Ffos Las
 🗒️ Course Comments: left-handed, flat, galloping
-📏 Distance: 19.5 furlongs 🔼
+📏 Distance: 19.5 furlongs 🔽
 👜 Prize: 💰 26,790
 🏆 Race Description: 1NvChG2
 🥇 Outcome: F
 💰 Odds: N/A (None)
 📝 Comment: midfield, headway before 4 out, outpaced after 4 out, fell 3 out
 ⏳ Days since previous run (to today's run): 27 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-06 14:33:00
 🏟️ Course: Sandown
 🗒️ Course Comments: right-handed, galloping, testing track
-📏 Distance: 24.0 furlongs 🔽
+📏 Distance: 24.0 furlongs 🔼
 👜 Prize: 💰 37,018
 🏆 Race Description: 1NvChG2
 🥇 Outcome: 3 🥉
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, prominent, pecked on landing 12th, outpaced when not fluent 2 out, soon ridden, rallied and disputing second when jockey dropped whip run-in, no extra towards finish
 ⏳ Days since previous run (to today's run): 35 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-04-25 15:20:00
 🏟️ Course: Warwick
 🗒️ Course Comments: left-handed, sharp track
-📏 Distance: 25.0 furlongs 🔽
+📏 Distance: 25.0 furlongs 🔼
 👜 Prize: 💰 10,562
 🏆 Race Description: 3HcH
 🥇 Outcome: NR ❗
 💰 Odds: N/A (0.0)
 📝 Comment: unsuitable ground
 ⏳ Days since previous run (to today's run): 224 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: toss-of-a-coin (Opening odds: 9.0)
@@ -1002,9 +1194,9 @@
 🎨 Colour: b
 👤 Trainer: Paul Nicholls
 📍 Trainer Location: Ditcheat, Somerset
-📊 Trainer 14-Day Win %: 11%
+📌 Trainer 14 Days Percent: 11.0
 📌 Trainer 14 Days Wins: 4
-🏇 Trainer Runs (Last 14 Days): 36
+📌 Trainer 14 Days Runs: 36
 📊 Trainer RTF: 42%
 🏇 Jockey: Harry Cobden
 🌱 Breeder: Margaret Treacy On His Own Stables
@@ -1025,44 +1217,60 @@
 🌱 Going Runs: 3
 🏆 Going Wins: 1
 🏥 Medical History: None
+🏇 Jockey Stats: 5 (36) | 14%% | Profit: -14.65
+📌 Stats Jockey Last 14 Wins: 5
+📌 Stats Jockey Last 14 Wins Pct: 14%
+📌 Stats Jockey Last 14 Profit: -14.65
+🏆 Jockey OVR: 46 (197) | 23%% | Profit: -25.32
+📌 Stats Jockey Ovr Wins: 46
+📌 Stats Jockey Ovr Wins Pct: 23%
+📌 Stats Jockey Ovr Profit: -25.32
+📊 Trainer Last 14: 4 (36) | 11%% | Profit: -22.18
+📌 Stats Trainer Last 14 Wins: 4
+📌 Stats Trainer Last 14 Wins Pct: 11%
+📌 Stats Trainer Last 14 Profit: -22.18
+💰 Trainer OVR: 48 (198) | 24%% | Profit: -8.48
+📌 Stats Trainer Ovr Wins: 48
+📌 Stats Trainer Ovr Wins Pct: 24%
+📌 Stats Trainer Ovr Profit: -8.48
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2024-12-19 13:55:00
 🏟️ Course: Exeter
 🗒️ Course Comments: right-handed, very undulating, testing track
-📏 Distance: 24.5 furlongs 🔽
+📏 Distance: 24.5 furlongs 🔼
 👜 Prize: 💰 10,298
 🏆 Race Description: 3HcCh
 🥇 Outcome: PU
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, not fluent 13th, weakened after 5 out, pulled up before 4 out (jockey said gelding stopped quickly; vet said a post-race examination revealed no abnormalities)
 ⏳ Days since previous run (to today's run): 50 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-11-24 13:25:00
 🏟️ Course: Uttoxeter
 🗒️ Course Comments: left-handed, fairly galloping, track
-📏 Distance: 24.0 furlongs 🔽
+📏 Distance: 24.0 furlongs 🔼
 👜 Prize: 💰 6,179
 🏆 Race Description: 3NvHcCh
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: led, pressed leader before 2nd, hit on nose by rival's whip after 2 out (usual 3 out), disputed lead last, lost position inside final 110yds, kept on
 ⏳ Days since previous run (to today's run): 25 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-04-08 15:08:00
 🏟️ Course: Wincanton
 🗒️ Course Comments: right-handed, galloping track
-📏 Distance: 20.0 furlongs 🔼
+📏 Distance: 20.0 furlongs 🔽
 👜 Prize: 💰 7,922
 🏆 Race Description: 3HcH
 🥇 Outcome: 4
 💰 Odds: N/A (None)
 📝 Comment: disputed lead, raced in second 2nd, not fluent 3rd, pressed leader after 3 out, briefly led home turn, weakened last
 ⏳ Days since previous run (to today's run): 229 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: hillcrest (Opening odds: 17.0)
@@ -1072,9 +1280,9 @@
 🎨 Colour: br
 👤 Trainer: Henry Daly
 📍 Trainer Location: Stanton Lacy, Shropshire
-📊 Trainer 14-Day Win %: 13%
+📌 Trainer 14 Days Percent: 13.0
 📌 Trainer 14 Days Wins: 2
-🏇 Trainer Runs (Last 14 Days): 15
+📌 Trainer 14 Days Runs: 15
 📊 Trainer RTF: 27%
 🏇 Jockey: Sam Twiston-Davies
 🌱 Breeder: A Craigie
@@ -1095,44 +1303,60 @@
 🌱 Going Runs: 3
 🏆 Going Wins: 1
 🏥 Medical History: None
+🏇 Jockey Stats: 5 (36) | 14%% | Profit: -8.77
+📌 Stats Jockey Last 14 Wins: 5
+📌 Stats Jockey Last 14 Wins Pct: 14%
+📌 Stats Jockey Last 14 Profit: -8.77
+🏆 Jockey OVR: 9 (101) | 9%% | Profit: -48.84
+📌 Stats Jockey Ovr Wins: 9
+📌 Stats Jockey Ovr Wins Pct: 9%
+📌 Stats Jockey Ovr Profit: -48.84
+📊 Trainer Last 14: 2 (15) | 13%% | Profit: -7.50
+📌 Stats Trainer Last 14 Wins: 2
+📌 Stats Trainer Last 14 Wins Pct: 13%
+📌 Stats Trainer Last 14 Profit: -7.50
+💰 Trainer OVR: 2 (14) | 14%% | Profit: -7.17
+📌 Stats Trainer Ovr Wins: 2
+📌 Stats Trainer Ovr Wins Pct: 14%
+📌 Stats Trainer Ovr Profit: -7.17
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-11 13:15:00
 🏟️ Course: Ffos Las
 🗒️ Course Comments: left-handed, flat, galloping
-📏 Distance: 19.5 furlongs 🔼
+📏 Distance: 19.5 furlongs 🔽
 👜 Prize: 💰 26,790
 🏆 Race Description: 1NvChG2
 🥇 Outcome: UR
 💰 Odds: N/A (None)
 📝 Comment: midfield, headway before 6th, badly hampered by faller and unseated after 3 out
 ⏳ Days since previous run (to today's run): 27 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-14 12:40:00
 🏟️ Course: Cheltenham
 🗒️ Course Comments: left-handed, galloping, undulating and testing track with stiff fences
-📏 Distance: 25.5 furlongs 🔽
+📏 Distance: 25.5 furlongs 🔼
 👜 Prize: 💰 10,562
 🏆 Race Description: 3NvHcCh
 🥇 Outcome: PU
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, not fluent 2nd, towards rear when mistake 10th, mistake 12th, not fluent 14th, struggling when not fluent 5 out, soon pulled up
 ⏳ Days since previous run (to today's run): 28 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-11-24 13:25:00
 🏟️ Course: Uttoxeter
 🗒️ Course Comments: left-handed, fairly galloping, track
-📏 Distance: 24.0 furlongs 🔽
+📏 Distance: 24.0 furlongs 🔼
 👜 Prize: 💰 6,179
 🏆 Race Description: 3NvHcCh
 🥇 Outcome: NR ❗
 💰 Odds: N/A (0.0)
 📝 Comment: self certificate
 ⏳ Days since previous run (to today's run): 19 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: menaggio (Opening odds: 21.0)
@@ -1142,9 +1366,9 @@
 🎨 Colour: b
 👤 Trainer: Alan King
 📍 Trainer Location: Barbury Castle, Wilts
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 21
+📌 Trainer 14 Days Runs: 21
 📊 Trainer RTF: 43%
 🏇 Jockey: Tom Cannon
 🌱 Breeder: Ormond Bloodstock Ltd
@@ -1154,7 +1378,7 @@
 🔢 Number: 5
 🎯 Draw Position: 0.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 143.0
 📉 TS (Top Speed): 107.0
 🎲 Odds: 21.0 💰💰💰💰💰💰
@@ -1165,44 +1389,60 @@
 🌱 Going Runs: 1
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 1 (22) | 5%% | Profit: -18.25
+📌 Stats Jockey Last 14 Wins: 1
+📌 Stats Jockey Last 14 Wins Pct: 5%
+📌 Stats Jockey Last 14 Profit: -18.25
+🏆 Jockey OVR: 9 (109) | 8%% | Profit: -61.57
+📌 Stats Jockey Ovr Wins: 9
+📌 Stats Jockey Ovr Wins Pct: 8%
+📌 Stats Jockey Ovr Profit: -61.57
+📊 Trainer Last 14: 0 (20) | 0%% | Profit: -20.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -20.00
+💰 Trainer OVR: 9 (114) | 8%% | Profit: -68.57
+📌 Stats Trainer Ovr Wins: 9
+📌 Stats Trainer Ovr Wins Pct: 8%
+📌 Stats Trainer Ovr Profit: -68.57
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2024-12-28 15:35:00
 🏟️ Course: Newbury
 🗒️ Course Comments: left-handed, galloping track with stiff fences
-📏 Distance: 22.5 furlongs 🔼
+📏 Distance: 22.5 furlongs 🔽
 👜 Prize: 💰 11,090
 🏆 Race Description: 3NvHcCh
 🥇 Outcome: PU
 💰 Odds: N/A (None)
 📝 Comment: prominent, weakened quickly after 13th, soon pulled up (vet said gelding bled from the nose)
 ⏳ Days since previous run (to today's run): 41 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-11-18 13:50:00
 🏟️ Course: Plumpton
 🗒️ Course Comments: left-handed, sharp, undulating track
-📏 Distance: 20.0 furlongs 🔼
+📏 Distance: 20.0 furlongs 🔽
 👜 Prize: 💰 10,562
 🏆 Race Description: 3NvHcCh
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: raced in second, pressed leader 4 out, led after 3 out, went further clear approaching last, eased towards finish, easily
 ⏳ Days since previous run (to today's run): 40 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-10-21 14:55:00
 🏟️ Course: Plumpton
 🗒️ Course Comments: left-handed, sharp, undulating track
-📏 Distance: 20.0 furlongs 🔼
+📏 Distance: 20.0 furlongs 🔽
 👜 Prize: 💰 9,242
 🏆 Race Description: 3HcCh
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: raced in second, headway when unbalanced on turn after 2 out (usual 3 out), soon challenging, led last (usual 2 out), ridden and went clear run-in, readily
 ⏳ Days since previous run (to today's run): 27 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: emailandy (Opening odds: 21.0)
@@ -1212,9 +1452,9 @@
 🎨 Colour: b
 👤 Trainer: Paul Nicholls
 📍 Trainer Location: Ditcheat, Somerset
-📊 Trainer 14-Day Win %: 11%
+📌 Trainer 14 Days Percent: 11.0
 📌 Trainer 14 Days Wins: 4
-🏇 Trainer Runs (Last 14 Days): 36
+📌 Trainer 14 Days Runs: 36
 📊 Trainer RTF: 42%
 🏇 Jockey: Freddie Gingell(3)
 🌱 Breeder: Peter & Sandra McCarthy
@@ -1224,7 +1464,7 @@
 🔢 Number: 4
 🎯 Draw Position: 0.0
 🎭 Headgear: tp
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): Unknown
 📉 TS (Top Speed): Unknown
 🎲 Odds: 21.0 💰💰💰💰💰💰
@@ -1235,44 +1475,60 @@
 🌱 Going Runs: 1
 🏆 Going Wins: 0
 🏥 Medical History: 2023-07-11: Wind Surgery
+🏇 Jockey Stats: 2 (9) | 22%% | Profit: -3.56
+📌 Stats Jockey Last 14 Wins: 2
+📌 Stats Jockey Last 14 Wins Pct: 22%
+📌 Stats Jockey Last 14 Profit: -3.56
+🏆 Jockey OVR: 2 (11) | 18%% | Profit: +2.50
+📌 Stats Jockey Ovr Wins: 2
+📌 Stats Jockey Ovr Wins Pct: 18%
+📌 Stats Jockey Ovr Profit: +2.50
+📊 Trainer Last 14: 4 (36) | 11%% | Profit: -22.18
+📌 Stats Trainer Last 14 Wins: 4
+📌 Stats Trainer Last 14 Wins Pct: 11%
+📌 Stats Trainer Last 14 Profit: -22.18
+💰 Trainer OVR: 48 (198) | 24%% | Profit: -8.48
+📌 Stats Trainer Ovr Wins: 48
+📌 Stats Trainer Ovr Wins Pct: 24%
+📌 Stats Trainer Ovr Profit: -8.48
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2024-12-26 15:40:00
 🏟️ Course: Kempton
 🗒️ Course Comments: right-handed, sharpish, flat track
-📏 Distance: 21.0 furlongs 🔼
+📏 Distance: 21.0 furlongs 🔽
 👜 Prize: 💰 12,674
 🏆 Race Description: 3HcH
 🥇 Outcome: PU
 💰 Odds: N/A (None)
 📝 Comment: whipped round start and lost many lengths start, detached when pulled up after 1st
 ⏳ Days since previous run (to today's run): 43 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-11-16 14:55:00
 🏟️ Course: Cheltenham
 🗒️ Course Comments: left-handed, galloping, undulating and testing track with stiff fences
-📏 Distance: 24.0 furlongs 🔽
+📏 Distance: 24.0 furlongs 🔼
 👜 Prize: 💰 15,609
 🏆 Race Description: 2HcH
 🥇 Outcome: 12
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, weakened after 2 out
 ⏳ Days since previous run (to today's run): 40 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-04-27 16:20:00
 🏟️ Course: Sandown
 🗒️ Course Comments: right-handed, galloping, testing track
-📏 Distance: 20.0 furlongs 🔼
+📏 Distance: 20.0 furlongs 🔽
 👜 Prize: 💰 18,210
 🏆 Race Description: 2HcH
 🥇 Outcome: 9
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, dropped to midfield 2nd, weakened before 2 out
 ⏳ Days since previous run (to today's run): 202 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🔹 ALL RACES THIS COURSE (Grouped by Horse)
@@ -1283,9 +1539,9 @@
 🎨 Colour: b
 👤 Trainer: Warren Greatrex
 📍 Trainer Location: Upper Lambourn, Berks
-📊 Trainer 14-Day Win %: 8%
+📌 Trainer 14 Days Percent: 8.0
 📌 Trainer 14 Days Wins: 1
-🏇 Trainer Runs (Last 14 Days): 12
+📌 Trainer 14 Days Runs: 12
 📊 Trainer RTF: 33%
 🏇 Jockey: James Bowen
 🌱 Breeder: Mrs Karine Perreau
@@ -1295,7 +1551,7 @@
 🔢 Number: 8
 🎯 Draw Position: 0.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 148.0
 📉 TS (Top Speed): 110.0
 🎲 Odds: 3.0 💰💰
@@ -1306,6 +1562,22 @@
 🌱 Going Runs: 8
 🏆 Going Wins: 2
 🏥 Medical History: None
+🏇 Jockey Stats: 4 (24) | 17%% | Profit: -9.92
+📌 Stats Jockey Last 14 Wins: 4
+📌 Stats Jockey Last 14 Wins Pct: 17%
+📌 Stats Jockey Last 14 Profit: -9.92
+🏆 Jockey OVR: 11 (76) | 14%% | Profit: -18.35
+📌 Stats Jockey Ovr Wins: 11
+📌 Stats Jockey Ovr Wins Pct: 14%
+📌 Stats Jockey Ovr Profit: -18.35
+📊 Trainer Last 14: 1 (12) | 8%% | Profit: -7.00
+📌 Stats Trainer Last 14 Wins: 1
+📌 Stats Trainer Last 14 Wins Pct: 8%
+📌 Stats Trainer Last 14 Profit: -7.00
+💰 Trainer OVR: 3 (45) | 7%% | Profit: -23.00
+📌 Stats Trainer Ovr Wins: 3
+📌 Stats Trainer Ovr Wins Pct: 7%
+📌 Stats Trainer Ovr Profit: -23.00
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -1319,7 +1591,7 @@
 💰 Odds: N/A (None)
 📝 Comment: jumped well, in touch with leaders, headway and prominent on outer home turn, led after 4 out, pushed out, readily
 ⏳ Days since previous run (to today's run): 51 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: toss-of-a-coin (Opening odds: 9.0)
@@ -1329,9 +1601,9 @@
 🎨 Colour: b
 👤 Trainer: Paul Nicholls
 📍 Trainer Location: Ditcheat, Somerset
-📊 Trainer 14-Day Win %: 11%
+📌 Trainer 14 Days Percent: 11.0
 📌 Trainer 14 Days Wins: 4
-🏇 Trainer Runs (Last 14 Days): 36
+📌 Trainer 14 Days Runs: 36
 📊 Trainer RTF: 42%
 🏇 Jockey: Harry Cobden
 🌱 Breeder: Margaret Treacy On His Own Stables
@@ -1352,20 +1624,36 @@
 🌱 Going Runs: 3
 🏆 Going Wins: 1
 🏥 Medical History: None
+🏇 Jockey Stats: 5 (36) | 14%% | Profit: -14.65
+📌 Stats Jockey Last 14 Wins: 5
+📌 Stats Jockey Last 14 Wins Pct: 14%
+📌 Stats Jockey Last 14 Profit: -14.65
+🏆 Jockey OVR: 46 (197) | 23%% | Profit: -25.32
+📌 Stats Jockey Ovr Wins: 46
+📌 Stats Jockey Ovr Wins Pct: 23%
+📌 Stats Jockey Ovr Profit: -25.32
+📊 Trainer Last 14: 4 (36) | 11%% | Profit: -22.18
+📌 Stats Trainer Last 14 Wins: 4
+📌 Stats Trainer Last 14 Wins Pct: 11%
+📌 Stats Trainer Last 14 Profit: -22.18
+💰 Trainer OVR: 48 (198) | 24%% | Profit: -8.48
+📌 Stats Trainer Ovr Wins: 48
+📌 Stats Trainer Ovr Wins Pct: 24%
+📌 Stats Trainer Ovr Profit: -8.48
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2024-03-01 15:35:00
 🏟️ Course: Newbury
 🗒️ Course Comments: left-handed, galloping track with stiff fences
-📏 Distance: 20.5 furlongs 🔼
+📏 Distance: 20.5 furlongs 🔽
 👜 Prize: 💰 5,446
 🏆 Race Description: 3NvH
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: made all, set steady pace, not fluent 4 out, faced challenge when not fluent 2 out, ridden run-in, soon edged right, kept on when against near rail inside final furlong (jockey said gelding hung right-handed under pressure)
 ⏳ Days since previous run (to today's run): 343 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: menaggio (Opening odds: 21.0)
@@ -1375,9 +1663,9 @@
 🎨 Colour: b
 👤 Trainer: Alan King
 📍 Trainer Location: Barbury Castle, Wilts
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 21
+📌 Trainer 14 Days Runs: 21
 📊 Trainer RTF: 43%
 🏇 Jockey: Tom Cannon
 🌱 Breeder: Ormond Bloodstock Ltd
@@ -1387,7 +1675,7 @@
 🔢 Number: 5
 🎯 Draw Position: 0.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 143.0
 📉 TS (Top Speed): 107.0
 🎲 Odds: 21.0 💰💰💰💰💰💰
@@ -1398,20 +1686,36 @@
 🌱 Going Runs: 1
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 1 (22) | 5%% | Profit: -18.25
+📌 Stats Jockey Last 14 Wins: 1
+📌 Stats Jockey Last 14 Wins Pct: 5%
+📌 Stats Jockey Last 14 Profit: -18.25
+🏆 Jockey OVR: 9 (109) | 8%% | Profit: -61.57
+📌 Stats Jockey Ovr Wins: 9
+📌 Stats Jockey Ovr Wins Pct: 8%
+📌 Stats Jockey Ovr Profit: -61.57
+📊 Trainer Last 14: 0 (20) | 0%% | Profit: -20.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -20.00
+💰 Trainer OVR: 9 (114) | 8%% | Profit: -68.57
+📌 Stats Trainer Ovr Wins: 9
+📌 Stats Trainer Ovr Wins Pct: 8%
+📌 Stats Trainer Ovr Profit: -68.57
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2024-12-28 15:35:00
 🏟️ Course: Newbury
 🗒️ Course Comments: left-handed, galloping track with stiff fences
-📏 Distance: 22.5 furlongs 🔼
+📏 Distance: 22.5 furlongs 🔽
 👜 Prize: 💰 11,090
 🏆 Race Description: 3NvHcCh
 🥇 Outcome: PU
 💰 Odds: N/A (None)
 📝 Comment: prominent, weakened quickly after 13th, soon pulled up (vet said gelding bled from the nose)
 ⏳ Days since previous run (to today's run): 41 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🔹 ALL RACES THIS DISTANCE (Grouped by Horse)

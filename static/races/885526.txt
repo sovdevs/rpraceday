@@ -17,9 +17,9 @@
 🎨 Colour: b
 👤 Trainer: Stuart Williams
 📍 Trainer Location: Newmarket, Suffolk
-📊 Trainer 14-Day Win %: 21%
+📌 Trainer 14 Days Percent: 21.0
 📌 Trainer 14 Days Wins: 3
-🏇 Trainer Runs (Last 14 Days): 14
+📌 Trainer 14 Days Runs: 14
 📊 Trainer RTF: 64%
 🏇 Jockey: Marco Ghiani
 🌱 Breeder: Cheveley Park Stud Limited
@@ -29,7 +29,7 @@
 🔢 Number: 8
 🎯 Draw Position: 1.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 108.0
 📉 TS (Top Speed): 95.0
 🎲 Odds: 4.0 💰💰💰
@@ -40,6 +40,22 @@
 🌱 Going Runs: 6
 🏆 Going Wins: 2
 🏥 Medical History: None
+🏇 Jockey Stats: 1 (14) | 7%% | Profit: -12.00
+📌 Stats Jockey Last 14 Wins: 1
+📌 Stats Jockey Last 14 Wins Pct: 7%
+📌 Stats Jockey Last 14 Profit: -12.00
+🏆 Jockey OVR: 37 (297) | 12%% | Profit: -72.88
+📌 Stats Jockey Ovr Wins: 37
+📌 Stats Jockey Ovr Wins Pct: 12%
+📌 Stats Jockey Ovr Profit: -72.88
+📊 Trainer Last 14: 3 (14) | 21%% | Profit: -5.55
+📌 Stats Trainer Last 14 Wins: 3
+📌 Stats Trainer Last 14 Wins Pct: 21%
+📌 Stats Trainer Last 14 Profit: -5.55
+💰 Trainer OVR: 30 (192) | 16%% | Profit: -59.70
+📌 Stats Trainer Ovr Wins: 30
+📌 Stats Trainer Ovr Wins Pct: 16%
+📌 Stats Trainer Ovr Profit: -59.70
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -53,7 +69,7 @@
 💰 Odds: N/A (None)
 📝 Comment: in rear, headway from 2f out, disputing second inside final furlong, no extra towards finish
 ⏳ Days since previous run (to today's run): 21 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2025-01-13 14:00:00
 🏟️ Course: Lingfield (AW)
@@ -65,7 +81,7 @@
 💰 Odds: N/A (None)
 📝 Comment: in rear, took keen hold over 3f out, headway from over 1f out, kept on well inside final furlong, went second final 110yds, lost second final strides
 ⏳ Days since previous run (to today's run): 4 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-12-31 13:14:00
 🏟️ Course: Lingfield (AW)
@@ -77,7 +93,7 @@
 💰 Odds: N/A (None)
 📝 Comment: towards rear, took keen hold halfway, shaken up over 1f out, headway inside final furlong, ridden inside final 110yds, went second final strides (vet said gelding lost his left-fore shoe)
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-12-27 18:30:00
 🏟️ Course: Wolverhampton (AW)
@@ -89,7 +105,7 @@
 💰 Odds: N/A (None)
 📝 Comment: visibility reduced by fog, in rear, headway 2f out, went second inside final 110yds, ran on well
 ⏳ Days since previous run (to today's run): 3 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-12-05 17:10:00
 🏟️ Course: Chelmsford (AW)
@@ -101,7 +117,7 @@
 💰 Odds: N/A (None)
 📝 Comment: prominent, bit short of room when pressed leaders over 1f out, ridden inside final furlong, kept on inside final 110yds
 ⏳ Days since previous run (to today's run): 22 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 6
 📅 Race Date: 2024-09-15 13:05:00
 🏟️ Course: Doncaster
@@ -113,7 +129,7 @@
 💰 Odds: N/A (None)
 📝 Comment: raced near side, in rear, brief headway over 1f out, no impression, 6th of 8 in group
 ⏳ Days since previous run (to today's run): 81 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 7
 📅 Race Date: 2024-09-07 16:05:00
 🏟️ Course: Ascot
@@ -125,7 +141,7 @@
 💰 Odds: N/A (0.0)
 📝 Comment: unsuitable ground
 ⏳ Days since previous run (to today's run): 7 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 8
 📅 Race Date: 2024-08-24 15:55:00
 🏟️ Course: Goodwood
@@ -137,7 +153,7 @@
 💰 Odds: N/A (None)
 📝 Comment: midfield but in touch with leaders on far side of group, headway and pressed leaders over 2f out, ridden over 1f out, weakened inside final furlong
 ⏳ Days since previous run (to today's run): 14 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 9
 📅 Race Date: 2024-08-08 18:00:00
 🏟️ Course: Chepstow
@@ -149,7 +165,7 @@
 💰 Odds: N/A (None)
 📝 Comment: dwelt start, in rear, headway over 1f out, went third inside final furlong, no extra inside final 110yds
 ⏳ Days since previous run (to today's run): 15 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 10
 📅 Race Date: 2024-08-04 17:15:00
 🏟️ Course: Haydock
@@ -161,7 +177,7 @@
 💰 Odds: N/A (None)
 📝 Comment: towards rear, headway from over 2f out, prominent 1f out, no extra inside final 110yds
 ⏳ Days since previous run (to today's run): 4 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 11
 📅 Race Date: 2024-07-27 16:25:00
 🏟️ Course: Ascot
@@ -173,7 +189,7 @@
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, towards rear, headway but waiting for room from over 2f out, switched left and in the clear inside final furlong, went fourth towards finish, kept on well (jockey said gelding was denied a clear run from approximately 2f out)
 ⏳ Days since previous run (to today's run): 8 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 12
 📅 Race Date: 2024-07-25 18:30:00
 🏟️ Course: Yarmouth
@@ -185,7 +201,7 @@
 💰 Odds: N/A (None)
 📝 Comment: raced centre, midfield, steady headway over 2f out, no extra final 110yds, 3rd of 6 in group
 ⏳ Days since previous run (to today's run): 1 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 13
 📅 Race Date: 2024-07-13 12:45:00
 🏟️ Course: Ascot
@@ -197,7 +213,7 @@
 💰 Odds: N/A (None)
 📝 Comment: midfield towards near side, towards rear and not clear run when groups merged over 2f out, not clear run over 1f out, keeping on when short of room final 110yds, not recover
 ⏳ Days since previous run (to today's run): 12 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 14
 📅 Race Date: 2024-07-05 14:05:00
 🏟️ Course: Sandown
@@ -209,7 +225,7 @@
 💰 Odds: N/A (None)
 📝 Comment: held up in rear, ran on final furlong, went second final strides
 ⏳ Days since previous run (to today's run): 7 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: michaelas-boy (Opening odds: 4.0)
@@ -219,9 +235,9 @@
 🎨 Colour: ch
 👤 Trainer: Robert Cowell
 📍 Trainer Location: Six Mile Bottom, Cambs
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 4
+📌 Trainer 14 Days Runs: 4
 📊 Trainer RTF: 50%
 🏇 Jockey: Luke Morris
 🌱 Breeder: Redpender Stud Ltd
@@ -231,7 +247,7 @@
 🔢 Number: 3
 🎯 Draw Position: 5.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 105.0
 📉 TS (Top Speed): 89.0
 🎲 Odds: 4.0 💰💰💰
@@ -242,6 +258,22 @@
 🌱 Going Runs: 9
 🏆 Going Wins: 2
 🏥 Medical History: 2024-05-28: Wind Surgery
+🏇 Jockey Stats: 9 (48) | 19%% | Profit: -3.17
+📌 Stats Jockey Last 14 Wins: 9
+📌 Stats Jockey Last 14 Wins Pct: 19%
+📌 Stats Jockey Last 14 Profit: -3.17
+🏆 Jockey OVR: 104 (869) | 12%% | Profit: -171.24
+📌 Stats Jockey Ovr Wins: 104
+📌 Stats Jockey Ovr Wins Pct: 12%
+📌 Stats Jockey Ovr Profit: -171.24
+📊 Trainer Last 14: 0 (4) | 0%% | Profit: -4.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -4.00
+💰 Trainer OVR: 11 (147) | 7%% | Profit: -76.27
+📌 Stats Trainer Ovr Wins: 11
+📌 Stats Trainer Ovr Wins Pct: 7%
+📌 Stats Trainer Ovr Profit: -76.27
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -255,7 +287,7 @@
 💰 Odds: N/A (None)
 📝 Comment: disputed lead, led clearly after 2f, headed towards finish, lost second final strides
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2025-01-13 14:00:00
 🏟️ Course: Lingfield (AW)
@@ -267,7 +299,7 @@
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, prominent, short of room and stumbled over 3f out, led over 1f out, ridden and kept on final 110yds
 ⏳ Days since previous run (to today's run): 12 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-12-27 18:30:00
 🏟️ Course: Wolverhampton (AW)
@@ -279,7 +311,7 @@
 💰 Odds: N/A (None)
 📝 Comment: taken down early, visibility reduced by fog, pressed leader, ridden and led 1f out, kept on
 ⏳ Days since previous run (to today's run): 16 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-11-09 19:30:00
 🏟️ Course: Chelmsford (AW)
@@ -291,7 +323,7 @@
 💰 Odds: N/A (None)
 📝 Comment: led, ridden inside final 110yds, kept on but headed and no extra towards finish
 ⏳ Days since previous run (to today's run): 47 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-09-27 17:30:00
 🏟️ Course: Wolverhampton (AW)
@@ -303,7 +335,7 @@
 💰 Odds: N/A (0.0)
 📝 Comment: self certificate
 ⏳ Days since previous run (to today's run): 43 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 6
 📅 Race Date: 2024-09-14 13:35:00
 🏟️ Course: Lingfield (AW)
@@ -315,7 +347,7 @@
 💰 Odds: N/A (None)
 📝 Comment: prominent, disputed lead after 2f, lost second over 1f out, weakened inside final furlong
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 7
 📅 Race Date: 2024-09-02 14:35:00
 🏟️ Course: Chepstow
@@ -327,7 +359,7 @@
 💰 Odds: N/A (None)
 📝 Comment: raced in third, briefly disputed lead over 1f out, no extra and dropped to last inside final furlong
 ⏳ Days since previous run (to today's run): 11 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 8
 📅 Race Date: 2024-08-17 13:25:00
 🏟️ Course: Newbury
@@ -339,7 +371,7 @@
 💰 Odds: N/A (None)
 📝 Comment: prominent, ridden and went second inside final furlong, no extra and lost second final strides
 ⏳ Days since previous run (to today's run): 16 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 9
 📅 Race Date: 2024-05-09 12:30:00
 🏟️ Course: Chester
@@ -351,7 +383,7 @@
 💰 Odds: N/A (None)
 📝 Comment: ducked right start, raced in third, lost position 2f out, soon weakened
 ⏳ Days since previous run (to today's run): 100 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 10
 📅 Race Date: 2024-04-21 17:45:00
 🏟️ Course: Musselburgh
@@ -363,7 +395,7 @@
 💰 Odds: N/A (None)
 📝 Comment: pressed leader, weakened over 1f out
 ⏳ Days since previous run (to today's run): 17 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: we-never-stop (Opening odds: 6.5)
@@ -373,9 +405,9 @@
 🎨 Colour: b
 👤 Trainer: Kevin Ryan
 📍 Trainer Location: Hambleton, N Yorks
-📊 Trainer 14-Day Win %: 25%
+📌 Trainer 14 Days Percent: 25.0
 📌 Trainer 14 Days Wins: 1
-🏇 Trainer Runs (Last 14 Days): 4
+📌 Trainer 14 Days Runs: 4
 📊 Trainer RTF: 50%
 🏇 Jockey: Shane Gray
 🌱 Breeder: Padraig O'Reilly
@@ -385,7 +417,7 @@
 🔢 Number: 2
 🎯 Draw Position: 9.0
 🎭 Headgear: p
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 107.0
 📉 TS (Top Speed): 78.0
 🎲 Odds: 6.5 💰💰💰💰
@@ -396,80 +428,96 @@
 🌱 Going Runs: 4
 🏆 Going Wins: 1
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (3) | 0%% | Profit: -3.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: 0%
+📌 Stats Jockey Last 14 Profit: -3.00
+🏆 Jockey OVR: 5 (74) | 7%% | Profit: -43.79
+📌 Stats Jockey Ovr Wins: 5
+📌 Stats Jockey Ovr Wins Pct: 7%
+📌 Stats Jockey Ovr Profit: -43.79
+📊 Trainer Last 14: 1 (4) | 25%% | Profit: +0.20
+📌 Stats Trainer Last 14 Wins: 1
+📌 Stats Trainer Last 14 Wins Pct: 25%
+📌 Stats Trainer Last 14 Profit: +0.20
+💰 Trainer OVR: 5 (66) | 8%% | Profit: -39.82
+📌 Stats Trainer Ovr Wins: 5
+📌 Stats Trainer Ovr Wins Pct: 8%
+📌 Stats Trainer Ovr Profit: -39.82
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-17 14:10:00
 🏟️ Course: Newcastle (AW)
 🗒️ Course Comments: Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 23,193
 🏆 Race Description: 2Hc
 🥇 Outcome: 6
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, pressed leader on near side of group, led over 2f out, headed over 1f out, weakened inside final furlong
 ⏳ Days since previous run (to today's run): 21 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2025-01-11 15:15:00
 🏟️ Course: Chelmsford (AW)
 🗒️ Course Comments: Polytrack. Left-handed, flat track, circuit 8.5f
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 18,319
 🏆 Race Description: 3Hc
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: dwelt start, pulled hard, in touch with leaders, headway 2f out, kept on and went second inside final 110yds
 ⏳ Days since previous run (to today's run): 5 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2025-01-01 15:34:00
 🏟️ Course: Newcastle (AW)
 🗒️ Course Comments: Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 13,190
 🏆 Race Description: 2Hc
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: led but pestered, headed final 110yds, kept on
 ⏳ Days since previous run (to today's run): 9 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-12-14 17:45:00
 🏟️ Course: Southwell (AW)
 🗒️ Course Comments: Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 13,500
 🏆 Race Description: 2
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: pressed leader, soon led, faced challenge inside final furlong, headed post
 ⏳ Days since previous run (to today's run): 17 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-11-02 18:50:00
 🏟️ Course: Southwell (AW)
 🗒️ Course Comments: Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 7,956
 🏆 Race Description: 3Hc
 🥇 Outcome: 1 🥇
 💰 Odds: N/A (None)
 📝 Comment: pressed leader, ridden to lead over 1f out, headed inside final furlong, kept on inside final 110yds, hampered final strides, led again post (trainer's rep said, regarding the apparent improvement in form, that gelding had benefitted from the application of first-time blinkers on this occasion in addition to appreciating the surface on his all-weather debut)
 ⏳ Days since previous run (to today's run): 41 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 6
 📅 Race Date: 2024-08-21 12:50:00
 🏟️ Course: York
 🗒️ Course Comments: left-handed, galloping track
-📏 Distance: 5.5 furlongs 🔽
+📏 Distance: 5.5 furlongs 🔼
 👜 Prize: 💰 61,848
 🏆 Race Description: 2Hc
 🥇 Outcome: 22
 💰 Odds: N/A (None)
 📝 Comment: bumped start, raced near side, in touch with leaders, bit short of room over 1f out, soon weakened, 11th of 11 in group
 ⏳ Days since previous run (to today's run): 73 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 7
 📅 Race Date: 2024-08-01 15:45:00
 🏟️ Course: Goodwood
@@ -481,7 +529,7 @@
 💰 Odds: N/A (None)
 📝 Comment: ducked sharply left start, prominent, outpaced from over 1f out
 ⏳ Days since previous run (to today's run): 19 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 8
 📅 Race Date: 2024-07-13 13:35:00
 🏟️ Course: York
@@ -493,7 +541,7 @@
 💰 Odds: N/A (0.0)
 📝 Comment: self certificate
 ⏳ Days since previous run (to today's run): 19 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 9
 📅 Race Date: 2024-06-22 15:55:00
 🏟️ Course: Redcar
@@ -505,31 +553,31 @@
 💰 Odds: N/A (None)
 📝 Comment: made all, ridden over 1f out, kept on well, readily
 ⏳ Days since previous run (to today's run): 20 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 10
 📅 Race Date: 2024-06-15 14:35:00
 🏟️ Course: York
 🗒️ Course Comments: left-handed, galloping track
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 51,540
 🏆 Race Description: 23yHc
 🥇 Outcome: 9
 💰 Odds: N/A (None)
 📝 Comment: ducked left start, led but pestered, faced challenges 2f out, soon headed and lost ground, weakened quickly from 1f out
 ⏳ Days since previous run (to today's run): 7 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 11
 📅 Race Date: 2024-05-04 15:45:00
 🏟️ Course: Newmarket
 🗒️ Course Comments: right-handed, galloping track
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 25,770
 🏆 Race Description: 23yHc
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: prominent, weakened over 1f out
 ⏳ Days since previous run (to today's run): 41 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: hiya-maite (Opening odds: 8.0)
@@ -539,9 +587,9 @@
 🎨 Colour: b
 👤 Trainer: Roy Bowring
 📍 Trainer Location: Edwinstowe, Notts
-📊 Trainer 14-Day Win %: 33%
+📌 Trainer 14 Days Percent: 33.0
 📌 Trainer 14 Days Wins: 1
-🏇 Trainer Runs (Last 14 Days): 3
+📌 Trainer 14 Days Runs: 3
 📊 Trainer RTF: 67%
 🏇 Jockey: Lewis Edmunds
 🌱 Breeder: S R Bowring
@@ -551,7 +599,7 @@
 🔢 Number: 4
 🎯 Draw Position: 2.0
 🎭 Headgear: t
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 105.0
 📉 TS (Top Speed): 85.0
 🎲 Odds: 8.0 💰💰💰💰
@@ -562,6 +610,22 @@
 🌱 Going Runs: 10
 🏆 Going Wins: 2
 🏥 Medical History: None
+🏇 Jockey Stats: 2 (28) | 7%% | Profit: -13.00
+📌 Stats Jockey Last 14 Wins: 2
+📌 Stats Jockey Last 14 Wins Pct: 7%
+📌 Stats Jockey Last 14 Profit: -13.00
+🏆 Jockey OVR: 33 (235) | 14%% | Profit: +29.89
+📌 Stats Jockey Ovr Wins: 33
+📌 Stats Jockey Ovr Wins Pct: 14%
+📌 Stats Jockey Ovr Profit: +29.89
+📊 Trainer Last 14: 1 (3) | 33%% | Profit: +4.50
+📌 Stats Trainer Last 14 Wins: 1
+📌 Stats Trainer Last 14 Wins Pct: 33%
+📌 Stats Trainer Last 14 Profit: +4.50
+💰 Trainer OVR: 7 (42) | 17%% | Profit: +2.94
+📌 Stats Trainer Ovr Wins: 7
+📌 Stats Trainer Ovr Wins Pct: 17%
+📌 Stats Trainer Ovr Profit: +2.94
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -575,7 +639,7 @@
 💰 Odds: N/A (None)
 📝 Comment: led, faced challenges over 1f out, headed then lost second inside final furlong, no extra towards finish
 ⏳ Days since previous run (to today's run): 15 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-10 18:00:00
 🏟️ Course: Southwell (AW)
@@ -587,19 +651,19 @@
 💰 Odds: N/A (None)
 📝 Comment: prominent, disputed lead after 2f, lost second and weakened from over 1f out
 ⏳ Days since previous run (to today's run): 44 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-11-02 18:50:00
 🏟️ Course: Southwell (AW)
 🗒️ Course Comments: Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 7,956
 🏆 Race Description: 3Hc
 🥇 Outcome: 10
 💰 Odds: N/A (None)
 📝 Comment: led narrowly, ridden and headed over 1f out, weakened inside final furlong
 ⏳ Days since previous run (to today's run): 37 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-10-16 15:50:00
 🏟️ Course: Nottingham
@@ -611,31 +675,31 @@
 💰 Odds: N/A (None)
 📝 Comment: prominent, lost position then outpaced over 3f out, weakened gradually from 2f out
 ⏳ Days since previous run (to today's run): 17 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-09-14 13:25:00
 🏟️ Course: Doncaster
 🗒️ Course Comments: left-handed, galloping track
-📏 Distance: 5.5 furlongs 🔽
+📏 Distance: 5.5 furlongs 🔼
 👜 Prize: 💰 51,540
 🏆 Race Description: 2Hc
 🥇 Outcome: 13
 💰 Odds: N/A (None)
 📝 Comment: taken down early, raced near side, in touch with leaders, bit short of room and weakened inside final furlong
 ⏳ Days since previous run (to today's run): 32 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 6
 📅 Race Date: 2024-09-07 14:50:00
 🏟️ Course: Thirsk
 🗒️ Course Comments: left-handed, fairly sharp track
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 10,308
 🏆 Race Description: 3Hc
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: led, going best halfway, clear over 1f out, keeping on inside final furlong, much reduced lead final 110yds, headed final strides
 ⏳ Days since previous run (to today's run): 6 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 7
 📅 Race Date: 2024-08-17 15:50:00
 🏟️ Course: Doncaster
@@ -647,7 +711,7 @@
 💰 Odds: N/A (None)
 📝 Comment: slowly away and stumbled start, took keen hold, rushed up and pressed leaders after 1f, briefly disputed lead over 1f out, weakened quickly final 110yds
 ⏳ Days since previous run (to today's run): 20 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 8
 📅 Race Date: 2024-07-19 18:55:00
 🏟️ Course: Pontefract
@@ -659,7 +723,7 @@
 💰 Odds: N/A (None)
 📝 Comment: soon led, headed inside final 110yds, kept on
 ⏳ Days since previous run (to today's run): 28 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 9
 📅 Race Date: 2024-06-16 16:45:00
 🏟️ Course: Thirsk
@@ -671,7 +735,7 @@
 💰 Odds: N/A (None)
 📝 Comment: midfield on far side of group, headway and in touch with leaders 2f out, weakened from 1f out
 ⏳ Days since previous run (to today's run): 33 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 10
 📅 Race Date: 2024-06-01 18:20:00
 🏟️ Course: Doncaster
@@ -683,7 +747,7 @@
 💰 Odds: N/A (None)
 📝 Comment: started quickly, made all, pushed along over 1f out, ridden and ran on inside final furlong, reduced lead towards finish, always doing enough (trainer's rep had no explanation for the apparent improvement in form)
 ⏳ Days since previous run (to today's run): 14 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 11
 📅 Race Date: 2024-05-25 13:45:00
 🏟️ Course: York
@@ -695,7 +759,7 @@
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders towards near side, hung left over 1f out, soon weakened
 ⏳ Days since previous run (to today's run): 7 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 12
 📅 Race Date: 2024-04-02 14:15:00
 🏟️ Course: Pontefract
@@ -707,7 +771,7 @@
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, outpaced 2f out, weakened over 1f out
 ⏳ Days since previous run (to today's run): 52 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 13
 📅 Race Date: 2024-03-15 18:10:00
 🏟️ Course: Newcastle (AW)
@@ -719,7 +783,7 @@
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, prominent, weakening when bumped over 1f out, soon struggling (jockey said gelding suffered interference in running)
 ⏳ Days since previous run (to today's run): 17 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 14
 📅 Race Date: 2024-02-24 14:45:00
 🏟️ Course: Southwell (AW)
@@ -731,7 +795,7 @@
 💰 Odds: N/A (0.0)
 📝 Comment: vet's certificate
 ⏳ Days since previous run (to today's run): 20 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: airman (Opening odds: 9.0)
@@ -741,9 +805,9 @@
 🎨 Colour: b
 👤 Trainer: Richard Fahey
 📍 Trainer Location: Musley Bank, N Yorks
-📊 Trainer 14-Day Win %: 5%
+📌 Trainer 14 Days Percent: 5.0
 📌 Trainer 14 Days Wins: 1
-🏇 Trainer Runs (Last 14 Days): 21
+📌 Trainer 14 Days Runs: 21
 📊 Trainer RTF: 52%
 🏇 Jockey: Oisin Orr
 🌱 Breeder: Ms P Walsh
@@ -764,32 +828,48 @@
 🌱 Going Runs: 3
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 2 (11) | 18%% | Profit: -3.92
+📌 Stats Jockey Last 14 Wins: 2
+📌 Stats Jockey Last 14 Wins Pct: 18%
+📌 Stats Jockey Last 14 Profit: -3.92
+🏆 Jockey OVR: 13 (98) | 13%% | Profit: -19.50
+📌 Stats Jockey Ovr Wins: 13
+📌 Stats Jockey Ovr Wins Pct: 13%
+📌 Stats Jockey Ovr Profit: -19.50
+📊 Trainer Last 14: 1 (21) | 5%% | Profit: -11.00
+📌 Stats Trainer Last 14 Wins: 1
+📌 Stats Trainer Last 14 Wins Pct: 5%
+📌 Stats Trainer Last 14 Profit: -11.00
+💰 Trainer OVR: 32 (328) | 10%% | Profit: -67.13
+📌 Stats Trainer Ovr Wins: 32
+📌 Stats Trainer Ovr Wins Pct: 10%
+📌 Stats Trainer Ovr Profit: -67.13
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-14 17:45:00
 🏟️ Course: Newcastle (AW)
 🗒️ Course Comments: Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 5,757
 🏆 Race Description: 4Hc
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, led but pestered, headed over 1f out, weakened final 110yds
 ⏳ Days since previous run (to today's run): 24 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-30 19:00:00
 🏟️ Course: Wolverhampton (AW)
 🗒️ Course Comments: Tapeta. Left-handed 7 1/2f oval.
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 7,956
 🏆 Race Description: 3Hc
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: taken down early, dwelt start, pulled hard, towards rear, headway after 2f, outpaced and edged left inside final furlong, rallied towards finish (jockey said gelding ran too free)
 ⏳ Days since previous run (to today's run): 14 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-12-10 18:00:00
 🏟️ Course: Southwell (AW)
@@ -801,19 +881,19 @@
 💰 Odds: N/A (None)
 📝 Comment: carried right start, in rear, outpaced and pushed along 3f out, waiting for room over 1f out, ran on and went third inside final furlong, not reach leaders
 ⏳ Days since previous run (to today's run): 20 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-07-03 15:55:00
 🏟️ Course: Thirsk
 🗒️ Course Comments: left-handed, fairly sharp track
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 9,720
 🏆 Race Description: 3Hc
 🥇 Outcome: 6
 💰 Odds: N/A (None)
 📝 Comment: towards rear, in touch with leaders 2f out, no impression
 ⏳ Days since previous run (to today's run): 160 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-06-21 17:15:00
 🏟️ Course: Ascot
@@ -825,19 +905,19 @@
 💰 Odds: N/A (None)
 📝 Comment: raced centre, in touch with leaders, weakened 2f out, 13th of 14 in group
 ⏳ Days since previous run (to today's run): 11 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 6
 📅 Race Date: 2024-05-25 13:25:00
 🏟️ Course: Haydock
 🗒️ Course Comments: left-handed, galloping track
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 70,888
 🏆 Race Description: 13yG2
 🥇 Outcome: 7
 💰 Odds: N/A (None)
 📝 Comment: slowly into stride, in rear throughout
 ⏳ Days since previous run (to today's run): 27 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 7
 📅 Race Date: 2024-05-05 13:35:00
 🏟️ Course: Hamilton
@@ -849,7 +929,7 @@
 💰 Odds: N/A (None)
 📝 Comment: dwelt start and carried right start, took keen hold, soon prominent, led after 1f, shaken up over 1f out, pushed out and reduced lead towards finish, always doing enough
 ⏳ Days since previous run (to today's run): 19 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: one-night-stand (Opening odds: 11.0)
@@ -859,9 +939,9 @@
 🎨 Colour: b
 👤 Trainer: Scott Dixon
 📍 Trainer Location: Babworth, Notts
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 26
+📌 Trainer 14 Days Runs: 26
 📊 Trainer RTF: 31%
 🏇 Jockey: Joey Haynes
 🌱 Breeder: S Hoskins & Trickledown Stud
@@ -871,7 +951,7 @@
 🔢 Number: 9
 🎯 Draw Position: 7.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 106.0
 📉 TS (Top Speed): 93.0
 🎲 Odds: 11.0 💰💰💰💰💰
@@ -882,6 +962,22 @@
 🌱 Going Runs: 26
 🏆 Going Wins: 7
 🏥 Medical History: None
+🏇 Jockey Stats: 3 (14) | 21%% | Profit: +21.50
+📌 Stats Jockey Last 14 Wins: 3
+📌 Stats Jockey Last 14 Wins Pct: 21%
+📌 Stats Jockey Last 14 Profit: +21.50
+🏆 Jockey OVR: 27 (345) | 8%% | Profit: -33.88
+📌 Stats Jockey Ovr Wins: 27
+📌 Stats Jockey Ovr Wins Pct: 8%
+📌 Stats Jockey Ovr Profit: -33.88
+📊 Trainer Last 14: 0 (26) | 0%% | Profit: -26.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -26.00
+💰 Trainer OVR: 38 (596) | 6%% | Profit: -81.67
+📌 Stats Trainer Ovr Wins: 38
+📌 Stats Trainer Ovr Wins Pct: 6%
+📌 Stats Trainer Ovr Profit: -81.67
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -895,7 +991,7 @@
 💰 Odds: N/A (None)
 📝 Comment: disputed lead, led over 1f out, soon ridden, headed final strides
 ⏳ Days since previous run (to today's run): 5 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2025-01-13 14:00:00
 🏟️ Course: Lingfield (AW)
@@ -907,7 +1003,7 @@
 💰 Odds: N/A (None)
 📝 Comment: soon led, headed over 1f out, weakened and lost position inside final furlong
 ⏳ Days since previous run (to today's run): 20 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-12-27 18:30:00
 🏟️ Course: Wolverhampton (AW)
@@ -919,7 +1015,7 @@
 💰 Odds: N/A (None)
 📝 Comment: visibility reduced by fog, pressed leaders, raced wide and lost position 3f out, weakened inside final furlong
 ⏳ Days since previous run (to today's run): 16 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-12-09 16:45:00
 🏟️ Course: Wolverhampton (AW)
@@ -931,19 +1027,19 @@
 💰 Odds: N/A (None)
 📝 Comment: raced in second, lost second inside final furlong, weakening when hampered inside final 110yds
 ⏳ Days since previous run (to today's run): 18 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-12-02 20:00:00
 🏟️ Course: Wolverhampton (AW)
 🗒️ Course Comments: Tapeta. Left-handed 7 1/2f oval.
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 4,972
 🏆 Race Description: 4Hc
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, raced wide early, led, switched left over 4f out, headed over 1f out, weakened gradually final 110yds
 ⏳ Days since previous run (to today's run): 6 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 6
 📅 Race Date: 2024-11-23 19:25:00
 🏟️ Course: Wolverhampton (AW)
@@ -955,19 +1051,19 @@
 💰 Odds: N/A (None)
 📝 Comment: pressed leader, shaken up over 2f out, ridden to lead over 1f out, kept on well inside final furlong
 ⏳ Days since previous run (to today's run): 9 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 7
 📅 Race Date: 2024-11-12 19:00:00
 🏟️ Course: Southwell (AW)
 🗒️ Course Comments: Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 7,956
 🏆 Race Description: 3Hc
 🥇 Outcome: 7
 💰 Odds: N/A (None)
 📝 Comment: prominent, led after 1f, headed over 1f out, weakened gradually inside final furlong
 ⏳ Days since previous run (to today's run): 11 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 8
 📅 Race Date: 2024-09-14 13:35:00
 🏟️ Course: Lingfield (AW)
@@ -979,19 +1075,19 @@
 💰 Odds: N/A (None)
 📝 Comment: raced wide and prominent, dropped to midfield after 2f, outpaced over 1f out, kept on
 ⏳ Days since previous run (to today's run): 59 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 9
 📅 Race Date: 2024-08-21 12:50:00
 🏟️ Course: York
 🗒️ Course Comments: left-handed, galloping track
-📏 Distance: 5.5 furlongs 🔽
+📏 Distance: 5.5 furlongs 🔼
 👜 Prize: 💰 61,848
 🏆 Race Description: 2Hc
 🥇 Outcome: 21
 💰 Odds: N/A (None)
 📝 Comment: raced far side, prominent, edged right over 1f out, soon weakened, 11th of 11 in group
 ⏳ Days since previous run (to today's run): 24 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 10
 📅 Race Date: 2024-07-30 15:10:00
 🏟️ Course: Goodwood
@@ -1003,7 +1099,7 @@
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, prominent, lost position from under 3f out, soon short of room, weakening when not clear run inside final furlong
 ⏳ Days since previous run (to today's run): 21 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 11
 📅 Race Date: 2024-06-01 14:45:00
 🏟️ Course: Epsom
@@ -1015,7 +1111,7 @@
 💰 Odds: N/A (0.0)
 📝 Comment: self certificate
 ⏳ Days since previous run (to today's run): 59 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 12
 📅 Race Date: 2024-05-16 13:15:00
 🏟️ Course: York
@@ -1027,7 +1123,7 @@
 💰 Odds: N/A (0.0)
 📝 Comment: unsuitable ground
 ⏳ Days since previous run (to today's run): 16 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 13
 📅 Race Date: 2024-04-23 13:10:00
 🏟️ Course: Epsom
@@ -1039,19 +1135,19 @@
 💰 Odds: N/A (None)
 📝 Comment: towards rear throughout
 ⏳ Days since previous run (to today's run): 23 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 14
 📅 Race Date: 2024-03-01 15:12:00
 🏟️ Course: Lingfield (AW)
 🗒️ Course Comments: Polytrack: left-handed, sharp
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 23,193
 🏆 Race Description: 2Hc
 🥇 Outcome: 12
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, bit short of room on turn after 1f, raced wide home turn, soon outpaced and dropped to rear, no impression inside final furlong
 ⏳ Days since previous run (to today's run): 52 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 15
 📅 Race Date: 2024-02-24 14:45:00
 🏟️ Course: Southwell (AW)
@@ -1063,7 +1159,7 @@
 💰 Odds: N/A (None)
 📝 Comment: started quickly, prominent towards near side, lost position from over 1f out, weakened inside final furlong
 ⏳ Days since previous run (to today's run): 6 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 16
 📅 Race Date: 2024-02-10 19:00:00
 🏟️ Course: Wolverhampton (AW)
@@ -1075,7 +1171,7 @@
 💰 Odds: N/A (None)
 📝 Comment: made all, edged right under 2f out, ridden over 1f out, kept on well inside final furlong, always doing enough
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: dark-kestrel (Opening odds: 13.0)
@@ -1085,9 +1181,9 @@
 🎨 Colour: b
 👤 Trainer: Antony Brittain
 📍 Trainer Location: Warthill, N Yorks
-📊 Trainer 14-Day Win %: 7%
+📌 Trainer 14 Days Percent: 7.0
 📌 Trainer 14 Days Wins: 1
-🏇 Trainer Runs (Last 14 Days): 14
+📌 Trainer 14 Days Runs: 14
 📊 Trainer RTF: 57%
 🏇 Jockey: Cam Hardie
 🌱 Breeder: Paul McCartan
@@ -1097,7 +1193,7 @@
 🔢 Number: 11
 🎯 Draw Position: 6.0
 🎭 Headgear: t
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 105.0
 📉 TS (Top Speed): 93.0
 🎲 Odds: 13.0 💰💰💰💰💰
@@ -1108,6 +1204,22 @@
 🌱 Going Runs: 15
 🏆 Going Wins: 1
 🏥 Medical History: 2024-02-09: Wind Surgery; 2022-09-22: Wind Surgery
+🏇 Jockey Stats: 2 (27) | 7%% | Profit: -7.00
+📌 Stats Jockey Last 14 Wins: 2
+📌 Stats Jockey Last 14 Wins Pct: 7%
+📌 Stats Jockey Last 14 Profit: -7.00
+🏆 Jockey OVR: 29 (595) | 5%% | Profit: -315.07
+📌 Stats Jockey Ovr Wins: 29
+📌 Stats Jockey Ovr Wins Pct: 5%
+📌 Stats Jockey Ovr Profit: -315.07
+📊 Trainer Last 14: 1 (14) | 7%% | Profit: -8.00
+📌 Stats Trainer Last 14 Wins: 1
+📌 Stats Trainer Last 14 Wins Pct: 7%
+📌 Stats Trainer Last 14 Profit: -8.00
+💰 Trainer OVR: 29 (334) | 9%% | Profit: -128.28
+📌 Stats Trainer Ovr Wins: 29
+📌 Stats Trainer Ovr Wins Pct: 9%
+📌 Stats Trainer Ovr Profit: -128.28
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -1121,7 +1233,7 @@
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, in touch with leaders, steady headway halfway, no extra inside final 110yds
 ⏳ Days since previous run (to today's run): 3 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2025-01-23 19:30:00
 🏟️ Course: Southwell (AW)
@@ -1133,7 +1245,7 @@
 💰 Odds: N/A (None)
 📝 Comment: dwelt start, towards rear, headway over 1f out, soon challenging, no extra towards finish
 ⏳ Days since previous run (to today's run): 11 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2025-01-08 14:33:00
 🏟️ Course: Newcastle (AW)
@@ -1145,7 +1257,7 @@
 💰 Odds: N/A (None)
 📝 Comment: prominent, outpaced over 1f out, rallied final 110yds
 ⏳ Days since previous run (to today's run): 15 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-12-17 18:00:00
 🏟️ Course: Newcastle (AW)
@@ -1157,7 +1269,7 @@
 💰 Odds: N/A (None)
 📝 Comment: towards rear, edged right over 1f out, headway and went fourth final 110yds, nearest finish
 ⏳ Days since previous run (to today's run): 21 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-12-05 17:10:00
 🏟️ Course: Chelmsford (AW)
@@ -1169,7 +1281,7 @@
 💰 Odds: N/A (None)
 📝 Comment: slowly away, raced in last, headway over 1f out, ridden inside final furlong, kept on inside final 110yds, nearest finish
 ⏳ Days since previous run (to today's run): 12 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 6
 📅 Race Date: 2024-11-16 16:48:00
 🏟️ Course: Newcastle (AW)
@@ -1181,7 +1293,7 @@
 💰 Odds: N/A (None)
 📝 Comment: dwelt start, towards rear, headway halfway, pressed leaders inside final furlong, went second final 110yds, lost second post
 ⏳ Days since previous run (to today's run): 19 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 7
 📅 Race Date: 2024-10-28 17:45:00
 🏟️ Course: Newcastle (AW)
@@ -1193,7 +1305,7 @@
 💰 Odds: N/A (None)
 📝 Comment: dwelt start, in rear, headway 2f out, soon pushed along, led 1f out, ridden out
 ⏳ Days since previous run (to today's run): 18 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 8
 📅 Race Date: 2024-10-10 19:30:00
 🏟️ Course: Southwell (AW)
@@ -1205,55 +1317,55 @@
 💰 Odds: N/A (None)
 📝 Comment: slowly away, towards rear early, headway and prominent over 3f out, pressed leader over 1f out, no extra inside final 110yds, just held third
 ⏳ Days since previous run (to today's run): 17 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 9
 📅 Race Date: 2024-10-03 17:10:00
 🏟️ Course: Newcastle (AW)
 🗒️ Course Comments: Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 4,972
 🏆 Race Description: 4Hc
 🥇 Outcome: 4
 💰 Odds: N/A (None)
 📝 Comment: slowly away, in rear, headway inside final furlong, did well in the circumstances
 ⏳ Days since previous run (to today's run): 7 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 10
 📅 Race Date: 2024-09-10 17:30:00
 🏟️ Course: Newcastle (AW)
 🗒️ Course Comments: Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 3,716
 🏆 Race Description: 5Hc
 🥇 Outcome: 13
 💰 Odds: N/A (None)
 📝 Comment: held up in rear, towards rear, not clear run repeatedly from over 2f out (jockey said gelding was denied a clear run on several occasions from approaching final furlong)
 ⏳ Days since previous run (to today's run): 22 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 11
 📅 Race Date: 2024-09-04 17:08:00
 🏟️ Course: Southwell (AW)
 🗒️ Course Comments: Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 5,234
 🏆 Race Description: 5Hc
 🥇 Outcome: 9
 💰 Odds: N/A (None)
 📝 Comment: slowly away, in rear, never on terms (jockey said gelding jumped awkwardly leaving stalls)
 ⏳ Days since previous run (to today's run): 6 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 12
 📅 Race Date: 2024-05-25 12:35:00
 🏟️ Course: York
 🗒️ Course Comments: left-handed, galloping track
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 10,468
 🏆 Race Description: 4Hc
 🥇 Outcome: 19
 💰 Odds: N/A (None)
 📝 Comment: raced near side, towards rear, some headway under 4f out, weakened over 2f out
 ⏳ Days since previous run (to today's run): 102 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 13
 📅 Race Date: 2024-05-13 18:55:00
 🏟️ Course: Wolverhampton (AW)
@@ -1265,7 +1377,7 @@
 💰 Odds: N/A (None)
 📝 Comment: towards rear, good headway from over 1f out, led inside final furlong, kept on
 ⏳ Days since previous run (to today's run): 11 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 14
 📅 Race Date: 2024-05-10 17:05:00
 🏟️ Course: Ripon
@@ -1277,7 +1389,7 @@
 💰 Odds: N/A (None)
 📝 Comment: upset in stalls, slowly away, raced in last, detached after 1f, rallying but still plenty to do over 1f out, some headway inside final furlong, never dangerous (jockey said gelding was restless in stalls and was slowly away)
 ⏳ Days since previous run (to today's run): 3 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 15
 📅 Race Date: 2024-04-26 19:30:00
 🏟️ Course: Newcastle (AW)
@@ -1289,19 +1401,19 @@
 💰 Odds: N/A (None)
 📝 Comment: slowly away, in rear, switched right and headway over 1f out, pressed winner and carried left final 110yds, kept on
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 16
 📅 Race Date: 2024-04-20 17:05:00
 🏟️ Course: Thirsk
 🗒️ Course Comments: left-handed, fairly sharp track
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 4,187
 🏆 Race Description: 5Hc
 🥇 Outcome: 11
 💰 Odds: N/A (None)
 📝 Comment: dwelt start and squeezed out start, in rear towards near side, in touch with leaders halfway, weakened from over 1f out, 3rd of 4 in group
 ⏳ Days since previous run (to today's run): 6 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: almaty-star (Opening odds: 13.0)
@@ -1311,9 +1423,9 @@
 🎨 Colour: b
 👤 Trainer: Robert Cowell
 📍 Trainer Location: Six Mile Bottom, Cambs
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 4
+📌 Trainer 14 Days Runs: 4
 📊 Trainer RTF: 50%
 🏇 Jockey: Hollie Doyle
 🌱 Breeder: Gigginstown House Stud
@@ -1323,7 +1435,7 @@
 🔢 Number: 6
 🎯 Draw Position: 4.0
 🎭 Headgear: p
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 103.0
 📉 TS (Top Speed): 89.0
 🎲 Odds: 13.0 💰💰💰💰💰
@@ -1334,6 +1446,22 @@
 🌱 Going Runs: 7
 🏆 Going Wins: 2
 🏥 Medical History: None
+🏇 Jockey Stats: 3 (30) | 10%% | Profit: -8.92
+📌 Stats Jockey Last 14 Wins: 3
+📌 Stats Jockey Last 14 Wins Pct: 10%
+📌 Stats Jockey Last 14 Profit: -8.92
+🏆 Jockey OVR: 62 (446) | 14%% | Profit: -148.41
+📌 Stats Jockey Ovr Wins: 62
+📌 Stats Jockey Ovr Wins Pct: 14%
+📌 Stats Jockey Ovr Profit: -148.41
+📊 Trainer Last 14: 0 (4) | 0%% | Profit: -4.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -4.00
+💰 Trainer OVR: 11 (147) | 7%% | Profit: -76.27
+📌 Stats Trainer Ovr Wins: 11
+📌 Stats Trainer Ovr Wins Pct: 7%
+📌 Stats Trainer Ovr Profit: -76.27
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -1347,7 +1475,7 @@
 💰 Odds: N/A (None)
 📝 Comment: disputed lead, led 1f out, kept on but headed towards finish
 ⏳ Days since previous run (to today's run): 21 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-09-21 15:15:00
 🏟️ Course: Chester
@@ -1359,7 +1487,7 @@
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, weakened inside final furlong
 ⏳ Days since previous run (to today's run): 118 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-09-14 13:35:00
 🏟️ Course: Lingfield (AW)
@@ -1371,7 +1499,7 @@
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, went second over 1f out, briefly led towards finish, headed final strides
 ⏳ Days since previous run (to today's run): 7 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-09-03 13:20:00
 🏟️ Course: Goodwood
@@ -1383,7 +1511,7 @@
 💰 Odds: N/A (None)
 📝 Comment: hung right soon after start, prominent on far side of group, pushed along to lead over 1f out, ridden inside final furlong, reduced lead towards finish, always doing enough
 ⏳ Days since previous run (to today's run): 11 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-08-17 15:50:00
 🏟️ Course: Doncaster
@@ -1395,7 +1523,7 @@
 💰 Odds: N/A (None)
 📝 Comment: anticipated start, took keen hold, led against near rail, headed 2f out, weakened quickly inside final furlong
 ⏳ Days since previous run (to today's run): 16 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 6
 📅 Race Date: 2024-08-03 18:25:00
 🏟️ Course: Windsor
@@ -1407,7 +1535,7 @@
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, led, ridden and hung left from over 1f out, headed and no extra inside final 110yds (jockey said gelding hung left-handed)
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 7
 📅 Race Date: 2024-07-27 16:20:00
 🏟️ Course: Chester
@@ -1419,7 +1547,7 @@
 💰 Odds: N/A (0.0)
 📝 Comment: unsuitable ground
 ⏳ Days since previous run (to today's run): 7 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 8
 📅 Race Date: 2024-07-12 16:20:00
 🏟️ Course: Newmarket (July)
@@ -1431,7 +1559,7 @@
 💰 Odds: N/A (None)
 📝 Comment: stumbled badly start, prominent, weakened over 1f out
 ⏳ Days since previous run (to today's run): 15 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 9
 📅 Race Date: 2024-07-07 12:40:00
 🏟️ Course: Chelmsford (AW)
@@ -1443,7 +1571,7 @@
 💰 Odds: N/A (None)
 📝 Comment: led, headed inside final 110yds, kept on
 ⏳ Days since previous run (to today's run): 5 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 10
 📅 Race Date: 2024-06-20 13:50:00
 🏟️ Course: Chelmsford (AW)
@@ -1455,7 +1583,7 @@
 💰 Odds: N/A (None)
 📝 Comment: made all, pushed along over 1f out, ridden and sustained duel with runner-up final 110yds, just did enough
 ⏳ Days since previous run (to today's run): 16 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 11
 📅 Race Date: 2024-06-04 18:15:00
 🏟️ Course: Lingfield (AW)
@@ -1467,19 +1595,19 @@
 💰 Odds: N/A (None)
 📝 Comment: led, increased tempo 2f out, soon clear, reduced lead inside final furlong, headed towards finish
 ⏳ Days since previous run (to today's run): 15 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 12
 📅 Race Date: 2024-05-20 17:40:00
 🏟️ Course: Windsor
 🗒️ Course Comments: figure of eight, fairly sharp track
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 9,936
 🏆 Race Description: 3Hc
 🥇 Outcome: 3 🥉
 💰 Odds: N/A (None)
 📝 Comment: led, headed inside final furlong, no extra and lost second towards finish
 ⏳ Days since previous run (to today's run): 15 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 13
 📅 Race Date: 2024-05-01 14:25:00
 🏟️ Course: Ascot
@@ -1491,7 +1619,7 @@
 💰 Odds: N/A (None)
 📝 Comment: led, joined over 1f out, soon lost position, weakened final 110yds
 ⏳ Days since previous run (to today's run): 19 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 14
 📅 Race Date: 2024-04-16 12:50:00
 🏟️ Course: Newmarket
@@ -1503,19 +1631,19 @@
 💰 Odds: N/A (None)
 📝 Comment: ducked right start, chased clear leader, outpaced and lost position 1f out, no extra inside final 110yds
 ⏳ Days since previous run (to today's run): 15 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 15
 📅 Race Date: 2024-04-01 15:05:00
 🏟️ Course: Kempton (AW)
 🗒️ Course Comments: Polytrack. Right-handed
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 6,281
 🏆 Race Description: 4Hc
 🥇 Outcome: 8
 💰 Odds: N/A (None)
 📝 Comment: prominent, weakened from 1f out
 ⏳ Days since previous run (to today's run): 14 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: night-on-earth (Opening odds: 15.0)
@@ -1525,9 +1653,9 @@
 🎨 Colour: b
 👤 Trainer: Ian Williams
 📍 Trainer Location: Portway, Worcs
-📊 Trainer 14-Day Win %: 7%
+📌 Trainer 14 Days Percent: 7.0
 📌 Trainer 14 Days Wins: 1
-🏇 Trainer Runs (Last 14 Days): 15
+📌 Trainer 14 Days Runs: 15
 📊 Trainer RTF: 64%
 🏇 Jockey: Richard Kingscote
 🌱 Breeder: Tally-Ho Stud
@@ -1537,7 +1665,7 @@
 🔢 Number: 10
 🎯 Draw Position: 8.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 106.0
 📉 TS (Top Speed): 96.0
 🎲 Odds: 15.0 💰💰💰💰💰
@@ -1548,6 +1676,22 @@
 🌱 Going Runs: 25
 🏆 Going Wins: 4
 🏥 Medical History: None
+🏇 Jockey Stats: 3 (13) | 23%% | Profit: -5.73
+📌 Stats Jockey Last 14 Wins: 3
+📌 Stats Jockey Last 14 Wins Pct: 23%
+📌 Stats Jockey Last 14 Profit: -5.73
+🏆 Jockey OVR: 44 (299) | 15%% | Profit: -93.47
+📌 Stats Jockey Ovr Wins: 44
+📌 Stats Jockey Ovr Wins Pct: 15%
+📌 Stats Jockey Ovr Profit: -93.47
+📊 Trainer Last 14: 0 (11) | 0%% | Profit: -11.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -11.00
+💰 Trainer OVR: 34 (332) | 10%% | Profit: -81.09
+📌 Stats Trainer Ovr Wins: 34
+📌 Stats Trainer Ovr Wins Pct: 10%
+📌 Stats Trainer Ovr Profit: -81.09
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -1561,7 +1705,7 @@
 💰 Odds: N/A (None)
 📝 Comment: prominent, outpaced and lost ground over 2f out, rallied and kept on inside final furlong
 ⏳ Days since previous run (to today's run): 5 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2025-01-18 11:15:00
 🏟️ Course: Lingfield (AW)
@@ -1573,7 +1717,7 @@
 💰 Odds: N/A (None)
 📝 Comment: awkward start, pulled hard, soon in touch with leaders, weakened inside final furlong
 ⏳ Days since previous run (to today's run): 15 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2025-01-13 14:00:00
 🏟️ Course: Lingfield (AW)
@@ -1585,7 +1729,7 @@
 💰 Odds: N/A (0.0)
 📝 Comment: vet's certificate
 ⏳ Days since previous run (to today's run): 4 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-12-31 13:14:00
 🏟️ Course: Lingfield (AW)
@@ -1597,7 +1741,7 @@
 💰 Odds: N/A (None)
 📝 Comment: led at fast pace, edged left and hampered rival on turn over 2f out, hung right and headed over 1f out, soon ridden, kept on inside final furlong, no extra towards finish
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-12-10 18:00:00
 🏟️ Course: Southwell (AW)
@@ -1609,7 +1753,7 @@
 💰 Odds: N/A (None)
 📝 Comment: prominent, lost position from over 1f out
 ⏳ Days since previous run (to today's run): 20 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 6
 📅 Race Date: 2024-11-23 19:25:00
 🏟️ Course: Wolverhampton (AW)
@@ -1621,7 +1765,7 @@
 💰 Odds: N/A (None)
 📝 Comment: led, ridden and headed over 1f out, weakened inside final 110yds
 ⏳ Days since previous run (to today's run): 16 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 7
 📅 Race Date: 2024-09-21 15:15:00
 🏟️ Course: Chester
@@ -1633,7 +1777,7 @@
 💰 Odds: N/A (None)
 📝 Comment: pressed leader, short of room over 1f out, soon weakened
 ⏳ Days since previous run (to today's run): 63 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 8
 📅 Race Date: 2024-09-07 14:00:00
 🏟️ Course: Haydock
@@ -1645,7 +1789,7 @@
 💰 Odds: N/A (None)
 📝 Comment: led on far side of group, headed over 1f out, weakened inside final furlong
 ⏳ Days since previous run (to today's run): 14 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 9
 📅 Race Date: 2024-09-03 13:20:00
 🏟️ Course: Goodwood
@@ -1657,7 +1801,7 @@
 💰 Odds: N/A (0.0)
 📝 Comment: unsuitable ground
 ⏳ Days since previous run (to today's run): 4 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 10
 📅 Race Date: 2024-08-28 15:55:00
 🏟️ Course: Catterick
@@ -1669,7 +1813,7 @@
 💰 Odds: N/A (None)
 📝 Comment: led overall towards far side, pushed along and headed over 1f out, ridden and ran on well against far rail inside final furlong, led again final 110yds, won going away, 1st of 3 in group
 ⏳ Days since previous run (to today's run): 5 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 11
 📅 Race Date: 2024-08-10 12:35:00
 🏟️ Course: Ascot
@@ -1681,19 +1825,19 @@
 💰 Odds: N/A (None)
 📝 Comment: anticipated start, awkward start, slowly away, took keen hold, in rear, rapid headway and led over 4f out, pestered halfway, headed under 2f out, soon weakened
 ⏳ Days since previous run (to today's run): 18 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 12
 📅 Race Date: 2024-08-07 13:25:00
 🏟️ Course: Brighton
 🗒️ Course Comments: left-handed sharp track
-📏 Distance: 5.5 furlongs 🔽
+📏 Distance: 5.5 furlongs 🔼
 👜 Prize: 💰 4,972
 🏆 Race Description: 4Hc
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: led, headed 2f out, soon lost position, weakened quickly against far rail over 1f out (trainer said, regarding the poor form shown, that gelding ran flat having ran only 4 days prior to today's race)
 ⏳ Days since previous run (to today's run): 2 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 13
 📅 Race Date: 2024-08-03 18:10:00
 🏟️ Course: Hamilton
@@ -1705,7 +1849,7 @@
 💰 Odds: N/A (None)
 📝 Comment: led, headed 1f out, weakened inside final furlong
 ⏳ Days since previous run (to today's run): 3 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 14
 📅 Race Date: 2024-07-27 13:05:00
 🏟️ Course: York
@@ -1717,7 +1861,7 @@
 💰 Odds: N/A (None)
 📝 Comment: made all, ridden and edged right 1f out, faced challenge towards finish, just held on (trainer was informed gelding could not run until day after passing a stalls test)
 ⏳ Days since previous run (to today's run): 7 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 15
 📅 Race Date: 2024-07-07 12:40:00
 🏟️ Course: Chelmsford (AW)
@@ -1729,7 +1873,7 @@
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, disputing third inside final furlong, weakening when carried left towards finish
 ⏳ Days since previous run (to today's run): 20 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 16
 📅 Race Date: 2024-07-05 14:50:00
 🏟️ Course: Doncaster
@@ -1741,7 +1885,7 @@
 💰 Odds: N/A (None)
 📝 Comment: led, faced challenges from 2f out, headed inside final furlong, no extra and lost two places final 110yds, weakened towards finish
 ⏳ Days since previous run (to today's run): 1 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 17
 📅 Race Date: 2024-07-01 17:30:00
 🏟️ Course: Wolverhampton (AW)
@@ -1753,7 +1897,7 @@
 💰 Odds: N/A (0.0)
 📝 Comment: vet's certificate
 ⏳ Days since previous run (to today's run): 3 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 18
 📅 Race Date: 2024-06-01 14:45:00
 🏟️ Course: Epsom
@@ -1765,7 +1909,7 @@
 💰 Odds: N/A (None)
 📝 Comment: prominent, bumped over 1f out, soon weakened
 ⏳ Days since previous run (to today's run): 30 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 19
 📅 Race Date: 2024-05-25 18:15:00
 🏟️ Course: Windsor
@@ -1777,7 +1921,7 @@
 💰 Odds: N/A (0.0)
 📝 Comment: self certificate
 ⏳ Days since previous run (to today's run): 6 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 20
 📅 Race Date: 2024-05-24 16:10:00
 🏟️ Course: Goodwood
@@ -1789,7 +1933,7 @@
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, led, lost three places from over 1f out, weakened final 110yds
 ⏳ Days since previous run (to today's run): 1 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 21
 📅 Race Date: 2024-05-09 12:30:00
 🏟️ Course: Chester
@@ -1801,7 +1945,7 @@
 💰 Odds: N/A (None)
 📝 Comment: started quickly, led, headed over 1f out, no extra and lost fourth towards finish
 ⏳ Days since previous run (to today's run): 15 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 22
 📅 Race Date: 2024-04-23 13:10:00
 🏟️ Course: Epsom
@@ -1813,7 +1957,7 @@
 💰 Odds: N/A (None)
 📝 Comment: taken down early, made all, against near rail from over 4f out, ridden and faced challenge over 1f out, ran on
 ⏳ Days since previous run (to today's run): 15 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 23
 📅 Race Date: 2024-04-01 16:48:00
 🏟️ Course: Wolverhampton (AW)
@@ -1825,7 +1969,7 @@
 💰 Odds: N/A (None)
 📝 Comment: led at fast pace, ridden and hung right 1f out, ran on but headed towards finish
 ⏳ Days since previous run (to today's run): 21 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 24
 📅 Race Date: 2024-03-14 19:30:00
 🏟️ Course: Chelmsford (AW)
@@ -1837,7 +1981,7 @@
 💰 Odds: N/A (None)
 📝 Comment: led at fast pace, ridden over 1f out, headed inside final furlong, kept on, no match for winner
 ⏳ Days since previous run (to today's run): 17 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 25
 📅 Race Date: 2024-02-15 17:30:00
 🏟️ Course: Chelmsford (AW)
@@ -1849,7 +1993,7 @@
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, led narrowly, headed over 1f out, weakened inside final furlong
 ⏳ Days since previous run (to today's run): 28 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: bedford-flyer (Opening odds: nan)
@@ -1859,9 +2003,9 @@
 🎨 Colour: b
 👤 Trainer: Michael Appleby
 📍 Trainer Location: Oakham, Rutland
-📊 Trainer 14-Day Win %: 14%
+📌 Trainer 14 Days Percent: 14.0
 📌 Trainer 14 Days Wins: 3
-🏇 Trainer Runs (Last 14 Days): 22
+📌 Trainer 14 Days Runs: 22
 📊 Trainer RTF: 50%
 🏇 Jockey: Non-Runner
 🌱 Breeder: Maurice Burns
@@ -1871,7 +2015,7 @@
 🔢 Number: 1
 🎯 Draw Position: 11.0
 🎭 Headgear: p
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): Unknown
 📉 TS (Top Speed): Unknown
 🎲 Odds: Unknown
@@ -1882,6 +2026,22 @@
 🌱 Going Runs: Unknown
 🏆 Going Wins: Unknown
 🏥 Medical History: None
+🏇 Jockey Stats: nan (Unknown) | nan% | Profit: nan
+📌 Stats Jockey Last 14 Wins: Unknown
+📌 Stats Jockey Last 14 Wins Pct: Unknown
+📌 Stats Jockey Last 14 Profit: Unknown
+🏆 Jockey OVR: nan (Unknown) | nan% | Profit: nan
+📌 Stats Jockey Ovr Wins: Unknown
+📌 Stats Jockey Ovr Wins Pct: Unknown
+📌 Stats Jockey Ovr Profit: Unknown
+📊 Trainer Last 14: nan (Unknown) | nan% | Profit: nan
+📌 Stats Trainer Last 14 Wins: Unknown
+📌 Stats Trainer Last 14 Wins Pct: Unknown
+📌 Stats Trainer Last 14 Profit: Unknown
+💰 Trainer OVR: nan (Unknown) | nan% | Profit: nan
+📌 Stats Trainer Ovr Wins: Unknown
+📌 Stats Trainer Ovr Wins Pct: Unknown
+📌 Stats Trainer Ovr Profit: Unknown
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -1895,7 +2055,7 @@
 💰 Odds: N/A (None)
 📝 Comment: reluctant to go to start, started quickly and ducked right start, disputed lead, prominent after 2f, lost second towards finish, kept on and went second again final strides
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2025-01-13 14:00:00
 🏟️ Course: Lingfield (AW)
@@ -1907,7 +2067,7 @@
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, outpaced under 2f out, rallied and kept on inside final furlong, briefly went third inside final 110yds
 ⏳ Days since previous run (to today's run): 12 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-12-31 13:14:00
 🏟️ Course: Lingfield (AW)
@@ -1919,7 +2079,7 @@
 💰 Odds: N/A (None)
 📝 Comment: midfield but in touch with leaders, ridden over 1f out, headway inside final furlong, went second inside final 110yds, kept on, lost second final strides (jockey said gelding hung right-handed)
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-12-20 12:32:00
 🏟️ Course: Southwell (AW)
@@ -1931,7 +2091,7 @@
 💰 Odds: N/A (None)
 📝 Comment: taken down early, led, hung right inside final furlong, headed final strides, kept on
 ⏳ Days since previous run (to today's run): 11 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-12-10 18:00:00
 🏟️ Course: Southwell (AW)
@@ -1943,7 +2103,7 @@
 💰 Odds: N/A (None)
 📝 Comment: ducked right start, led, headed over 1f out, weakened inside final furlong
 ⏳ Days since previous run (to today's run): 9 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 6
 📅 Race Date: 2024-10-11 14:45:00
 🏟️ Course: York
@@ -1955,7 +2115,7 @@
 💰 Odds: N/A (0.0)
 📝 Comment: self certificate
 ⏳ Days since previous run (to today's run): 60 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 7
 📅 Race Date: 2024-09-14 13:35:00
 🏟️ Course: Lingfield (AW)
@@ -1967,7 +2127,7 @@
 💰 Odds: N/A (None)
 📝 Comment: dwelt start, in rear, took keen hold after 2f, ran on inside final furlong, not pace to challenge
 ⏳ Days since previous run (to today's run): 27 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 8
 📅 Race Date: 2024-04-16 12:50:00
 🏟️ Course: Newmarket
@@ -1979,7 +2139,7 @@
 💰 Odds: N/A (None)
 📝 Comment: reared start, always behind (jockey said gelding reared as stalls opened and was slow away)
 ⏳ Days since previous run (to today's run): 151 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 9
 📅 Race Date: 2024-03-15 18:10:00
 🏟️ Course: Newcastle (AW)
@@ -1991,7 +2151,7 @@
 💰 Odds: N/A (None)
 📝 Comment: taken down early, dwelt start, towards rear, in touch with leaders after 1f, disputing second inside final furlong, weakened inside final 110yds
 ⏳ Days since previous run (to today's run): 31 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 10
 📅 Race Date: 2024-02-24 14:45:00
 🏟️ Course: Southwell (AW)
@@ -2003,7 +2163,7 @@
 💰 Odds: N/A (None)
 📝 Comment: taken down early, started quickly, disputed lead early, outpaced and edged right before halfway, no extra from over 1f out (jockey said gelding lugged right-handed; vet reported gelding bled from the nose)
 ⏳ Days since previous run (to today's run): 20 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: master-of-my-fate (Opening odds: nan)
@@ -2013,9 +2173,9 @@
 🎨 Colour: b
 👤 Trainer: John & Sean Quinn
 📍 Trainer Location: Settrington, N Yorks
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 7
+📌 Trainer 14 Days Runs: 7
 📊 Trainer RTF: 29%
 🏇 Jockey: Non-Runner
 🌱 Breeder: Michael Buggie & Liam Wright
@@ -2025,7 +2185,7 @@
 🔢 Number: 5
 🎯 Draw Position: 10.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): Unknown
 📉 TS (Top Speed): Unknown
 🎲 Odds: Unknown
@@ -2036,6 +2196,22 @@
 🌱 Going Runs: Unknown
 🏆 Going Wins: Unknown
 🏥 Medical History: 2024-07-08: Wind Surgery
+🏇 Jockey Stats: nan (Unknown) | nan% | Profit: nan
+📌 Stats Jockey Last 14 Wins: Unknown
+📌 Stats Jockey Last 14 Wins Pct: Unknown
+📌 Stats Jockey Last 14 Profit: Unknown
+🏆 Jockey OVR: nan (Unknown) | nan% | Profit: nan
+📌 Stats Jockey Ovr Wins: Unknown
+📌 Stats Jockey Ovr Wins Pct: Unknown
+📌 Stats Jockey Ovr Profit: Unknown
+📊 Trainer Last 14: nan (Unknown) | nan% | Profit: nan
+📌 Stats Trainer Last 14 Wins: Unknown
+📌 Stats Trainer Last 14 Wins Pct: Unknown
+📌 Stats Trainer Last 14 Profit: Unknown
+💰 Trainer OVR: nan (Unknown) | nan% | Profit: nan
+📌 Stats Trainer Ovr Wins: Unknown
+📌 Stats Trainer Ovr Wins Pct: Unknown
+📌 Stats Trainer Ovr Profit: Unknown
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -2049,7 +2225,7 @@
 💰 Odds: N/A (0.0)
 📝 Comment: self certificate, off feed
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2025-01-23 19:30:00
 🏟️ Course: Southwell (AW)
@@ -2061,7 +2237,7 @@
 💰 Odds: N/A (None)
 📝 Comment: taken down early, prominent, ridden and challenging over 1f out, led inside final furlong, ran on
 ⏳ Days since previous run (to today's run): 1 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2025-01-18 11:15:00
 🏟️ Course: Lingfield (AW)
@@ -2073,7 +2249,7 @@
 💰 Odds: N/A (None)
 📝 Comment: taken down early, made virtually all, joined over 2f out, ridden when led inside final furlong, went clear inside final 110yds, comfortably
 ⏳ Days since previous run (to today's run): 5 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2025-01-11 19:00:00
 🏟️ Course: Wolverhampton (AW)
@@ -2085,7 +2261,7 @@
 💰 Odds: N/A (0.0)
 📝 Comment: self certificate
 ⏳ Days since previous run (to today's run): 6 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2025-01-03 12:45:00
 🏟️ Course: Lingfield (AW)
@@ -2097,7 +2273,7 @@
 💰 Odds: N/A (None)
 📝 Comment: raced wide early, raced in second, pressed leader going easily 2f out, pushed along to lead 1f out, soon ridden, ran on well final 110yds, always doing enough
 ⏳ Days since previous run (to today's run): 8 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 6
 📅 Race Date: 2024-12-21 19:15:00
 🏟️ Course: Wolverhampton (AW)
@@ -2109,7 +2285,7 @@
 💰 Odds: N/A (None)
 📝 Comment: prominent, disputing third inside final furlong, kept on
 ⏳ Days since previous run (to today's run): 12 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 7
 📅 Race Date: 2024-12-13 19:15:00
 🏟️ Course: Southwell (AW)
@@ -2121,7 +2297,7 @@
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, headway from over 1f out, led inside final furlong, edged left but kept on towards finish
 ⏳ Days since previous run (to today's run): 8 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 8
 📅 Race Date: 2024-12-09 15:55:00
 🏟️ Course: Newcastle (AW)
@@ -2133,7 +2309,7 @@
 💰 Odds: N/A (None)
 📝 Comment: travelled strongly, held up in rear, smooth headway in centre of group halfway, pressed leaders when bit short of room over 1f out, challenging when edged left final 110yds, kept on well towards finish, just held
 ⏳ Days since previous run (to today's run): 4 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 9
 📅 Race Date: 2024-10-28 18:15:00
 🏟️ Course: Newcastle (AW)
@@ -2145,7 +2321,7 @@
 💰 Odds: N/A (None)
 📝 Comment: raced centre, in touch with leaders, weakened over 1f out
 ⏳ Days since previous run (to today's run): 41 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 10
 📅 Race Date: 2024-06-22 15:55:00
 🏟️ Course: Redcar
@@ -2157,7 +2333,7 @@
 💰 Odds: N/A (None)
 📝 Comment: pressed leaders early, prominent 3f out, weakened inside final furlong
 ⏳ Days since previous run (to today's run): 128 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 11
 📅 Race Date: 2024-06-15 18:25:00
 🏟️ Course: Leicester
@@ -2169,7 +2345,7 @@
 💰 Odds: N/A (0.0)
 📝 Comment: unsuitable ground
 ⏳ Days since previous run (to today's run): 6 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 12
 📅 Race Date: 2024-06-01 15:45:00
 🏟️ Course: Musselburgh
@@ -2181,7 +2357,7 @@
 💰 Odds: N/A (None)
 📝 Comment: ducked right start, in rear, some headway halfway, kept on from over 1f out, no telling impression
 ⏳ Days since previous run (to today's run): 14 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 13
 📅 Race Date: 2024-05-17 16:20:00
 🏟️ Course: York
@@ -2193,7 +2369,7 @@
 💰 Odds: N/A (None)
 📝 Comment: prominent, weakened over 1f out
 ⏳ Days since previous run (to today's run): 14 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🔹 MOST RECENT 3 RACES (Last 12 Months, Grouped by Horse)
@@ -2204,9 +2380,9 @@
 🎨 Colour: b
 👤 Trainer: Stuart Williams
 📍 Trainer Location: Newmarket, Suffolk
-📊 Trainer 14-Day Win %: 21%
+📌 Trainer 14 Days Percent: 21.0
 📌 Trainer 14 Days Wins: 3
-🏇 Trainer Runs (Last 14 Days): 14
+📌 Trainer 14 Days Runs: 14
 📊 Trainer RTF: 64%
 🏇 Jockey: Marco Ghiani
 🌱 Breeder: Cheveley Park Stud Limited
@@ -2216,7 +2392,7 @@
 🔢 Number: 8
 🎯 Draw Position: 1.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 108.0
 📉 TS (Top Speed): 95.0
 🎲 Odds: 4.0 💰💰💰
@@ -2227,6 +2403,22 @@
 🌱 Going Runs: 6
 🏆 Going Wins: 2
 🏥 Medical History: None
+🏇 Jockey Stats: 1 (14) | 7%% | Profit: -12.00
+📌 Stats Jockey Last 14 Wins: 1
+📌 Stats Jockey Last 14 Wins Pct: 7%
+📌 Stats Jockey Last 14 Profit: -12.00
+🏆 Jockey OVR: 37 (297) | 12%% | Profit: -72.88
+📌 Stats Jockey Ovr Wins: 37
+📌 Stats Jockey Ovr Wins Pct: 12%
+📌 Stats Jockey Ovr Profit: -72.88
+📊 Trainer Last 14: 3 (14) | 21%% | Profit: -5.55
+📌 Stats Trainer Last 14 Wins: 3
+📌 Stats Trainer Last 14 Wins Pct: 21%
+📌 Stats Trainer Last 14 Profit: -5.55
+💰 Trainer OVR: 30 (192) | 16%% | Profit: -59.70
+📌 Stats Trainer Ovr Wins: 30
+📌 Stats Trainer Ovr Wins Pct: 16%
+📌 Stats Trainer Ovr Profit: -59.70
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -2240,7 +2432,7 @@
 💰 Odds: N/A (None)
 📝 Comment: in rear, headway from 2f out, disputing second inside final furlong, no extra towards finish
 ⏳ Days since previous run (to today's run): 21 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2025-01-13 14:00:00
 🏟️ Course: Lingfield (AW)
@@ -2252,7 +2444,7 @@
 💰 Odds: N/A (None)
 📝 Comment: in rear, took keen hold over 3f out, headway from over 1f out, kept on well inside final furlong, went second final 110yds, lost second final strides
 ⏳ Days since previous run (to today's run): 4 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-12-31 13:14:00
 🏟️ Course: Lingfield (AW)
@@ -2264,7 +2456,7 @@
 💰 Odds: N/A (None)
 📝 Comment: towards rear, took keen hold halfway, shaken up over 1f out, headway inside final furlong, ridden inside final 110yds, went second final strides (vet said gelding lost his left-fore shoe)
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: michaelas-boy (Opening odds: 4.0)
@@ -2274,9 +2466,9 @@
 🎨 Colour: ch
 👤 Trainer: Robert Cowell
 📍 Trainer Location: Six Mile Bottom, Cambs
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 4
+📌 Trainer 14 Days Runs: 4
 📊 Trainer RTF: 50%
 🏇 Jockey: Luke Morris
 🌱 Breeder: Redpender Stud Ltd
@@ -2286,7 +2478,7 @@
 🔢 Number: 3
 🎯 Draw Position: 5.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 105.0
 📉 TS (Top Speed): 89.0
 🎲 Odds: 4.0 💰💰💰
@@ -2297,6 +2489,22 @@
 🌱 Going Runs: 9
 🏆 Going Wins: 2
 🏥 Medical History: 2024-05-28: Wind Surgery
+🏇 Jockey Stats: 9 (48) | 19%% | Profit: -3.17
+📌 Stats Jockey Last 14 Wins: 9
+📌 Stats Jockey Last 14 Wins Pct: 19%
+📌 Stats Jockey Last 14 Profit: -3.17
+🏆 Jockey OVR: 104 (869) | 12%% | Profit: -171.24
+📌 Stats Jockey Ovr Wins: 104
+📌 Stats Jockey Ovr Wins Pct: 12%
+📌 Stats Jockey Ovr Profit: -171.24
+📊 Trainer Last 14: 0 (4) | 0%% | Profit: -4.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -4.00
+💰 Trainer OVR: 11 (147) | 7%% | Profit: -76.27
+📌 Stats Trainer Ovr Wins: 11
+📌 Stats Trainer Ovr Wins Pct: 7%
+📌 Stats Trainer Ovr Profit: -76.27
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -2310,7 +2518,7 @@
 💰 Odds: N/A (None)
 📝 Comment: disputed lead, led clearly after 2f, headed towards finish, lost second final strides
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2025-01-13 14:00:00
 🏟️ Course: Lingfield (AW)
@@ -2322,7 +2530,7 @@
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, prominent, short of room and stumbled over 3f out, led over 1f out, ridden and kept on final 110yds
 ⏳ Days since previous run (to today's run): 12 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-12-27 18:30:00
 🏟️ Course: Wolverhampton (AW)
@@ -2334,7 +2542,7 @@
 💰 Odds: N/A (None)
 📝 Comment: taken down early, visibility reduced by fog, pressed leader, ridden and led 1f out, kept on
 ⏳ Days since previous run (to today's run): 16 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: we-never-stop (Opening odds: 6.5)
@@ -2344,9 +2552,9 @@
 🎨 Colour: b
 👤 Trainer: Kevin Ryan
 📍 Trainer Location: Hambleton, N Yorks
-📊 Trainer 14-Day Win %: 25%
+📌 Trainer 14 Days Percent: 25.0
 📌 Trainer 14 Days Wins: 1
-🏇 Trainer Runs (Last 14 Days): 4
+📌 Trainer 14 Days Runs: 4
 📊 Trainer RTF: 50%
 🏇 Jockey: Shane Gray
 🌱 Breeder: Padraig O'Reilly
@@ -2356,7 +2564,7 @@
 🔢 Number: 2
 🎯 Draw Position: 9.0
 🎭 Headgear: p
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 107.0
 📉 TS (Top Speed): 78.0
 🎲 Odds: 6.5 💰💰💰💰
@@ -2367,44 +2575,60 @@
 🌱 Going Runs: 4
 🏆 Going Wins: 1
 🏥 Medical History: None
+🏇 Jockey Stats: 0 (3) | 0%% | Profit: -3.00
+📌 Stats Jockey Last 14 Wins: 0
+📌 Stats Jockey Last 14 Wins Pct: 0%
+📌 Stats Jockey Last 14 Profit: -3.00
+🏆 Jockey OVR: 5 (74) | 7%% | Profit: -43.79
+📌 Stats Jockey Ovr Wins: 5
+📌 Stats Jockey Ovr Wins Pct: 7%
+📌 Stats Jockey Ovr Profit: -43.79
+📊 Trainer Last 14: 1 (4) | 25%% | Profit: +0.20
+📌 Stats Trainer Last 14 Wins: 1
+📌 Stats Trainer Last 14 Wins Pct: 25%
+📌 Stats Trainer Last 14 Profit: +0.20
+💰 Trainer OVR: 5 (66) | 8%% | Profit: -39.82
+📌 Stats Trainer Ovr Wins: 5
+📌 Stats Trainer Ovr Wins Pct: 8%
+📌 Stats Trainer Ovr Profit: -39.82
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-17 14:10:00
 🏟️ Course: Newcastle (AW)
 🗒️ Course Comments: Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 23,193
 🏆 Race Description: 2Hc
 🥇 Outcome: 6
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, pressed leader on near side of group, led over 2f out, headed over 1f out, weakened inside final furlong
 ⏳ Days since previous run (to today's run): 21 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2025-01-11 15:15:00
 🏟️ Course: Chelmsford (AW)
 🗒️ Course Comments: Polytrack. Left-handed, flat track, circuit 8.5f
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 18,319
 🏆 Race Description: 3Hc
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: dwelt start, pulled hard, in touch with leaders, headway 2f out, kept on and went second inside final 110yds
 ⏳ Days since previous run (to today's run): 5 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2025-01-01 15:34:00
 🏟️ Course: Newcastle (AW)
 🗒️ Course Comments: Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 13,190
 🏆 Race Description: 2Hc
 🥇 Outcome: 2 🥈
 💰 Odds: N/A (None)
 📝 Comment: led but pestered, headed final 110yds, kept on
 ⏳ Days since previous run (to today's run): 9 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: hiya-maite (Opening odds: 8.0)
@@ -2414,9 +2638,9 @@
 🎨 Colour: b
 👤 Trainer: Roy Bowring
 📍 Trainer Location: Edwinstowe, Notts
-📊 Trainer 14-Day Win %: 33%
+📌 Trainer 14 Days Percent: 33.0
 📌 Trainer 14 Days Wins: 1
-🏇 Trainer Runs (Last 14 Days): 3
+📌 Trainer 14 Days Runs: 3
 📊 Trainer RTF: 67%
 🏇 Jockey: Lewis Edmunds
 🌱 Breeder: S R Bowring
@@ -2426,7 +2650,7 @@
 🔢 Number: 4
 🎯 Draw Position: 2.0
 🎭 Headgear: t
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 105.0
 📉 TS (Top Speed): 85.0
 🎲 Odds: 8.0 💰💰💰💰
@@ -2437,6 +2661,22 @@
 🌱 Going Runs: 10
 🏆 Going Wins: 2
 🏥 Medical History: None
+🏇 Jockey Stats: 2 (28) | 7%% | Profit: -13.00
+📌 Stats Jockey Last 14 Wins: 2
+📌 Stats Jockey Last 14 Wins Pct: 7%
+📌 Stats Jockey Last 14 Profit: -13.00
+🏆 Jockey OVR: 33 (235) | 14%% | Profit: +29.89
+📌 Stats Jockey Ovr Wins: 33
+📌 Stats Jockey Ovr Wins Pct: 14%
+📌 Stats Jockey Ovr Profit: +29.89
+📊 Trainer Last 14: 1 (3) | 33%% | Profit: +4.50
+📌 Stats Trainer Last 14 Wins: 1
+📌 Stats Trainer Last 14 Wins Pct: 33%
+📌 Stats Trainer Last 14 Profit: +4.50
+💰 Trainer OVR: 7 (42) | 17%% | Profit: +2.94
+📌 Stats Trainer Ovr Wins: 7
+📌 Stats Trainer Ovr Wins Pct: 17%
+📌 Stats Trainer Ovr Profit: +2.94
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -2450,7 +2690,7 @@
 💰 Odds: N/A (None)
 📝 Comment: led, faced challenges over 1f out, headed then lost second inside final furlong, no extra towards finish
 ⏳ Days since previous run (to today's run): 15 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-10 18:00:00
 🏟️ Course: Southwell (AW)
@@ -2462,19 +2702,19 @@
 💰 Odds: N/A (None)
 📝 Comment: prominent, disputed lead after 2f, lost second and weakened from over 1f out
 ⏳ Days since previous run (to today's run): 44 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-11-02 18:50:00
 🏟️ Course: Southwell (AW)
 🗒️ Course Comments: Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 7,956
 🏆 Race Description: 3Hc
 🥇 Outcome: 10
 💰 Odds: N/A (None)
 📝 Comment: led narrowly, ridden and headed over 1f out, weakened inside final furlong
 ⏳ Days since previous run (to today's run): 37 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: airman (Opening odds: 9.0)
@@ -2484,9 +2724,9 @@
 🎨 Colour: b
 👤 Trainer: Richard Fahey
 📍 Trainer Location: Musley Bank, N Yorks
-📊 Trainer 14-Day Win %: 5%
+📌 Trainer 14 Days Percent: 5.0
 📌 Trainer 14 Days Wins: 1
-🏇 Trainer Runs (Last 14 Days): 21
+📌 Trainer 14 Days Runs: 21
 📊 Trainer RTF: 52%
 🏇 Jockey: Oisin Orr
 🌱 Breeder: Ms P Walsh
@@ -2507,32 +2747,48 @@
 🌱 Going Runs: 3
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 2 (11) | 18%% | Profit: -3.92
+📌 Stats Jockey Last 14 Wins: 2
+📌 Stats Jockey Last 14 Wins Pct: 18%
+📌 Stats Jockey Last 14 Profit: -3.92
+🏆 Jockey OVR: 13 (98) | 13%% | Profit: -19.50
+📌 Stats Jockey Ovr Wins: 13
+📌 Stats Jockey Ovr Wins Pct: 13%
+📌 Stats Jockey Ovr Profit: -19.50
+📊 Trainer Last 14: 1 (21) | 5%% | Profit: -11.00
+📌 Stats Trainer Last 14 Wins: 1
+📌 Stats Trainer Last 14 Wins Pct: 5%
+📌 Stats Trainer Last 14 Profit: -11.00
+💰 Trainer OVR: 32 (328) | 10%% | Profit: -67.13
+📌 Stats Trainer Ovr Wins: 32
+📌 Stats Trainer Ovr Wins Pct: 10%
+📌 Stats Trainer Ovr Profit: -67.13
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2025-01-14 17:45:00
 🏟️ Course: Newcastle (AW)
 🗒️ Course Comments: Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 5,757
 🏆 Race Description: 4Hc
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, led but pestered, headed over 1f out, weakened final 110yds
 ⏳ Days since previous run (to today's run): 24 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-30 19:00:00
 🏟️ Course: Wolverhampton (AW)
 🗒️ Course Comments: Tapeta. Left-handed 7 1/2f oval.
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 7,956
 🏆 Race Description: 3Hc
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: taken down early, dwelt start, pulled hard, towards rear, headway after 2f, outpaced and edged left inside final furlong, rallied towards finish (jockey said gelding ran too free)
 ⏳ Days since previous run (to today's run): 14 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-12-10 18:00:00
 🏟️ Course: Southwell (AW)
@@ -2544,7 +2800,7 @@
 💰 Odds: N/A (None)
 📝 Comment: carried right start, in rear, outpaced and pushed along 3f out, waiting for room over 1f out, ran on and went third inside final furlong, not reach leaders
 ⏳ Days since previous run (to today's run): 20 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: one-night-stand (Opening odds: 11.0)
@@ -2554,9 +2810,9 @@
 🎨 Colour: b
 👤 Trainer: Scott Dixon
 📍 Trainer Location: Babworth, Notts
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 26
+📌 Trainer 14 Days Runs: 26
 📊 Trainer RTF: 31%
 🏇 Jockey: Joey Haynes
 🌱 Breeder: S Hoskins & Trickledown Stud
@@ -2566,7 +2822,7 @@
 🔢 Number: 9
 🎯 Draw Position: 7.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 106.0
 📉 TS (Top Speed): 93.0
 🎲 Odds: 11.0 💰💰💰💰💰
@@ -2577,6 +2833,22 @@
 🌱 Going Runs: 26
 🏆 Going Wins: 7
 🏥 Medical History: None
+🏇 Jockey Stats: 3 (14) | 21%% | Profit: +21.50
+📌 Stats Jockey Last 14 Wins: 3
+📌 Stats Jockey Last 14 Wins Pct: 21%
+📌 Stats Jockey Last 14 Profit: +21.50
+🏆 Jockey OVR: 27 (345) | 8%% | Profit: -33.88
+📌 Stats Jockey Ovr Wins: 27
+📌 Stats Jockey Ovr Wins Pct: 8%
+📌 Stats Jockey Ovr Profit: -33.88
+📊 Trainer Last 14: 0 (26) | 0%% | Profit: -26.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -26.00
+💰 Trainer OVR: 38 (596) | 6%% | Profit: -81.67
+📌 Stats Trainer Ovr Wins: 38
+📌 Stats Trainer Ovr Wins Pct: 6%
+📌 Stats Trainer Ovr Profit: -81.67
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -2590,7 +2862,7 @@
 💰 Odds: N/A (None)
 📝 Comment: disputed lead, led over 1f out, soon ridden, headed final strides
 ⏳ Days since previous run (to today's run): 5 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2025-01-13 14:00:00
 🏟️ Course: Lingfield (AW)
@@ -2602,7 +2874,7 @@
 💰 Odds: N/A (None)
 📝 Comment: soon led, headed over 1f out, weakened and lost position inside final furlong
 ⏳ Days since previous run (to today's run): 20 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-12-27 18:30:00
 🏟️ Course: Wolverhampton (AW)
@@ -2614,7 +2886,7 @@
 💰 Odds: N/A (None)
 📝 Comment: visibility reduced by fog, pressed leaders, raced wide and lost position 3f out, weakened inside final furlong
 ⏳ Days since previous run (to today's run): 16 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: dark-kestrel (Opening odds: 13.0)
@@ -2624,9 +2896,9 @@
 🎨 Colour: b
 👤 Trainer: Antony Brittain
 📍 Trainer Location: Warthill, N Yorks
-📊 Trainer 14-Day Win %: 7%
+📌 Trainer 14 Days Percent: 7.0
 📌 Trainer 14 Days Wins: 1
-🏇 Trainer Runs (Last 14 Days): 14
+📌 Trainer 14 Days Runs: 14
 📊 Trainer RTF: 57%
 🏇 Jockey: Cam Hardie
 🌱 Breeder: Paul McCartan
@@ -2636,7 +2908,7 @@
 🔢 Number: 11
 🎯 Draw Position: 6.0
 🎭 Headgear: t
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 105.0
 📉 TS (Top Speed): 93.0
 🎲 Odds: 13.0 💰💰💰💰💰
@@ -2647,6 +2919,22 @@
 🌱 Going Runs: 15
 🏆 Going Wins: 1
 🏥 Medical History: 2024-02-09: Wind Surgery; 2022-09-22: Wind Surgery
+🏇 Jockey Stats: 2 (27) | 7%% | Profit: -7.00
+📌 Stats Jockey Last 14 Wins: 2
+📌 Stats Jockey Last 14 Wins Pct: 7%
+📌 Stats Jockey Last 14 Profit: -7.00
+🏆 Jockey OVR: 29 (595) | 5%% | Profit: -315.07
+📌 Stats Jockey Ovr Wins: 29
+📌 Stats Jockey Ovr Wins Pct: 5%
+📌 Stats Jockey Ovr Profit: -315.07
+📊 Trainer Last 14: 1 (14) | 7%% | Profit: -8.00
+📌 Stats Trainer Last 14 Wins: 1
+📌 Stats Trainer Last 14 Wins Pct: 7%
+📌 Stats Trainer Last 14 Profit: -8.00
+💰 Trainer OVR: 29 (334) | 9%% | Profit: -128.28
+📌 Stats Trainer Ovr Wins: 29
+📌 Stats Trainer Ovr Wins Pct: 9%
+📌 Stats Trainer Ovr Profit: -128.28
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -2660,7 +2948,7 @@
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, in touch with leaders, steady headway halfway, no extra inside final 110yds
 ⏳ Days since previous run (to today's run): 3 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2025-01-23 19:30:00
 🏟️ Course: Southwell (AW)
@@ -2672,7 +2960,7 @@
 💰 Odds: N/A (None)
 📝 Comment: dwelt start, towards rear, headway over 1f out, soon challenging, no extra towards finish
 ⏳ Days since previous run (to today's run): 11 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2025-01-08 14:33:00
 🏟️ Course: Newcastle (AW)
@@ -2684,7 +2972,7 @@
 💰 Odds: N/A (None)
 📝 Comment: prominent, outpaced over 1f out, rallied final 110yds
 ⏳ Days since previous run (to today's run): 15 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: almaty-star (Opening odds: 13.0)
@@ -2694,9 +2982,9 @@
 🎨 Colour: b
 👤 Trainer: Robert Cowell
 📍 Trainer Location: Six Mile Bottom, Cambs
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 4
+📌 Trainer 14 Days Runs: 4
 📊 Trainer RTF: 50%
 🏇 Jockey: Hollie Doyle
 🌱 Breeder: Gigginstown House Stud
@@ -2706,7 +2994,7 @@
 🔢 Number: 6
 🎯 Draw Position: 4.0
 🎭 Headgear: p
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 103.0
 📉 TS (Top Speed): 89.0
 🎲 Odds: 13.0 💰💰💰💰💰
@@ -2717,6 +3005,22 @@
 🌱 Going Runs: 7
 🏆 Going Wins: 2
 🏥 Medical History: None
+🏇 Jockey Stats: 3 (30) | 10%% | Profit: -8.92
+📌 Stats Jockey Last 14 Wins: 3
+📌 Stats Jockey Last 14 Wins Pct: 10%
+📌 Stats Jockey Last 14 Profit: -8.92
+🏆 Jockey OVR: 62 (446) | 14%% | Profit: -148.41
+📌 Stats Jockey Ovr Wins: 62
+📌 Stats Jockey Ovr Wins Pct: 14%
+📌 Stats Jockey Ovr Profit: -148.41
+📊 Trainer Last 14: 0 (4) | 0%% | Profit: -4.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -4.00
+💰 Trainer OVR: 11 (147) | 7%% | Profit: -76.27
+📌 Stats Trainer Ovr Wins: 11
+📌 Stats Trainer Ovr Wins Pct: 7%
+📌 Stats Trainer Ovr Profit: -76.27
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -2730,7 +3034,7 @@
 💰 Odds: N/A (None)
 📝 Comment: disputed lead, led 1f out, kept on but headed towards finish
 ⏳ Days since previous run (to today's run): 21 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-09-21 15:15:00
 🏟️ Course: Chester
@@ -2742,7 +3046,7 @@
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, weakened inside final furlong
 ⏳ Days since previous run (to today's run): 118 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-09-14 13:35:00
 🏟️ Course: Lingfield (AW)
@@ -2754,7 +3058,7 @@
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, went second over 1f out, briefly led towards finish, headed final strides
 ⏳ Days since previous run (to today's run): 7 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: night-on-earth (Opening odds: 15.0)
@@ -2764,9 +3068,9 @@
 🎨 Colour: b
 👤 Trainer: Ian Williams
 📍 Trainer Location: Portway, Worcs
-📊 Trainer 14-Day Win %: 7%
+📌 Trainer 14 Days Percent: 7.0
 📌 Trainer 14 Days Wins: 1
-🏇 Trainer Runs (Last 14 Days): 15
+📌 Trainer 14 Days Runs: 15
 📊 Trainer RTF: 64%
 🏇 Jockey: Richard Kingscote
 🌱 Breeder: Tally-Ho Stud
@@ -2776,7 +3080,7 @@
 🔢 Number: 10
 🎯 Draw Position: 8.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 106.0
 📉 TS (Top Speed): 96.0
 🎲 Odds: 15.0 💰💰💰💰💰
@@ -2787,6 +3091,22 @@
 🌱 Going Runs: 25
 🏆 Going Wins: 4
 🏥 Medical History: None
+🏇 Jockey Stats: 3 (13) | 23%% | Profit: -5.73
+📌 Stats Jockey Last 14 Wins: 3
+📌 Stats Jockey Last 14 Wins Pct: 23%
+📌 Stats Jockey Last 14 Profit: -5.73
+🏆 Jockey OVR: 44 (299) | 15%% | Profit: -93.47
+📌 Stats Jockey Ovr Wins: 44
+📌 Stats Jockey Ovr Wins Pct: 15%
+📌 Stats Jockey Ovr Profit: -93.47
+📊 Trainer Last 14: 0 (11) | 0%% | Profit: -11.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -11.00
+💰 Trainer OVR: 34 (332) | 10%% | Profit: -81.09
+📌 Stats Trainer Ovr Wins: 34
+📌 Stats Trainer Ovr Wins Pct: 10%
+📌 Stats Trainer Ovr Profit: -81.09
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -2800,7 +3120,7 @@
 💰 Odds: N/A (None)
 📝 Comment: prominent, outpaced and lost ground over 2f out, rallied and kept on inside final furlong
 ⏳ Days since previous run (to today's run): 5 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2025-01-18 11:15:00
 🏟️ Course: Lingfield (AW)
@@ -2812,7 +3132,7 @@
 💰 Odds: N/A (None)
 📝 Comment: awkward start, pulled hard, soon in touch with leaders, weakened inside final furlong
 ⏳ Days since previous run (to today's run): 15 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2025-01-13 14:00:00
 🏟️ Course: Lingfield (AW)
@@ -2824,7 +3144,7 @@
 💰 Odds: N/A (0.0)
 📝 Comment: vet's certificate
 ⏳ Days since previous run (to today's run): 4 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: bedford-flyer (Opening odds: nan)
@@ -2834,9 +3154,9 @@
 🎨 Colour: b
 👤 Trainer: Michael Appleby
 📍 Trainer Location: Oakham, Rutland
-📊 Trainer 14-Day Win %: 14%
+📌 Trainer 14 Days Percent: 14.0
 📌 Trainer 14 Days Wins: 3
-🏇 Trainer Runs (Last 14 Days): 22
+📌 Trainer 14 Days Runs: 22
 📊 Trainer RTF: 50%
 🏇 Jockey: Non-Runner
 🌱 Breeder: Maurice Burns
@@ -2846,7 +3166,7 @@
 🔢 Number: 1
 🎯 Draw Position: 11.0
 🎭 Headgear: p
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): Unknown
 📉 TS (Top Speed): Unknown
 🎲 Odds: Unknown
@@ -2857,6 +3177,22 @@
 🌱 Going Runs: Unknown
 🏆 Going Wins: Unknown
 🏥 Medical History: None
+🏇 Jockey Stats: nan (Unknown) | nan% | Profit: nan
+📌 Stats Jockey Last 14 Wins: Unknown
+📌 Stats Jockey Last 14 Wins Pct: Unknown
+📌 Stats Jockey Last 14 Profit: Unknown
+🏆 Jockey OVR: nan (Unknown) | nan% | Profit: nan
+📌 Stats Jockey Ovr Wins: Unknown
+📌 Stats Jockey Ovr Wins Pct: Unknown
+📌 Stats Jockey Ovr Profit: Unknown
+📊 Trainer Last 14: nan (Unknown) | nan% | Profit: nan
+📌 Stats Trainer Last 14 Wins: Unknown
+📌 Stats Trainer Last 14 Wins Pct: Unknown
+📌 Stats Trainer Last 14 Profit: Unknown
+💰 Trainer OVR: nan (Unknown) | nan% | Profit: nan
+📌 Stats Trainer Ovr Wins: Unknown
+📌 Stats Trainer Ovr Wins Pct: Unknown
+📌 Stats Trainer Ovr Profit: Unknown
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -2870,7 +3206,7 @@
 💰 Odds: N/A (None)
 📝 Comment: reluctant to go to start, started quickly and ducked right start, disputed lead, prominent after 2f, lost second towards finish, kept on and went second again final strides
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2025-01-13 14:00:00
 🏟️ Course: Lingfield (AW)
@@ -2882,7 +3218,7 @@
 💰 Odds: N/A (None)
 📝 Comment: in touch with leaders, outpaced under 2f out, rallied and kept on inside final furlong, briefly went third inside final 110yds
 ⏳ Days since previous run (to today's run): 12 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-12-31 13:14:00
 🏟️ Course: Lingfield (AW)
@@ -2894,7 +3230,7 @@
 💰 Odds: N/A (None)
 📝 Comment: midfield but in touch with leaders, ridden over 1f out, headway inside final furlong, went second inside final 110yds, kept on, lost second final strides (jockey said gelding hung right-handed)
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: master-of-my-fate (Opening odds: nan)
@@ -2904,9 +3240,9 @@
 🎨 Colour: b
 👤 Trainer: John & Sean Quinn
 📍 Trainer Location: Settrington, N Yorks
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 7
+📌 Trainer 14 Days Runs: 7
 📊 Trainer RTF: 29%
 🏇 Jockey: Non-Runner
 🌱 Breeder: Michael Buggie & Liam Wright
@@ -2916,7 +3252,7 @@
 🔢 Number: 5
 🎯 Draw Position: 10.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): Unknown
 📉 TS (Top Speed): Unknown
 🎲 Odds: Unknown
@@ -2927,6 +3263,22 @@
 🌱 Going Runs: Unknown
 🏆 Going Wins: Unknown
 🏥 Medical History: 2024-07-08: Wind Surgery
+🏇 Jockey Stats: nan (Unknown) | nan% | Profit: nan
+📌 Stats Jockey Last 14 Wins: Unknown
+📌 Stats Jockey Last 14 Wins Pct: Unknown
+📌 Stats Jockey Last 14 Profit: Unknown
+🏆 Jockey OVR: nan (Unknown) | nan% | Profit: nan
+📌 Stats Jockey Ovr Wins: Unknown
+📌 Stats Jockey Ovr Wins Pct: Unknown
+📌 Stats Jockey Ovr Profit: Unknown
+📊 Trainer Last 14: nan (Unknown) | nan% | Profit: nan
+📌 Stats Trainer Last 14 Wins: Unknown
+📌 Stats Trainer Last 14 Wins Pct: Unknown
+📌 Stats Trainer Last 14 Profit: Unknown
+💰 Trainer OVR: nan (Unknown) | nan% | Profit: nan
+📌 Stats Trainer Ovr Wins: Unknown
+📌 Stats Trainer Ovr Wins Pct: Unknown
+📌 Stats Trainer Ovr Profit: Unknown
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -2940,7 +3292,7 @@
 💰 Odds: N/A (0.0)
 📝 Comment: self certificate, off feed
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2025-01-23 19:30:00
 🏟️ Course: Southwell (AW)
@@ -2952,7 +3304,7 @@
 💰 Odds: N/A (None)
 📝 Comment: taken down early, prominent, ridden and challenging over 1f out, led inside final furlong, ran on
 ⏳ Days since previous run (to today's run): 1 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2025-01-18 11:15:00
 🏟️ Course: Lingfield (AW)
@@ -2964,7 +3316,7 @@
 💰 Odds: N/A (None)
 📝 Comment: taken down early, made virtually all, joined over 2f out, ridden when led inside final furlong, went clear inside final 110yds, comfortably
 ⏳ Days since previous run (to today's run): 5 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🔹 ALL RACES THIS COURSE (Grouped by Horse)
@@ -2975,9 +3327,9 @@
 🎨 Colour: b
 👤 Trainer: Stuart Williams
 📍 Trainer Location: Newmarket, Suffolk
-📊 Trainer 14-Day Win %: 21%
+📌 Trainer 14 Days Percent: 21.0
 📌 Trainer 14 Days Wins: 3
-🏇 Trainer Runs (Last 14 Days): 14
+📌 Trainer 14 Days Runs: 14
 📊 Trainer RTF: 64%
 🏇 Jockey: Marco Ghiani
 🌱 Breeder: Cheveley Park Stud Limited
@@ -2987,7 +3339,7 @@
 🔢 Number: 8
 🎯 Draw Position: 1.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 108.0
 📉 TS (Top Speed): 95.0
 🎲 Odds: 4.0 💰💰💰
@@ -2998,6 +3350,22 @@
 🌱 Going Runs: 6
 🏆 Going Wins: 2
 🏥 Medical History: None
+🏇 Jockey Stats: 1 (14) | 7%% | Profit: -12.00
+📌 Stats Jockey Last 14 Wins: 1
+📌 Stats Jockey Last 14 Wins Pct: 7%
+📌 Stats Jockey Last 14 Profit: -12.00
+🏆 Jockey OVR: 37 (297) | 12%% | Profit: -72.88
+📌 Stats Jockey Ovr Wins: 37
+📌 Stats Jockey Ovr Wins Pct: 12%
+📌 Stats Jockey Ovr Profit: -72.88
+📊 Trainer Last 14: 3 (14) | 21%% | Profit: -5.55
+📌 Stats Trainer Last 14 Wins: 3
+📌 Stats Trainer Last 14 Wins Pct: 21%
+📌 Stats Trainer Last 14 Profit: -5.55
+💰 Trainer OVR: 30 (192) | 16%% | Profit: -59.70
+📌 Stats Trainer Ovr Wins: 30
+📌 Stats Trainer Ovr Wins Pct: 16%
+📌 Stats Trainer Ovr Profit: -59.70
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -3011,7 +3379,7 @@
 💰 Odds: N/A (None)
 📝 Comment: visibility reduced by fog, in rear, headway 2f out, went second inside final 110yds, ran on well
 ⏳ Days since previous run (to today's run): 42 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: michaelas-boy (Opening odds: 4.0)
@@ -3021,9 +3389,9 @@
 🎨 Colour: ch
 👤 Trainer: Robert Cowell
 📍 Trainer Location: Six Mile Bottom, Cambs
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 4
+📌 Trainer 14 Days Runs: 4
 📊 Trainer RTF: 50%
 🏇 Jockey: Luke Morris
 🌱 Breeder: Redpender Stud Ltd
@@ -3033,7 +3401,7 @@
 🔢 Number: 3
 🎯 Draw Position: 5.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 105.0
 📉 TS (Top Speed): 89.0
 🎲 Odds: 4.0 💰💰💰
@@ -3044,6 +3412,22 @@
 🌱 Going Runs: 9
 🏆 Going Wins: 2
 🏥 Medical History: 2024-05-28: Wind Surgery
+🏇 Jockey Stats: 9 (48) | 19%% | Profit: -3.17
+📌 Stats Jockey Last 14 Wins: 9
+📌 Stats Jockey Last 14 Wins Pct: 19%
+📌 Stats Jockey Last 14 Profit: -3.17
+🏆 Jockey OVR: 104 (869) | 12%% | Profit: -171.24
+📌 Stats Jockey Ovr Wins: 104
+📌 Stats Jockey Ovr Wins Pct: 12%
+📌 Stats Jockey Ovr Profit: -171.24
+📊 Trainer Last 14: 0 (4) | 0%% | Profit: -4.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -4.00
+💰 Trainer OVR: 11 (147) | 7%% | Profit: -76.27
+📌 Stats Trainer Ovr Wins: 11
+📌 Stats Trainer Ovr Wins Pct: 7%
+📌 Stats Trainer Ovr Profit: -76.27
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -3057,7 +3441,7 @@
 💰 Odds: N/A (None)
 📝 Comment: disputed lead, led clearly after 2f, headed towards finish, lost second final strides
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-27 18:30:00
 🏟️ Course: Wolverhampton (AW)
@@ -3069,7 +3453,7 @@
 💰 Odds: N/A (None)
 📝 Comment: taken down early, visibility reduced by fog, pressed leader, ridden and led 1f out, kept on
 ⏳ Days since previous run (to today's run): 28 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-09-27 17:30:00
 🏟️ Course: Wolverhampton (AW)
@@ -3081,7 +3465,7 @@
 💰 Odds: N/A (0.0)
 📝 Comment: self certificate
 ⏳ Days since previous run (to today's run): 91 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: airman (Opening odds: 9.0)
@@ -3091,9 +3475,9 @@
 🎨 Colour: b
 👤 Trainer: Richard Fahey
 📍 Trainer Location: Musley Bank, N Yorks
-📊 Trainer 14-Day Win %: 5%
+📌 Trainer 14 Days Percent: 5.0
 📌 Trainer 14 Days Wins: 1
-🏇 Trainer Runs (Last 14 Days): 21
+📌 Trainer 14 Days Runs: 21
 📊 Trainer RTF: 52%
 🏇 Jockey: Oisin Orr
 🌱 Breeder: Ms P Walsh
@@ -3114,20 +3498,36 @@
 🌱 Going Runs: 3
 🏆 Going Wins: 0
 🏥 Medical History: None
+🏇 Jockey Stats: 2 (11) | 18%% | Profit: -3.92
+📌 Stats Jockey Last 14 Wins: 2
+📌 Stats Jockey Last 14 Wins Pct: 18%
+📌 Stats Jockey Last 14 Profit: -3.92
+🏆 Jockey OVR: 13 (98) | 13%% | Profit: -19.50
+📌 Stats Jockey Ovr Wins: 13
+📌 Stats Jockey Ovr Wins Pct: 13%
+📌 Stats Jockey Ovr Profit: -19.50
+📊 Trainer Last 14: 1 (21) | 5%% | Profit: -11.00
+📌 Stats Trainer Last 14 Wins: 1
+📌 Stats Trainer Last 14 Wins Pct: 5%
+📌 Stats Trainer Last 14 Profit: -11.00
+💰 Trainer OVR: 32 (328) | 10%% | Profit: -67.13
+📌 Stats Trainer Ovr Wins: 32
+📌 Stats Trainer Ovr Wins Pct: 10%
+📌 Stats Trainer Ovr Profit: -67.13
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
 📅 Race Date: 2024-12-30 19:00:00
 🏟️ Course: Wolverhampton (AW)
 🗒️ Course Comments: Tapeta. Left-handed 7 1/2f oval.
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 7,956
 🏆 Race Description: 3Hc
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: taken down early, dwelt start, pulled hard, towards rear, headway after 2f, outpaced and edged left inside final furlong, rallied towards finish (jockey said gelding ran too free)
 ⏳ Days since previous run (to today's run): 39 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: one-night-stand (Opening odds: 11.0)
@@ -3137,9 +3537,9 @@
 🎨 Colour: b
 👤 Trainer: Scott Dixon
 📍 Trainer Location: Babworth, Notts
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 26
+📌 Trainer 14 Days Runs: 26
 📊 Trainer RTF: 31%
 🏇 Jockey: Joey Haynes
 🌱 Breeder: S Hoskins & Trickledown Stud
@@ -3149,7 +3549,7 @@
 🔢 Number: 9
 🎯 Draw Position: 7.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 106.0
 📉 TS (Top Speed): 93.0
 🎲 Odds: 11.0 💰💰💰💰💰
@@ -3160,6 +3560,22 @@
 🌱 Going Runs: 26
 🏆 Going Wins: 7
 🏥 Medical History: None
+🏇 Jockey Stats: 3 (14) | 21%% | Profit: +21.50
+📌 Stats Jockey Last 14 Wins: 3
+📌 Stats Jockey Last 14 Wins Pct: 21%
+📌 Stats Jockey Last 14 Profit: +21.50
+🏆 Jockey OVR: 27 (345) | 8%% | Profit: -33.88
+📌 Stats Jockey Ovr Wins: 27
+📌 Stats Jockey Ovr Wins Pct: 8%
+📌 Stats Jockey Ovr Profit: -33.88
+📊 Trainer Last 14: 0 (26) | 0%% | Profit: -26.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -26.00
+💰 Trainer OVR: 38 (596) | 6%% | Profit: -81.67
+📌 Stats Trainer Ovr Wins: 38
+📌 Stats Trainer Ovr Wins Pct: 6%
+📌 Stats Trainer Ovr Profit: -81.67
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -3173,7 +3589,7 @@
 💰 Odds: N/A (None)
 📝 Comment: visibility reduced by fog, pressed leaders, raced wide and lost position 3f out, weakened inside final furlong
 ⏳ Days since previous run (to today's run): 42 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-09 16:45:00
 🏟️ Course: Wolverhampton (AW)
@@ -3185,19 +3601,19 @@
 💰 Odds: N/A (None)
 📝 Comment: raced in second, lost second inside final furlong, weakening when hampered inside final 110yds
 ⏳ Days since previous run (to today's run): 18 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-12-02 20:00:00
 🏟️ Course: Wolverhampton (AW)
 🗒️ Course Comments: Tapeta. Left-handed 7 1/2f oval.
-📏 Distance: 6.0 furlongs 🔽
+📏 Distance: 6.0 furlongs 🔼
 👜 Prize: 💰 4,972
 🏆 Race Description: 4Hc
 🥇 Outcome: 5
 💰 Odds: N/A (None)
 📝 Comment: took keen hold, raced wide early, led, switched left over 4f out, headed over 1f out, weakened gradually final 110yds
 ⏳ Days since previous run (to today's run): 6 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 4
 📅 Race Date: 2024-11-23 19:25:00
 🏟️ Course: Wolverhampton (AW)
@@ -3209,7 +3625,7 @@
 💰 Odds: N/A (None)
 📝 Comment: pressed leader, shaken up over 2f out, ridden to lead over 1f out, kept on well inside final furlong
 ⏳ Days since previous run (to today's run): 9 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 5
 📅 Race Date: 2024-02-10 19:00:00
 🏟️ Course: Wolverhampton (AW)
@@ -3221,7 +3637,7 @@
 💰 Odds: N/A (None)
 📝 Comment: made all, edged right under 2f out, ridden over 1f out, kept on well inside final furlong, always doing enough
 ⏳ Days since previous run (to today's run): 287 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: dark-kestrel (Opening odds: 13.0)
@@ -3231,9 +3647,9 @@
 🎨 Colour: b
 👤 Trainer: Antony Brittain
 📍 Trainer Location: Warthill, N Yorks
-📊 Trainer 14-Day Win %: 7%
+📌 Trainer 14 Days Percent: 7.0
 📌 Trainer 14 Days Wins: 1
-🏇 Trainer Runs (Last 14 Days): 14
+📌 Trainer 14 Days Runs: 14
 📊 Trainer RTF: 57%
 🏇 Jockey: Cam Hardie
 🌱 Breeder: Paul McCartan
@@ -3243,7 +3659,7 @@
 🔢 Number: 11
 🎯 Draw Position: 6.0
 🎭 Headgear: t
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 105.0
 📉 TS (Top Speed): 93.0
 🎲 Odds: 13.0 💰💰💰💰💰
@@ -3254,6 +3670,22 @@
 🌱 Going Runs: 15
 🏆 Going Wins: 1
 🏥 Medical History: 2024-02-09: Wind Surgery; 2022-09-22: Wind Surgery
+🏇 Jockey Stats: 2 (27) | 7%% | Profit: -7.00
+📌 Stats Jockey Last 14 Wins: 2
+📌 Stats Jockey Last 14 Wins Pct: 7%
+📌 Stats Jockey Last 14 Profit: -7.00
+🏆 Jockey OVR: 29 (595) | 5%% | Profit: -315.07
+📌 Stats Jockey Ovr Wins: 29
+📌 Stats Jockey Ovr Wins Pct: 5%
+📌 Stats Jockey Ovr Profit: -315.07
+📊 Trainer Last 14: 1 (14) | 7%% | Profit: -8.00
+📌 Stats Trainer Last 14 Wins: 1
+📌 Stats Trainer Last 14 Wins Pct: 7%
+📌 Stats Trainer Last 14 Profit: -8.00
+💰 Trainer OVR: 29 (334) | 9%% | Profit: -128.28
+📌 Stats Trainer Ovr Wins: 29
+📌 Stats Trainer Ovr Wins Pct: 9%
+📌 Stats Trainer Ovr Profit: -128.28
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -3267,7 +3699,7 @@
 💰 Odds: N/A (None)
 📝 Comment: towards rear, good headway from over 1f out, led inside final furlong, kept on
 ⏳ Days since previous run (to today's run): 270 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: night-on-earth (Opening odds: 15.0)
@@ -3277,9 +3709,9 @@
 🎨 Colour: b
 👤 Trainer: Ian Williams
 📍 Trainer Location: Portway, Worcs
-📊 Trainer 14-Day Win %: 7%
+📌 Trainer 14 Days Percent: 7.0
 📌 Trainer 14 Days Wins: 1
-🏇 Trainer Runs (Last 14 Days): 15
+📌 Trainer 14 Days Runs: 15
 📊 Trainer RTF: 64%
 🏇 Jockey: Richard Kingscote
 🌱 Breeder: Tally-Ho Stud
@@ -3289,7 +3721,7 @@
 🔢 Number: 10
 🎯 Draw Position: 8.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): 106.0
 📉 TS (Top Speed): 96.0
 🎲 Odds: 15.0 💰💰💰💰💰
@@ -3300,6 +3732,22 @@
 🌱 Going Runs: 25
 🏆 Going Wins: 4
 🏥 Medical History: None
+🏇 Jockey Stats: 3 (13) | 23%% | Profit: -5.73
+📌 Stats Jockey Last 14 Wins: 3
+📌 Stats Jockey Last 14 Wins Pct: 23%
+📌 Stats Jockey Last 14 Profit: -5.73
+🏆 Jockey OVR: 44 (299) | 15%% | Profit: -93.47
+📌 Stats Jockey Ovr Wins: 44
+📌 Stats Jockey Ovr Wins Pct: 15%
+📌 Stats Jockey Ovr Profit: -93.47
+📊 Trainer Last 14: 0 (11) | 0%% | Profit: -11.00
+📌 Stats Trainer Last 14 Wins: 0
+📌 Stats Trainer Last 14 Wins Pct: 0%
+📌 Stats Trainer Last 14 Profit: -11.00
+💰 Trainer OVR: 34 (332) | 10%% | Profit: -81.09
+📌 Stats Trainer Ovr Wins: 34
+📌 Stats Trainer Ovr Wins Pct: 10%
+📌 Stats Trainer Ovr Profit: -81.09
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -3313,7 +3761,7 @@
 💰 Odds: N/A (None)
 📝 Comment: led, ridden and headed over 1f out, weakened inside final 110yds
 ⏳ Days since previous run (to today's run): 76 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-07-01 17:30:00
 🏟️ Course: Wolverhampton (AW)
@@ -3325,7 +3773,7 @@
 💰 Odds: N/A (0.0)
 📝 Comment: vet's certificate
 ⏳ Days since previous run (to today's run): 145 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 3
 📅 Race Date: 2024-04-01 16:48:00
 🏟️ Course: Wolverhampton (AW)
@@ -3337,7 +3785,7 @@
 💰 Odds: N/A (None)
 📝 Comment: led at fast pace, ridden and hung right 1f out, ran on but headed towards finish
 ⏳ Days since previous run (to today's run): 91 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: bedford-flyer (Opening odds: nan)
@@ -3347,9 +3795,9 @@
 🎨 Colour: b
 👤 Trainer: Michael Appleby
 📍 Trainer Location: Oakham, Rutland
-📊 Trainer 14-Day Win %: 14%
+📌 Trainer 14 Days Percent: 14.0
 📌 Trainer 14 Days Wins: 3
-🏇 Trainer Runs (Last 14 Days): 22
+📌 Trainer 14 Days Runs: 22
 📊 Trainer RTF: 50%
 🏇 Jockey: Non-Runner
 🌱 Breeder: Maurice Burns
@@ -3359,7 +3807,7 @@
 🔢 Number: 1
 🎯 Draw Position: 11.0
 🎭 Headgear: p
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): Unknown
 📉 TS (Top Speed): Unknown
 🎲 Odds: Unknown
@@ -3370,6 +3818,22 @@
 🌱 Going Runs: Unknown
 🏆 Going Wins: Unknown
 🏥 Medical History: None
+🏇 Jockey Stats: nan (Unknown) | nan% | Profit: nan
+📌 Stats Jockey Last 14 Wins: Unknown
+📌 Stats Jockey Last 14 Wins Pct: Unknown
+📌 Stats Jockey Last 14 Profit: Unknown
+🏆 Jockey OVR: nan (Unknown) | nan% | Profit: nan
+📌 Stats Jockey Ovr Wins: Unknown
+📌 Stats Jockey Ovr Wins Pct: Unknown
+📌 Stats Jockey Ovr Profit: Unknown
+📊 Trainer Last 14: nan (Unknown) | nan% | Profit: nan
+📌 Stats Trainer Last 14 Wins: Unknown
+📌 Stats Trainer Last 14 Wins Pct: Unknown
+📌 Stats Trainer Last 14 Profit: Unknown
+💰 Trainer OVR: nan (Unknown) | nan% | Profit: nan
+📌 Stats Trainer Ovr Wins: Unknown
+📌 Stats Trainer Ovr Wins Pct: Unknown
+📌 Stats Trainer Ovr Profit: Unknown
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -3383,7 +3847,7 @@
 💰 Odds: N/A (None)
 📝 Comment: reluctant to go to start, started quickly and ducked right start, disputed lead, prominent after 2f, lost second towards finish, kept on and went second again final strides
 ⏳ Days since previous run (to today's run): 13 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🐎 Horse: master-of-my-fate (Opening odds: nan)
@@ -3393,9 +3857,9 @@
 🎨 Colour: b
 👤 Trainer: John & Sean Quinn
 📍 Trainer Location: Settrington, N Yorks
-📊 Trainer 14-Day Win %: 0%
+📌 Trainer 14 Days Percent: 0.0
 📌 Trainer 14 Days Wins: 0
-🏇 Trainer Runs (Last 14 Days): 7
+📌 Trainer 14 Days Runs: 7
 📊 Trainer RTF: 29%
 🏇 Jockey: Non-Runner
 🌱 Breeder: Michael Buggie & Liam Wright
@@ -3405,7 +3869,7 @@
 🔢 Number: 5
 🎯 Draw Position: 10.0
 🎭 Headgear: Unknown
-🆕 First Time Headgear: No
+🆕 First Time Headgear: Yes
 📈 RPR (Racing Post Rating): Unknown
 📉 TS (Top Speed): Unknown
 🎲 Odds: Unknown
@@ -3416,6 +3880,22 @@
 🌱 Going Runs: Unknown
 🏆 Going Wins: Unknown
 🏥 Medical History: 2024-07-08: Wind Surgery
+🏇 Jockey Stats: nan (Unknown) | nan% | Profit: nan
+📌 Stats Jockey Last 14 Wins: Unknown
+📌 Stats Jockey Last 14 Wins Pct: Unknown
+📌 Stats Jockey Last 14 Profit: Unknown
+🏆 Jockey OVR: nan (Unknown) | nan% | Profit: nan
+📌 Stats Jockey Ovr Wins: Unknown
+📌 Stats Jockey Ovr Wins Pct: Unknown
+📌 Stats Jockey Ovr Profit: Unknown
+📊 Trainer Last 14: nan (Unknown) | nan% | Profit: nan
+📌 Stats Trainer Last 14 Wins: Unknown
+📌 Stats Trainer Last 14 Wins Pct: Unknown
+📌 Stats Trainer Last 14 Profit: Unknown
+💰 Trainer OVR: nan (Unknown) | nan% | Profit: nan
+📌 Stats Trainer Ovr Wins: Unknown
+📌 Stats Trainer Ovr Wins Pct: Unknown
+📌 Stats Trainer Ovr Profit: Unknown
 --------------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 🏁 Previous Race No.: 1
@@ -3429,7 +3909,7 @@
 💰 Odds: N/A (0.0)
 📝 Comment: self certificate
 ⏳ Days since previous run (to today's run): 27 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 🏁 Previous Race No.: 2
 📅 Race Date: 2024-12-21 19:15:00
 🏟️ Course: Wolverhampton (AW)
@@ -3441,7 +3921,7 @@
 💰 Odds: N/A (None)
 📝 Comment: prominent, disputing third inside final furlong, kept on
 ⏳ Days since previous run (to today's run): 20 days
---------------------------------------------------------------------------------
+--------------------------------------------------
 
 
 🔹 ALL RACES THIS DISTANCE (Grouped by Horse)
