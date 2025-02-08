@@ -191,11 +191,26 @@
     .copyable:hover {
         background: #f8f9fa;
     }
+
+    .random-hash-container {
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+.random-hash-container ul {
+    list-style-type: none;
+    padding: 0;
+}
+.random-hash-container li {
+    font-family: monospace;
+    font-size: larger;
+     color: #007bff;
+}
+
     </style>
 </head>
 <body>
     <button class="dark-mode-toggle" onclick="toggleDarkMode()">🌙 Toggle Dark Mode</button>
-
 
 
     <div class="container">
@@ -206,12 +221,12 @@
             🕰 **Your Local Time:** <span id="browser-time">Loading...</span>
         </div>
         <h2> Enter a race ID and hash. For daily hashes, please email us rpraceday at tuta.com.</h2>
-        <p>To get you started:</p>
+        <p>A free race to get you started today at Newbury 1:15:</p>
         <div>
-            Race ID: <span class="copyable" data-target="race_id">885367</span>
+            Race ID: <span class="copyable" data-target="race_id">885376</span>
         </div>
         <div>
-            Hash Code: <span class="copyable" data-target="hash_code">8f81ef03</span>
+            Hash Code: <span class="copyable" data-target="hash_code">2ddc7509</span>
         </div>
         <form method="POST">
             <input type="text" name="race_id" placeholder="Enter Race ID" required>
@@ -222,7 +237,16 @@
         {% if error %}
             <p class="error">{{ error }}</p>
         {% endif %}
-
+        <div class="random-hash-container">
+            <h2>🔑 Some free races to get you started </h2>
+            <ul>
+                <li><strong>ID:</strong> 885371 - <strong>Hash:</strong> fd2778fb</li>
+                <li><strong>ID:</strong> 885372 - <strong>Hash:</strong> 11e191db</li>
+                <li><strong>ID:</strong> 885387 - <strong>Hash:</strong> 744475b2</li>
+                <li><strong>ID:</strong> 885389 - <strong>Hash:</strong> ccd7a1f4</li>
+                <li><strong>ID:</strong> 885390 - <strong>Hash:</strong> 947365e2</li>
+            </ul>
+        </div>
         {% if race_data %}
             <h2>Race Details</h2>
             <div class="race-output">{{ race_data }}</div>
@@ -231,11 +255,19 @@
                 <input type="hidden" name="hash_code" value="{{ hash_code }}">
                 <button type="submit" class="download">Download TXT File</button>
             </form>
+
+        {% else %}
+
         {% endif %}
     </div>
+
+
     <div class="footer">
-        Version <span id="version-number">20250207-1940</span>
+        Version <span id="version-number">20250208-1440</span>
     </div>
+
+
+
     <script>
 
 

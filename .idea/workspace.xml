@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="improvement in data. updated footer version">
+      <change afterPath="$PROJECT_DIR$/generate_random_hash_html.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hash_codes.json" beforeDir="false" afterPath="$PROJECT_DIR$/hash_codes.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/races/885357.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/885357.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/races/885358.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/885358.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/races/885359.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/885359.txt" afterDir="false" />
@@ -62,8 +64,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -128,7 +130,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738925944461</updated>
-      <workItem from="1738925951792" duration="19346000" />
+      <workItem from="1738925951792" duration="23917000" />
     </task>
     <task id="LOCAL-00001" summary="v 0.1 Dark mode, hash function, raceid">
       <option name="closed" value="true" />
@@ -234,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738949956095</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="improvement in data. updated footer version">
+      <option name="closed" value="true" />
+      <created>1738953688828</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1738953688828</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
