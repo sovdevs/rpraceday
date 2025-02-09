@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="Updated output format. Btter icons odds, combined some fields, ..">
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="New ranks added. News section for HTML">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/races/885391.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/885391.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/races/885392.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/885392.txt" afterDir="false" />
@@ -12,7 +12,6 @@
       <change beforePath="$PROJECT_DIR$/static/races/885394.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/885394.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/races/885395.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/885395.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/races/885396.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/885396.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/885397.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/885397.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/races/885398.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/885398.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/races/885399.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/885399.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/races/885400.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/885400.txt" afterDir="false" />
@@ -25,9 +24,7 @@
       <change beforePath="$PROJECT_DIR$/static/races/887792.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887792.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/races/887793.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887793.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/races/887794.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887794.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887795.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887795.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/races/887796.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887796.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738925944461</updated>
-      <workItem from="1738925951792" duration="33644000" />
+      <workItem from="1738925951792" duration="38833000" />
     </task>
     <task id="LOCAL-00001" summary="v 0.1 Dark mode, hash function, raceid">
       <option name="closed" value="true" />
@@ -281,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739090943757</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="New ranks added. News section for HTML">
+      <option name="closed" value="true" />
+      <created>1739104510355</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1739104510355</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,6 +311,7 @@
     <MESSAGE value="new txt files. Added icons to comments and spotlight, fixes with odds, not showing." />
     <MESSAGE value="comments highlights extended to previous runs" />
     <MESSAGE value="Updated output format. Btter icons odds, combined some fields, .." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated output format. Btter icons odds, combined some fields, .." />
+    <MESSAGE value="New ranks added. News section for HTML" />
+    <option name="LAST_COMMIT_MESSAGE" value="New ranks added. News section for HTML" />
   </component>
 </project>
