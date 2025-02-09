@@ -28,7 +28,7 @@ def generate_random_hash_html(json_file="hash_codes.json"):
         # Generate the HTML div snippet
         html_snippet = """
         <div class="random-hash-container">
-            <h2>🔑 Random Hash Codes</h2>
+            <h2>🔑 Today's free races </h2>
             <ul>
         """
         for key, value in random_pairs:
