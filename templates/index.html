@@ -131,7 +131,6 @@
     display: block;    /* ✅ Ensures full-width block behavior */
 }
 
-
         .error {
             background: var(--error-bg);
             color: var(--error-text);
@@ -212,65 +211,82 @@
 <body>
     <button class="dark-mode-toggle" onclick="toggleDarkMode()">🌙 Toggle Dark Mode</button>
 
+        <div class="main-wrapper">
+        <!-- Existing container -->
+                <div class="container">
+                    <h1>🏇 RP Raceday Demo</h1>
+                    <!-- ✅ Live Time Display -->
+                    <div class="time-container">
+                        ⏳ **Current Time in London (GMT/BST):** <span id="london-time">Loading...</span><br>
+                        🕰 **Your Local Time:** <span id="browser-time">Loading...</span>
+                    </div>
+                    <h2> Enter a race ID and hash. For daily hashes, please email us rpraceday at tuta.com.</h2>
+                    <p>A free race to get you started today at Newbury 1:15:</p>
+                    <div>
+                        Race ID: <span class="copyable" data-target="race_id">885376</span>
+                    </div>
+                    <div>
+                        Hash Code: <span class="copyable" data-target="hash_code">2ddc7509</span>
+                    </div>
+                    <form method="POST">
+                        <input type="text" name="race_id" placeholder="Enter Race ID" required>
+                        <input type="text" name="hash_code" placeholder="Enter Hash Code" required>
+                        <button type="submit">Search</button>
+                    </form>
 
-    <div class="container">
-        <h1>🏇 RP Raceday Demo</h1>
-        <!-- ✅ Live Time Display -->
-        <div class="time-container">
-            ⏳ **Current Time in London (GMT/BST):** <span id="london-time">Loading...</span><br>
-            🕰 **Your Local Time:** <span id="browser-time">Loading...</span>
+                    {% if error %}
+                        <p class="error">{{ error }}</p>
+                    {% endif %}
+
+                    <div class="random-hash-container">
+                        <h2>🔑 Today's free races </h2>
+                        <ul>
+                            <li><strong>ID:</strong> 885399 - <strong>Hash:</strong> 88f0d9bf</li>
+                            <li><strong>ID:</strong> 887793 - <strong>Hash:</strong> a33d1e44</li>
+                            <li><strong>ID:</strong> 885401 - <strong>Hash:</strong> e6752aa1</li>
+                            <li><strong>ID:</strong> 887796 - <strong>Hash:</strong> 39f1261c</li>
+                            <li><strong>ID:</strong> 885398 - <strong>Hash:</strong> df3988e1</li>
+                        </ul>
+                    </div>
+
+                    {% if race_data %}
+                        <h2>Race Details</h2>
+                        <div class="race-output">{{ race_data }}</div>
+                        <form action="/download" method="post">
+                            <input type="hidden" name="race_id" value="{{ race_id }}">
+                            <input type="hidden" name="hash_code" value="{{ hash_code }}">
+                            <button type="submit" class="download">Download TXT File</button>
+                        </form>
+
+                    {% endif %}
+                                    <!-- New News Section -->
+                        <div class="news-section">
+                            <div class="news-item">
+                                <h3>📰 Latest News</h3>
+                                <div class="news-alert">
+                                    ⚠️All GOOD
+                                </div>
+                                <p>• Just added Ranks! Check it out</p>
+                                <p>• Improved data accuracy update</p>
+                            </div>
+
+                            <div class="news-item">
+                                <h3>🔧 System Info</h3>
+                                <div class="random-hash-container">
+                                    Version: <span id="version-number">20250209-1330</span>
+                                </div>
+                                <div class="news-alert" style="margin-top: 15px;">
+                                    🚨 High server load expected during peak hours!! this is a demo!!
+                                </div>
+                            </div>
+                        </div>
+
+                </div>
+
+
+
+
         </div>
-        <h2> Enter a race ID and hash. For daily hashes, please email us rpraceday at tuta.com.</h2>
-        <p>A free race to get you started today at Newbury 1:15:</p>
-        <div>
-            Race ID: <span class="copyable" data-target="race_id">885376</span>
-        </div>
-        <div>
-            Hash Code: <span class="copyable" data-target="hash_code">2ddc7509</span>
-        </div>
-        <form method="POST">
-            <input type="text" name="race_id" placeholder="Enter Race ID" required>
-            <input type="text" name="hash_code" placeholder="Enter Hash Code" required>
-            <button type="submit">Search</button>
-        </form>
-
-        {% if error %}
-            <p class="error">{{ error }}</p>
-        {% endif %}
-
-
-
-        <div class="random-hash-container">
-            <h2>🔑 Today's free races </h2>
-            <ul>
-                <li><strong>ID:</strong> 885399 - <strong>Hash:</strong> 88f0d9bf</li>
-                <li><strong>ID:</strong> 887793 - <strong>Hash:</strong> a33d1e44</li>
-                <li><strong>ID:</strong> 885401 - <strong>Hash:</strong> e6752aa1</li>
-                <li><strong>ID:</strong> 887796 - <strong>Hash:</strong> 39f1261c</li>
-                <li><strong>ID:</strong> 885398 - <strong>Hash:</strong> df3988e1</li>
-            </ul>
-        </div>
-
-
-
-        {% if race_data %}
-            <h2>Race Details</h2>
-            <div class="race-output">{{ race_data }}</div>
-            <form action="/download" method="post">
-                <input type="hidden" name="race_id" value="{{ race_id }}">
-                <input type="hidden" name="hash_code" value="{{ hash_code }}">
-                <button type="submit" class="download">Download TXT File</button>
-            </form>
-
-        {% else %}
-
-        {% endif %}
-    </div>
-
-
-    <div class="footer" >
-        Version <span class="random-hash-container" id="version-number">20250209-0941</span>
-    </div>
 
 
 
