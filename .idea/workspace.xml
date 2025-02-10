@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="fixed bug with horses no race history not being displayed.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hash_codes.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/885391.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/885392.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/885393.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/885394.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/885395.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/885396.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/885397.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/885398.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/885399.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/885400.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/885401.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/885402.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/885403.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/885404.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887789.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887791.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887792.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887793.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887794.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887795.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887796.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="todays data" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738925944461</updated>
-      <workItem from="1738925951792" duration="40114000" />
+      <workItem from="1738925951792" duration="40443000" />
     </task>
     <task id="LOCAL-00001" summary="v 0.1 Dark mode, hash function, raceid">
       <option name="closed" value="true" />
@@ -298,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739132828281</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="todays data">
+      <option name="closed" value="true" />
+      <created>1739184438306</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1739184438306</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,6 +308,7 @@
     <MESSAGE value="Updated output format. Btter icons odds, combined some fields, .." />
     <MESSAGE value="New ranks added. News section for HTML" />
     <MESSAGE value="fixed bug with horses no race history not being displayed." />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed bug with horses no race history not being displayed." />
+    <MESSAGE value="todays data" />
+    <option name="LAST_COMMIT_MESSAGE" value="todays data" />
   </component>
 </project>
