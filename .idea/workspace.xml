@@ -4,9 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="addded new race data">
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="fixed bug with hash codes not calculated before HTML display- no data!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hash_codes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886135.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886136.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886137.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886138.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886139.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886140.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886141.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886142.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886143.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886144.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886145.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886146.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886147.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886334.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886335.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886336.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886337.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886338.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886339.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886340.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887989.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887990.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887991.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,21 +48,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sovdevs"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sovdevs&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sovdevs/rpraceday.git",
-    "accountId": "2bc2532c-82a3-49c3-8636-255fda7348d9"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sovdevs/rpraceday.git&quot;,
+    &quot;accountId&quot;: &quot;2bc2532c-82a3-49c3-8636-255fda7348d9&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2si6FY5JMuuat2OOZoqb2Qntbf8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,19 +71,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\996mu\PycharmProjects\rpraceday\static" />
@@ -83,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738925944461</updated>
-      <workItem from="1738925951792" duration="43918000" />
+      <workItem from="1738925951792" duration="46933000" />
     </task>
     <task id="LOCAL-00001" summary="v 0.1 Dark mode, hash function, raceid">
       <option name="closed" value="true" />
@@ -317,7 +340,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739260229422</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="fixed bug with hash codes not calculated before HTML display- no data!">
+      <option name="closed" value="true" />
+      <created>1739260983097</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1739260983097</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -347,6 +378,7 @@
     <MESSAGE value="todays data" />
     <MESSAGE value="hash container had issue" />
     <MESSAGE value="addded new race data" />
-    <option name="LAST_COMMIT_MESSAGE" value="addded new race data" />
+    <MESSAGE value="fixed bug with hash codes not calculated before HTML display- no data!" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed bug with hash codes not calculated before HTML display- no data!" />
   </component>
 </project>
