@@ -4,32 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="fixed bug with hash codes not calculated before HTML display- no data!">
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="new data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generate_random_hash_html.py" beforeDir="false" afterPath="$PROJECT_DIR$/generate_random_hash_html.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hash_codes.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886135.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886136.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886137.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886138.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886139.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886140.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886141.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886142.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886143.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886144.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886145.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886146.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886147.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886334.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886335.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886336.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886337.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886338.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886339.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886340.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887989.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887990.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887991.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738925944461</updated>
-      <workItem from="1738925951792" duration="46933000" />
+      <workItem from="1738925951792" duration="48432000" />
     </task>
     <task id="LOCAL-00001" summary="v 0.1 Dark mode, hash function, raceid">
       <option name="closed" value="true" />
@@ -348,7 +326,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739260983097</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="new data">
+      <option name="closed" value="true" />
+      <created>1739347410473</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1739347410473</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -379,6 +365,7 @@
     <MESSAGE value="hash container had issue" />
     <MESSAGE value="addded new race data" />
     <MESSAGE value="fixed bug with hash codes not calculated before HTML display- no data!" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed bug with hash codes not calculated before HTML display- no data!" />
+    <MESSAGE value="new data" />
+    <option name="LAST_COMMIT_MESSAGE" value="new data" />
   </component>
 </project>

@@ -18,17 +18,18 @@ def generate_random_hash_html(json_file="hash_codes.json"):
             data = json.load(file)
 
         # Ensure we have at least five pairs to select from
+        # Ensure there's enough data
         if len(data) < 5:
             return "⚠️ Not enough data in JSON file!"
 
         # Pick 5 random pairs
-        random_pairs = random.sample(list(data.items()), 5)  # ✅ FIXED
+        random_pairs = random.sample(list(data.items()), 5)
+        no_of_races = len(data.keys())
 
-
-        # Generate the HTML div snippet
-        html_snippet = """
+        # ✅ Use f-string to insert `no_of_races` dynamically
+        html_snippet = f"""
         <div class="random-hash-container">
-            <h2>🔑 Today's free races </h2>
+            <h2>🔑 {no_of_races} races today. Here is a selection:</h2>
             <ul>
         """
         for key, value in random_pairs:
