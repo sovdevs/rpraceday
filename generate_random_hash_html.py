@@ -29,11 +29,11 @@ def generate_random_hash_html(json_file="hash_codes.json"):
         # ✅ Use f-string to insert `no_of_races` dynamically
         html_snippet = f"""
         <div class="random-hash-container">
-            <h2>🔑 {no_of_races} races today. Here is a selection:</h2>
+            <h2>🔑 {no_of_races} races under consideration today. Here is a selection:</h2>
             <ul>
         """
         for key, value in random_pairs:
-            html_snippet += f'                <li><strong>ID:</strong> {key} - <strong>Hash:</strong> {value}</li>\n'
+            html_snippet += f'<li><strong>ID:</strong> {key} - <strong>Hash:</strong> {value}</li>\n'
 
         html_snippet += """
             </ul>
