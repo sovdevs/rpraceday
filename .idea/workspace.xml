@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="new data. OVR% new o wise minimal">
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="update to txt fles">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1738925944461</updated>
       <workItem from="1738925951792" duration="51527000" />
-      <workItem from="1739463522178" duration="9957000" />
+      <workItem from="1739463522178" duration="10587000" />
     </task>
     <task id="LOCAL-00001" summary="v 0.1 Dark mode, hash function, raceid">
       <option name="closed" value="true" />
@@ -364,14 +364,21 @@
       <option name="project" value="LOCAL" />
       <updated>1739699795884</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="update to txt fles">
+      <option name="closed" value="true" />
+      <created>1739702132615</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1739702132615</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added races txt" />
     <MESSAGE value="added races under static andhashcodes" />
     <MESSAGE value="added races under static" />
     <MESSAGE value="updated race data" />
@@ -396,6 +403,7 @@
     <MESSAGE value="changes to index html" />
     <MESSAGE value="new data. fixes on trainer Jockey SRs, added race_number, medical, gear.." />
     <MESSAGE value="new data. OVR% new o wise minimal" />
-    <option name="LAST_COMMIT_MESSAGE" value="new data. OVR% new o wise minimal" />
+    <MESSAGE value="update to txt fles" />
+    <option name="LAST_COMMIT_MESSAGE" value="update to txt fles" />
   </component>
 </project>
