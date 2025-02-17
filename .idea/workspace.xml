@@ -4,26 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="update to txt files 2">
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="fixed h history records not pulled and displyd. Ahgo/since days sicne last run now clearer. Version 0.x almost done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hash_codes.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886215.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886216.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886217.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886218.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886219.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886220.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886221.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886390.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886391.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886392.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886393.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886394.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886395.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/886396.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/888603.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/888604.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +83,7 @@
       <updated>1738925944461</updated>
       <workItem from="1738925951792" duration="51527000" />
       <workItem from="1739463522178" duration="11238000" />
-      <workItem from="1739776216250" duration="719000" />
+      <workItem from="1739776216250" duration="1618000" />
     </task>
     <task id="LOCAL-00001" summary="v 0.1 Dark mode, hash function, raceid">
       <option name="closed" value="true" />
@@ -399,14 +381,21 @@
       <option name="project" value="LOCAL" />
       <updated>1739709404974</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="fixed h history records not pulled and displyd. Ahgo/since days sicne last run now clearer. Version 0.x almost done">
+      <option name="closed" value="true" />
+      <created>1739778824048</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1739778824048</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added races under static" />
     <MESSAGE value="updated race data" />
     <MESSAGE value="copyable attempt for demo codes" />
     <MESSAGE value="new file format class distance indicators&#10;HTML simplified" />
@@ -431,6 +420,7 @@
     <MESSAGE value="new data. OVR% new o wise minimal" />
     <MESSAGE value="update to txt fles" />
     <MESSAGE value="update to txt files 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="update to txt files 2" />
+    <MESSAGE value="fixed h history records not pulled and displyd. Ahgo/since days sicne last run now clearer. Version 0.x almost done" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed h history records not pulled and displyd. Ahgo/since days sicne last run now clearer. Version 0.x almost done" />
   </component>
 </project>
