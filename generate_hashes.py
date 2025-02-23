@@ -6,6 +6,7 @@ import os
 RACE_DIR = "C:\\Users\\996mu\\PycharmProjects\\DA_VisuqalComp1\\rpscrape\\races"
 HASH_FILE = "hash_codes.json"
 
+# add daily cheat code!
 # Load existing hashes
 if os.path.exists(HASH_FILE):
     with open(HASH_FILE, "r", encoding="utf-8") as f:

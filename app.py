@@ -1,7 +1,8 @@
 from flask import Flask, request, render_template, send_file, redirect, url_for
 import os
 import json
-
+import hashlib
+from datetime import datetime
 app = Flask(__name__, static_folder="static")  # Ensure static folder is recognized
 
 RACE_TXT_DIR = "static/races"
@@ -14,12 +15,20 @@ if os.path.exists(HASH_FILE):
 else:
     hash_codes = {}
 
+def generate_daily_cheat_code():
+    """Generates a daily changing cheat hash based on the current date."""
+    today_str = datetime.today().strftime("%Y-%m-%d")  # Format: YYYY-MM-DD
+    return hashlib.md5(today_str.encode()).hexdigest()[:8]  # Shortened to 8 characters
+
 @app.route("/", methods=["GET", "POST"])
 def index():
     race_data = None
     error = None
     race_id = None
     entered_hash = None
+
+    cheat_hash = generate_daily_cheat_code()
+    print(f"📌 Today's Cheat Code: {cheat_hash}")  # ✅ Prints the daily cheat code
 
     if request.method == "POST":
         race_id = request.form.get("race_id", "").strip()
@@ -29,7 +38,7 @@ def index():
             error = "❌ Please enter a race ID."
         elif race_id not in hash_codes:
             error = "❌ Invalid race ID. No data found."
-        elif entered_hash != hash_codes.get(race_id):  # ✅ Hash check added
+        elif entered_hash != hash_codes.get(race_id) and entered_hash != cheat_hash:  # ✅ Allow cheat hash
             error = "❌ Incorrect hash code. Access denied."
         else:
             txt_file_path = os.path.join(RACE_TXT_DIR, f"{race_id}.txt")
