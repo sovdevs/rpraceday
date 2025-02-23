@@ -24,7 +24,7 @@ def index():
     if request.method == "POST":
         race_id = request.form.get("race_id", "").strip()
         entered_hash = request.form.get("hash_code", "").strip()
-
+        print(len(hash_codes))
         if not race_id:
             error = "❌ Please enter a race ID."
         elif race_id not in hash_codes:
