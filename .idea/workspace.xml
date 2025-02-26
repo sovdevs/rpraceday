@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="Extra stats (ranks, speed all race by date), course comment for todays race.">
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="Only display ranks when not No Rank">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +85,7 @@
       <workItem from="1739463522178" duration="11238000" />
       <workItem from="1739776216250" duration="19637000" />
       <workItem from="1740407324494" duration="1392000" />
-      <workItem from="1740572483632" duration="1335000" />
+      <workItem from="1740572483632" duration="2232000" />
     </task>
     <task id="LOCAL-00001" summary="v 0.1 Dark mode, hash function, raceid">
       <option name="closed" value="true" />
@@ -456,14 +455,21 @@
       <option name="project" value="LOCAL" />
       <updated>1740572850874</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Only display ranks when not No Rank">
+      <option name="closed" value="true" />
+      <created>1740574630591</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1740574630591</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Todays data, Hash code samples. updated footer version. New data format with horses for first time" />
     <MESSAGE value="new txt files" />
     <MESSAGE value="new txt files and updated version" />
     <MESSAGE value="new txt files. Added icons to comments and spotlight, fixes with odds, not showing." />
@@ -488,6 +494,7 @@
     <MESSAGE value="todays data update" />
     <MESSAGE value="added cheat code for all of today's races." />
     <MESSAGE value="Extra stats (ranks, speed all race by date), course comment for todays race." />
-    <option name="LAST_COMMIT_MESSAGE" value="Extra stats (ranks, speed all race by date), course comment for todays race." />
+    <MESSAGE value="Only display ranks when not No Rank" />
+    <option name="LAST_COMMIT_MESSAGE" value="Only display ranks when not No Rank" />
   </component>
 </project>
