@@ -4,10 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="todays data update">
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="added cheat code for all of today's races.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generate_hashes.py" beforeDir="false" afterPath="$PROJECT_DIR$/generate_hashes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hash_codes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886311.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886312.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886313.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886314.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886315.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886316.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886317.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886318.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886319.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886320.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886321.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886322.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886323.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/886324.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888828.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888829.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888830.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888831.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888832.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888833.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888834.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888835.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +107,9 @@
       <updated>1738925944461</updated>
       <workItem from="1738925951792" duration="51527000" />
       <workItem from="1739463522178" duration="11238000" />
-      <workItem from="1739776216250" duration="18277000" />
+      <workItem from="1739776216250" duration="19637000" />
+      <workItem from="1740407324494" duration="1392000" />
+      <workItem from="1740572483632" duration="324000" />
     </task>
     <task id="LOCAL-00001" summary="v 0.1 Dark mode, hash function, raceid">
       <option name="closed" value="true" />
@@ -440,14 +463,21 @@
       <option name="project" value="LOCAL" />
       <updated>1740320579017</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="added cheat code for all of today's races.">
+      <option name="closed" value="true" />
+      <created>1740322709054</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1740322709054</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="improvement in data. Added footer version" />
     <MESSAGE value="improvement in data. updated footer version" />
     <MESSAGE value="Todays data, Hash code samples. updated footer version. New data format with horses for first time" />
     <MESSAGE value="new txt files" />
@@ -472,6 +502,7 @@
     <MESSAGE value="todays data" />
     <MESSAGE value="todays data - updated with NEW Horse Performance based on previous runs- metabet next stage. next ranks for these data then filter by useful to this race, then finally filter by significance." />
     <MESSAGE value="todays data update" />
-    <option name="LAST_COMMIT_MESSAGE" value="todays data update" />
+    <MESSAGE value="added cheat code for all of today's races." />
+    <option name="LAST_COMMIT_MESSAGE" value="added cheat code for all of today's races." />
   </component>
 </project>
