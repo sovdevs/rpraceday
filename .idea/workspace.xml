@@ -4,11 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="new index wider + banner">
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="added banner for real. Fixed issue with TXT file display too narrow for perf table">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index4.html" beforeDir="false" afterPath="$PROJECT_DIR$/index4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887190.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887190.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887191.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887191.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887192.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887192.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887194.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887194.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887195.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887195.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887196.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887196.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887197.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887197.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887198.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887198.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887199.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887199.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887200.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887200.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887201.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887201.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887373.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887373.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887374.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887374.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887375.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887375.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887376.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887376.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887377.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887377.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887378.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887378.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887379.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887379.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887380.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887380.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887381.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887381.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887382.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887382.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887383.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887383.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887384.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887384.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887385.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887385.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887386.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/887386.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888968.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/888968.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888969.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/888969.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888970.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/888970.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888971.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/888971.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888972.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/888972.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888973.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/888973.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888974.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/888974.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889143.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/races/889143.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,14 +120,6 @@
       <workItem from="1739776216250" duration="19637000" />
       <workItem from="1740407324494" duration="1392000" />
       <workItem from="1740572483632" duration="11973000" />
-    </task>
-    <task id="LOCAL-00004" summary="prep deployment2 requirements txt gunicorn">
-      <option name="closed" value="true" />
-      <created>1738931676033</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1738931676033</updated>
     </task>
     <task id="LOCAL-00005" summary="added races txt">
       <option name="closed" value="true" />
@@ -483,14 +505,21 @@
       <option name="project" value="LOCAL" />
       <updated>1740674507632</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="added banner for real. Fixed issue with TXT file display too narrow for perf table">
+      <option name="closed" value="true" />
+      <created>1740675997601</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1740675997602</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="New ranks added. News section for HTML" />
     <MESSAGE value="fixed bug with horses no race history not being displayed." />
     <MESSAGE value="hash container had issue" />
     <MESSAGE value="addded new race data" />
@@ -515,6 +544,7 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Added performance table for quick reference" />
     <MESSAGE value="new index wider + banner" />
-    <option name="LAST_COMMIT_MESSAGE" value="new index wider + banner" />
+    <MESSAGE value="added banner for real. Fixed issue with TXT file display too narrow for perf table" />
+    <option name="LAST_COMMIT_MESSAGE" value="added banner for real. Fixed issue with TXT file display too narrow for perf table" />
   </component>
 </project>
