@@ -2,38 +2,56 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Race Data Search</title>
-
-    <!-- ✅ Bootstrap 5 CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-
     <style>
-        /* ✅ Custom Variables */
+        /* ✅ CSS Variables for Light & Dark Mode */
         :root {
             --bg-color: white;
             --text-color: #2c3e50;
-            --banner-bg: #f8d7da;
-            --banner-text: #721c24;
+            --container-bg: rgba(255,255,255,0.95);
+            --input-bg: white;
+            --input-border: #3498db;
             --button-bg: #3498db;
             --button-hover: #2c3e50;
+            --banner-bg: #f8d7da;
+            --banner-text: #721c24;
+            --race-bg: white;
+            --race-border: #3498db;
+            --error-bg: #f8d7da;
+            --error-text: #e74c3c;
         }
 
-        /* ✅ Dark Mode */
+        /* ✅ Dark Mode Colors */
         .dark-mode {
             --bg-color: #121212;
             --text-color: #ecf0f1;
-            --banner-bg: #642b2b;
-            --banner-text: #ff6b6b;
+            --container-bg: rgba(20, 20, 20, 0.95);
+            --input-bg: #222;
+            --input-border: #9b59b6;
             --button-bg: #9b59b6;
             --button-hover: #8e44ad;
+            --banner-bg: #642b2b;
+            --banner-text: #ff6b6b;
+            --race-bg: #1e1e1e;
+            --race-border: #9b59b6;
+            --error-bg: #642b2b;
+            --error-text: #ff6b6b;
         }
 
-        /* ✅ Page Styling */
+        /* ✅ Apply Theme */
         body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 40px 0;
+            min-height: 100vh;
+            background: linear-gradient(rgba(255,255,255,0.9), rgba(255,255,255,0.9)),
+                        url("{{ url_for('static', filename='images/Horses_in_Newmarket.jpg') }}");
+            background-size: cover;
+            background-attachment: fixed;
+            background-position: center;
             background-color: var(--bg-color);
             color: var(--text-color);
-            font-family: 'Arial', sans-serif;
             transition: all 0.3s ease-in-out;
         }
 
@@ -44,170 +62,267 @@
             text-align: center;
             font-weight: bold;
             border-radius: 5px;
-            margin-bottom: 20px;
         }
+
 
         .container {
-            max-width: 1200px;
-            margin-top: 20px;
-            background: rgba(255, 255, 255, 0.95);
-            padding: 20px;
+            margin: 0 auto;
+            padding: 30px;
+            background: var(--container-bg);
             border-radius: 15px;
             box-shadow: 0 8px 30px rgba(0,0,0,0.1);
+            text-align: center;
         }
 
-        .race-output {
-            white-space: pre-wrap;
-            background: #f9f9f9;
-            border: 1px solid #ccc;
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 40px;
+        }
+
+        input[type="text"] {
+            width: 66%;
+            padding: 12px;
+            font-size: 16px;
+            border: 2px solid var(--input-border);
+            background: var(--input-bg);
+            color: var(--text-color);
+            border-radius: 25px;
+            transition: all 0.3s ease;
+        }
+
+        input[type="text"]:focus {
+            outline: none;
+            border-color: var(--button-hover);
+            box-shadow: 0 0 10px rgba(44,62,80,0.2);
+        }
+
+        button {
+            padding: 12px 35px;
+            font-size: 16px;
+            background: var(--button-bg);
+            color: white;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        button:hover {
+            background: var(--button-hover);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+
+.race-output {
+    width: 100%; /* ✅ Full width of browser */
+    max-width: 100vw; /* ✅ Ensures full viewport width */
+    min-height: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    background: var(--race-bg);
+    border-radius: 10px;
+    border: 2px solid var(--race-border);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    font-family: 'Courier New', monospace;
+    font-size: 16px; /* ✅ Increased font size for better readability */
+    line-height: 1.8; /* ✅ Better spacing */
+    overflow-x: auto; /* ✅ Enables horizontal scrolling if text overflows */
+    overflow-y: auto;
+    white-space: pre; /* ✅ Ensures text formatting is preserved */
+    text-align: left;
+    display: block;
+}
+
+
+
+        .error {
+            background: var(--error-bg);
+            color: var(--error-text);
+            font-weight: bold;
             padding: 15px;
-            border-radius: 10px;
-            font-family: 'Courier New', monospace;
-            max-height: 500px;
-            overflow-y: auto;
+            border-radius: 5px;
+            width: 66%;
+            margin: 20px auto;
+        }
+
+        .download {
+            margin-top: 25px;
         }
 
         .dark-mode-toggle {
             position: fixed;
-            top: 15px;
-            right: 15px;
-            padding: 10px 15px;
-            border-radius: 20px;
-            border: none;
+            top: 20px;
+            right: 20px;
+            padding: 10px;
             background: var(--button-bg);
             color: white;
+            border: none;
+            border-radius: 20px;
             cursor: pointer;
-            transition: 0.3s;
+            transition: all 0.3s ease;
         }
 
         .dark-mode-toggle:hover {
             background: var(--button-hover);
         }
 
-        /* ✅ Horse Summary Table Styling */
-        .table-container {
-            width: 80%;
-            margin: 20px auto; /* Center the table */
-        }
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px;
+                margin: 20px;
+            }
 
-        .table {
-            width: 100%;
-            table-layout: fixed; /* Ensures even column spacing */
-            word-wrap: break-word; /* Prevents text overflow */
-        }
+            input[type="text"],
+            .race-output,
+            .error {
+                width: 90%;
+            }
 
-        th, td {
-            padding: 10px;
-            text-align: left;
+            h1 {
+                font-size: 1.8em;
+            }
         }
+        .copyable {
+        cursor: pointer;
+        color: #007bff;
+        font-weight: bold;
+        padding: 3px 6px;
+        border-radius: 5px;
+        transition: background 0.3s ease;
+    }
 
-        thead th {
-            background-color: #333;
-            color: white;
-        }
+    .copyable:hover {
+        background: #f8f9fa;
+    }
 
-        tbody tr:nth-child(even) {
-            background-color: #f8f9fa; /* Light gray for alternating rows */
-        }
+    .random-hash-container {
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+.random-hash-container ul {
+    list-style-type: none;
+    padding: 0;
+}
+.random-hash-container li {
+    font-family: monospace;
+    font-size: larger;
+     color: #007bff;
+}
+
     </style>
 </head>
 <body>
+    <button class="dark-mode-toggle" onclick="toggleDarkMode()">🌙 Toggle Dark Mode</button>
 
-    <!-- ✅ Dark Mode Toggle Button -->
-    <button class="dark-mode-toggle" onclick="toggleDarkMode()">🌙 Dark Mode</button>
-
-    <!-- ✅ Special News Banner -->
-    <div class="container-fluid">
+        <!-- ✅ Special News Banner -->
+    <div class="container mt-3">
         <div class="banner">
-            🏇 **Breaking News**: New AI-powered race predictions now available! 🚀
+            🏇 **Breaking News**: Table Stats Summary now available for each race! 🚀
         </div>
     </div>
 
-    <div class="container">
-        <h1 class="text-center mt-4">🏇 RP Raceday Demo</h1>
+        <div class="main-wrapper">
+        <!-- Existing container -->
+                <div class="container">
+                    <h1>🏇 RP Raceday Demo</h1>
+                    <!-- ✅ Live Time Display -->
+                    <div class="time-container">
+                        <p>Today's extended UK racing cards</p>
+                        ⏳ **Current Time in London (GMT/BST):** <span id="london-time">Loading...</span><br>
+                        🕰 **Your Local Time:** <span id="browser-time">Loading...</span>
+                    </div>
+                    <h2> Enter a race ID and hash. For a single hash code for all of today's races, please email us rpraceday at tuta.com.</h2>
+                    <div>
 
-        <!-- ✅ Time Display -->
-        <div class="text-center">
-            ⏳ **Current Time in London (GMT/BST):** <span id="london-time">Loading...</span><br>
-            🕰 **Your Local Time:** <span id="browser-time">Loading...</span>
+                    </div>
+                    <div>
+                    </div>
+                    <form method="POST">
+                        <input type="text" name="race_id" placeholder="Enter Race ID" required>
+                        <input type="text" name="hash_code" placeholder="Enter Hash Code" required>
+                        <button type="submit">Search</button>
+                    </form>
+
+                    {% if error %}
+                        <p class="error">{{ error }}</p>
+                    {% endif %}
+
+                        <div class="random-hash-container">
+                            <h2>🔑 34 races under consideration today. Here is a selection:</h2>
+                            <ul>
+                        <li><strong>ID:</strong> 887376 - <strong>Hash:</strong> 36117379</li>
+                <li><strong>ID:</strong> 888974 - <strong>Hash:</strong> a79ff4f1</li>
+                <li><strong>ID:</strong> 887200 - <strong>Hash:</strong> 28cab635</li>
+                <li><strong>ID:</strong> 887197 - <strong>Hash:</strong> e414e33f</li>
+                <li><strong>ID:</strong> 887195 - <strong>Hash:</strong> 17923f95</li>
+
+                            </ul>
+                        </div>
+
+                    {% if race_data %}
+
+                        <div class="container-fluid mt-4">
+                            <h2 class="text-center">🏇 Race Details 🏇</h2>
+                            <div class="race-output">{{ race_data }}</div>
+                        </div>
+                        <form action="/download" method="post">
+                            <input type="hidden" name="race_id" value="{{ race_id }}">
+                            <input type="hidden" name="hash_code" value="{{ hash_code }}">
+                            <button type="submit" class="download">Download TXT File</button>
+                        </form>
+
+                    {% endif %}
+
+                </div>
+
         </div>
 
-        <!-- ✅ Race ID Input Form -->
-        <form class="mt-4" method="POST">
-            <div class="input-group mb-3">
-                <input type="text" class="form-control" name="race_id" placeholder="Enter Race ID" required>
-                <input type="text" class="form-control" name="hash_code" placeholder="Enter Hash Code" required>
-                <button class="btn btn-primary" type="submit">Search</button>
-            </div>
-        </form>
 
-        {% if error %}
-            <div class="alert alert-danger">{{ error }}</div>
-        {% endif %}
-
-        <!-- ✅ Horse Performance Summary -->
-        <div class="table-container">
-            <h2 class="text-center">🏇 Horse Performance Summary 🏇</h2>
-            <div class="table-responsive">
-                <table class="table table-bordered table-striped">
-                    <thead class="table-dark">
-                        <tr>
-                            {% for col in all_columns %}
-                                <th>{{ col.replace("_", " ").title() }}</th>
-                            {% endfor %}
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {% for _, row in df_final_horses.iterrows() %}
-                            <tr>
-                                {% for col in all_columns %}
-                                    <td>{{ row.get(col, "N/A") }}</td>
-                                {% endfor %}
-                            </tr>
-                        {% endfor %}
-                    </tbody>
-                </table>
-            </div>
-        </div>
-
-        {% if race_data %}
-            <h2 class="mt-4">Race Details</h2>
-            <div class="race-output">{{ race_data }}</div>
-            <form action="/download" method="post">
-                <input type="hidden" name="race_id" value="{{ race_id }}">
-                <input type="hidden" name="hash_code" value="{{ hash_code }}">
-                <button type="submit" class="btn btn-success mt-3">Download TXT File</button>
-            </form>
-        {% endif %}
-    </div>
-
-    <!-- ✅ Bootstrap JS -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
     <script>
+
+
         function updateTime() {
-            const localTime = new Date();
-            const localFormatted = localTime.toLocaleTimeString("en-GB", { hour12: false });
+        // ✅ Get Browser Local Time (24-hour format)
+        const localTime = new Date();
+        const localFormatted = localTime.toLocaleTimeString("en-GB", { hour12: false });
 
-            const options = { timeZone: "Europe/London", hourCycle: "h23", hour: "2-digit", minute: "2-digit", second: "2-digit" };
-            const londonTime = new Intl.DateTimeFormat("en-GB", options).format(new Date());
+        // ✅ Get London Time (GMT/BST, 24-hour format)
+        const options = { timeZone: "Europe/London", hourCycle: "h23", hour: "2-digit", minute: "2-digit", second: "2-digit" };
+        const londonTime = new Intl.DateTimeFormat("en-GB", options).format(new Date());
 
-            document.getElementById("browser-time").innerText = localFormatted;
-            document.getElementById("london-time").innerText = londonTime;
-        }
+        // ✅ Update the HTML elements
+        document.getElementById("browser-time").innerText = localFormatted;
+        document.getElementById("london-time").innerText = londonTime;
+    }
+
 
         function toggleDarkMode() {
             document.body.classList.toggle("dark-mode");
             localStorage.setItem("darkMode", document.body.classList.contains("dark-mode"));
         }
-
+            // ✅ Auto-update time every second
         setInterval(updateTime, 1000);
-        updateTime();
+        updateTime(); // Run immediately
 
+        // Apply stored dark mode preference
         if (localStorage.getItem("darkMode") === "true") {
             document.body.classList.add("dark-mode");
         }
-    </script>
 
+    </script>
 </body>
 </html>
