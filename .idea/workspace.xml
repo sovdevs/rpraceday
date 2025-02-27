@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="speed per furlong">
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="brought ranks / speed together. updating dates basis for speeds">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hash_codes.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/static/races/887170.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/static/races/887171.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/static/races/887172.txt" beforeDir="false" />
@@ -117,7 +116,7 @@
       <workItem from="1739463522178" duration="11238000" />
       <workItem from="1739776216250" duration="19637000" />
       <workItem from="1740407324494" duration="1392000" />
-      <workItem from="1740572483632" duration="9743000" />
+      <workItem from="1740572483632" duration="10408000" />
     </task>
     <task id="LOCAL-00001" summary="v 0.1 Dark mode, hash function, raceid">
       <option name="closed" value="true" />
@@ -503,14 +502,21 @@
       <option name="project" value="LOCAL" />
       <updated>1740578309400</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="brought ranks / speed together. updating dates basis for speeds">
+      <option name="closed" value="true" />
+      <created>1740664956790</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1740664956790</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new txt files and updated version" />
     <MESSAGE value="new txt files. Added icons to comments and spotlight, fixes with odds, not showing." />
     <MESSAGE value="comments highlights extended to previous runs" />
     <MESSAGE value="Updated output format. Btter icons odds, combined some fields, .." />
@@ -535,6 +541,7 @@
     <MESSAGE value="Extra stats (ranks, speed all race by date), course comment for todays race." />
     <MESSAGE value="Only display ranks when not No Rank" />
     <MESSAGE value="speed per furlong" />
-    <option name="LAST_COMMIT_MESSAGE" value="speed per furlong" />
+    <MESSAGE value="brought ranks / speed together. updating dates basis for speeds" />
+    <option name="LAST_COMMIT_MESSAGE" value="brought ranks / speed together. updating dates basis for speeds" />
   </component>
 </project>
