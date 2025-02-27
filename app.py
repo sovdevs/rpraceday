@@ -48,7 +48,7 @@ def index():
             else:
                 error = f"❌ No race found for ID {race_id}."
 
-    return render_template("index.html", race_data=race_data, race_id=race_id, hash_code=entered_hash, error=error)
+    return render_template("index4.html", race_data=race_data, race_id=race_id, hash_code=entered_hash, error=error)
 
 @app.route("/download", methods=["POST"])
 def download_txt():
