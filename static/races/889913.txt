@@ -1,0 +1,902 @@
+🏁 Race ID: 889913
+13 runners declared
+📍 Venue: Gowran Park (right-handed, undulating track (1m4f circuit))
+🌦️ Weather: Light rain
+🌧️ Going: Soft
+⏰ Off Time: 17:00
+🏆 Race Name: INHSC Supporting Point-To-Points Tetratema Cup Hunters Chase
+📏 Distance: 25.0 furlongs
+🏇 Race/Grade: nan
+🏆 Type: Chase
+🎂 Age Band: 5yo+
+💰 Today's Purse: 💰 8K
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Performance Table
+number   | horse_name                | horse_id | fs3      | wSR      | fsAll    | leftSR   | rightSR  | minS     | avgS     | avgDist  | goSR     | avg£     | avg€     | rpr      | ts       | ofr      | j14w     | j14p     | jOvW     | jOvP     | t14w     | t14p     | tOvW     | tOvP     | fsR      | cRat     | dRat     | gRat     | opR     
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7        | Early Doors               | 1354094  | 3.0      | 1.0      | 11.0     | 1.0      | 9.0      | 10       | 11       | 7.0      | 5.0      | 7.0      | 6.0      | 9.0      | 8.0      | N/A      | 5.0      | 13.0     | 3.0      | 3.0      | 3.0      | 9.0      | 2.0      | 1.0      | 3.0      | 2.0      | 5.0      | 7.0      | 1.0     
+13       | My Best Valentine         | 4965734  | 1.0      | 1.0      | 2.0      | 7.0      | 2.0      | 1        | 1        | 3.0      | 7.0      | 13.0     | 13.0     | N/A      | N/A      | N/A      | 5.0      | 7.0      | 12.0     | 5.0      | 9.0      | 1.0      | 10.0     | 2.0      | 1.0      | N/A      | N/A      | N/A      | 10.0    
+2        | Balkito                   | 2995443  | 12.0     | 1.0      | 13.0     | 7.0      | 11.0     | 7        | 4        | 6.0      | 6.0      | 2.0      | 1.0      | 10.0     | 1.0      | N/A      | 10.0     | 3.0      | 5.0      | 11.0     | 9.0      | 1.0      | 6.0      | 7.0      | 13.0     | 2.0      | 1.0      | 2.0      | 11.0    
+11       | Step Up Son               | 4031544  | 5.0      | 1.0      | 3.0      | 7.0      | 9.0      | 1        | 1        | 11.0     | 7.0      | 3.0      | 2.0      | N/A      | N/A      | N/A      | 5.0      | 10.0     | 5.0      | 7.0      | 9.0      | 1.0      | 10.0     | 2.0      | 4.0      | N/A      | N/A      | N/A      | 12.0    
+4        | Bigbraveboy               | 5412952  | 11.0     | 1.0      | 4.0      | 7.0      | 10.0     | 12       | 8        | 2.0      | 7.0      | 11.0     | 11.0     | 11.0     | 7.0      | N/A      | 10.0     | 3.0      | 5.0      | 7.0      | 9.0      | 1.0      | 10.0     | 2.0      | 12.0     | N/A      | N/A      | 7.0      | 13.0    
+3        | Big Interest              | 5671309  | 6.0      | 1.0      | 1.0      | 7.0      | 1.0      | 9        | 7        | 1.0      | 7.0      | 10.0     | 10.0     | 5.0      | 5.0      | N/A      | 1.0      | 1.0      | 5.0      | 13.0     | 3.0      | 6.0      | 2.0      | 8.0      | 7.0      | N/A      | 5.0      | 7.0      | 2.0     
+8        | Hollow Games              | 3056466  | 8.0      | 1.0      | 7.0      | 2.0      | 4.0      | 8        | 6        | 4.0      | 7.0      | 5.0      | 5.0      | 3.0      | 3.0      | 1.0      | 2.0      | 7.0      | 4.0      | 2.0      | 2.0      | 13.0     | 5.0      | 13.0     | 9.0      | N/A      | 5.0      | 1.0      | 3.0     
+1        | Annamix                   | 1660776  | 9.0      | 1.0      | 10.0     | 5.0      | 8.0      | 5        | 12       | 10.0     | 3.0      | 8.0      | 9.0      | 5.0      | 4.0      | N/A      | 2.0      | 12.0     | 1.0      | 4.0      | 1.0      | 12.0     | 1.0      | 12.0     | 11.0     | 1.0      | 1.0      | 5.0      | 4.0     
+9        | Lonesome Boatman          | 3087846  | 11.0     | 1.0      | 6.0      | 7.0      | 7.0      | 11       | 10       | 8.0      | 1.0      | 4.0      | 3.0      | 2.0      | N/A      | N/A      | 5.0      | 10.0     | 2.0      | 1.0      | 3.0      | 9.0      | 10.0     | 2.0      | 8.0      | 2.0      | 5.0      | 7.0      | 4.0     
+6        | Dorking Cock              | 1838172  | 4.0      | 1.0      | 9.0      | 4.0      | 5.0      | 4        | 5        | 9.0      | 1.0      | 12.0     | 8.0      | 7.0      | 9.0      | N/A      | 4.0      | 1.0      | 5.0      | 7.0      | 3.0      | 11.0     | 6.0      | 10.0     | 6.0      | N/A      | 5.0      | 5.0      | 6.0     
+10       | Ramillies                 | 2548824  | 7.0      | 1.0      | 12.0     | 6.0      | 2.0      | 6        | 9        | 11.0     | 7.0      | 9.0      | 12.0     | 8.0      | 5.0      | N/A      | 5.0      | 7.0      | 12.0     | 5.0      | 3.0      | 6.0      | 2.0      | 8.0      | 5.0      | 2.0      | 4.0      | 2.0      | 6.0     
+5        | Boss Robin                | 4880986  | 2.0      | 1.0      | 5.0      | 7.0      | 3.0      | 13       | 13       | 12.0     | 2.0      | 6.0      | 4.0      | 3.0      | 2.0      | N/A      | 10.0     | 3.0      | 5.0      | 7.0      | 9.0      | 1.0      | 6.0      | 6.0      | 2.0      | N/A      | 3.0      | 7.0      | 8.0     
+12       | Tornado Flyer             | 1774341  | 10.0     | 1.0      | 8.0      | 3.0      | 6.0      | 1        | 1        | 5.0      | 4.0      | 1.0      | 7.0      | 1.0      | N/A      | N/A      | 10.0     | 3.0      | 5.0      | 12.0     | 3.0      | 6.0      | 6.0      | 10.0     | 10.0     | N/A      | 5.0      | 2.0      | 9.0     
+
+🔹 **Legend:**
+fs3: formScore_3_rank | wSR: winSR_rank | fsAll: formScore_all_rank | leftSR: leftHandedSr_rank | rightSR: rightHandedSr_rank | minS: rank_minSecs | avgS: rank_avgSecs | avgDist: AvgDistanceBeatenBy_rank | goSR: going_SR_rank | avg£: avgPrizeSterling_rank | avg€: avgPrizeEuro_rank | rpr: rpr_rank | ts: ts_rank
+ofr: ofr_rank | j14w: stats_jockey_last_14_wins_pct_rank | j14p: stats_jockey_last_14_profit_rank | jOvW: stats_jockey_ovr_wins_pct_rank | jOvP: stats_jockey_ovr_profit_rank | t14w: stats_trainer_last_14_wins_pct_rank | t14p: stats_trainer_last_14_profit_rank | tOvW: stats_trainer_ovr_wins_pct_rank | tOvP: stats_trainer_ovr_profit_rank | fsR: formScore_rank | cRat: stats_course_ratio_rank | dRat: stats_distance_ratio_rank | gRat: stats_going_ratio_rank | opR: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 7 | Early Doors📈 Owner has a strong record (SR: 14.37%, 1510 runs). (Rank: 3)
+🐎 is a 12 years old  gelding, colo(u)r: b, carrying 168 lbs today.
+⏱️ Speed record - Runs: 4 | Best: 8.11 sec (Rank 10), Worst: 9.82 sec (Rank 12), Avg: 8.6 sec (Rank 11)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Odds: 4.0 (Rank: 1.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Derek Clee
+🏠 Owner: John P Mcmanus (No previous owner(s))
+👤 Trainer: E Bolger (0 previous trainer(s)) last 14d WinRate (0.0/2.0 runs) (Rank: 3.0) RTF: N/A (OVR: 20%)
+🏇 Jockey: Mr Derek Oconnor (Rank: 5.0) (0.0/ 4.0 runs) RTF: N/A (OVR: 25%)
+🗞️ **PRESS OPINION**
+💬 Comment: 2020 Galway Plate winner, second here last year, warmed up with win at Oldtown, big chance
+🔦 Spotlight: Enjoyed a career highlight when winning the Galway Plate in 2020; beaten 10l by Annamix in this race last year; better form in May when scoring at Killarney and second at Listowel; made a bright start to his campaign when beating prolific winner Winged Leader and Dorking Cock at Oldtown three weeks ago.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 122.0 (Rank: 9)
+📉 TS: 24.0 (Rank: 8)
+🏟️ Course Wins/Runs: 0/2 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/3 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/3 | Ratio: 0.00
+📊 Form: 23-121 → Score: 0.24 (Rank: 3)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-15 14:30:00
+🏆 RaceName: Gavin Cromwell Racing Open
+🏟️ Course: Oldtown (RH, undulating, galloping)
+📋 Race Type: OpenPTP
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: Y
+👜 Prize: 💰 0K
+🏆 Race Description: OpenPTP -- N/A
+🥇 Result: 1 🥇 / 🏇 11 runners. Expected: 1
+💰 Odds: 2.0 🔥🔥
+📝 Comment: ww in rr, sl mstk 9th, gng well from 3out, 1l 2nd 2out, rdn & jnd ldr sn aftr, qckr jmp last, all out to hold on
+🎽 Jockey: D O'Connor- (⚖️ Weight: 170.0 lbs (77.3 kg) carried -- Allowance: 0.0). This jock: 1 - 1
+⏳ Time between runs: 20  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-06-03 15:50:00
+🏆 RaceName: Beasley Engineering Hunters Chase
+🏟️ Course: Listowel (left-handed, flat track (1m2f oval))
+📋 Race Type: HntCh
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: G
+👜 Prize: 💰 6K
+🏆 Race Description: HntCh -- Unknown - 0
+🥇 Result: 2 🥈 / 🏇 15 runners. Expected: 1
+💰 Odds: 0.909 🔥🔥
+📝 Comment: 🔄 midfield, went third after 4 out, chased clear leader after 3 out, headway approaching last, kept on, no match for winner
+🎽 Jockey: Mr D O'Connor- (⚖️ Weight: 165.0 lbs (75.0 kg) carried -- Allowance: 0.0). This jock: 1 - 3
+⏳ Time between runs: 256  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-05-13 18:45:00
+🏆 RaceName: Dan Linehan's Celebrating 50 Years Of Hospitality Hunters Chase
+🏟️ Course: Killarney (left-handed, sharp track (1m2f oval))
+📋 Race Type: HntCh
+📏 Distance: 23.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: Y
+👜 Prize: 💰 6K
+🏆 Race Description: HntCh -- Unknown - 0
+🥇 Result: 1 🥇 / 🏇 11 runners. Expected: 1
+💰 Odds: 3.0 🔥
+📝 Comment: 🔄 midfield on inner, in touch with leaders when not fluent 11th, 🎯 prominent before 4 out, ridden and stayed on towards far side after last, 🎯 led towards finish, won going away
+🎽 Jockey: Mr D O'Connor- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0). This jock: 0 - 2
+⏳ Time between runs: 20  days ago
+---------------------------------------------------------------------------
+🐎 3 | Big Interest📈 Owner has a strong record (SR: 15.38%, 13 runs). (Rank: 2)
+🐎 is a 6 years old  gelding, colo(u)r: br, carrying 168 lbs today.
+⏱️ Speed record - Runs: 2 | Best: 8.0 sec (Rank 9), Worst: 8.65 sec (Rank 7), Avg: 8.32 sec (Rank 7)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Odds: 5.0 (Rank: 2.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Andrew Pierce
+🏠 Owner: R Nicholas (No previous owner(s))
+👤 Trainer: D M Christie (0 previous trainer(s)) last 14d WinRate (0.0/1.0 runs) (Rank: 3.0) RTF: N/A (OVR: 20%)
+🏇 Jockey: Mr J W Hendrick(7) (Rank: 1.0) (1.0/ 2.0 runs) RTF: N/A (OVR: 0%)
+🗞️ **PRESS OPINION**
+💬 Comment: Naas fourth was disappointing following a fine Down Royal win, capable of getting involved
+🔦 Spotlight: Built on a fair debut run with a commanding success for Sean Doyle in a Castlelands maiden last March; claimed a huge scalp when making almost all to beat Its On The Line (who was ridden from off the pace) at Down Royal; failed to uphold form with Its On The Line when a tame fourth at Naas; capable of getting involved if back on song.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 133.0 (Rank: 5)
+📉 TS: 47.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: 41-14 → Score: 0.12 (Rank: 7)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-08 16:50:00
+🏆 RaceName: QuinnBet Hunters Chase
+🏟️ Course: Naas (left-handed, undulating, galloping track (1m4f circuit))
+📋 Race Type: HntCh
+📏 Distance: 25.0 furlongs (➡️ vs 25.0 today)
+🌱 Going: S
+👜 Prize: 💰 7K
+🏆 Race Description: HntCh -- Unknown - 0
+🥇 Result: 4 / 🏇 9 runners. Expected: 1
+💰 Odds: 3.0 🔥
+📝 Comment: 🎯 prominent, briefly disputed lead from 4th, pressed leader after 5th, briefly 🎯 led when jumped slightly right 7th, 🎯 led narrowly before 5 out, headed after 2 out, ❄️ weakened last
+🎽 Jockey: Mr B O'Neill- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0). This jock: 1 - 1
+⏳ Time between runs: 27  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-26 14:33:00
+🏆 RaceName: Metcollect Oil Recycling Hunters Chase
+🏟️ Course: Down Royal (right-handed, galloping, undulating, testing (1m7f circuit))
+📋 Race Type: HntCh
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: GY
+👜 Prize: 💰 5K
+🏆 Race Description: HntCh -- Unknown - 0
+🥇 Result: 1 🥇 / 🏇 12 runners. Expected: 1
+💰 Odds: 6.0 📉
+📝 Comment: made virtually all, 🎯 led narrowly after 3rd, briefly headed 11th, went clear going best after 3 out, stayed on
+🎽 Jockey: Mr B O'Neill- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0). This jock: 0 - 0
+⏳ Time between runs: 44  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-03-10 14:30:00
+🏆 RaceName: GAIN Equine Nutrition 5&6yo Geldings Maiden
+🏟️ Course: Castlelands (LH, one mile round; long straights, uphill finish)
+📋 Race Type: MdPTP
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: YS
+👜 Prize: 💰 0K
+🏆 Race Description: MdPTP -- N/A
+🥇 Result: 1 🥇 / 🏇 7 runners. Expected: 1
+💰 Odds: 3.0 🔥
+📝 Comment: chsd ldrs, 10l 3rd 1/2way, clsr in 2nd 5out, ld aftr 4out, gd jmp 3out, went 15l clr bef 2out, in command
+🎽 Jockey: J Scallan- (⚖️ Weight: 170.0 lbs (77.3 kg) carried -- Allowance: 0.0). This jock: 0 - 1
+⏳ Time between runs: 291  days ago
+---------------------------------------------------------------------------
+🐎 8 | Hollow Games🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 is a 9 years old  gelding, colo(u)r: b, carrying 168 lbs today.
+⏱️ Speed record - Runs: 4 | Best: 7.94 sec (Rank 8), Worst: 8.44 sec (Rank 5), Avg: 8.18 sec (Rank 6)
+🛠️ Gear: tb
+🩺 Medical History: 📅 2023-01-03: Wind Surgery
+🎲 Odds: 6.5 (Rank: 3.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Miss Margaret Wall
+🏠 Owner: Bective Stud (No previous owner(s))
+👤 Trainer: Gordon Elliott (0 previous trainer(s)) last 14d WinRate (7.0/54.0 runs) (Rank: 2.0) RTF: 51.0 (OVR: 11%)
+🏇 Jockey: Mr H C Swan (Rank: 2.0) (1.0/ 6.0 runs) RTF: N/A (OVR: 13%)
+🗞️ **PRESS OPINION**
+💬 Comment: Third in 2023 Galway Plate, needs to jump better than at Haydock, good chance all the same
+🔦 Spotlight: Third in 2023 Galway Plate, but inconsistent last term; soundly beaten fifth on reappearance in a point-to-point last month; made mistakes when fourth of six behind former top-class novice hurdler My Drogo on his hunter chase debut at Haydock three weeks ago; capable of better.
+📊 **STATS**
+📉 OFR: 138.0 (Rank: 1)
+📈 RPR: 135.0 (Rank: 3)
+📉 TS: 74.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 2/5 | Ratio: 0.40
+📊 Form: U03-54 → Score: 0.1 (Rank: 9)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-15 16:25:00
+🏆 RaceName: Walrus Open Hunters' Chase
+🏟️ Course: Haydock (left-handed, galloping chase track with stiff fences; sharp hurdles track)
+📋 Race Type: 3HntCh
+📏 Distance: 22.5 furlongs (🔽 vs 25.0 today)
+🌱 Going: GS
+👜 Prize: 💰 8K
+🏆 Race Description: 3HntCh -- Unknown - 0
+🥇 Result: 4 / 🏇 6 runners. Expected: 1
+💰 Odds: 8.5 📉
+📝 Comment: 🔄 held up in rear, headway and in touch with leaders 5th, mistake and lost position 10th, mistake and jockey lost irons 5 out, outpaced 4 out, rallied from 2 out, went fourth last, not pace to challenge
+🎽 Jockey: Mr J H Williamson- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 3.0). This jock: 0 - 0
+⏳ Time between runs: 20  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-19 14:30:00
+🏆 RaceName: Coolmara Stables Open
+🏟️ Course: Carrigarostig (RH, undulating, uphill finish)
+📋 Race Type: OpenPTP
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: YS
+👜 Prize: 💰 0K
+🏆 Race Description: OpenPTP -- N/A
+🥇 Result: 5 / 🏇 6 runners. Expected: 1
+💰 Odds: 0.8 🔥🔥
+📝 Comment: ld/disp til 2nd from 5th, rdn brfly aftr 6th, cl 3rd bef 6out where mstk, wknd & drpd to last aftr 5out, no ex
+🎽 Jockey: H C Swan- (⚖️ Weight: 170.0 lbs (77.3 kg) carried -- Allowance: 0.0). This jock: 0 - 0
+⏳ Time between runs: 27  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-04-18 17:15:00
+🏆 RaceName: Suir Blueway Chase
+🏟️ Course: Clonmel (right-handed, undulating, stiff uphill finish (1m2f))
+📋 Race Type: Ch
+📏 Distance: 20.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: SH
+👜 Prize: 💰 8K
+🏆 Race Description: Ch -- Unknown - 0
+🥇 Result: 3 🥉 / 🏇 5 runners. Expected: 1
+💰 Odds: 1.625 🔥🔥
+📝 Comment: jumped left on occasions, 🎯 led, briefly disputed lead early, headed when not fluent and pushed along briefly 3 out, soon joined winner, ridden and bit short of room when outpaced before 2 out, soon lost second, kept on but no impression after last
+🎽 Jockey: J Kennedy- (⚖️ Weight: 162.0 lbs (73.6 kg) carried -- Allowance: 0.0). This jock: 1 - 2
+⏳ Time between runs: 275  days ago
+---------------------------------------------------------------------------
+🐎 1 | Annamix🐎 is a 12 years old  gelding, colo(u)r: gr, carrying 168 lbs today.
+⏱️ Speed record - Runs: 4 | Best: 7.66 sec (Rank 5), Worst: 9.78 sec (Rank 11), Avg: 8.62 sec (Rank 12)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Odds: 9.0 (Rank: 4.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Jean-Luc Pomeyrol
+🏠 Owner: Status Quo Syndicate (No previous owner(s))
+👤 Trainer: W P Mullins (0 previous trainer(s)) last 14d WinRate (8.0/34.0 runs) (Rank: 1.0) RTF: 57.0 (OVR: 29%)
+🏇 Jockey: Mr P W Mullins (Rank: 2.0) (1.0/ 6.0 runs) RTF: N/A (OVR: 47%)
+🗞️ **PRESS OPINION**
+💬 Comment: Won this last year and third in Aintree Foxhunters, questions to answer after Naas return
+🔦 Spotlight: Smart chaser in his prime, and a three-time hunter chase winner for this stable, including this race 12 months ago; kept on well for creditable third behind Its On The Line in the Aintree Foxhunters; a long way below his best at Stratford on final start; remote sixth at Naas four weeks ago when with Sonny Carey; now back in Closutton.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 133.0 (Rank: 5)
+📉 TS: 66.0 (Rank: 4)
+🏟️ Course Wins/Runs: 2/4 | Ratio: 0.50
+📏 Distance Wins/Runs: 2/7 | Ratio: 0.29
+🌱 Going Wins/Runs: 1/3 | Ratio: 0.33
+📊 Form: P13-66 → Score: 0.07 (Rank: 11)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-08 16:50:00
+🏆 RaceName: QuinnBet Hunters Chase
+🏟️ Course: Naas (left-handed, undulating, galloping track (1m4f circuit))
+📋 Race Type: HntCh
+📏 Distance: 25.0 furlongs (➡️ vs 25.0 today)
+🌱 Going: S
+👜 Prize: 💰 7K
+🏆 Race Description: HntCh -- Unknown - 0
+🥇 Result: 6 / 🏇 9 runners. Expected: 1
+💰 Odds: 40.0 ❄️❄️
+📝 Comment: 🔄 midfield, 🔄 towards rear before 9th, headway and in touch with leaders 5 out, not fluent 3 out, ❄️ weakened before 2 out
+🎽 Jockey: Mr M N Sharpe- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 7.0). This jock: 0 - 0
+⏳ Time between runs: 27  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-05-31 18:35:00
+🏆 RaceName: Pertemps Network Stratford Foxhunters Champion Hunters' Chase (65th Running For Horse And Hound Cup)
+🏟️ Course: Stratford (left-handed, sharp, flat track)
+📋 Race Type: 2HntCh
+📏 Distance: 27.5 furlongs (🔼 vs 25.0 today)
+🌱 Going: G
+👜 Prize: 💰 11K
+🏆 Race Description: 2HntCh -- Unknown - 0
+🥇 Result: 6 / 🏇 8 runners. Expected: 1
+💰 Odds: 4.0 🔥
+📝 Comment: 🔄 held up in rear, outpaced from 3 out
+🎽 Jockey: Mr P W Mullins- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0). This jock: 1 - 3
+⏳ Time between runs: 252  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-04-11 15:05:00
+🏆 RaceName: Randox Foxhunters' Open Hunters' Chase
+🏟️ Course: Aintree (left-handed, flat track; Mildmay sharp; National galloping, stiff fences)
+📋 Race Type: 2HntCh
+📏 Distance: 21.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: HY
+👜 Prize: 💰 24K
+🏆 Race Description: 2HntCh -- Unknown - 0
+🥇 Result: 3 🥉 / 🏇 22 runners. Expected: 1
+💰 Odds: 5.0 🔥
+📝 Comment: 🔄 midfield, 🚧 bumped 1st, not fluent 3rd (Chair), lost position 5th, headway before 4 out, went third inside final 110yds, no match for first two
+🎽 Jockey: Mr P W Mullins- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0). This jock: 1 - 2
+⏳ Time between runs: 50  days ago
+---------------------------------------------------------------------------
+🐎 9 | Lonesome Boatman🐎 is a 9 years old  gelding, colo(u)r: b, carrying 168 lbs today.
+⏱️ Speed record - Runs: 2 | Best: 8.25 sec (Rank 11), Worst: 8.85 sec (Rank 9), Avg: 8.55 sec (Rank 10)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Odds: 9.0 (Rank: 4.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Gestut Eulenberger Hof
+🏠 Owner: Patrick Oleary (No previous owner(s))
+👤 Trainer: Sean Joseph Allen (0 previous trainer(s)) last 14d WinRate (0.0/2.0 runs) (Rank: 3.0) RTF: 50.0 (OVR: -)
+🏇 Jockey: Mr D Allen(7) (Rank: 5.0) (0.0/ 2.0 runs) RTF: N/A (OVR: 40%)
+🗞️ **PRESS OPINION**
+💬 Comment: Excellent form last season, won a recent point, could feature with a return to peak form
+🔦 Spotlight: Won three consecutive points last season before a fine third behind Its On The Line at Punchestown; fading when fell two out in a hunter chase at Clonmel in January; a long way below his best at Naas; more like it when when winning at Lisronagh 13 days ago but others are preferred.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 136.0 (Rank: 2)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/3 | Ratio: 0.00
+📊 Form: 3-3F71 → Score: 0.1 (Rank: 8)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-23 15:00:00
+🏆 RaceName: Camas Park and Summerhill Studs Open
+🏟️ Course: Lisronagh (LH, flat, sharp)
+📋 Race Type: OpenPTP
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: HY
+👜 Prize: 💰 0K
+🏆 Race Description: OpenPTP -- N/A
+🥇 Result: 1 🥇 / 🏇 7 runners. Expected: 1
+💰 Odds: 1.5 🔥🔥
+📝 Comment: ld, jnd 5out, ld agn 3out & sn wo, 5l clr bef 2out & went further clr bef last, kow run-in
+🎽 Jockey: D Allen- (⚖️ Weight: 170.0 lbs (77.3 kg) carried -- Allowance: 0.0). This jock: 3 - 4
+⏳ Time between runs: 12  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-08 16:50:00
+🏆 RaceName: QuinnBet Hunters Chase
+🏟️ Course: Naas (left-handed, undulating, galloping track (1m4f circuit))
+📋 Race Type: HntCh
+📏 Distance: 25.0 furlongs (➡️ vs 25.0 today)
+🌱 Going: S
+👜 Prize: 💰 7K
+🏆 Race Description: HntCh -- Unknown - 0
+🥇 Result: 7 / 🏇 9 runners. Expected: 1
+💰 Odds: 12.0 📉
+📝 Comment: in touch with leaders, 🎯 prominent 3rd, joined leaders 4 out, switched right towards near side before 2 out, soon ❄️ weakened
+🎽 Jockey: Mr D Allen- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 7.0). This jock: 0 - 2
+⏳ Time between runs: 14  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-01-15 12:55:00
+🏆 RaceName: Rathronan Maiden Hunters Chase
+🏟️ Course: Clonmel (right-handed, undulating, stiff uphill finish (1m2f))
+📋 Race Type: MdHntCh
+📏 Distance: 20.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: YS
+👜 Prize: 💰 5K
+🏆 Race Description: MdHntCh -- Unknown - 0
+🥇 Result: nan / 🏇 14 runners. Expected: 1
+💰 Odds: 2.5 🔥
+📝 Comment: soon 🎯 prominent, jumped left 3rd, not fluent 4th, 🎯 led narrowly 5 out, soon joined, headed home turn, lost second and weakening when fell heavily 2 out
+🎽 Jockey: Mr D Allen- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 7.0). This jock: 0 - 1
+⏳ Time between runs: 24  days ago
+---------------------------------------------------------------------------
+🐎 6 | Dorking Cock🐎 is a 11 years old  gelding, colo(u)r: b, carrying 168 lbs today.
+⏱️ Speed record - Runs: 3 | Best: 7.64 sec (Rank 4), Worst: 8.43 sec (Rank 4), Avg: 8.17 sec (Rank 5)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Odds: 11.0 (Rank: 6.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Danny Doran
+🏠 Owner: Dorking Cock Syndicate (No previous owner(s))
+👤 Trainer: S R B Crawford (0 previous trainer(s)) last 14d WinRate (0.0/5.0 runs) (Rank: 3.0) RTF: 40.0 (OVR: 0%)
+🏇 Jockey: Mr E Mahon(7) (Rank: 4.0) (1.0/ 1.0 runs) RTF: N/A (OVR: 0%)
+🗞️ **PRESS OPINION**
+💬 Comment: Placed twice in points recently, beaten around 3l in third behind Early Doors at Oldtown
+🔦 Spotlight: Useful sort but more than three years since he won a hunter chase at Down Royal; pulled up in the same event this season (race won by Big Interest); placed twice in points recently, beaten around 3l in third behind Early Doors at Oldtown.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 130.0 (Rank: 7)
+📉 TS: 21.0 (Rank: 9)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 1/3 | Ratio: 0.33
+📊 Form: 4-3P32 → Score: 0.12 (Rank: 6)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-22 15:00:00
+🏆 RaceName: Armagh Construction Ltd, Armagh Open
+🏟️ Course: Farmaclaffley (RH, undulating, galloping, stiff finish)
+📋 Race Type: OpenPTP
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: SH
+👜 Prize: 💰 0K
+🏆 Race Description: OpenPTP -- N/A
+🥇 Result: 2 🥈 / 🏇 6 runners. Expected: 1
+💰 Odds: 4.5 🔥
+📝 Comment: mid-div, 4th 1/2way, rdn brfly aftr 5out, rcd wide bef 4out, slw jmp 4out, rdn bef str, kow aftr last bt nt mtch wnr
+🎽 Jockey: S Connor- (⚖️ Weight: 170.0 lbs (77.3 kg) carried -- Allowance: 0.0). This jock: 0 - 1
+⏳ Time between runs: 13  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-15 14:30:00
+🏆 RaceName: Gavin Cromwell Racing Open
+🏟️ Course: Oldtown (RH, undulating, galloping)
+📋 Race Type: OpenPTP
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: Y
+👜 Prize: 💰 0K
+🏆 Race Description: OpenPTP -- N/A
+🥇 Result: 3 🥉 / 🏇 11 runners. Expected: 1
+💰 Odds: 4.0 🔥
+📝 Comment: pr, disp 2l 3rd on inner by 3rd, 2l 3rd 4out, rdn in 1l 3rd appr 2out, rdn bef last & ko onepcd
+🎽 Jockey: S Connor- (⚖️ Weight: 170.0 lbs (77.3 kg) carried -- Allowance: 0.0). This jock: 0 - 0
+⏳ Time between runs: 7  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-26 14:33:00
+🏆 RaceName: Metcollect Oil Recycling Hunters Chase
+🏟️ Course: Down Royal (right-handed, galloping, undulating, testing (1m7f circuit))
+📋 Race Type: HntCh
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: GY
+👜 Prize: 💰 5K
+🏆 Race Description: HntCh -- Unknown - 0
+🥇 Result: nan / 🏇 12 runners. Expected: 1
+💰 Odds: 7.0 📉
+📝 Comment: 🎯 prominent early, 🔄 midfield when pushed along after 11th, ❄️ weakened 3 out, pulled up before 2 out (jockey said gelding hung left and pulled up)
+🎽 Jockey: Mr S Connor- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 7.0). This jock: 1 - 2
+⏳ Time between runs: 50  days ago
+---------------------------------------------------------------------------
+🐎 10 | Ramillies🐎 is a 10 years old  gelding, colo(u)r: gr, carrying 168 lbs today.
+⏱️ Speed record - Runs: 5 | Best: 7.72 sec (Rank 6), Worst: 9.88 sec (Rank 13), Avg: 8.49 sec (Rank 9)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Odds: 11.0 (Rank: 6.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: M Morgan
+🏠 Owner: Ramillies & Christie Family Syndicate (No previous owner(s))
+👤 Trainer: D M Christie (0 previous trainer(s)) last 14d WinRate (0.0/1.0 runs) (Rank: 3.0) RTF: N/A (OVR: 20%)
+🏇 Jockey: Mr S Cotter(7) (Rank: 5.0) (0.0/ 1.0 runs) RTF: N/A (OVR: -)
+🗞️ **PRESS OPINION**
+💬 Comment: Does well in points, fair hunter chase form including fourth to Big Interest at Down Royal
+🔦 Spotlight: Useful for Willie Mullins in his prime though his strike-rate was modest; 6-10 in points, often against much inferior rivals; has performed with credit in two hunter chase outings this term, fourth to Big Interest at Down Royal, second at Thurles.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 129.0 (Rank: 8)
+📉 TS: 47.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 1/6 | Ratio: 0.17
+🌱 Going Wins/Runs: 1/5 | Ratio: 0.20
+📊 Form: -31242 → Score: 0.13 (Rank: 5)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-01-19 15:45:00
+🏆 RaceName: Racing Again Feb. 6th Hunters Chase
+🏟️ Course: Thurles (right-handed, undulating track (1m2f circuit))
+📋 Race Type: HntCh
+📏 Distance: 25.0 furlongs (➡️ vs 25.0 today)
+🌱 Going: G
+👜 Prize: 💰 5K
+🏆 Race Description: HntCh -- Unknown - 0
+🥇 Result: 2 🥈 / 🏇 6 runners. Expected: 1
+💰 Odds: 4.0 🔥
+📝 Comment: didn't always jump with fluency, 🎯 prominent, mistake and lost ground when jockey lost iron briefly 1st, soon 🔄 towards rear, mistake 8th, dropped to last before 11th, headway after 2 out, went second before last, no extra when jockey dropped whip run-in
+🎽 Jockey: Miss M O'Sullivan- (⚖️ Weight: 151.0 lbs (68.6 kg) carried -- Allowance: 5.0). This jock: 0 - 1
+⏳ Time between runs: 47  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-26 14:33:00
+🏆 RaceName: Metcollect Oil Recycling Hunters Chase
+🏟️ Course: Down Royal (right-handed, galloping, undulating, testing (1m7f circuit))
+📋 Race Type: HntCh
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: GY
+👜 Prize: 💰 5K
+🏆 Race Description: HntCh -- Unknown - 0
+🥇 Result: 4 / 🏇 12 runners. Expected: 1
+💰 Odds: 9.0 📉
+📝 Comment: didn't always jump with fluency, in touch with leaders, 🎯 prominent 11th, switched right and reminder after 3 out, went second when hard ridden after 2 out, ❄️ weakened and lost two places run-in
+🎽 Jockey: Mr D McGill- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 7.0). This jock: 0 - 0
+⏳ Time between runs: 24  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-11-17 14:30:00
+🏆 RaceName: Phil Purcell Engineering, Ryan Tarmacadam & Lorcan ORiordan Farrier Open- Novice Riders
+🏟️ Course: Turtulla (RH, sharp, flat)
+📋 Race Type: OpenPTP
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: G
+👜 Prize: 💰 0K
+🏆 Race Description: OpenPTP -- N/A
+🥇 Result: 2 🥈 / 🏇 7 runners. Expected: 1
+💰 Odds: 3.5 🔥
+📝 Comment: slw 1st, ld/disp from 4th til 2nd from 7th, rdn in 3rd aftr 4out, disp again 3out, no ch with wnr at last, ko
+🎽 Jockey: J H Williamson- (⚖️ Weight: 170.0 lbs (77.3 kg) carried -- Allowance: 0.0). This jock: 0 - 0
+⏳ Time between runs: 39  days ago
+---------------------------------------------------------------------------
+🐎 5 | Boss Robin📈 Owner has a strong record (SR: 12.50%, 24 runs). (Rank: 4)
+🐎 is a 9 years old  gelding, colo(u)r: b, carrying 168 lbs today.
+⏱️ Speed record - Runs: 5 | Best: 8.53 sec (Rank 13), Worst: 8.92 sec (Rank 10), Avg: 8.77 sec (Rank 13)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Odds: 13.0 (Rank: 8.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Oliver Loughlin
+🏠 Owner: Aidan Archdeacon (No previous owner(s))
+👤 Trainer: John F Gleeson (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 9.0) RTF: N/A (OVR: 0%)
+🏇 Jockey: Mr P W Gleeson(7) (Rank: 10.0) (0.0/ 0.0 runs) RTF: N/A (OVR: 0%)
+🗞️ **PRESS OPINION**
+💬 Comment: 📈 progressive in hunter chases last term, good form in points before an early unseat latest
+🔦 Spotlight: In good form in points before an early unseat at Punchestown two weeks ago; 📈 progressive in hunter chases last season, beating the useful Ryehill at Thurles and turning over the odds-on Ferns Lock at Fairyhouse; pulled up when 33-1 chance in Punchestown championship event.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 135.0 (Rank: 3)
+📉 TS: 83.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 2/4 | Ratio: 0.50
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: P-121U → Score: 0.62 (Rank: 2)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-22 14:30:00
+🏆 RaceName: Punchestown Racecourse Open- Novice Riders
+🏟️ Course: Punchestown P-To-P Course (RH, flat galloping)
+📋 Race Type: OpenPTP
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: HY
+👜 Prize: 💰 0K
+🏆 Race Description: OpenPTP -- N/A
+🥇 Result: nan / 🏇 5 runners. Expected: 1
+💰 Odds: 0.571 🔥🔥
+📝 Comment: ld, 8l clr when ur 2nd
+🎽 Jockey: P Gleeson- (⚖️ Weight: 170.0 lbs (77.3 kg) carried -- Allowance: 0.0). This jock: 2 - 3
+⏳ Time between runs: 13  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-09 15:00:00
+🏆 RaceName: Kirbys Pharmacy Open- Novice Riders
+🏟️ Course: Comea (Right-handed, somewhat undulating & turning)
+📋 Race Type: OpenPTP
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: Y
+👜 Prize: 💰 0K
+🏆 Race Description: OpenPTP -- N/A
+🥇 Result: 1 🥇 / 🏇 6 runners. Expected: 1
+💰 Odds: 0.667 🔥🔥
+📝 Comment: 🎯 made all, 2l adv 1/2way, still 2l ld bef 2out, chall on outer & jnd bef last where better jump, ko best flat
+🎽 Jockey: P Gleeson- (⚖️ Weight: 170.0 lbs (77.3 kg) carried -- Allowance: 0.0). This jock: 1 - 2
+⏳ Time between runs: 12  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-01-11 14:00:00
+🏆 RaceName: Kepak Open- Novice Riders
+🏟️ Course: Ballindenisk (RH, galloping; uphill finish)
+📋 Race Type: OpenPTP
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: SH
+👜 Prize: 💰 0K
+🏆 Race Description: OpenPTP -- N/A
+🥇 Result: 2 🥈 / 🏇 5 runners. Expected: 1
+💰 Odds: 1.25 🔥🔥
+📝 Comment: ld & jw, 1 1/2l adv 1/2way, mstk 2out & chall aftr 2out, hdd nrwly bef last where outjmpd, rallied & no ex cl hm
+🎽 Jockey: P Gleeson- (⚖️ Weight: 170.0 lbs (77.3 kg) carried -- Allowance: 0.0). This jock: 1 - 1
+⏳ Time between runs: 29  days ago
+---------------------------------------------------------------------------
+🐎 12 | Tornado Flyer⬆🏇 Tornado Flyer id 1774341🥇🥇 is TOP Ranked horse in Speed AND RPRating in this race!
+⬆🏇 Tornado Flyer id 1774341🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 12 years old  gelding, colo(u)r: b, carrying 168 lbs today.
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Odds: 15.0 (Rank: 9.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Sweetmans Bloodstock
+🏠 Owner: T F P Partnership (No previous owner(s))
+👤 Trainer: Paul Hennessy (0 previous trainer(s)) last 14d WinRate (0.0/1.0 runs) (Rank: 3.0) RTF: N/A (OVR: 0%)
+🏇 Jockey: Mr C Mullins(7) (Rank: 10.0) (0.0/ 0.0 runs) RTF: N/A (OVR: 0%)
+🗞️ **PRESS OPINION**
+💬 Comment: 2021 King George hero; Oldtown fourth was encouraging but well held by Early Doors
+🔦 Spotlight: 2021 King George hero; off for a long time before pulled up in Aghabullogue race won by My Best Valentine; much better at Oldtown but well held by Early Doors.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 140.0 (Rank: 1)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 1/2 | Ratio: 0.50
+📊 Form: /72/P4 → Score: 0.08 (Rank: 10)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-15 14:30:00
+🏆 RaceName: Gavin Cromwell Racing Open
+🏟️ Course: Oldtown (RH, undulating, galloping)
+📋 Race Type: OpenPTP
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: Y
+👜 Prize: 💰 0K
+🏆 Race Description: OpenPTP -- N/A
+🥇 Result: 4 / 🏇 11 runners. Expected: 1
+💰 Odds: 5.0 🔥
+📝 Comment: tr ldrs, 4l 4th by 1st, 14l 9th aftr 5out, rdn aftr 3out & sn ko into 5l 4th 2out, rdn & so onepcd
+🎽 Jockey: C Mullins- (⚖️ Weight: 160.0 lbs (72.7 kg) carried -- Allowance: 5.0). This jock: 0 - 1
+⏳ Time between runs: 20  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-12 13:30:00
+🏆 RaceName: Brookfield Leisure Centre Open- Novice Riders
+🏟️ Course: Aghabullogue (RH, undulating, uphill finish)
+📋 Race Type: OpenPTP
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: SH
+👜 Prize: 💰 0K
+🏆 Race Description: OpenPTP -- N/A
+🥇 Result: nan / 🏇 5 runners. Expected: 1
+💰 Odds: 1.25 🔥🔥
+📝 Comment: chsd ldrs, 2l 3rd from 10th, slow 6out, btn in 4th 4out & no impr up in 15l 4th 3out, pu well aftr 2out
+🎽 Jockey: C Mullins- (⚖️ Weight: 170.0 lbs (77.3 kg) carried -- Allowance: 0.0). This jock: 0 - 0
+⏳ Time between runs: 34  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2022-11-17 14:53:00
+🏆 RaceName: Clonmel Oil Chase (Grade 2)
+🏟️ Course: Clonmel (right-handed, undulating, stiff uphill finish (1m2f))
+📋 Race Type: ChG2
+📏 Distance: 20.5 furlongs (🔽 vs 25.0 today)
+🌱 Going: SH
+👜 Prize: 💰 30K
+🏆 Race Description: ChG2 -- Grade 2 - 8
+🥇 Result: 2 🥈 / 🏇 4 runners. Expected: 1
+💰 Odds: 4.5 🔥
+📝 Comment: 🎯 led and clear, jumped slightly left 1st, steadied 6th, jumped slightly left 7th, joined but going okay after 3 out, pushed along before 2 out, headed and ridden after 2 out, kept on well towards finish, just held
+🎽 Jockey: D E Mullins- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0). This jock: 2 - 8
+⏳ Time between runs: 786  days ago
+---------------------------------------------------------------------------
+🐎 13 | My Best Valentine⬆🏇 My Best Valentine id 4965734🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 7 years old  mare, colo(u)r: b, carrying 161 lbs today.
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Odds: 17.0 (Rank: 10.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Miss Gemma Cunningham
+🏠 Owner: Daniel Joseph Obrien (No previous owner(s))
+👤 Trainer: Daniel Joseph Obrien (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 9.0) RTF: N/A (OVR: -)
+🏇 Jockey: Mr S Tobin(7) (Rank: 5.0) (0.0/ 1.0 runs) RTF: N/A (OVR: -)
+🗞️ **PRESS OPINION**
+💬 Comment: 5-10 in points, twice successful since below-par in Ballindenisk event won by Boss Robin
+🔦 Spotlight: Winner of five of her ten starts in points; twice successful since below-par in Ballindenisk event won by Boss Robin.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: F1-P11 → Score: 1.11 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-02 14:30:00
+🏆 RaceName: Hurleys SuperValu, Midleton Mares Open
+🏟️ Course: Ballyvodock (LH, galloping, uphill finish)
+📋 Race Type: OpenPTP
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: Y
+👜 Prize: 💰 0K
+🏆 Race Description: OpenPTP -- N/A
+🥇 Result: 1 🥇 / 🏇 5 runners. Expected: 1
+💰 Odds: 0.8 🔥🔥
+📝 Comment: 🎯 made all & jw, 3l adv gng best from 2out, went clr from last, kow, unchallenged
+🎽 Jockey: S Tobin- (⚖️ Weight: 160.0 lbs (72.7 kg) carried -- Allowance: 5.0). This jock: 4 - 6
+⏳ Time between runs: 33  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-12 13:30:00
+🏆 RaceName: Brookfield Leisure Centre Open- Novice Riders
+🏟️ Course: Aghabullogue (RH, undulating, uphill finish)
+📋 Race Type: OpenPTP
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: SH
+👜 Prize: 💰 0K
+🏆 Race Description: OpenPTP -- N/A
+🥇 Result: 1 🥇 / 🏇 5 runners. Expected: 1
+💰 Odds: 3.0 🔥
+📝 Comment: tr ldr, disp 5th, ld 6th, 6l clr 4out, chall aftr 2out & sl adv well bef last, 3l adv bef last where slw, ko
+🎽 Jockey: S Tobin- (⚖️ Weight: 165.0 lbs (75.0 kg) carried -- Allowance: 0.0). This jock: 3 - 5
+⏳ Time between runs: 21  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-01 13:00:00
+🏆 RaceName: Chanceit.ie Open
+🏟️ Course: Ballindenisk (RH, galloping; uphill finish)
+📋 Race Type: OpenPTP
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: S
+👜 Prize: 💰 0K
+🏆 Race Description: OpenPTP -- N/A
+🥇 Result: nan / 🏇 17 runners. Expected: 1
+💰 Odds: 5.0 🔥
+📝 Comment: mid-div til pulled way into 2nd by 5th, disp bef 6th, rdn aftr 3out, wknd well aftr 3out & pu bef 2out
+🎽 Jockey: S Tobin- (⚖️ Weight: 155.0 lbs (70.5 kg) carried -- Allowance: 5.0). This jock: 3 - 4
+⏳ Time between runs: 42  days ago
+---------------------------------------------------------------------------
+🐎 2 | Balkito🐎 is a 10 years old  gelding, colo(u)r: b, carrying 168 lbs today.
+⏱️ Speed record - Runs: 5 | Best: 7.84 sec (Rank 7), Worst: 8.67 sec (Rank 8), Avg: 8.12 sec (Rank 4)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Odds: 21.0 (Rank: 11.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: M Armand Lefeuvre & M Yoni Seror
+🏠 Owner: Aisling Oneill & Mrs Janeanne Oneill (No previous owner(s))
+👤 Trainer: John F Oneill (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 9.0) RTF: N/A (OVR: 0%)
+🏇 Jockey: Mr P J Oneill(7) (Rank: 10.0) (0.0/ 0.0 runs) RTF: N/A (OVR: 0%)
+🗞️ **PRESS OPINION**
+💬 Comment: Out of form in a busy spell during the autumn points campaign, tough task in this grade
+🔦 Spotlight: Out of form in a busy spell during the autumn points campaign; last of six in a hunter chase at Thurles in January; again in rear at Belharbour; not disgraced at Naas last time but unlikely to make a major impact.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 120.0 (Rank: 10)
+📉 TS: 85.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 2/7 | Ratio: 0.29
+🌱 Going Wins/Runs: 1/10 | Ratio: 0.10
+📊 Form: 590655 → Score: 0.03 (Rank: 13)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-08 16:50:00
+🏆 RaceName: QuinnBet Hunters Chase
+🏟️ Course: Naas (left-handed, undulating, galloping track (1m4f circuit))
+📋 Race Type: HntCh
+📏 Distance: 25.0 furlongs (➡️ vs 25.0 today)
+🌱 Going: S
+👜 Prize: 💰 7K
+🏆 Race Description: HntCh -- Unknown - 0
+🥇 Result: 5 / 🏇 9 runners. Expected: 1
+💰 Odds: 250.0 ❄️❄️
+📝 Comment: in rear early, pushed along into 🔄 midfield towards far side before 2 out, no extra when not fluent last
+🎽 Jockey: Mr Paul J O'Neill- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 7.0). This jock: 0 - 3
+⏳ Time between runs: 27  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-02 14:30:00
+🏆 RaceName: Monks, Ballyvaughan Open
+🏟️ Course: Belharbour (LH, undulating, downhill finish)
+📋 Race Type: OpenPTP
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: GY
+👜 Prize: 💰 0K
+🏆 Race Description: OpenPTP -- N/A
+🥇 Result: 5 / 🏇 5 runners. Expected: 1
+💰 Odds: 16.0 📉
+📝 Comment: chsd ldr, ld brfly from 2nd, 1l 2nd 1/2way, drpd to 5th & btn aft 2out, ko bhnd
+🎽 Jockey: K O'Neill- (⚖️ Weight: 160.0 lbs (72.7 kg) carried -- Allowance: 5.0). This jock: 0 - 1
+⏳ Time between runs: 6  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-01-19 15:45:00
+🏆 RaceName: Racing Again Feb. 6th Hunters Chase
+🏟️ Course: Thurles (right-handed, undulating track (1m2f circuit))
+📋 Race Type: HntCh
+📏 Distance: 25.0 furlongs (➡️ vs 25.0 today)
+🌱 Going: G
+👜 Prize: 💰 5K
+🏆 Race Description: HntCh -- Unknown - 0
+🥇 Result: 6 / 🏇 6 runners. Expected: 1
+💰 Odds: 40.0 ❄️❄️
+📝 Comment: soon 🎯 led, headed and ❄️ weakened before 3 out, detached when not fluent last
+🎽 Jockey: Mr Paul J O'Neill- (⚖️ Weight: 147.0 lbs (66.8 kg) carried -- Allowance: 7.0). This jock: 0 - 2
+⏳ Time between runs: 13  days ago
+---------------------------------------------------------------------------
+🐎 11 | Step Up Son⬆🏇 Step Up Son id 4031544🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 9 years old  gelding, colo(u)r: b, carrying 168 lbs today.
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Odds: 67.0 (Rank: 12.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: David Walsh
+🏠 Owner: David K Walsh (No previous owner(s))
+👤 Trainer: David K Walsh (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 9.0) RTF: N/A (OVR: -)
+🏇 Jockey: Mr B T Stone(7) (Rank: 5.0) (0.0/ 2.0 runs) RTF: N/A (OVR: 0%)
+🗞️ **PRESS OPINION**
+💬 Comment: 2-12 in points, chased home Boss Robin on latest, pulled up on only hunter chase outing
+🔦 Spotlight: 2-12 in points, chased home Boss Robin on latest; pulled up on only hunter chase outing.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: /4P-P2 → Score: 0.2 (Rank: 4)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-09 15:00:00
+🏆 RaceName: Kirbys Pharmacy Open- Novice Riders
+🏟️ Course: Comea (Right-handed, somewhat undulating & turning)
+📋 Race Type: OpenPTP
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: Y
+👜 Prize: 💰 0K
+🏆 Race Description: OpenPTP -- N/A
+🥇 Result: 2 🥈 / 🏇 6 runners. Expected: 1
+💰 Odds: 10.0 📉
+📝 Comment: chsd ldr, 2l 2nd 1/2way, mstk 10th, 2l 2nd bef 2out where slt mstk, eff to chall & disp last where mstk, not recover flat
+🎽 Jockey: C Mullins- (⚖️ Weight: 170.0 lbs (77.3 kg) carried -- Allowance: 0.0). This jock: 0 - 0
+⏳ Time between runs: 26  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-29 12:00:00
+🏆 RaceName: Masterchefs 2025 Maiden Hunters Chase
+🏟️ Course: Limerick (right-handed, undulating track (1m3f oval))
+📋 Race Type: MdHntCh
+📏 Distance: 22.5 furlongs (🔽 vs 25.0 today)
+🌱 Going: YS
+👜 Prize: 💰 6K
+🏆 Race Description: MdHntCh -- Unknown - 0
+🥇 Result: nan / 🏇 16 runners. Expected: 1
+💰 Odds: 300.0 ❄️❄️
+📝 Comment: in rear, detached 8th, pulled up before 3 out
+🎽 Jockey: Mr C Mullins- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 7.0). This jock: 0 - 0
+⏳ Time between runs: 42  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2023-12-02 14:30:00
+🏆 RaceName: Byrne Racing, Pat ORourke & John Martin Walsh Winner Of Two
+🏟️ Course: Lingstown (RH, flat, galloping)
+📋 Race Type: PTP
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: YS
+👜 Prize: 💰 0K
+🏆 Race Description: PTP -- N/A
+🥇 Result: nan / 🏇 7 runners. Expected: 1
+💰 Odds: 8.0 📉
+📝 Comment: alw last, lost tch by 4th, cto 8th & pu bef 3 out
+🎽 Jockey: B T Tully- (⚖️ Weight: 160.0 lbs (72.7 kg) carried -- Allowance: 5.0). This jock: 1 - 4
+⏳ Time between runs: 392  days ago
+---------------------------------------------------------------------------
+🐎 4 | Bigbraveboy⚠️ Owner's record is weaker (SR: 5.56%, 18 runs). (Rank: 5)
+🐎 is a 7 years old  gelding, colo(u)r: b, carrying 168 lbs today.
+⏱️ Speed record - Runs: 2 | Best: 8.27 sec (Rank 12), Worst: 8.48 sec (Rank 6), Avg: 8.38 sec (Rank 8)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Odds: 101.0 (Rank: 13.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Jim O'Flynn
+🏠 Owner: Raymond P Fitzgerald (No previous owner(s))
+👤 Trainer: James William Hannon (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 9.0) RTF: N/A (OVR: -)
+🏇 Jockey: Mr J G Murphy(7) (Rank: 10.0) (0.0/ 0.0 runs) RTF: N/A (OVR: 0%)
+🗞️ **PRESS OPINION**
+💬 Comment: One win from nine starts in points, faces an unenviable task in this company
+🔦 Spotlight: One win from nine starts in points; faces an unenviable task in this company.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 100.0 (Rank: 11)
+📉 TS: 33.0 (Rank: 7)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: -637F3 → Score: 0.06 (Rank: 12)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-02 13:30:00
+🏆 RaceName: Jas McCarthy Transport & Jack Spratts Bar Winner Of Two
+🏟️ Course: Ballyvodock (LH, galloping, uphill finish)
+📋 Race Type: PTP
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: Y
+👜 Prize: 💰 0K
+🏆 Race Description: PTP -- N/A
+🥇 Result: 3 🥉 / 🏇 8 runners. Expected: 1
+💰 Odds: 5.0 🔥
+📝 Comment: ld, 2l adv from 6th, hdd bef 2out & no ex in 3rd bef last, ko
+🎽 Jockey: J G Murphy- (⚖️ Weight: 170.0 lbs (77.3 kg) carried -- Allowance: 0.0). This jock: 1 - 2
+⏳ Time between runs: 33  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-26 14:30:00
+🏆 RaceName: Gouldings Fertiliser Winner Of One
+🏟️ Course: Cragmore (LH, big, galloping)
+📋 Race Type: PTP
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: YS
+👜 Prize: 💰 0K
+🏆 Race Description: PTP -- N/A
+🥇 Result: nan / 🏇 10 runners. Expected: 1
+💰 Odds: 0.9 🔥🔥
+📝 Comment: ld/disp until fell 6th
+🎽 Jockey: D Allen- (⚖️ Weight: 170.0 lbs (77.3 kg) carried -- Allowance: 0.0). This jock: 0 - 1
+⏳ Time between runs: 6  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-29 12:00:00
+🏆 RaceName: Masterchefs 2025 Maiden Hunters Chase
+🏟️ Course: Limerick (right-handed, undulating track (1m3f oval))
+📋 Race Type: MdHntCh
+📏 Distance: 22.5 furlongs (🔽 vs 25.0 today)
+🌱 Going: YS
+👜 Prize: 💰 6K
+🏆 Race Description: MdHntCh -- Unknown - 0
+🥇 Result: 7 / 🏇 16 runners. Expected: 1
+💰 Odds: 28.0 ❄️
+📝 Comment: 🎯 prominent, not fluent 7th, ❄️ weakened before 2 out
+🎽 Jockey: Mr J Murphy- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 7.0). This jock: 0 - 1
+⏳ Time between runs: 28  days ago
+---------------------------------------------------------------------------
