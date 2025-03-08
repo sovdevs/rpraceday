@@ -4,37 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="todays files -- cleaned up code -- added STAR indicator for exceptionally ranked horses. Performance Table down to maintenance. No horse form history yet.">
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="performance table improvements. Code now runs for today_str allowing for historical racedays. New ranks for perf table. No logic to which cols as yet - to come.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hash_codes.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887272.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887273.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887274.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887275.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887276.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887277.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887278.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887279.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887280.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887281.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887282.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887283.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887284.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887450.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887451.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887452.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887453.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887454.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887455.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/887456.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889698.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889699.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889700.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889701.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889702.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889703.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889704.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,15 +89,7 @@
       <workItem from="1740572483632" duration="11973000" />
       <workItem from="1740901685414" duration="602000" />
       <workItem from="1741192901933" duration="1192000" />
-      <workItem from="1741249269958" duration="3453000" />
-    </task>
-    <task id="LOCAL-00008" summary="updated race data">
-      <option name="closed" value="true" />
-      <created>1738939013552</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1738939013552</updated>
+      <workItem from="1741249269958" duration="4788000" />
     </task>
     <task id="LOCAL-00009" summary="copyable attempt for demo codes">
       <option name="closed" value="true" />
@@ -512,14 +475,21 @@
       <option name="project" value="LOCAL" />
       <updated>1741281305076</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="performance table improvements. Code now runs for today_str allowing for historical racedays. New ranks for perf table. No logic to which cols as yet - to come.">
+      <option name="closed" value="true" />
+      <created>1741439745534</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1741439745534</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fixed bug with hash codes not calculated before HTML display- no data!" />
     <MESSAGE value="new data" />
     <MESSAGE value="new data added no of races." />
     <MESSAGE value="changes to index html" />
@@ -544,6 +514,7 @@
     <MESSAGE value="erduced size of headers to reduce table width" />
     <MESSAGE value="todays files" />
     <MESSAGE value="todays files -- cleaned up code -- added STAR indicator for exceptionally ranked horses. Performance Table down to maintenance. No horse form history yet." />
-    <option name="LAST_COMMIT_MESSAGE" value="todays files -- cleaned up code -- added STAR indicator for exceptionally ranked horses. Performance Table down to maintenance. No horse form history yet." />
+    <MESSAGE value="performance table improvements. Code now runs for today_str allowing for historical racedays. New ranks for perf table. No logic to which cols as yet - to come." />
+    <option name="LAST_COMMIT_MESSAGE" value="performance table improvements. Code now runs for today_str allowing for historical racedays. New ranks for perf table. No logic to which cols as yet - to come." />
   </component>
 </project>
