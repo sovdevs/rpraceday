@@ -4,8 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="performance table improvements. Code now runs for today_str allowing for historical racedays. New ranks for perf table. No logic to which cols as yet - to come.">
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="fixed bug with sort perf table on string">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hash_codes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887304.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887305.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887306.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887307.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887308.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887309.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887310.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887311.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887312.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887313.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887314.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887315.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887316.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887317.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887318.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887319.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887320.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887321.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887322.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887323.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887324.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887464.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887465.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887466.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887467.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887468.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887469.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887470.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887471.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887472.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887473.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887474.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887475.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887476.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887477.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889908.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889909.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889910.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889911.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889912.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889913.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889914.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,15 +133,7 @@
       <workItem from="1740572483632" duration="11973000" />
       <workItem from="1740901685414" duration="602000" />
       <workItem from="1741192901933" duration="1192000" />
-      <workItem from="1741249269958" duration="4788000" />
-    </task>
-    <task id="LOCAL-00009" summary="copyable attempt for demo codes">
-      <option name="closed" value="true" />
-      <created>1738939713491</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1738939713491</updated>
+      <workItem from="1741249269958" duration="8141000" />
     </task>
     <task id="LOCAL-00010" summary="new file format class distance indicators&#10;HTML simplified">
       <option name="closed" value="true" />
@@ -483,14 +519,21 @@
       <option name="project" value="LOCAL" />
       <updated>1741439745534</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="fixed bug with sort perf table on string">
+      <option name="closed" value="true" />
+      <created>1741442752249</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1741442752249</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new data" />
     <MESSAGE value="new data added no of races." />
     <MESSAGE value="changes to index html" />
     <MESSAGE value="new data. fixes on trainer Jockey SRs, added race_number, medical, gear.." />
@@ -515,6 +558,7 @@
     <MESSAGE value="todays files" />
     <MESSAGE value="todays files -- cleaned up code -- added STAR indicator for exceptionally ranked horses. Performance Table down to maintenance. No horse form history yet." />
     <MESSAGE value="performance table improvements. Code now runs for today_str allowing for historical racedays. New ranks for perf table. No logic to which cols as yet - to come." />
-    <option name="LAST_COMMIT_MESSAGE" value="performance table improvements. Code now runs for today_str allowing for historical racedays. New ranks for perf table. No logic to which cols as yet - to come." />
+    <MESSAGE value="fixed bug with sort perf table on string" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed bug with sort perf table on string" />
   </component>
 </project>
