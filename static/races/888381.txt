@@ -1,0 +1,631 @@
+🏁 Race ID: 888381
+7 runners declared
+📍 Venue: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+🌦️ Weather: Showers
+⚙️ Going: Standard
+⏰ Off Time: 18:00
+🏆 Race Name: Gamble Responsibly At BetUK Classified Stakes
+📏 Distance: 8.0 furlongs
+🏇 Race/Grade: Class 6
+🏇 Type: Flat
+🎂 Age Band: 4yo+
+💰 Today's Purse: 💰 5K
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Performance Table
+number   | horse_name                | horse_id | fs3      | wSR      | fsAll    | leftSR   | rightSR  | minS     | avgS     | avgDist  | goSR     | avg£     | avg€     | rpr      | ts       | ofr      | j14w     | j14p     | jOvW     | jOvP     | t14w     | t14p     | tOvW     | tOvP     | fsR      | cRat     | dRat     | gRat     | opR     
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4        | Lauras Breeze             | 5005618  | 3.0      | 5.0      | 5.0      | 4.0      | 3.0      | 2        | 2        | 7.0      | 4.0      | 3.0      | 1.0      | 1.0      | 2.0      | 2.0      | 6.0      | 5.0      | 8.0      | 1.0      | 5.0      | 6.0      | 2.0      | 8.0      | 4.0      | 6.0      | 5.0      | 1.0      | 1.0     
+6        | Urban Dandy               | 4275941  | 3.0      | 6.0      | 7.0      | 5.0      | 3.0      | 1        | 1        | 9.0      | 6.0      | 4.0      | 1.0      | 2.0      | 7.0      | 4.0      | 6.0      | 8.0      | 7.0      | 7.0      | 5.0      | 4.0      | 8.0      | 5.0      | 6.0      | 3.0      | 5.0      | 6.0      | 2.0     
+1        | Danehill Star             | 5207729  | 4.0      | 7.0      | 3.0      | 5.0      | 3.0      | 6        | 5        | 4.0      | 7.0      | 7.0      | 1.0      | 5.0      | 6.0      | 5.0      | 5.0      | 3.0      | 5.0      | 3.0      | 1.0      | 8.0      | 5.0      | 3.0      | 3.0      | 4.0      | 4.0      | 7.0      | 3.0     
+8        | Wheres The Crumpet        | 4057129  | 7.0      | 3.0      | 6.0      | 2.0      | 3.0      | 4        | 7        | 1.0      | 3.0      | 9.0      | 1.0      | 4.0      | 1.0      | 2.0      | 2.0      | 1.0      | 4.0      | 5.0      | 1.0      | 2.0      | 1.0      | 6.0      | 6.0      | 1.0      | 1.0      | 2.0      | 4.0     
+2        | Anif                      | 906240   | 6.0      | 1.0      | 9.0      | 1.0      | 2.0      | 3        | 3        | 6.0      | 1.0      | 2.0      | 1.0      | 2.0      | 3.0      | 1.0      | 4.0      | 4.0      | 1.0      | 9.0      | 4.0      | 1.0      | 2.0      | 7.0      | 8.0      | 5.0      | 2.0      | 5.0      | 5.0     
+3        | Cammy                     | 3212557  | 8.0      | 8.0      | 2.0      | 7.0      | 3.0      | 7        | 6        | 2.0      | 7.0      | 6.0      | 1.0      | 9.0      | 3.0      | 9.0      | 1.0      | 9.0      | 1.0      | 8.0      | 1.0      | 8.0      | 5.0      | 3.0      | 9.0      | 6.0      | 5.0      | 8.0      | 6.0     
+9        | Yakhabar                  | 3695497  | 5.0      | 4.0      | 4.0      | 3.0      | 3.0      | 8        | 8        | 3.0      | 2.0      | 1.0      | 1.0      | 5.0      | 8.0      | 5.0      | 6.0      | 5.0      | 8.0      | 1.0      | 5.0      | 6.0      | 2.0      | 8.0      | 5.0      | 2.0      | 5.0      | 4.0      | 6.0     
+5        | Rainbow Mirage            | 3204173  | 1.0      | 2.0      | 8.0      | 6.0      | 1.0      | 5        | 4        | 5.0      | 5.0      | 8.0      | 1.0      | 7.0      | 5.0      | 8.0      | 6.0      | 7.0      | 1.0      | 4.0      | 5.0      | 4.0      | 8.0      | 1.0      | 2.0      | N/A      | 3.0      | 2.0      | 8.0     
+7        | Victoria Legend           | 5330962  | 2.0      | 8.0      | 1.0      | 7.0      | 3.0      | 9        | 9        | 8.0      | 7.0      | 5.0      | 1.0      | 8.0      | N/A      | 5.0      | 3.0      | 2.0      | 6.0      | 6.0      | 5.0      | 2.0      | 7.0      | 1.0      | 1.0      | N/A      | 5.0      | N/A      | 8.0     
+
+🔹 **Legend:**
+fs3: formScore_3_rank | wSR: winSR_rank | fsAll: formScore_all_rank | leftSR: leftHandedSr_rank | rightSR: rightHandedSr_rank | minS: rank_minSecs | avgS: rank_avgSecs | avgDist: AvgDistanceBeatenBy_rank | goSR: going_SR_rank | avg£: avgPrizeSterling_rank | avg€: avgPrizeEuro_rank | rpr: rpr_rank | ts: ts_rank
+ofr: ofr_rank | j14w: stats_jockey_last_14_wins_pct_rank | j14p: stats_jockey_last_14_profit_rank | jOvW: stats_jockey_ovr_wins_pct_rank | jOvP: stats_jockey_ovr_profit_rank | t14w: stats_trainer_last_14_wins_pct_rank | t14p: stats_trainer_last_14_profit_rank | tOvW: stats_trainer_ovr_wins_pct_rank | tOvP: stats_trainer_ovr_profit_rank | fsR: formScore_rank | cRat: stats_course_ratio_rank | dRat: stats_distance_ratio_rank | gRat: stats_going_ratio_rank | opR: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 4 | Lauras Breeze⬆🏇 Lauras Breeze id 5005618🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 5 years old  mare, colo(u)r: br, carrying 135 lbs today.
+⏱️ Speed record - Runs: 27 | Best: 5.93 sec (Rank 2), Worst: 6.55 sec (Rank 4), Avg: 6.18 sec (Rank 2)
+🛠️ No gear today
+🩺 Medical History: 📅 2022-04-29: Wind Surgery
+🎲 Early market: 3.0 (Rank: 1.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Ballinacurra Stud Limited
+🏠 Owner: Oakfield Racing & Horse Watchers 9 (No previous owner(s))
+👤 Trainer: Liam Bailey (0 previous trainer(s)) last 14d WinRate (0.0/4.0 runs) (Rank: 5.0) RTF: 75.0 (OVR: 6%)
+🏇 Jockey: Billy Garritty (Rank: 6.0) (0.0/ 7.0 runs) RTF: N/A (OVR: 10%)
+🗞️ **PRESS OPINION**
+💬 Comment: Looked unlucky back at 7f on Friday; needs to settle early but her claims are obvious
+🔦 Spotlight: Chased home a subsequent winner here 11 days ago and looked unlucky back at 7f on Friday; has only gone this far twice before and she'll need to settle early but her claims are obvious otherwise.
+📊 **STATS**
+📉 OFR: 49.0 (Rank: 2)
+📈 RPR: 63.0 (Rank: 1)
+📉 TS: 50.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/5 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 2/20 | Ratio: 0.10
+📊 Form: -66522 → Score: 0.05 (Rank: 4)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-07 19:15:00
+🏆 RaceName: BetUK. It's Where The UK Bets Classified Stakes
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📋 Race Type: 6
+📏 Distance: 7.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+🏆 Race Description: 6 -- Unknown - 0
+🥇 Result: 2 🥈 / 🏇 7 runners. Expected: 1
+💰 Odds: 3.0 🔥
+📝 Comment: in rear, going easily when ⚠️ not clear run under 2f out, soon waiting for room, switched right and soon in the clear over 1f out, kept on well inside final furlong, went second final strides (jockey said mare was denied a clear run on several occasions inside final 2f)
+🎽 Jockey: B Garritty- (⚖️ Weight: 135.0 lbs (61.4 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 2  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-27 17:00:00
+🏆 RaceName: BetUK: It's Where The UK Bets Classified Stakes (Div II)
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📋 Race Type: 6
+📏 Distance: 6.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+🏆 Race Description: 6 -- Unknown - 0
+🥇 Result: 2 🥈 / 🏇 9 runners. Expected: 1
+💰 Odds: 4.5 🔥
+📝 Comment: dwelt start, 🔄 towards rear, headway over 1f out, went second inside final furlong, no match for winner
+🎽 Jockey: B Garritty- (⚖️ Weight: 135.0 lbs (61.4 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 8  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-02-12 12:55:00
+🏆 RaceName: Extra Winnings With BetUK Acca Club Classified Stakes
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📋 Race Type: 6
+📏 Distance: 5.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 3K
+🏆 Race Description: 6 -- Unknown - 0
+🥇 Result: 5 / 🏇 8 runners. Expected: 1
+💰 Odds: 6.5 📉
+📝 Comment: in touch with leaders, short of room inside final 110yds, soon no extra (jockey said mare was denied a clear run on run to line)
+🎽 Jockey: B Garritty- (⚖️ Weight: 135.0 lbs (61.4 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 15  days ago
+---------------------------------------------------------------------------
+🐎 6 | Urban Dandy⬆🏇 Urban Dandy id 4275941🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 5 years old  gelding, colo(u)r: ch, carrying 135 lbs today.
+⏱️ Speed record - Runs: 25 | Best: 5.89 sec (Rank 1), Worst: 6.4 sec (Rank 1), Avg: 6.17 sec (Rank 1)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 3.5 (Rank: 2.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Pier House Stud
+🏠 Owner: Tony Coyle (No previous owner(s))
+👤 Trainer: Tony Coyle & Kaine Wood (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 5.0) RTF: 100.0 (OVR: 0%)
+🏇 Jockey: David Nolan (Rank: 6.0) (0.0/ 14.0 runs) RTF: N/A (OVR: 11%)
+🗞️ **PRESS OPINION**
+💬 Comment: 5lb better off with Danehill Star for a head from Friday; will be popular again
+🔦 Spotlight: Not won in two years and has plenty of short-priced defeats to his name (not always looked the easiest); has gone close a few times since upped to this trip, though, and will again be popular having pushed Danehill Star close over C&D three days ago.
+📊 **STATS**
+📉 OFR: 48.0 (Rank: 4)
+📈 RPR: 62.0 (Rank: 2)
+📉 TS: 36.0 (Rank: 7)
+🏟️ Course Wins/Runs: 1/15 | Ratio: 0.07
+📏 Distance Wins/Runs: 0/5 | Ratio: 0.00
+🌱 Going Wins/Runs: 2/27 | Ratio: 0.07
+📊 Form: 594272 → Score: 0.04 (Rank: 6)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-07 19:45:00
+🏆 RaceName: BetMGM: It's Showtime Classified Stakes
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📋 Race Type: 6
+📏 Distance: 8.0 furlongs (➡️ vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+🏆 Race Description: 6 -- Unknown - 0
+🥇 Result: 2 🥈 / 🏇 8 runners. Expected: 1
+💰 Odds: 8.0 📉
+📝 Comment: in touch with leaders, headway from over 2f out, kept on well when on outer inside final furlong, went second inside final 110yds, ran on and just held
+🎽 Jockey: D Nolan- (⚖️ Weight: 135.0 lbs (61.4 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 2  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-20 19:00:00
+🏆 RaceName: Win £1M With BetMGM's Golden Goals Handicap (Rider Restricted Race)
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📋 Race Type: 6Hc
+📏 Distance: 8.0 furlongs (➡️ vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 3K
+🏆 Race Description: 6Hc -- Handicap - H
+🥇 Result: 7 / 🏇 11 runners. Expected: 1
+💰 Odds: 5.5 🔥
+📝 Comment: pressed leader, 🎯 led narrowly halfway, headed over 1f out, soon ❄️ weakened
+🎽 Jockey: D C Costello- (⚖️ Weight: 128.0 lbs (58.2 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 15  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-02-14 19:00:00
+🏆 RaceName: BetMGM: It's Showtime Classified Stakes
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📋 Race Type: 6
+📏 Distance: 8.0 furlongs (➡️ vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 3K
+🏆 Race Description: 6 -- Unknown - 0
+🥇 Result: 2 🥈 / 🏇 10 runners. Expected: 1
+💰 Odds: 5.5 🔥
+📝 Comment: carried head awkwardly, raced in second, switched to near side and 🎯 led over 6f out, shaken up over 2f out, ridden over 1f out, headed inside final 110yds, kept on
+🎽 Jockey: P Mulrennan- (⚖️ Weight: 135.0 lbs (61.4 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 6  days ago
+---------------------------------------------------------------------------
+🐎 1 | Danehill Star📈 Owner has a strong record (SR: 11.11%, 18 runs). (Rank: 2)
+🐎 is a 4 years old  gelding, colo(u)r: b, carrying 140 lbs today.
+⏱️ Speed record - Runs: 17 | Best: 6.21 sec (Rank 6), Worst: 6.54 sec (Rank 3), Avg: 6.36 sec (Rank 5)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 4.5 (Rank: 3.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Boocock Trading Ltd
+🏠 Owner: The Rebelle Boys (No previous owner(s))
+👤 Trainer: Tony Carroll (0 previous trainer(s)) last 14d WinRate (3.0/40.0 runs) (Rank: 1.0) RTF: 65.0 (OVR: 18%)
+🏇 Jockey: Jack Doughty(3) (Rank: 5.0) (4.0/ 26.0 runs) RTF: N/A (OVR: 27%)
+🗞️ **PRESS OPINION**
+💬 Comment: Edged out Urban Dandy over C&D on Friday; needs more under the 5lb penalty
+🔦 Spotlight: Made it 2-4 in cheekpieces when edging out Urban Dandy over C&D on Friday; 5lb worse off with that one for a head under the penalty, so needs more if he's to confirm the placings.
+📊 **STATS**
+📉 OFR: 46.0 (Rank: 5)
+📈 RPR: 55.0 (Rank: 5)
+📉 TS: 42.0 (Rank: 6)
+🏟️ Course Wins/Runs: 1/1 | Ratio: 1.00
+📏 Distance Wins/Runs: 1/6 | Ratio: 0.17
+🌱 Going Wins/Runs: 1/14 | Ratio: 0.07
+📊 Form: -51671 → Score: 0.05 (Rank: 3)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-07 19:45:00
+🏆 RaceName: BetMGM: It's Showtime Classified Stakes
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📋 Race Type: 6
+📏 Distance: 8.0 furlongs (➡️ vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+🏆 Race Description: 6 -- Unknown - 0
+🥇 Result: 1 🥇 / 🏇 8 runners. Expected: 1
+💰 Odds: 7.5 📉
+📝 Comment: 🎯 prominent, took keen hold after 1f, outpaced and ridden under 2f out, rallied inside final furlong, 🎯 led inside final 110yds, soon hung left, kept on and all out
+🎽 Jockey: J Doughty- (⚖️ Weight: 129.0 lbs (58.6 kg) carried -- Allowance: 3.0) 
+⏳ Time between runs: 2  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-16 16:52:00
+🏆 RaceName: Extra Winnings With BetUK Acca Club Handicap (Div II)
+🏟️ Course: Lingfield (AW) (Polytrack: left-handed, sharp)
+📋 Race Type: 6Hc
+📏 Distance: 10.0 furlongs (🔼 vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+🏆 Race Description: 6Hc -- Handicap - H
+🥇 Result: 7 / 🏇 9 runners. Expected: 1
+💰 Odds: 12.0 📉
+📝 Comment: 🎯 led, headed over 2f out, ❄️ weakened from over 1f out
+🎽 Jockey: J Doughty- (⚖️ Weight: 121.0 lbs (55.0 kg) carried -- Allowance: 3.0) 
+⏳ Time between runs: 19  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-01-22 15:25:00
+🏆 RaceName: BetUK: It's Where The UK Bets Handicap (Div I)
+🏟️ Course: Lingfield (AW) (Polytrack: left-handed, sharp)
+📋 Race Type: 6Hc
+📏 Distance: 10.0 furlongs (🔼 vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 3K
+🏆 Race Description: 6Hc -- Handicap - H
+🥇 Result: 6 / 🏇 12 runners. Expected: 1
+💰 Odds: 3.0 🔥
+📝 Comment: took keen hold, 🎯 prominent, briefly disputed lead over 1f out, ❄️ weakened final 110yds
+🎽 Jockey: J Doughty- (⚖️ Weight: 120.0 lbs (54.5 kg) carried -- Allowance: 3.0) 
+⏳ Time between runs: 25  days ago
+---------------------------------------------------------------------------
+🐎 8 | Wheres The Crumpet📈 Owner has a strong record (SR: 10.81%, 37 runs). (Rank: 3)
+🐎 is a 7 years old  mare, colo(u)r: ch, carrying 135 lbs today.
+⏱️ Speed record - Runs: 21 | Best: 6.16 sec (Rank 4), Worst: 6.76 sec (Rank 7), Avg: 6.45 sec (Rank 7)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 11.0 (Rank: 4.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: A F G & Mrs S L Brimble
+🏠 Owner: Stuart Murray (No previous owner(s))
+👤 Trainer: David Thompson (0 previous trainer(s)) last 14d WinRate (1.0/13.0 runs) (Rank: 1.0) RTF: 54.0 (OVR: 9%)
+🏇 Jockey: Aiden Brookes(3) (Rank: 2.0) (3.0/ 9.0 runs) RTF: N/A (OVR: 4%)
+🗞️ **PRESS OPINION**
+💬 Comment: Has never been consistent and it wouldn't be a shock were she to bounce back
+🔦 Spotlight: C&D winner last October who doesn't arrive in much form, having finished well held here nine days ago; has never been consistent, however, and it wouldn't be a shock were she to bounce back.
+📊 **STATS**
+📉 OFR: 49.0 (Rank: 2)
+📈 RPR: 61.0 (Rank: 4)
+📉 TS: 59.0 (Rank: 1)
+🏟️ Course Wins/Runs: 2/21 | Ratio: 0.10
+📏 Distance Wins/Runs: 2/12 | Ratio: 0.17
+🌱 Going Wins/Runs: 2/18 | Ratio: 0.11
+📊 Form: 256-87 → Score: 0.04 (Rank: 6)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-01 18:15:00
+🏆 RaceName: Weekly Free Bets With BetMGM Extra Handicap
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📋 Race Type: 6Hc
+📏 Distance: 8.0 furlongs (➡️ vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+🏆 Race Description: 6Hc -- Handicap - H
+🥇 Result: 7 / 🏇 8 runners. Expected: 1
+💰 Odds: 10.0 📉
+📝 Comment: took keen hold, 🎯 prominent, short of room when weakening over 1f out, soon eased (jockey said mare suffered interference approximately 1 1/2f out)
+🎽 Jockey: A Mullen- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 8  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-20 19:00:00
+🏆 RaceName: Win £1M With BetMGM's Golden Goals Handicap (Rider Restricted Race)
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📋 Race Type: 6Hc
+📏 Distance: 8.0 furlongs (➡️ vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 3K
+🏆 Race Description: 6Hc -- Handicap - H
+🥇 Result: 8 / 🏇 11 runners. Expected: 1
+💰 Odds: 9.0 📉
+📝 Comment: in touch with leaders, ❄️ weakened over 1f out
+🎽 Jockey: A Brookes- (⚖️ Weight: 126.0 lbs (57.3 kg) carried -- Allowance: 3.0) 
+⏳ Time between runs: 8  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-09 18:30:00
+🏆 RaceName: Weekly Free Bets With BetMGM Extra Handicap
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📋 Race Type: 6Hc
+📏 Distance: 8.0 furlongs (➡️ vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 3K
+🏆 Race Description: 6Hc -- Handicap - H
+🥇 Result: 6 / 🏇 12 runners. Expected: 1
+💰 Odds: 12.0 📉
+📝 Comment: in touch with leaders, outpaced over 3f out, rallying 2f out, no impression from 1f out, ❄️ weakened inside final furlong
+🎽 Jockey: D Nolan- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 73  days ago
+---------------------------------------------------------------------------
+🐎 2 | Anif🐎 is a 11 years old  gelding, colo(u)r: b, carrying 135 lbs today.
+⏱️ Speed record - Runs: 19 | Best: 6.15 sec (Rank 3), Worst: 6.41 sec (Rank 2), Avg: 6.29 sec (Rank 3)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 13.0 (Rank: 5.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Shadwell Estate Company Limited
+🏠 Owner: S Herrington & Mrs H Lloyd-Herrington (No previous owner(s))
+👤 Trainer: Michael Herrington (0 previous trainer(s)) last 14d WinRate (1.0/4.0 runs) (Rank: 4.0) RTF: 25.0 (OVR: 6%)
+🏇 Jockey: Tom Eaves (Rank: 4.0) (3.0/ 17.0 runs) RTF: N/A (OVR: 9%)
+🗞️ **PRESS OPINION**
+💬 Comment: Good and bad days now but this is his first run in 0-50 company and he remains capable
+🔦 Spotlight: Multiple winner down the years who's well into the veteran stage; unsurprisingly has his good and bad days now but this is his first run in 0-50 company and he remains capable.
+📊 **STATS**
+📉 OFR: 50.0 (Rank: 1)
+📈 RPR: 62.0 (Rank: 2)
+📉 TS: 48.0 (Rank: 3)
+🏟️ Course Wins/Runs: 1/23 | Ratio: 0.04
+📏 Distance Wins/Runs: 1/18 | Ratio: 0.06
+🌱 Going Wins/Runs: 2/24 | Ratio: 0.08
+📊 Form: 63-698 → Score: 0.03 (Rank: 8)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-15 19:25:00
+🏆 RaceName: Win £1M With BetMGM's Golden Goals Apprentice Handicap
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📋 Race Type: 6Hc
+📏 Distance: 7.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+🏆 Race Description: 6Hc -- Handicap - H
+🥇 Result: 8 / 🏇 9 runners. Expected: 1
+💰 Odds: 22.0 ❄️
+📝 Comment: took keen hold, in rear, 🔄 midfield after 2f, dropped to rear and struggling from 2f out
+🎽 Jockey: Andrea Pinna- (⚖️ Weight: 118.0 lbs (53.6 kg) carried -- Allowance: 5.0) 
+⏳ Time between runs: 22  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-14 13:52:00
+🏆 RaceName: Win £1M With BetMGM's Golden Goals Handicap
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📋 Race Type: 6Hc
+📏 Distance: 7.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+🏆 Race Description: 6Hc -- Handicap - H
+🥇 Result: 9 / 🏇 11 runners. Expected: 1
+💰 Odds: 33.0 ❄️
+📝 Comment: 🐢 slowly away, always behind
+🎽 Jockey: T Eaves- (⚖️ Weight: 129.0 lbs (58.6 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 32  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-01-03 20:30:00
+🏆 RaceName: Boost Your Acca At BetMGM Handicap (Div II)
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📋 Race Type: 6Hc
+📏 Distance: 8.0 furlongs (➡️ vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 3K
+🏆 Race Description: 6Hc -- Handicap - H
+🥇 Result: 6 / 🏇 10 runners. Expected: 1
+💰 Odds: 28.0 ❄️
+📝 Comment: in rear, outpaced over 2f out, rallied inside final furlong, no telling impression
+🎽 Jockey: T Eaves- (⚖️ Weight: 125.0 lbs (56.8 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 10  days ago
+---------------------------------------------------------------------------
+🐎 3 | Cammy🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 is a 7 years old  gelding, colo(u)r: ch, carrying 135 lbs today.
+⏱️ Speed record - Runs: 5 | Best: 6.29 sec (Rank 7), Worst: 6.57 sec (Rank 5), Avg: 6.41 sec (Rank 6)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 17.0 (Rank: 6.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: John B Hughes
+🏠 Owner: A W Carroll (No previous owner(s))
+👤 Trainer: Tony Carroll (0 previous trainer(s)) last 14d WinRate (3.0/40.0 runs) (Rank: 1.0) RTF: 65.0 (OVR: 18%)
+🏇 Jockey: Luke Morris (Rank: 1.0) (2.0/ 39.0 runs) RTF: N/A (OVR: 9%)
+🗞️ **PRESS OPINION**
+💬 Comment: Run fairly in two starts back from a year off and gives Tony Carroll a decent hand
+🔦 Spotlight: Longstanding, regressive maiden who's missed a couple of chunks of his career and is lowest rated of the nine runners; has run fairly in two starts back from a year off, though, and gives Tony Carroll (also saddles Danehill Star) a decent hand.
+📊 **STATS**
+📉 OFR: 42.0 (Rank: 9)
+📈 RPR: 52.0 (Rank: 9)
+📉 TS: 48.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/4 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/5 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/6 | Ratio: 0.00
+📊 Form: 988-64 → Score: 0.03 (Rank: 9)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-24 19:00:00
+🏆 RaceName: Weekly £5 Free Bet With BetUK Classified Stakes (Div II)
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📋 Race Type: 6
+📏 Distance: 9.5 furlongs (🔼 vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 3K
+🏆 Race Description: 6 -- Unknown - 0
+🥇 Result: 4 / 🏇 9 runners. Expected: 1
+💰 Odds: 33.0 ❄️
+📝 Comment: in touch with leaders, no impression over 1f out, ❄️ weakened inside final furlong
+🎽 Jockey: L Morris- (⚖️ Weight: 135.0 lbs (61.4 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 13  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-14 14:00:00
+🏆 RaceName: Best Odds Guaranteed At BetMGM Handicap (Div II)
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📋 Race Type: 6Hc
+📏 Distance: 7.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+🏆 Race Description: 6Hc -- Handicap - H
+🥇 Result: 6 / 🏇 9 runners. Expected: 1
+💰 Odds: 25.0 ❄️
+📝 Comment: 🔄 towards rear, ran on inside final furlong, not pace to challenge
+🎽 Jockey: W A Carson- (⚖️ Weight: 126.0 lbs (57.3 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 10  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-02-13 16:58:00
+🏆 RaceName: Best Racing Odds Guaranteed At BetMGM Apprentice Handicap
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📋 Race Type: 6Hc
+📏 Distance: 7.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+🏆 Race Description: 6Hc -- Handicap - H
+🥇 Result: 8 / 🏇 9 runners. Expected: 1
+💰 Odds: 50.0 ❄️❄️
+📝 Comment: took keen hold, in touch with leaders, ❄️ weakened 2f out
+🎽 Jockey: A Brookes- (⚖️ Weight: 126.0 lbs (57.3 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 366  days ago
+---------------------------------------------------------------------------
+🐎 9 | Yakhabar⚠️ Owner's record is weaker (SR: 6.82%, 88 runs). (Rank: 4)
+🐎 is a 6 years old  gelding, colo(u)r: b, carrying 135 lbs today.
+⏱️ Speed record - Runs: 13 | Best: 6.38 sec (Rank 8), Worst: 6.96 sec (Rank 8), Avg: 6.69 sec (Rank 8)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 17.0 (Rank: 6.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Cheveley Park Stud Limited
+🏠 Owner: Foulrice Park Racing Limited (No previous owner(s))
+👤 Trainer: Liam Bailey (0 previous trainer(s)) last 14d WinRate (0.0/4.0 runs) (Rank: 5.0) RTF: 75.0 (OVR: 6%)
+🏇 Jockey: Billy Garritty (Rank: 6.0) (0.0/ 7.0 runs) RTF: N/A (OVR: 10%)
+🗞️ **PRESS OPINION**
+💬 Comment: Dual 1m4f winner; unsurprisingly found this trip an inadequate test over C&D last month
+🔦 Spotlight: Dual 1m4f course winner who stays further and unsurprisingly found this trip an inadequate test over C&D last month; Laura's Breeze looks her yard's best chance.
+📊 **STATS**
+📉 OFR: 46.0 (Rank: 5)
+📈 RPR: 55.0 (Rank: 5)
+📉 TS: 28.0 (Rank: 8)
+🏟️ Course Wins/Runs: 2/11 | Ratio: 0.18
+📏 Distance Wins/Runs: 0/3 | Ratio: 0.00
+🌱 Going Wins/Runs: 2/15 | Ratio: 0.13
+📊 Form: -86460 → Score: 0.04 (Rank: 5)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-27 13:35:00
+🏆 RaceName: £30 In Free Bets With BetUK Handicap
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📋 Race Type: 6Hc
+📏 Distance: 12.5 furlongs (🔼 vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 3K
+🏆 Race Description: 6Hc -- Handicap - H
+🥇 Result: 12 / 🏇 12 runners. Expected: 1
+💰 Odds: 14.0 📉
+📝 Comment: 🔄 held up in rear, outpaced 2f out, lost touch inside final furlong
+🎽 Jockey: B Garritty- (⚖️ Weight: 128.0 lbs (58.2 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 10  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-14 19:00:00
+🏆 RaceName: BetMGM: It's Showtime Classified Stakes
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📋 Race Type: 6
+📏 Distance: 8.0 furlongs (➡️ vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 3K
+🏆 Race Description: 6 -- Unknown - 0
+🥇 Result: 6 / 🏇 10 runners. Expected: 1
+💰 Odds: 25.0 ❄️
+📝 Comment: 🐢 slowly away, 🔄 towards rear, ridden over 1f out, kept on inside final furlong, nearest finish
+🎽 Jockey: J Garritty- (⚖️ Weight: 135.0 lbs (61.4 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 12  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-01-31 13:58:00
+🏆 RaceName: Extra Winnings With BetUK Acca Club Handicap
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📋 Race Type: 6Hc
+📏 Distance: 12.5 furlongs (🔼 vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 3K
+🏆 Race Description: 6Hc -- Handicap - H
+🥇 Result: 4 / 🏇 9 runners. Expected: 1
+💰 Odds: 22.0 ❄️
+📝 Comment: dwelt start, raced in last, still plenty to do 3f out, soon carried head awkwardly, headway from over 1f out, kept on and went fourth final 110yds, nearest finish
+🎽 Jockey: J Garritty- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 14  days ago
+---------------------------------------------------------------------------
+🐎 5 | Rainbow Mirage🐎 is a 8 years old  mare, colo(u)r: ch, carrying 135 lbs today.
+⏱️ Speed record - Runs: 10 | Best: 6.17 sec (Rank 5), Worst: 6.61 sec (Rank 6), Avg: 6.33 sec (Rank 4)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 34.0 (Rank: 8.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Cheveley Park Stud Limited
+🏠 Owner: Miss Sally M Howes (No previous owner(s))
+👤 Trainer: Shaun Lycett (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 5.0) RTF: 67.0 (OVR: 0%)
+🏇 Jockey: Laura Pearson (Rank: 6.0) (0.0/ 9.0 runs) RTF: N/A (OVR: 9%)
+🗞️ **PRESS OPINION**
+💬 Comment: Regressed for this yard; a bit on at the weights and is hard to fancy back from a break
+🔦 Spotlight: Seven-time winner for Mark Rimell (five in the spring) who's regressed for this yard; has a bit on at the weights and is hard to recommend back from a break.
+📊 **STATS**
+📉 OFR: 43.0 (Rank: 8)
+📈 RPR: 54.0 (Rank: 7)
+📉 TS: 47.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 1/15 | Ratio: 0.07
+🌱 Going Wins/Runs: 2/22 | Ratio: 0.09
+📊 Form: 83000- → Score: 0.11 (Rank: 2)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-11-14 19:00:00
+🏆 RaceName: Betsi Handicap
+🏟️ Course: Chelmsford (AW) (Polytrack. Left-handed, flat track, circuit 8.5f)
+📋 Race Type: 6Hc
+📏 Distance: 8.0 furlongs (➡️ vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+🏆 Race Description: 6Hc -- Handicap - H
+🥇 Result: 12 / 🏇 12 runners. Expected: 1
+💰 Odds: 100.0 ❄️❄️
+📝 Comment: slowly into stride, always behind
+🎽 Jockey: Laura Pearson- (⚖️ Weight: 126.0 lbs (57.3 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 115  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-11-06 14:18:00
+🏆 RaceName: Bet @racingtv.com Handicap
+🏟️ Course: Kempton (AW) (Polytrack. Right-handed)
+📋 Race Type: 6Hc
+📏 Distance: 8.0 furlongs (➡️ vs 8.0 today)
+🌱 Going: SS
+👜 Prize: 💰 3K
+🏆 Race Description: 6Hc -- Handicap - H
+🥇 Result: 14 / 🏇 14 runners. Expected: 1
+💰 Odds: 50.0 ❄️❄️
+📝 Comment: 🔄 midfield, ❄️ weakened from over 1f out
+🎽 Jockey: Laura Pearson- (⚖️ Weight: 127.0 lbs (57.7 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 8  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-10-08 17:00:00
+🏆 RaceName: Download The Raceday Ready App Handicap (Div II)
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📋 Race Type: 6Hc
+📏 Distance: 8.0 furlongs (➡️ vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+🏆 Race Description: 6Hc -- Handicap - H
+🥇 Result: 10 / 🏇 10 runners. Expected: 1
+💰 Odds: 66.0 ❄️❄️
+📝 Comment: dwelt start, always behind
+🎽 Jockey: Laura Pearson- (⚖️ Weight: 123.0 lbs (55.9 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 28  days ago
+---------------------------------------------------------------------------
+🐎 7 | Victoria Legend🐎 is a 4 years old  gelding, colo(u)r: b, carrying 135 lbs today.
+⏱️ Speed record - Runs: 5 | Best: 6.45 sec (Rank 9), Worst: 6.98 sec (Rank 9), Avg: 6.75 sec (Rank 9)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 34.0 (Rank: 8.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Exors Of The Late Mr G J Freyne
+🏠 Owner: J S Wainwright (No previous owner(s))
+👤 Trainer: John Wainwright (0 previous trainer(s)) last 14d WinRate (0.0/1.0 runs) (Rank: 5.0) RTF: 100.0 (OVR: 10%)
+🏇 Jockey: Paul Mulrennan (Rank: 3.0) (3.0/ 15.0 runs) RTF: N/A (OVR: 15%)
+🗞️ **PRESS OPINION**
+💬 Comment: Little in four starts for this yard last summer (7f-1m3.5f); tried in first-time headgear
+🔦 Spotlight: Only ran once for William Haggas and offered little in four starts for this yard last summer (7f-1m3.5f); is tried in first-time headgear back from eight months off.
+📊 **STATS**
+📉 OFR: 46.0 (Rank: 5)
+📈 RPR: 53.0 (Rank: 8)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: /0008- → Score: 0.12 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-07-17 18:40:00
+🏆 RaceName: 4Head Classified Stakes
+🏟️ Course: Yarmouth (left-handed, galloping track)
+📋 Race Type: 6
+📏 Distance: 11.5 furlongs (🔼 vs 8.0 today)
+🌱 Going: G
+👜 Prize: 💰 3K
+🏆 Race Description: 6 -- Unknown - 0
+🥇 Result: 8 / 🏇 9 runners. Expected: 1
+💰 Odds: 28.0 ❄️
+📝 Comment: 🐢 slowly away, 🔄 towards rear, hung right and ❄️ weakened from over 3f out, tailed off
+🎽 Jockey: B De La Sayette- (⚖️ Weight: 125.0 lbs (56.8 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 235  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-06-25 15:47:00
+🏆 RaceName: Racing TV Extra On racingtv.com Handicap
+🏟️ Course: Beverley (right-handed, essentially galloping track (sprint course testing))
+📋 Race Type: 63yHc
+📏 Distance: 10.0 furlongs (🔼 vs 8.0 today)
+🌱 Going: GF
+👜 Prize: 💰 4K
+🏆 Race Description: 63yHc -- Handicap - H
+🥇 Result: 10 / 🏇 12 runners. Expected: 1
+💰 Odds: 25.0 ❄️
+📝 Comment: 🐢 slowly away, always behind
+🎽 Jockey: B De La Sayette- (⚖️ Weight: 132.0 lbs (60.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 22  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-06-11 17:30:00
+🏆 RaceName: JM Finn Wealth Management Novice Stakes (GBB Race)
+🏟️ Course: Wetherby (left-handed. Circuit 1m4f.)
+📋 Race Type: 5Nv
+📏 Distance: 7.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: G
+👜 Prize: 💰 4K
+🏆 Race Description: 5Nv -- Unknown - 0
+🥇 Result: 16 / 🏇 16 runners. Expected: 1
+💰 Odds: 250.0 ❄️❄️
+📝 Comment: 🐢 slowly away, in rear throughout
+🎽 Jockey: R Scott- (⚖️ Weight: 130.0 lbs (59.1 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 13  days ago
+---------------------------------------------------------------------------

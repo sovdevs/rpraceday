@@ -4,8 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="new data - stil issue with winSR, connection sr to work on.">
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="index.html bug fx">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hash_codes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887325.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887326.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887327.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887328.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887329.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887330.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887331.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887332.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887333.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887334.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887335.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887336.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887337.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887338.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889109.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889915.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889916.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889917.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889918.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889919.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889920.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,15 +112,7 @@
       <workItem from="1740572483632" duration="11973000" />
       <workItem from="1740901685414" duration="602000" />
       <workItem from="1741192901933" duration="1192000" />
-      <workItem from="1741249269958" duration="9069000" />
-    </task>
-    <task id="LOCAL-00011" summary="improvement in data. Added footer version">
-      <option name="closed" value="true" />
-      <created>1738945089939</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1738945089939</updated>
+      <workItem from="1741249269958" duration="11386000" />
     </task>
     <task id="LOCAL-00012" summary="improvement in data. updated footer version">
       <option name="closed" value="true" />
@@ -484,14 +498,21 @@
       <option name="project" value="LOCAL" />
       <updated>1741518156662</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="index.html bug fx">
+      <option name="closed" value="true" />
+      <created>1741519960998</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1741519960998</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changes to index html" />
     <MESSAGE value="new data. fixes on trainer Jockey SRs, added race_number, medical, gear.." />
     <MESSAGE value="new data. OVR% new o wise minimal" />
     <MESSAGE value="update to txt fles" />
@@ -516,6 +537,7 @@
     <MESSAGE value="performance table improvements. Code now runs for today_str allowing for historical racedays. New ranks for perf table. No logic to which cols as yet - to come." />
     <MESSAGE value="fixed bug with sort perf table on string" />
     <MESSAGE value="new data - stil issue with winSR, connection sr to work on." />
-    <option name="LAST_COMMIT_MESSAGE" value="new data - stil issue with winSR, connection sr to work on." />
+    <MESSAGE value="index.html bug fx" />
+    <option name="LAST_COMMIT_MESSAGE" value="index.html bug fx" />
   </component>
 </project>
