@@ -252,8 +252,8 @@
                     <!-- ✅ Live Time Display -->
                     <div class="time-container">
                         <p>Today's extended UK racing cards</p>
-                        ⏳ **Current Time in London (GMT/BST):** <span id="london-time">Loading...</span><br>
-                        🕰 **Your Local Time:** <span id="browser-time">Loading...</span>
+                        ⏳ Current Time in the UK (GMT/BST):** <span id="london-time">Loading...</span><br>
+                        🕰 Your time appears to be:  <span id="browser-time">Loading...</span>
                     </div>
                     <h2> Enter a race ID and hash. For a single hash code for all of today's races, please email us rpraceday@tuta.com.</h2>
                     <div>
@@ -271,31 +271,28 @@
                         <p class="error">{{ error }}</p>
                     {% endif %}
 
-                    <div class="course-stats-container">
-                        <table>
-                            <tr class="title-row"><td colspan="9">Cheltenham Class 2 Statistics</td></tr>
-                            <tr><th>Metric</th><th>Min</th><th>Max</th><th>Avg</th><th>Runs</th><th>Mode</th><th>Mode Count</th><th>Median</th><th>Last 10 (rightmost is most recent)</th></tr>
-                            <tr><td>RPR Rank</td><td>1</td><td>70</td><td>18.34</td><td>14349</td><td>1</td><td>3051</td><td>16.0</td><td>1.0 | 1.0 | 1.0 | 4.0 | 10.0 | 1.0 | 7.0 | 13.0 | 16.0 | 19.0</td></tr>
-                            <tr><td>TS Rank</td><td>1</td><td>70</td><td>17.99</td><td>14349</td><td>1</td><td>3495</td><td>13.0</td><td>1.0 | 1.0 | 1.0 | 4.0 | 10.0 | 1.0 | 7.0 | 13.0 | 16.0 | 19.0</td></tr>
-                            <tr><td>Secs Rank</td><td>1</td><td>70</td><td>18.44</td><td>14349</td><td>1</td><td>3189</td><td>16.0</td><td>1.0 | 1.0 | 1.0 | 1.0 | 4.0 | 7.0 | 10.0 | 13.0 | 16.0 | 19.0</td></tr>
-                        </table>
+            <div class="course-stats-container">
+                <table>
+                    <tr class="title-row"><td colspan="9">Cheltenham Class 2 Statistics</td></tr>
+                    <tr><th>Metric</th><th>Min</th><th>Max</th><th>Avg</th><th>Runs</th><th>Mode</th><th>Mode Count</th><th>Median</th><th>Last 10 (rightmost is most recent)</th></tr>
+                    <tr><td>RPR Rank</td><td>1</td><td>77</td><td>16.46</td><td>449</td><td>5</td><td>78</td><td>13.0</td><td>9.0 | 5.0 | 17.0 | 5.0 | 5.0 | 13.0 | 1.0 | 17.0 | 21.0 | 5.0</td></tr>
+                    <tr><td>TS Rank</td><td>1</td><td>93</td><td>22.18</td><td>449</td><td>9</td><td>59</td><td>17.0</td><td>1.0 | 13.0 | 9.0 | 17.0 | 1.0 | 17.0 | 17.0 | 13.0 | 29.0 | 5.0</td></tr>
+                </table>
 
-                        <table>
-                            <tr class="title-row"><td colspan="9">Cheltenham Grade 1 Statistics</td></tr>
-                            <tr><th>Metric</th><th>Min</th><th>Max</th><th>Avg</th><th>Runs</th><th>Mode</th><th>Mode Count</th><th>Median</th><th>Last 10 (rightmost is most recent)</th></tr>
-                            <tr><td>RPR Rank</td><td>1</td><td>67</td><td>18.45</td><td>4371</td><td>1</td><td>774</td><td>16.0</td><td>10.0 | 16.0 | 19.0 | 22.0 | 25.0 | 31.0 | 28.0 | 34.0 | 1.0 | 1.0</td></tr>
-                            <tr><td>TS Rank</td><td>1</td><td>67</td><td>18.38</td><td>4371</td><td>1</td><td>864</td><td>16.0</td><td>19.0 | 25.0 | 28.0 | 31.0 | 34.0 | 7.0 | 10.0 | 13.0 | 1.0 | 1.0</td></tr>
-                            <tr><td>Secs Rank</td><td>1</td><td>67</td><td>18.64</td><td>4371</td><td>1</td><td>843</td><td>16.0</td><td>13.0 | 16.0 | 19.0 | 22.0 | 25.0 | 28.0 | 31.0 | 34.0 | 1.0 | 1.0</td></tr>
-                        </table>
+                <table>
+                    <tr class="title-row"><td colspan="9">Cheltenham Grade 1 Statistics</td></tr>
+                    <tr><th>Metric</th><th>Min</th><th>Max</th><th>Avg</th><th>Runs</th><th>Mode</th><th>Mode Count</th><th>Median</th><th>Last 10 (rightmost is most recent)</th></tr>
+                    <tr><td>RPR Rank</td><td>1</td><td>41</td><td>10.44</td><td>125</td><td>5</td><td>35</td><td>9.0</td><td>17.0 | 5.0 | 5.0 | 9.0 | 5.0 | 5.0 | 9.0 | 9.0 | 21.0 | 5.0</td></tr>
+                    <tr><td>TS Rank</td><td>1</td><td>85</td><td>18.22</td><td>125</td><td>5</td><td>27</td><td>13.0</td><td>21.0 | 9.0 | 9.0 | 13.0 | 5.0 | 5.0 | 9.0 | 21.0 | 41.0 | 13.0</td></tr>
+                </table>
 
-                        <table>
-                            <tr class="title-row"><td colspan="9">Cheltenham Grade 2 Statistics</td></tr>
-                            <tr><th>Metric</th><th>Min</th><th>Max</th><th>Avg</th><th>Runs</th><th>Mode</th><th>Mode Count</th><th>Median</th><th>Last 10 (rightmost is most recent)</th></tr>
-                            <tr><td>RPR Rank</td><td>1</td><td>64</td><td>12.64</td><td>4056</td><td>1</td><td>738</td><td>10.0</td><td>13.0 | 13.0 | 19.0 | 1.0 | 7.0 | 1.0 | 1.0 | 7.0 | 13.0 | 16.0</td></tr>
-                            <tr><td>TS Rank</td><td>1</td><td>64</td><td>12.52</td><td>4056</td><td>1</td><td>819</td><td>10.0</td><td>7.0 | 10.0 | 13.0 | 16.0 | 13.0 | 10.0 | 7.0 | 13.0 | 1.0 | 4.0</td></tr>
-                            <tr><td>Secs Rank</td><td>1</td><td>64</td><td>12.75</td><td>4056</td><td>1</td><td>756</td><td>10.0</td><td>10.0 | 13.0 | 16.0 | 19.0 | 1.0 | 4.0 | 7.0 | 10.0 | 13.0 | 16.0</td></tr>
-                        </table>
-                    </div>
+                <table>
+                    <tr class="title-row"><td colspan="9">Cheltenham Grade 2 Statistics</td></tr>
+                    <tr><th>Metric</th><th>Min</th><th>Max</th><th>Avg</th><th>Runs</th><th>Mode</th><th>Mode Count</th><th>Median</th><th>Last 10 (rightmost is most recent)</th></tr>
+                    <tr><td>RPR Rank</td><td>1</td><td>41</td><td>7.89</td><td>176</td><td>1</td><td>52</td><td>5.0</td><td>9.0 | 21.0 | 1.0 | 5.0 | 1.0 | 9.0 | 1.0 | 21.0 | 5.0 | 9.0</td></tr>
+                    <tr><td>TS Rank</td><td>1</td><td>53</td><td>13.77</td><td>176</td><td>9</td><td>32</td><td>13.0</td><td>13.0 | 29.0 | 9.0 | 5.0 | 13.0 | 9.0 | 1.0 | 33.0 | 25.0 | 17.0</td></tr>
+                </table>
+            </div>
 
 
                          <div class="random-hash-container">
