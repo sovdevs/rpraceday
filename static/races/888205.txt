@@ -1,0 +1,441 @@
+🏁 Race ID: 888205
+5 runners declared
+📍 Venue: Sedgefield (left-handed, sharp, undulating, testing track with easy fences)
+🌦️ Weather: Showers
+🌱 Going: Good
+⏰ Off Time: 15:38
+🏆 Race Name: Heritage Drives The Goings Always Good Novices' Handicap Hurdle
+📏 Distance: 20.0 furlongs
+🏇 Race/Grade: Class 5
+⛷️ Type: Hurdle
+🎂 Age Band: 4yo+
+💰 Today's Purse: 💰 3K
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Performance Table
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1        | Super Saint               | 4969841  | 4.0      | 3.0      | 2.0      | 1.0      | 3.0      | 3        | 3        | 6.0      | 2.0      | 3.0      | 2.0      | 1.0      | 3.0      | 1.0      | 4.0      | 6.0      | 6.0      | 5.0      | 3.0      | 5.0      | 4.0      | 2.0      | 4.0      | N/A      | 1.0      | 1.0      | 1.0      | 1.0      | 1.0      | 2.0      | 3.0      | 1.0     
+3        | Love True                 | 5019570  | 1.0      | 1.0      | 4.0      | 1.0      | 1.0      | 4        | 5        | 3.0      | 2.0      | 1.0      | 2.0      | 2.0      | 4.0      | 3.0      | 3.0      | 4.0      | 5.0      | 2.0      | 1.0      | 6.0      | 2.0      | 1.0      | 1.0      | 1.0      | 1.0      | 1.0      | 2.0      | 6.0      | 3.0      | 1.0      | 3.0      | 2.0     
+4        | Independent Jimmy         | 5412829  | 3.0      | 3.0      | 3.0      | 1.0      | 3.0      | 5        | 4        | 5.0      | 2.0      | 4.0      | 2.0      | 4.0      | 2.0      | 3.0      | 4.0      | 5.0      | 2.0      | 1.0      | 4.0      | 1.0      | 1.0      | 4.0      | 3.0      | N/A      | 1.0      | 1.0      | 3.0      | 4.0      | 4.0      | 4.0      | 1.0      | 5.0     
+5        | Far Away West             | 4922487  | 2.0      | 3.0      | 5.0      | 1.0      | 3.0      | 2        | 1        | 2.0      | 2.0      | 5.0      | 1.0      | 2.0      | 1.0      | 5.0      | 2.0      | 1.0      | 1.0      | 6.0      | 6.0      | 2.0      | 4.0      | 6.0      | 2.0      | N/A      | 1.0      | 1.0      | 4.0      | 3.0      | 6.0      | 4.0      | 3.0      | 4.0     
+2        | Maggies Boy               | 5499901  | 5.0      | 3.0      | 1.0      | 1.0      | 3.0      | 6        | 6        | 1.0      | 2.0      | 6.0      | 2.0      | 6.0      | 4.0      | 2.0      | 4.0      | 3.0      | 4.0      | 4.0      | 2.0      | 4.0      | 3.0      | 5.0      | 5.0      | 1.0      | 1.0      | N/A      | 5.0      | 2.0      | 2.0      | N/A      | 2.0      | 6.0     
+6        | Chester Tonik             | 4389441  | 6.0      | 2.0      | 6.0      | 1.0      | 2.0      | 1        | 1        | 4.0      | 1.0      | 2.0      | 2.0      | 4.0      | 6.0      | 6.0      | 1.0      | 2.0      | 2.0      | 3.0      | 5.0      | 3.0      | 4.0      | 2.0      | 6.0      | N/A      | 1.0      | 1.0      | 6.0      | 5.0      | 5.0      | 3.0      | 3.0      | 3.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 1 | Super Saint⬆🏇 Super Saint id 4969841🌟 is a TOP Ranked horse in at least one speed or OPR!
+⚠️ Owner's record is weaker (SR: 7.14%, 28 runs). (Rank: 2)
+🐎 is a 6 years old  gelding, colo(u)r: b, carrying 168 lbs today.
+🦄 Sire: Saint Des Saints 43/305 (14.000000000000002%)
+🌿 Dam: La Champmesle 0/5 (0.0%)
+⏱️ Speed record - Runs: 3 | Best: 7.09 sec (Rank 3), Worst: 7.82 sec (Rank 1), Avg: 7.55 sec (Rank 3)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 2.5 (Rank: 1.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Mrs G M Thoumas & Mrs A M Bouysse
+🏠 Owner: Mr And Mrs J D Cotton 2/28 (7.000000000000001) - (No previous owner(s))
+👤 Trainer: Paul Nicholls (0 previous trainer(s)) last 14d WinRate (3.0/20.0 runs) (Rank: 3.0) RTF: 40.0 (OVR: 0%)
+🏇 Jockey: Freddie Gingell(3) (Rank: 4.0) 🏇 Jockey 101546 Win SR: 0.0% (No better alternative found.)(0.0/ 11.0 runs) RTF: N/A (OVR: -) 5Y: 59/330 (18.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Well beaten on first two hurdling starts but last month's Taunton third was much better
+🔦 Spotlight: Began hurdling career with two very disappointing runs in the autumn but last month's Taunton third (2m3f, soft) was much more encouraging, and he could easily have more improvement to come in handicaps; ran okay in a good-ground bumper last year; needs to be taken very seriously.
+📊 **STATS**
+📉 OFR: 102.0 (Rank: 1)
+📈 RPR: 106.0 (Rank: 1)
+📉 TS: 86.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 46-R93 → Score: 0.05 (Rank: 4)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-04 13:25:00
+🏆 RaceName: Ross Stacey Cannot Cook Novices' Hurdle (GBB Race)
+🏟️ Course: Taunton (right-handed, sharp track)
+📋 Race Type: 4NvH
+📏 Distance: 19.0 furlongs (🔽 vs 20.0 today)
+🌱 Going: S
+👜 Prize: 💰 5K
+🏆 Race Description: 4NvH -- Unknown - 0
+🥇 Result: 3 🥉 / 🏇 10 runners. Expected: 1
+💰 Odds: 28.0 ❄️
+📝 Comment: in touch with leaders, headway 7th, went third 3 out, soon ridden, outpaced 2 out, soon no impression
+🎽 Jockey: L Williams- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 34  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-17 13:45:00
+🏆 RaceName: TrustATrader Apply Today Novices' Hurdle (GBB Race)
+🏟️ Course: Wincanton (right-handed, galloping track)
+📋 Race Type: 4NvH
+📏 Distance: 20.0 furlongs (➡️ vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+🏆 Race Description: 4NvH -- Unknown - 0
+🥇 Result: 9 / 🏇 13 runners. Expected: 1
+💰 Odds: 12.0 📉
+📝 Comment: 🔄 midfield, in touch with leaders 3 out, ❄️ weakened before 2 out, tailed off
+🎽 Jockey: L Williams- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 48  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-11-08 12:40:00
+🏆 RaceName: Southwest Rail Solutions Novices' Hurdle (GBB Race)
+🏟️ Course: Exeter (right-handed, very undulating, testing track)
+📋 Race Type: 3NvH
+📏 Distance: 21.5 furlongs (🔼 vs 20.0 today)
+🌱 Going: G
+👜 Prize: 💰 8K
+🏆 Race Description: 3NvH -- Unknown - 0
+🥇 Result: nan / 🏇 5 runners. Expected: 1
+💰 Odds: 25.0 ❄️
+📝 Comment: 🔄 held up in last, struggling before 5th, lost touch from 6th, tailed off when refused 2 out
+🎽 Jockey: L Williams- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 39  days ago
+---------------------------------------------------------------------------
+🐎 3 | Love True🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 is a 5 years old  mare, colo(u)r: b, carrying 159 lbs today.
+🦄 Sire: Ectot 4/53 (8.0%)
+🌿 Dam: Netsuke 0/10 (0.0%)
+⏱️ Speed record - Runs: 6 | Best: 7.18 sec (Rank 4), Worst: 8.1 sec (Rank 2), Avg: 7.74 sec (Rank 5)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 3.5 (Rank: 2.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Mme E Ribard
+🏠 Owner: E A Brook 9/121 (7.000000000000001) - (No previous owner(s))
+👤 Trainer: Oliver Greenall & Josh Guerriero (0 previous trainer(s)) last 14d WinRate (1.0/27.0 runs) (Rank: 1.0) RTF: 48.0 (OVR: 21%)
+🏇 Jockey: Henry Brooke (Rank: 3.0) 🏇 Jockey 87437 Win SR: 0.0% | 🏆 Best Alternative Jockey: 92179 (2/4 - 50.0%)(3.0/ 26.0 runs) RTF: N/A (OVR: 18%) 5Y: 95/608 (16.0)
+🗞️ **PRESS OPINION**
+💬 Comment: 0-7 over hurdles but ran big race in defeat last month and runs off unchanged mark here
+🔦 Spotlight: 0-7 over hurdles but has been knocking on the door in recent months and is arguably fortunate to have escaped with an unchanged mark after last month's clear second at Huntingdon (2m3f, good to soft); respected.
+📊 **STATS**
+📉 OFR: 93.0 (Rank: 3)
+📈 RPR: 104.0 (Rank: 2)
+📉 TS: 81.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 3-42F2 → Score: 0.13 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-20 16:45:00
+🏆 RaceName: Purchase Hospitality At Huntingdon Conditional Jockeys' Mares' Novices' Limited Handicap Hurdle
+🏟️ Course: Huntingdon (right-handed, flat, fast track)
+📋 Race Type: 5NvHcHM
+📏 Distance: 19.5 furlongs (🔽 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+🏆 Race Description: 5NvHcHM -- Handicap - H
+🥇 Result: 2 🥈 / 🏇 12 runners. Expected: 1
+💰 Odds: 6.0 📉
+📝 Comment: in touch with leaders, headway 7th, 🎯 led after 3 out, soon faced challenge, headed approaching last, outpaced run-in
+🎽 Jockey: T Wynne- (⚖️ Weight: 159.0 lbs (72.3 kg) carried -- Allowance: 3.0) 
+⏳ Time between runs: 18  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-22 14:38:00
+🏆 RaceName: Racing TV Profits Returned To Racing Handicap Hurdle (Go North Cab On Target Series Qualifier)
+🏟️ Course: Catterick (left-handed, sharp, undulating track)
+📋 Race Type: 4HcH
+📏 Distance: 19.5 furlongs (🔽 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 5K
+🏆 Race Description: 4HcH -- Handicap - H
+🥇 Result: nan / 🏇 12 runners. Expected: 1
+💰 Odds: 25.0 ❄️
+📝 Comment: 🔄 midfield, steady headway after 3 out, in touch with leaders and going easily when mistake and fell 2 out
+🎽 Jockey: H Brooke- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 29  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-05 12:15:00
+🏆 RaceName: Rhino.Bet Home Of Festive Football Boosts Conditional Jockeys' Handicap Hurdle
+🏟️ Course: Market Rasen (right-handed, sharp, undulating track with easy fences)
+📋 Race Type: 4HcH
+📏 Distance: 16.5 furlongs (🔽 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 5K
+🏆 Race Description: 4HcH -- Handicap - H
+🥇 Result: 2 🥈 / 🏇 5 runners. Expected: 1
+💰 Odds: 2.75 🔥
+📝 Comment: 🎯 prominent, not fluent 4th, outpaced 2 out, stayed on approaching last, went second inside final 110yds, not pace to challenge
+🎽 Jockey: Ben Smith- (⚖️ Weight: 136.0 lbs (61.8 kg) carried -- Allowance: 8.0) 
+⏳ Time between runs: 48  days ago
+---------------------------------------------------------------------------
+🐎 4 | Independent Jimmy🐎 is a 6 years old  gelding, colo(u)r: b, carrying 159 lbs today.
+🦄 Sire: Clovis Du Berlais 14/126 (11.0%)
+🌿 Dam: Crystal Princess 2/14 (14.000000000000002%)
+⏱️ Speed record - Runs: 8 | Best: 7.42 sec (Rank 5), Worst: 8.11 sec (Rank 3), Avg: 7.73 sec (Rank 4)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 6.5 (Rank: 3.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Mrs L V Williamson
+🏠 Owner: Ian Furlong 0/26 (0.0) - (No previous owner(s))
+👤 Trainer: Donald Mccain (0 previous trainer(s)) last 14d WinRate (3.0/24.0 runs) (Rank: 4.0) RTF: 58.0 (OVR: 22%)
+🏇 Jockey: Theo Gillard (Rank: 4.0) 🏇 Jockey 93874 Win SR: 0.0% (No better alternative found.)(0.0/ 7.0 runs) RTF: N/A (OVR: 23%) 5Y: 20/287 (7.000000000000001)
+🗞️ **PRESS OPINION**
+💬 Comment: Travelled well when third at Carlisle in December but his latest run was a backward step
+🔦 Spotlight: 0-6 over hurdles; travelled well for a long way when third at Carlisle (2m3f, soft) in December and ought to be suited by the better ground here but his run at Doncaster in January was disappointing.
+📊 **STATS**
+📉 OFR: 93.0 (Rank: 3)
+📈 RPR: 103.0 (Rank: 4)
+📉 TS: 88.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/3 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: -24439 → Score: 0.05 (Rank: 3)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-01-24 13:28:00
+🏆 RaceName: Livescore Bet Novices' Limited Handicap Hurdle
+🏟️ Course: Doncaster (left-handed, galloping, flat track)
+📋 Race Type: 5NvHcH
+📏 Distance: 19.5 furlongs (🔽 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+🏆 Race Description: 5NvHcH -- Handicap - H
+🥇 Result: 9 / 🏇 16 runners. Expected: 1
+💰 Odds: 9.0 📉
+📝 Comment: never better than 🔄 midfield
+🎽 Jockey: T Gillard- (⚖️ Weight: 165.0 lbs (75.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 45  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-15 13:00:00
+🏆 RaceName: Yvonne Reynolds 60th Birthday Novices' Handicap Hurdle
+🏟️ Course: Carlisle (right-handed, galloping, undulating and testing track)
+📋 Race Type: 5NvHcH
+📏 Distance: 19.5 furlongs (🔽 vs 20.0 today)
+🌱 Going: S
+👜 Prize: 💰 3K
+🏆 Race Description: 5NvHcH -- Handicap - H
+🥇 Result: 3 🥉 / 🏇 9 runners. Expected: 1
+💰 Odds: 2.75 🔥
+📝 Comment: 🔄 midfield, smooth headway and in touch with leaders 3 out, went third but hit 2 out, no impression before last, ❄️ weakened gradually final 110yds
+🎽 Jockey: T Gillard- (⚖️ Weight: 165.0 lbs (75.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 40  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-10-17 15:15:00
+🏆 RaceName: Follow Rhino.Bet On Instagram Handicap Hurdle (Go North Sea Pigeon Series Qualifier)
+🏟️ Course: Carlisle (right-handed, galloping, undulating and testing track)
+📋 Race Type: 4HcH
+📏 Distance: 17.0 furlongs (🔽 vs 20.0 today)
+🌱 Going: S
+👜 Prize: 💰 5K
+🏆 Race Description: 4HcH -- Handicap - H
+🥇 Result: 4 / 🏇 10 runners. Expected: 1
+💰 Odds: 12.0 📉
+📝 Comment: in touch with leaders, lost position 3 out, stayed on approaching last, went remote fourth run-in
+🎽 Jockey: T Gillard- (⚖️ Weight: 155.0 lbs (70.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 58  days ago
+---------------------------------------------------------------------------
+🐎 5 | Far Away West🐎 is a 6 years old  mare, colo(u)r: br, carrying 149 lbs today.
+🦄 Sire: Yeats 91/793 (11.0%)
+🌿 Dam: Pass The Honey 0/4 (0.0%)
+⏱️ Speed record - Runs: 13 | Best: 7.07 sec (Rank 2), Worst: 8.42 sec (Rank 6), Avg: 7.54 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 7.0 (Rank: 4.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Oliver Loughlin
+🏠 Owner: H Burns 0/33 (0.0) - (No previous owner(s))
+👤 Trainer: Hugh Burns (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 6.0) RTF: N/A (OVR: 0%)
+🏇 Jockey: Peter Kavanagh(3) (Rank: 2.0) 🏇 Jockey 79499 Win SR: 0.0% (No better alternative found.)(2.0/ 14.0 runs) RTF: N/A (OVR: 8%) 5Y: 25/300 (8.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Second at Catterick for Dan Skelton in January; left that yard after lesser run last month
+🔦 Spotlight: Runner-up on debut for Dan Skelton at Catterick (1m7f, good to soft) in January but left that stable after a lesser effort last month and is now 0-13 over hurdles; others preferred.
+📊 **STATS**
+📉 OFR: 83.0 (Rank: 5)
+📈 RPR: 104.0 (Rank: 2)
+📉 TS: 91.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/6 | Ratio: 0.00
+📊 Form: 043626 → Score: 0.05 (Rank: 2)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-20 15:45:00
+🏆 RaceName: Join The 20 Club At Huntingdon Novices' Limited Handicap Hurdle
+🏟️ Course: Huntingdon (right-handed, flat, fast track)
+📋 Race Type: 5NvHcH
+📏 Distance: 16.0 furlongs (🔽 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+🏆 Race Description: 5NvHcH -- Handicap - H
+🥇 Result: 6 / 🏇 13 runners. Expected: 1
+💰 Odds: 3.333 🔥
+📝 Comment: in rear, headway and in touch with leaders 5th, disputing second 3 out, lost position when hung left before 2 out, soon no extra
+🎽 Jockey: H Skelton- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 18  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-22 15:38:00
+🏆 RaceName: Download Raceday Ready Today Handicap Hurdle (Go North Sea Pigeon Series Qualifier)
+🏟️ Course: Catterick (left-handed, sharp, undulating track)
+📋 Race Type: 5HcH
+📏 Distance: 15.5 furlongs (🔽 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+🏆 Race Description: 5HcH -- Handicap - H
+🥇 Result: 2 🥈 / 🏇 12 runners. Expected: 1
+💰 Odds: 0.8 🔥🔥
+📝 Comment: took keen hold, 🔄 midfield, steady headway after 3 out, went fourth 2 out, chased clear leader approaching last, kept on run-in, no extra towards finish
+🎽 Jockey: H Skelton- (⚖️ Weight: 148.0 lbs (67.3 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 29  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-10-31 14:35:00
+🏆 RaceName: Claire Dyson Supporting Midlands Air Ambulance Selling Hurdle
+🏟️ Course: Stratford (left-handed, sharp, flat track)
+📋 Race Type: 5SlH
+📏 Distance: 18.5 furlongs (🔽 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 3K
+🏆 Race Description: 5SlH -- Unknown - 0
+🥇 Result: 6 / 🏇 8 runners. Expected: 1
+💰 Odds: 5.0 🔥
+📝 Comment: took keen hold, in touch with leaders, lost position 6th, outpaced before 2 out, weakening when hung left before last
+🎽 Jockey: H Reed- (⚖️ Weight: 147.0 lbs (66.8 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 83  days ago
+---------------------------------------------------------------------------
+🐎 2 | Maggies Boy🐎 is a 6 years old  gelding, colo(u)r: b, carrying 164 lbs today.
+🦄 Sire: Ocovango 75/554 (14.000000000000002%)
+🌿 Dam: Hiwaitilitellu 1/9 (11.0%)
+⏱️ Speed record - Runs: 4 | Best: 7.46 sec (Rank 6), Worst: 8.15 sec (Rank 5), Avg: 7.9 sec (Rank 6)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 11.0 (Rank: 5.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: John Joe Gleeson
+🏠 Owner: Baxter, Barrett & Okeeffe 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Jennie Candlish (0 previous trainer(s)) last 14d WinRate (2.0/8.0 runs) (Rank: 2.0) RTF: 42.0 (OVR: 18%)
+🏇 Jockey: William Shanahan(5) (Rank: 4.0) 🏇 Jockey 91573 Win SR: 0.0% (No better alternative found.)(0.0/ 1.0 runs) RTF: N/A (OVR: 19%) 5Y: 3/53 (6.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Shaped with promise in a 2m maiden last month; back up in trip for handicap debut
+🔦 Spotlight: Safely held in all three qualifying races but positives can be drawn from last month's Huntingdon fifth (2m, good to soft); moves back up in trip for today's handicap debut and remains 🔍 unexposed; market may guide.
+📊 **STATS**
+📉 OFR: 98.0 (Rank: 2)
+📈 RPR: 96.0 (Rank: 6)
+📉 TS: 81.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 4-855 → Score: 0.05 (Rank: 5)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-20 13:45:00
+🏆 RaceName: Advertise Your Business At Huntingdon Maiden Hurdle (GBB Race)
+🏟️ Course: Huntingdon (right-handed, flat, fast track)
+📋 Race Type: 4MdH
+📏 Distance: 16.0 furlongs (🔽 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+🏆 Race Description: 4MdH -- Unknown - 0
+🥇 Result: 5 / 🏇 12 runners. Expected: 1
+💰 Odds: 50.0 ❄️❄️
+📝 Comment: 🔄 towards rear, headway before 4 out, in touch with leaders 3 out, ❄️ weakened before 2 out
+🎽 Jockey: W Shanahan- (⚖️ Weight: 151.0 lbs (68.6 kg) carried -- Allowance: 5.0) 
+⏳ Time between runs: 18  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-26 14:10:00
+🏆 RaceName: Vickers.Bet Maiden Hurdle (GBB Race)
+🏟️ Course: Sedgefield (left-handed, sharp, undulating, testing track with easy fences)
+📋 Race Type: 4MdH
+📏 Distance: 17.0 furlongs (🔽 vs 20.0 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+🏆 Race Description: 4MdH -- Unknown - 0
+🥇 Result: 5 / 🏇 9 runners. Expected: 1
+💰 Odds: 40.0 ❄️❄️
+📝 Comment: never better than 🔄 midfield
+🎽 Jockey: Sean Quinlan- (⚖️ Weight: 160.0 lbs (72.7 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 24  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-11-19 13:03:00
+🏆 RaceName: My Pension Expert: Your Trusted Advisers Maiden Hurdle (GBB Race) (Div I)
+🏟️ Course: Carlisle (right-handed, galloping, undulating and testing track)
+📋 Race Type: 4MdH
+📏 Distance: 20.0 furlongs (➡️ vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+🏆 Race Description: 4MdH -- Unknown - 0
+🥇 Result: 8 / 🏇 11 runners. Expected: 1
+💰 Odds: 33.0 ❄️
+📝 Comment: always behind, not fluent 6th, hit 4 out
+🎽 Jockey: Sean Quinlan- (⚖️ Weight: 158.0 lbs (71.8 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 68  days ago
+---------------------------------------------------------------------------
+🐎 6 | Chester Tonik⬆🏇 Chester Tonik id 4389441🌟 is a TOP Ranked horse in at least one speed or OPR!
+⚠️ Owner's record is weaker (SR: 0.78%, 129 runs). (Rank: 3)
+🐎 is a 5 years old  gelding, colo(u)r: ch, carrying 142 lbs today.
+🦄 Sire: Starspangledbanner 85/884 (10.0%)
+🌿 Dam: Costa Rica 0/8 (0.0%)
+⏱️ Speed record - Runs: 7 | Best: 7.04 sec (Rank 1), Worst: 8.11 sec (Rank 3), Avg: 7.54 sec (Rank 1)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 21.0 (Rank: 6.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Moa Sundstrom & Lillie Sundstrom Drion
+🏠 Owner: West Buckland Bloodstock Ltd 1/129 (1.0) - (No previous owner(s))
+👤 Trainer: Alexandra Dunn (0 previous trainer(s)) last 14d WinRate (0.0/1.0 runs) (Rank: 5.0) RTF: 50.0 (OVR: 0%)
+🏇 Jockey: Adam Wedge (Rank: 1.0) 🏇 Jockey 86912 Win SR: 0.0% | 🏆 Best Alternative Jockey: 100360 (1/3 - 33.0%)(2.0/ 9.0 runs) RTF: N/A (OVR: 23%) 5Y: 51/540 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Did not emerge from the rear division in his first three handicap hurdles
+🔦 Spotlight: Fair on the Flat at his best; did not emerge from the rear division in his first three handicap hurdles (1m7f-2m3f) but has travelled from Somerset to run here and is worth a glance in the betting.
+📊 **STATS**
+📉 OFR: 76.0 (Rank: 6)
+📈 RPR: 103.0 (Rank: 4)
+📉 TS: 80.0 (Rank: 6)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: P-7890 → Score: 0.04 (Rank: 6)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-01-16 14:00:00
+🏆 RaceName: #90 January & February Hospitality Offer Handicap Hurdle
+🏟️ Course: Wincanton (right-handed, galloping track)
+📋 Race Type: 5HcH
+📏 Distance: 15.0 furlongs (🔽 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+🏆 Race Description: 5HcH -- Handicap - H
+🥇 Result: 12 / 🏇 17 runners. Expected: 1
+💰 Odds: 20.0 ❄️
+📝 Comment: visibility reduced by fog, always behind
+🎽 Jockey: G Sheehan- (⚖️ Weight: 144.0 lbs (65.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 53  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-11-28 14:35:00
+🏆 RaceName: Trucksmith Dropside Handicap Hurdle
+🏟️ Course: Taunton (right-handed, sharp track)
+📋 Race Type: 5HcH
+📏 Distance: 19.0 furlongs (🔽 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 5K
+🏆 Race Description: 5HcH -- Handicap - H
+🥇 Result: 9 / 🏇 15 runners. Expected: 1
+💰 Odds: 80.0 ❄️❄️
+📝 Comment: in rear throughout
+🎽 Jockey: J Hogan- (⚖️ Weight: 140.0 lbs (63.6 kg) carried -- Allowance: 3.0) 
+⏳ Time between runs: 48  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-10-19 15:50:00
+🏆 RaceName: Rich Is 60 & Tom Is 30 Handicap Hurdle
+🏟️ Course: Stratford (left-handed, sharp, flat track)
+📋 Race Type: 5HcH
+📏 Distance: 18.5 furlongs (🔽 vs 20.0 today)
+🌱 Going: HY
+👜 Prize: 💰 4K
+🏆 Race Description: 5HcH -- Handicap - H
+🥇 Result: 8 / 🏇 12 runners. Expected: 1
+💰 Odds: 40.0 ❄️❄️
+📝 Comment: in rear throughout
+🎽 Jockey: A Wedge- (⚖️ Weight: 149.0 lbs (67.7 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 39  days ago
+---------------------------------------------------------------------------

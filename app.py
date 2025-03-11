@@ -20,6 +20,10 @@ def generate_daily_cheat_code():
     today_str = datetime.today().strftime("%Y-%m-%d")  # Format: YYYY-MM-DD
     return hashlib.md5(today_str.encode()).hexdigest()[:8]  # Shortened to 8 characters
 
+
+# ✅ Generate Cheat Code on Startup
+cheat_hash = generate_daily_cheat_code()
+print(f"📌 Today's Cheat Code: {cheat_hash}")  # ✅ This will now run at app startup
 @app.route("/", methods=["GET", "POST"])
 def index():
     race_data = None
@@ -27,8 +31,6 @@ def index():
     race_id = None
     entered_hash = None
 
-    cheat_hash = generate_daily_cheat_code()
-    print(f"📌 Today's Cheat Code: {cheat_hash}")  # ✅ Prints the daily cheat code
 
     if request.method == "POST":
         race_id = request.form.get("race_id", "").strip()

@@ -1,0 +1,793 @@
+🏁 Race ID: 881100
+11 runners declared
+📍 Venue: Cheltenham (left-handed, galloping, undulating and testing track with stiff fences)
+☁️ Weather: Cloudy
+🍃 Going: Good To Soft
+⏰ Off Time: 15:20
+🏆 Race Name: Close Brothers Mares' Hurdle (Registered As The David Nicholson Mares' Hurdle) (Grade 1) (GBB Race)
+📏 Distance: 20.0 furlongs
+🏇 Race/Grade: Class 1 Grade 1
+⛷️ Type: Hurdle
+🎂 Age Band: 4yo+
+💰 Today's Purse: 💰 70K
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Performance Table
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9        | Lossiemouth               | 4241553  | 1.0      | 2.0      | 3.0      | 1.0      | 2.0      | 3        | 6        | 1.0      | 1.0      | 2.0      | 1.0      | 1.0      | 1.0      | 1.0      | 2.0      | 2.0      | 4.0      | 6.0      | 6.0      | 1.0      | 6.0      | 9.0      | 1.0      | 1.0      | 2.0      | 3.0      | 1.0      | 3.0      | 1.0      | 5.0      | 1.0      | 1.0     
+4        | Jade De Grugy             | 5457566  | 5.0      | 1.0      | 5.0      | 5.0      | 1.0      | 11       | 11       | 7.0      | 2.0      | 4.0      | 4.0      | 2.0      | 2.0      | 2.0      | 1.0      | 9.0      | 2.0      | 8.0      | 6.0      | 1.0      | 6.0      | 9.0      | 3.0      | 4.0      | 2.0      | 3.0      | 2.0      | 5.0      | 1.0      | 7.0      | 1.0      | 10.0    
+7        | July Flower               | 4998710  | 4.0      | 8.0      | 8.0      | 9.0      | 9.0      | 6        | 1        | 3.0      | 3.0      | 1.0      | 7.0      | 4.0      | 6.0      | 3.0      | 11.0     | 7.0      | 5.0      | 4.0      | 9.0      | 6.0      | 4.0      | 1.0      | 4.0      | N/A      | 6.0      | 3.0      | 3.0      | 2.0      | 6.0      | 8.0      | N/A      | 8.0     
+6        | Joyeuse                   | 5329099  | 3.0      | 4.0      | 1.0      | 9.0      | 6.0      | 9        | 5        | 1.0      | 1.0      | 11.0     | 7.0      | 7.0      | 11.0     | 8.0      | 9.0      | 4.0      | 6.0      | 2.0      | 3.0      | 7.0      | 4.0      | 4.0      | 2.0      | 4.0      | 7.0      | 9.0      | 4.0      | 4.0      | 3.0      | 9.0      | 4.0      | 2.0     
+8        | Kala Conti                | 5061621  | 6.0      | 6.0      | 6.0      | 3.0      | 6.0      | 8        | 7        | 1.0      | 1.0      | 5.0      | 3.0      | 5.0      | 4.0      | 5.0      | 8.0      | 3.0      | 10.0     | 7.0      | 9.0      | 10.0     | 3.0      | 5.0      | 5.0      | N/A      | 7.0      | N/A      | 5.0      | 1.0      | 8.0      | 6.0      | 5.0      | 3.0     
+11       | Take No Chances           | 4259493  | 7.0      | 11.0     | 9.0      | 6.0      | 10.0     | 2        | 4        | 6.0      | 2.0      | 10.0     | 7.0      | 7.0      | 3.0      | 7.0      | 10.0     | 10.0     | 7.0      | 11.0     | 1.0      | 11.0     | 6.0      | 6.0      | 11.0     | 4.0      | 4.0      | 2.0      | 6.0      | 9.0      | 5.0      | 2.0      | 6.0      | 4.0     
+2        | Dysart Enos               | 4201394  | 2.0      | 3.0      | 2.0      | 2.0      | 3.0      | 10       | 2        | 8.0      | 1.0      | 8.0      | 7.0      | 9.0      | 10.0     | 10.0     | 3.0      | 11.0     | 1.0      | 9.0      | 3.0      | 9.0      | 1.0      | 7.0      | 9.0      | 3.0      | N/A      | 1.0      | 7.0      | 7.0      | 7.0      | 4.0      | 3.0      | 7.0     
+5        | Jetara                    | 4259460  | 7.0      | 9.0      | 10.0     | 7.0      | 8.0      | 1        | 9        | 2.0      | 3.0      | 6.0      | 2.0      | 3.0      | 4.0      | 4.0      | 5.0      | 6.0      | 3.0      | 1.0      | 11.0     | 4.0      | 11.0     | 3.0      | 7.0      | 4.0      | 1.0      | 3.0      | 8.0      | 6.0      | 9.0      | 3.0      | 4.0      | 9.0     
+10       | Queens Gamble             | 4251616  | 1.0      | 5.0      | 4.0      | 4.0      | 4.0      | 5        | 3        | 9.0      | 3.0      | 7.0      | 7.0      | 10.0     | 7.0      | 9.0      | 4.0      | 5.0      | 8.0      | 3.0      | 5.0      | 5.0      | 1.0      | 2.0      | 6.0      | 2.0      | N/A      | 7.0      | 8.0      | 8.0      | 2.0      | 1.0      | 2.0      | 6.0     
+3        | Gala Marceau              | 3820058  | 9.0      | 10.0     | 11.0     | 8.0      | 7.0      | 6        | 10       | 4.0      | 3.0      | 3.0      | 5.0      | 6.0      | 9.0      | 5.0      | 6.0      | 1.0      | 11.0     | 5.0      | 6.0      | 1.0      | 6.0      | 9.0      | 10.0     | 4.0      | 4.0      | N/A      | 10.0     | 10.0     | 1.0      | 7.0      | 7.0      | 11.0    
+1        | Casa No Mento             | 4187541  | 8.0      | 7.0      | 7.0      | 6.0      | 5.0      | 4        | 8        | 5.0      | 2.0      | 9.0      | 6.0      | 10.0     | 8.0      | 11.0     | 6.0      | 8.0      | 8.0      | 10.0     | 1.0      | 8.0      | 10.0     | 8.0      | 8.0      | N/A      | N/A      | 7.0      | 11.0     | 11.0     | 4.0      | N/A      | N/A      | 5.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 9 | Lossiemouth⬆🏇 Lossiemouth id 4241553🌟 is a TOP Ranked horse in at least one speed or OPR!
+📈 Owner has a strong record (SR: 23.24%, 142 runs). (Rank: 5)
+🐎 is a 6 years old  mare, colo(u)r: gr, carrying 159 lbs today.
+🦄 Sire: Great Pretender 41/206 (20.0%)
+🌿 Dam: Mariners Light 4/5 (80.0%)
+⏱️ Speed record - Runs: 5 | Best: 7.02 sec (Rank 3), Worst: 7.75 sec (Rank 4), Avg: 7.48 sec (Rank 6)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 1.67 (Rank: 1.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Sarl Elevage Des Vallons & M Ian Kellit
+🏠 Owner: Mrs S Ricci 33/142 (23.0) - (No previous owner(s))
+👤 Trainer: W P Mullins (0 previous trainer(s)) last 14d WinRate (7.0/30.0 runs) (Rank: 6.0) RTF: 48.0 (OVR: 13%)
+🏇 Jockey: Paul Townend (Rank: 2.0) 🏇 Jockey 86502 Win SR: 88.0% | 🏆 Best Alternative Jockey: 87524 (1/1 - 100.0%)(3.0/ 7.0 runs) RTF: N/A (OVR: 27%) 5Y: 198/529 (37.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Ready winner of this last year; again hard to beat if none the worse for heavy fall latest
+🔦 Spotlight: Successful at the last two Cheltenham Festivals, latterly a ready winner of this on heavy ground; took her 2m4f record to 3-3 (all Grade 1s) when proving too strong for Teahupoo in the Hatton's Grace at Fairyhouse (yielding) on reappearance in November; second to Constitution Hill back at 2m in the Christmas Hurdle at Kempton next time and narrowly ahead of State Man when departing four out in the Irish Champion at Leopardstown last month; hard to beat if none the worse for that heavy tumble.
+📊 **STATS**
+📉 OFR: 160.0 (Rank: 1)
+📈 RPR: 165.0 (Rank: 1)
+📉 TS: 151.0 (Rank: 1)
+🏟️ Course Wins/Runs: 3/3 | Ratio: 1.00
+📏 Distance Wins/Runs: 3/3 | Ratio: 1.00
+🌱 Going Wins/Runs: 1/1 | Ratio: 1.00
+📊 Form: 1-112F → Score: 0.53 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-02 15:20:00
+🏆 RaceName: Irish Champion Hurdle (Grade 1)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📋 Race Type: HG1
+📏 Distance: 16.0 furlongs (🔽 vs 20.0 today)
+🌱 Going: S
+👜 Prize: 💰 94K
+🏆 Race Description: HG1 -- Grade 1 - 7
+🥇 Result: nan / 🏇 5 runners. Expected: 1
+💰 Odds: 0.727 🔥🔥
+📝 Comment: 🎯 led, soon went clear with winner, narrowly ahead when fell heavily 4 out
+🎽 Jockey: D E Mullins- (⚖️ Weight: 159.0 lbs (72.3 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 36  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-26 13:55:00
+🏆 RaceName: Ladbrokes Christmas Hurdle (Grade 1) (GBB Race)
+🏟️ Course: Kempton (right-handed, sharpish, flat track)
+📋 Race Type: 1HG1
+📏 Distance: 16.0 furlongs (🔽 vs 20.0 today)
+🌱 Going: G
+👜 Prize: 💰 74K
+🏆 Race Description: 1HG1 -- Grade 1 - 7
+🥇 Result: 2 🥈 / 🏇 4 runners. Expected: 1
+💰 Odds: 1.375 🔥🔥
+📝 Comment: raced in last, headway home turn, switched left just before 2 out, went second last, kept on run-in
+🎽 Jockey: P Townend- (⚖️ Weight: 157.0 lbs (71.4 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 38  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-01 14:40:00
+🏆 RaceName: Bar One Racing Hatton's Grace Hurdle (Grade 1)
+🏟️ Course: Fairyhouse (right-handed, galloping, testing track (1m6f circuit))
+📋 Race Type: HG1
+📏 Distance: 20.0 furlongs (➡️ vs 20.0 today)
+🌱 Going: Y
+👜 Prize: 💰 63K
+🏆 Race Description: HG1 -- Grade 1 - 7
+🥇 Result: 1 🥇 / 🏇 4 runners. Expected: 1
+💰 Odds: 0.571 🔥🔥
+📝 Comment: took keen hold, in touch with leaders, mistake and lost ground 4 out, headway and challenging going easily before last, 🎯 led and went clear when nudged along from last, won going away
+🎽 Jockey: P Townend- (⚖️ Weight: 157.0 lbs (71.4 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 24  days ago
+---------------------------------------------------------------------------
+🐎 4 | Jade De Grugy📈 Owner has a strong record (SR: 20.69%, 87 runs). (Rank: 7)
+🐎 is a 6 years old  mare, colo(u)r: b, carrying 159 lbs today.
+🦄 Sire: Doctor Dino 58/321 (18.0%)
+🌿 Dam: Diane De Grugy 4/5 (80.0%)
+⏱️ Speed record - Runs: 5 | Best: 7.73 sec (Rank 11), Worst: 8.16 sec (Rank 8), Avg: 8.0 sec (Rank 11)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 6.0 (Rank: 2.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: S C E A Ecurie La Grugerie
+🏠 Owner: Kenneth Alexander 18/87 (21.0) - (No previous owner(s))
+👤 Trainer: W P Mullins (0 previous trainer(s)) last 14d WinRate (7.0/30.0 runs) (Rank: 6.0) RTF: 48.0 (OVR: 13%)
+🏇 Jockey: Danny Mullins (Rank: 1.0) 🏇 Jockey 87524 Win SR: 0.0% | 🏆 Best Alternative Jockey: 86502 (2/3 - 67.0%)(1.0/ 18.0 runs) RTF: N/A (OVR: 5%) 5Y: 72/655 (11.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Improved again to win Grade 3 on return; more to come and the chief threat to Lossiemouth
+🔦 Spotlight: This classy mare's only defeat from five starts for Willie Mullins was when fourth to Golden Ace in the Dawn Run at this meeting last year; relished the step back up in trip when a dominant winner of a Grade 1 mares' novice at Fairyhouse (2m4f, heavy) on her final start last season and she returned to give weight and a beating to five rivals in the Grade 3 Quevega at Punchestown (2m4f, soft) 19 days ago; further progress is likely and she can give stablemate Lossiemouth most to do.
+📊 **STATS**
+📉 OFR: 151.0 (Rank: 2)
+📈 RPR: 160.0 (Rank: 2)
+📉 TS: 145.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 3/3 | Ratio: 1.00
+🌱 Going Wins/Runs: 1/1 | Ratio: 1.00
+📊 Form: 1141-1 → Score: 0.19 (Rank: 3)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-20 15:25:00
+🏆 RaceName: BetVictor Quevega Mares Hurdle (Grade 3)
+🏟️ Course: Punchestown (right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses)
+📋 Race Type: HG3M
+📏 Distance: 20.0 furlongs (➡️ vs 20.0 today)
+🌱 Going: S
+👜 Prize: 💰 19K
+🏆 Race Description: HG3M -- Grade 3 - 9
+🥇 Result: 1 🥇 / 🏇 5 runners. Expected: 1
+💰 Odds: 0.833 🔥🔥
+📝 Comment: raced in third, disputed lead 2 out, pushed along and 🎯 led clearly before last, kept on well run-in
+🎽 Jockey: P Townend- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 18  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-03-31 13:35:00
+🏆 RaceName: Irish Stallion Farms EBF Honeysuckle Mares' Novice Hurdle (Grade 1)
+🏟️ Course: Fairyhouse (right-handed, galloping, testing track (1m6f circuit))
+📋 Race Type: NvHG1M
+📏 Distance: 20.0 furlongs (➡️ vs 20.0 today)
+🌱 Going: HY
+👜 Prize: 💰 52K
+🏆 Race Description: NvHG1M -- Grade 1 - 7
+🥇 Result: 1 🥇 / 🏇 17 runners. Expected: 1
+💰 Odds: 1.75 🔥🔥
+📝 Comment: in touch with leaders, smooth headway and 🎯 prominent before 2 out, pushed along approaching last, went second last, 🔄 ridden to lead inside final 110yds, won going away
+🎽 Jockey: P Townend- (⚖️ Weight: 159.0 lbs (72.3 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 326  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-03-14 16:50:00
+🏆 RaceName: Ryanair Mares' Novices' Hurdle (Grade 2) (Registered As The Dawn Run Mares' Novices' Hurdle) (GBB)
+🏟️ Course: Cheltenham (left-handed, galloping, undulating and testing track with stiff fences)
+📋 Race Type: 1NvHG2M
+📏 Distance: 17.0 furlongs (🔽 vs 20.0 today)
+🌱 Going: S
+👜 Prize: 💰 59K
+🏆 Race Description: 1NvHG2M -- Grade 2 - 8
+🥇 Result: 4 / 🏇 8 runners. Expected: 1
+💰 Odds: 2.0 🔥🔥
+📝 Comment: took keen hold, in touch with leaders, short of room and lost ground after 2 out, headway approaching last, kept on run-in
+🎽 Jockey: P Townend- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 16  days ago
+---------------------------------------------------------------------------
+🐎 7 | July Flower📈 Owner has a strong record (SR: 18.18%, 11 runs). (Rank: 8)
+🐎 is a 6 years old  mare, colo(u)r: b, carrying 159 lbs today.
+🦄 Sire: Pastorius 10/46 (22.0%)
+🌿 Dam: Aurelle Darthel 0/0 (0.0%)
+⏱️ Speed record - Runs: 1 | Best: 7.16 sec (Rank 6), Worst: 7.16 sec (Rank 1), Avg: 7.16 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 10.0 (Rank: 3.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Hubert Monier Et Al
+🏠 Owner: Duncan Angove 2/11 (18.0) - (No previous owner(s))
+👤 Trainer: Henry De Bromhead (0 previous trainer(s)) last 14d WinRate (2.0/19.0 runs) (Rank: 9.0) RTF: 60.0 (OVR: 16%)
+🏇 Jockey: Rachael Blackmore (Rank: 11.0) 🏇 Jockey 88993 Win SR: 0.0% | 🏆 Best Alternative Jockey: 83293 (1/2 - 50.0%)(1.0/ 10.0 runs) RTF: N/A (OVR: 21%) 5Y: 65/507 (13.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Saw off Kala Conti in Leopardstown Grade 3 in December; yard does well in this race
+🔦 Spotlight: Only ninth to Dysart Enos in an Aintree Grade 2 bumper in her first spell with Henry de Bromhead but did well over hurdles back in France subsequently (third in French Champion Hurdle in May) and improved again returned to this yard when beating Kala Conti by 4l to win a Leopardstown Grade 3 (good to yielding) in December; interesting runner for a yard with a good recent record in this (they won it twice with Honeysuckle and also saddled the second, third and fourth last year).
+📊 **STATS**
+📉 OFR: 148.0 (Rank: 3)
+📈 RPR: 153.0 (Rank: 4)
+📉 TS: 135.0 (Rank: 6)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 1/3 | Ratio: 0.33
+🌱 Going Wins/Runs: 1/2 | Ratio: 0.50
+📊 Form: 223-31 → Score: 0.19 (Rank: 4)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-12-29 13:20:00
+🏆 RaceName: Beat The Bank.ie Irish EBF Mares Hurdle (Grade 3)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📋 Race Type: HG3M
+📏 Distance: 20.0 furlongs (➡️ vs 20.0 today)
+🌱 Going: GY
+👜 Prize: 💰 21K
+🏆 Race Description: HG3M -- Grade 3 - 9
+🥇 Result: 1 🥇 / 🏇 8 runners. Expected: 1
+💰 Odds: 7.5 📉
+📝 Comment: 🔄 held up in rear, 🎯 prominent behind clear leaders after 4th, pressed leaders when nudged along after last (usual 2 out), went second home turn, 🎯 led omitted last, soon ridden, stayed on towards finish, won going away
+🎽 Jockey: Rachael Blackmore- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 71  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-05-18 13:15:00
+🏆 RaceName: Racing TV Grande Course de Haies d'Auteuil (Hurdle) (Grade 1) (5yo+) (Turf)
+🏟️ Course: Auteuil (nan)
+📋 Race Type: HG1
+📏 Distance: 25.5 furlongs (🔼 vs 20.0 today)
+🌱 Going: VS
+👜 Prize: 💰 153K
+🏆 Race Description: HG1 -- Grade 1 - 7
+🥇 Result: 3 🥉 / 🏇 14 runners. Expected: 1
+💰 Odds: 12.0 📉
+📝 Comment: raced in mid-division, headway from 3 out, pushed along approaching 2 out, ridden approaching last, kept-on into third run-in
+🎽 Jockey: Kevin Nabet- (⚖️ Weight: 141.0 lbs (64.1 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 225  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-04-21 13:50:00
+🏆 RaceName: Prix Leon Rambaud (Hurdle) (Grade 2) (5yo+) (Turf)
+🏟️ Course: Auteuil (nan)
+📋 Race Type: HG2
+📏 Distance: 21.5 furlongs (🔼 vs 20.0 today)
+🌱 Going: HY
+👜 Prize: 💰 68K
+🏆 Race Description: HG2 -- Grade 2 - 8
+🥇 Result: 3 🥉 / 🏇 8 runners. Expected: 1
+💰 Odds: 1.0 🔥🔥
+📝 Comment: 🔄 held up in rear, headway when awkward 3 out, shaken up and took third behind clear leader 2 out, pushed along and slightly outpaced approaching last, ridden and kept on run-in, no chance with front pair
+🎽 Jockey: Kevin Nabet- (⚖️ Weight: 137.0 lbs (62.3 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 26  days ago
+---------------------------------------------------------------------------
+🐎 6 | Joyeuse📈 Owner has a strong record (SR: 14.19%, 1621 runs). (Rank: 9)
+🐎 is a 6 years old  mare, colo(u)r: gr, carrying 159 lbs today.
+🦄 Sire: No Risk At All 67/355 (19.0%)
+🌿 Dam: Virfolette 3/6 (50.0%)
+⏱️ Speed record - Runs: 4 | Best: 7.21 sec (Rank 9), Worst: 7.76 sec (Rank 5), Avg: 7.44 sec (Rank 5)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 11.0 (Rank: 4.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Francois-Xavier Lefeuvre & Domnine De Ch
+🏠 Owner: John P Mcmanus 230/1621 (14.000000000000002) - (No previous owner(s))
+👤 Trainer: Nicky Henderson (0 previous trainer(s)) last 14d WinRate (1.0/15.0 runs) (Rank: 3.0) RTF: 63.0 (OVR: 16%)
+🏇 Jockey: Nico De Boinville (Rank: 9.0) 🏇 Jockey 87644 Win SR: 0.0% (No better alternative found.)(1.0/ 7.0 runs) RTF: N/A (OVR: 20%) 5Y: 94/416 (23.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Impressive winner of valuable 2m handicap last month; definitely has better to come
+🔦 Spotlight: 🔍 unexposed mare who built on a promising 2m4f handicap debut second here in no uncertain terms when an impressive winner of the valuable William Hill Hurdle at Newbury (2m, soft) last month, taking her form figures to 11321; another chunk of improvement is required but no shock were she to find it.
+📊 **STATS**
+📉 OFR: 138.0 (Rank: 8)
+📈 RPR: 147.0 (Rank: 7)
+📉 TS: 108.0 (Rank: 11)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: /1-321 → Score: 0.32 (Rank: 2)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-08 15:35:00
+🏆 RaceName: William Hill Hurdle (Premier Handicap) (GBB Race)
+🏟️ Course: Newbury (left-handed, galloping track with stiff fences)
+📋 Race Type: 1HcHG3
+📏 Distance: 16.5 furlongs (🔽 vs 20.0 today)
+🌱 Going: S
+👜 Prize: 💰 87K
+🏆 Race Description: 1HcHG3 -- Grade 3 Handicap - H
+🥇 Result: 1 🥇 / 🏇 17 runners. Expected: 1
+💰 Odds: 4.5 🔥
+📝 Comment: in touch with leaders, 🎯 prominent behind clear leader after 3rd, headway going easily before 2 out, 🎯 led just after 2 out, ridden and went clear run-in, won going away, impressive
+🎽 Jockey: N De Boinville- (⚖️ Weight: 147.0 lbs (66.8 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 30  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-14 15:35:00
+🏆 RaceName: BetMGM Mares' Handicap Hurdle (GBB Race)
+🏟️ Course: Cheltenham (left-handed, galloping, undulating and testing track with stiff fences)
+📋 Race Type: 2HcHM
+📏 Distance: 20.5 furlongs (🔼 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 16K
+🏆 Race Description: 2HcHM -- Handicap - H
+🥇 Result: 2 🥈 / 🏇 12 runners. Expected: 1
+💰 Odds: 2.5 🔥
+📝 Comment: travelled strongly, 🎯 prominent, going okay but waiting for room approaching last, not fluent last, ridden run-in, kept on well and went second towards finish
+🎽 Jockey: N De Boinville- (⚖️ Weight: 150.0 lbs (68.2 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 56  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-11-22 13:30:00
+🏆 RaceName: Troy Asset Management "Introductory" Hurdle (GBB Race)
+🏟️ Course: Ascot (right-handed, galloping, testing track with stiff fences)
+📋 Race Type: 2H
+📏 Distance: 15.5 furlongs (🔽 vs 20.0 today)
+🌱 Going: G
+👜 Prize: 💰 16K
+🏆 Race Description: 2H -- Unknown - 0
+🥇 Result: 3 🥉 / 🏇 6 runners. Expected: 1
+💰 Odds: 3.333 🔥
+📝 Comment: 🎯 prominent, went second after 4th, not fluent 4 out, lost second 3 out, pushed along 2 out, no extra run-in
+🎽 Jockey: N De Boinville- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 22  days ago
+---------------------------------------------------------------------------
+🐎 8 | Kala Conti📈 Owner has a strong record (SR: 21.28%, 235 runs). (Rank: 6)
+🐎 is a 5 years old  mare, colo(u)r: b, carrying 159 lbs today.
+🦄 Sire: Karaktar 16/66 (24.0%)
+🌿 Dam: Rolibie De Vindecy 3/7 (43.0%)
+⏱️ Speed record - Runs: 7 | Best: 7.17 sec (Rank 8), Worst: 8.08 sec (Rank 6), Avg: 7.51 sec (Rank 7)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 13.0 (Rank: 5.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Patrick Joubert & Ecurie Couderc
+🏠 Owner: Robcour 50/235 (21.0) - (No previous owner(s))
+👤 Trainer: Gordon Elliott (0 previous trainer(s)) last 14d WinRate (5.0/44.0 runs) (Rank: 9.0) RTF: 44.0 (OVR: 8%)
+🏇 Jockey: Jack Kennedy (Rank: 8.0) 🏇 Jockey 94503 Win SR: 50.0% | 🏆 Best Alternative Jockey: 101620 (1/1 - 100.0%)(1.0/ 6.0 runs) RTF: N/A (OVR: 12%) 5Y: 138/648 (21.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Out of first two only once in eight runs but will need improvement to enhance that record
+🔦 Spotlight: Four-time winner over hurdles, including of a 2m Grade 2 juvenile last winter; proved herself at 2m4f when chasing home July Flower in a Leopardstown Grade 3 (good to yielding) in December; freshened up since; has finished out of the first two only once in eight starts but will need a career best if she's to enhance that record here.
+📊 **STATS**
+📉 OFR: 145.0 (Rank: 5)
+📈 RPR: 152.0 (Rank: 5)
+📉 TS: 137.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 15-122 → Score: 0.13 (Rank: 5)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-12-29 13:20:00
+🏆 RaceName: Beat The Bank.ie Irish EBF Mares Hurdle (Grade 3)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📋 Race Type: HG3M
+📏 Distance: 20.0 furlongs (➡️ vs 20.0 today)
+🌱 Going: GY
+👜 Prize: 💰 21K
+🏆 Race Description: HG3M -- Grade 3 - 9
+🥇 Result: 2 🥈 / 🏇 8 runners. Expected: 1
+💰 Odds: 4.0 🔥
+📝 Comment: 🎯 prominent, 🎯 led going okay after last (usual 2 out), ridden when headed omitted last, kept on but no match for winner
+🎽 Jockey: D Gilligan- (⚖️ Weight: 159.0 lbs (72.3 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 71  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-11-30 13:55:00
+🏆 RaceName: WillowWarm Hurdle (Grade 3)
+🏟️ Course: Fairyhouse (right-handed, galloping, testing track (1m6f circuit))
+📋 Race Type: 4yHG3
+📏 Distance: 16.0 furlongs (🔽 vs 20.0 today)
+🌱 Going: Y
+👜 Prize: 💰 16K
+🏆 Race Description: 4yHG3 -- Grade 3 - 9
+🥇 Result: 2 🥈 / 🏇 7 runners. Expected: 1
+💰 Odds: 1.5 🔥🔥
+📝 Comment: in touch with leaders, ridden after 2 out, went second run-in, no match for winner
+🎽 Jockey: Sam Ewing- (⚖️ Weight: 155.0 lbs (70.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 28  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-11-02 13:35:00
+🏆 RaceName: Eventsec Handicap Hurdle
+🏟️ Course: Down Royal (right-handed, galloping, undulating, testing (1m7f circuit))
+📋 Race Type: HcH
+📏 Distance: 17.0 furlongs (🔽 vs 20.0 today)
+🌱 Going: GY
+👜 Prize: 💰 21K
+🏆 Race Description: HcH -- Handicap - H
+🥇 Result: 1 🥇 / 🏇 18 runners. Expected: 1
+💰 Odds: 4.0 🔥
+📝 Comment: 🔄 held up in 🔄 midfield, slightly ⚠️ hampered 4 out, 🎯 prominent 3 out, 🎯 led when hit 2 out, headed and ridden approaching last, 🎯 led again and ⏳ ran on well run-in
+🎽 Jockey: C Millar- (⚖️ Weight: 150.0 lbs (68.2 kg) carried -- Allowance: 7.0) 
+⏳ Time between runs: 28  days ago
+---------------------------------------------------------------------------
+🐎 11 | Take No Chances📈 Owner has a strong record (SR: 30.00%, 40 runs). (Rank: 2)
+🐎 is a 7 years old  mare, colo(u)r: b, carrying 159 lbs today.
+🦄 Sire: Milan 96/782 (12.0%)
+🌿 Dam: Coscorrig 5/13 (38.0%)
+⏱️ Speed record - Runs: 11 | Best: 6.83 sec (Rank 2), Worst: 8.28 sec (Rank 10), Avg: 7.4 sec (Rank 4)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 21.0 (Rank: 6.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: D Corry
+🏠 Owner: Garry Wilson 12/40 (30.0) - (No previous owner(s))
+👤 Trainer: Dan Skelton (0 previous trainer(s)) last 14d WinRate (4.0/50.0 runs) (Rank: 1.0) RTF: 46.0 (OVR: 13%)
+🏇 Jockey: Harry Skelton (Rank: 10.0) 🏇 Jockey 85218 Win SR: 30.0% (No better alternative found.)(3.0/ 28.0 runs) RTF: N/A (OVR: 14%) 5Y: 203/980 (21.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Saw off Kargese in Ascot Grade 2 latest but probably no more than a place contender
+🔦 Spotlight: Consistent mare who has won Listed and Grade 2 events over 2m this season, seeing off Kargese at Ascot for the latter; just as effective over this trip but probably no more than a place contender.
+📊 **STATS**
+📉 OFR: 140.0 (Rank: 7)
+📈 RPR: 147.0 (Rank: 7)
+📉 TS: 144.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 1/4 | Ratio: 0.25
+🌱 Going Wins/Runs: 2/8 | Ratio: 0.25
+📊 Form: 431531 → Score: 0.08 (Rank: 11)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-01-18 13:40:00
+🏆 RaceName: BetMGM Mares' Hurdle (Grade 2) (Registered As The Warfield Mares' Hurdle) (GBB Race)
+🏟️ Course: Ascot (right-handed, galloping, testing track with stiff fences)
+📋 Race Type: 1HG2M
+📏 Distance: 15.5 furlongs (🔽 vs 20.0 today)
+🌱 Going: G
+👜 Prize: 💰 34K
+🏆 Race Description: 1HG2M -- Grade 2 - 8
+🥇 Result: 1 🥇 / 🏇 7 runners. Expected: 1
+💰 Odds: 6.5 📉
+📝 Comment: in touch with leaders, headway but ridden home turn, challenging approaching last, soon 🎯 led, edged left but kept on well run-in
+🎽 Jockey: K K Woods- (⚖️ Weight: 160.0 lbs (72.7 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 51  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-14 15:35:00
+🏆 RaceName: BetMGM Mares' Handicap Hurdle (GBB Race)
+🏟️ Course: Cheltenham (left-handed, galloping, undulating and testing track with stiff fences)
+📋 Race Type: 2HcHM
+📏 Distance: 20.5 furlongs (🔼 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 16K
+🏆 Race Description: 2HcHM -- Handicap - H
+🥇 Result: 3 🥉 / 🏇 12 runners. Expected: 1
+💰 Odds: 4.5 🔥
+📝 Comment: 🔄 towards rear, headway on outer after 2 out, ridden and kept on run-in
+🎽 Jockey: H Skelton- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 34  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-11-30 14:10:00
+🏆 RaceName: BetMGM Fighting Fifth Hurdle (Grade 1) (GBB Race)
+🏟️ Course: Newcastle (left-handed, galloping, testing track with stiff fences)
+📋 Race Type: 1HG1
+📏 Distance: 16.0 furlongs (🔽 vs 20.0 today)
+🌱 Going: G
+👜 Prize: 💰 66K
+🏆 Race Description: 1HG1 -- Grade 1 - 7
+🥇 Result: 5 / 🏇 7 runners. Expected: 1
+💰 Odds: 20.0 ❄️
+📝 Comment: 🔄 towards rear, headway and not fluent 3 out, not fluent 2 out, not fluent last, soon no extra
+🎽 Jockey: C Todd- (⚖️ Weight: 157.0 lbs (71.4 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 14  days ago
+---------------------------------------------------------------------------
+🐎 2 | Dysart Enos📈 Owner has a strong record (SR: 23.68%, 38 runs). (Rank: 4)
+🐎 is a 7 years old  mare, colo(u)r: b, carrying 159 lbs today.
+🦄 Sire: Malinas 93/617 (15.0%)
+🌿 Dam: Graces Benefit 3/5 (60.0%)
+⏱️ Speed record - Runs: 5 | Best: 7.24 sec (Rank 10), Worst: 7.32 sec (Rank 2), Avg: 7.28 sec (Rank 2)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 26.0 (Rank: 7.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Ms Grainne Dunne
+🏠 Owner: The Good Stock Syndicate 9/38 (24.0) - (No previous owner(s))
+👤 Trainer: Fergal Obrien (0 previous trainer(s)) last 14d WinRate (2.0/27.0 runs) (Rank: 3.0) RTF: 62.0 (OVR: 9%)
+🏇 Jockey: Jonathan Burke (Rank: 3.0) 🏇 Jockey 91759 Win SR: 0.0% | 🏆 Best Alternative Jockey: 76635 (4/4 - 100.0%)(1.0/ 25.0 runs) RTF: N/A (OVR: 9%) 5Y: 105/736 (14.000000000000002)
+🗞️ **PRESS OPINION**
+💬 Comment: Good third in Greatwood on return but seventh at Ascot since; stamina isn't assured
+🔦 Spotlight: Won her first six starts under rules (three bumpers and three novice hurdles); lost her unbeaten record but advanced her form again when third of 15 to Burdett Road in the Greatwood here (2m, good) on reappearance but a touch disappointing when only seventh in another valuable handicap hurdle at Ascot (2m, good to soft) just before Christmas; doesn't obviously shape as if crying out for a longer trip but has stamina in her pedigree and was second in a 3m point before embarking on her rules career.
+📊 **STATS**
+📉 OFR: 135.0 (Rank: 10)
+📈 RPR: 146.0 (Rank: 9)
+📉 TS: 109.0 (Rank: 10)
+🏟️ Course Wins/Runs: 1/2 | Ratio: 0.50
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 3/4 | Ratio: 0.75
+📊 Form: 111-37 → Score: 0.11 (Rank: 9)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-12-21 15:35:00
+🏆 RaceName: Ladbrokes Handicap Hurdle (Premier Handicap) (GBB Race)
+🏟️ Course: Ascot (right-handed, galloping, testing track with stiff fences)
+📋 Race Type: 1HcHG3
+📏 Distance: 15.5 furlongs (🔽 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 71K
+🏆 Race Description: 1HcHG3 -- Grade 3 Handicap - H
+🥇 Result: 7 / 🏇 12 runners. Expected: 1
+💰 Odds: 3.333 🔥
+📝 Comment: 🔄 held up in 🔄 midfield, lost position 4 out, hit 2 out, soon ❄️ weakened
+🎽 Jockey: J J Burke- (⚖️ Weight: 160.0 lbs (72.7 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 79  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-11-17 15:30:00
+🏆 RaceName: Unibet Greatwood Handicap Hurdle (Premier Handicap) (GBB Race)
+🏟️ Course: Cheltenham (left-handed, galloping, undulating and testing track with stiff fences)
+📋 Race Type: 1HcHG3
+📏 Distance: 16.5 furlongs (🔽 vs 20.0 today)
+🌱 Going: G
+👜 Prize: 💰 56K
+🏆 Race Description: 1HcHG3 -- Grade 3 Handicap - H
+🥇 Result: 3 🥉 / 🏇 15 runners. Expected: 1
+💰 Odds: 2.125 🔥
+📝 Comment: travelled strongly, jumped left on occasions, 🔄 midfield, headway 3rd, went second before 3 out, kept on but lost second final 110yds
+🎽 Jockey: J J Burke- (⚖️ Weight: 162.0 lbs (73.6 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 34  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-01-28 12:20:00
+🏆 RaceName: Download The At The Races App Novices' Hurdle (GBB Race)
+🏟️ Course: Doncaster (left-handed, galloping, flat track)
+📋 Race Type: 3NvH
+📏 Distance: 16.5 furlongs (🔽 vs 20.0 today)
+🌱 Going: G
+👜 Prize: 💰 6K
+🏆 Race Description: 3NvH -- Unknown - 0
+🥇 Result: 1 🥇 / 🏇 9 runners. Expected: 1
+💰 Odds: 0.111 🔥🔥
+📝 Comment: 🎯 prominent, not fluent 4th, went second 5th, 🎯 led 2 out, nudged along and went clear run-in, easily
+🎽 Jockey: P Brennan- (⚖️ Weight: 155.0 lbs (70.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 294  days ago
+---------------------------------------------------------------------------
+🐎 5 | Jetara⬆🏇 Jetara id 4259460🌟 is a TOP Ranked horse in at least one speed or OPR!
+📈 Owner has a strong record (SR: 28.57%, 21 runs). (Rank: 3)
+🐎 is a 7 years old  mare, colo(u)r: b, carrying 159 lbs today.
+🦄 Sire: Walk In The Park 242/1410 (17.0%)
+🌿 Dam: Jelan 6/12 (50.0%)
+⏱️ Speed record - Runs: 12 | Best: 6.69 sec (Rank 1), Worst: 8.11 sec (Rank 7), Avg: 7.57 sec (Rank 9)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 34.0 (Rank: 8.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Gerard M McGrath
+🏠 Owner: G Mcgrath 6/21 (28.999999999999996) - (No previous owner(s))
+👤 Trainer: Mrs John Harrington (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 11.0) RTF: N/A (OVR: 0%)
+🏇 Jockey: Sam Ewing (Rank: 5.0) 🏇 Jockey 100365 Win SR: 0.0% | 🏆 Best Alternative Jockey: 94503 (2/3 - 67.0%)(3.0/ 14.0 runs) RTF: N/A (OVR: 4%) 5Y: 81/645 (13.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Behind July Flower over Christmas but back on song in cheekpieces with Grade 2 win latest
+🔦 Spotlight: Placed in two Grade 1 novice hurdles last spring (2m4f, heavy/yielding) and won a Listed mares' hurdle at Limerick (2m7f, good) in October; below par when 16l third to July Flower at Leopardstown over Christmas but back to her best in first-time cheekpieces (retained today) when narrow winner of a Doncaster Grade 2 (3m, good to soft) in January.
+📊 **STATS**
+📉 OFR: 146.0 (Rank: 4)
+📈 RPR: 154.0 (Rank: 3)
+📉 TS: 137.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 4/9 | Ratio: 0.44
+🌱 Going Wins/Runs: 1/1 | Ratio: 1.00
+📊 Form: -21531 → Score: 0.12 (Rank: 7)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-01-25 14:40:00
+🏆 RaceName: Virgin Bet Yorkshire Rose Mares' Hurdle (Grade 2) (GBB Race)
+🏟️ Course: Doncaster (left-handed, galloping, flat track)
+📋 Race Type: 1HG2M
+📏 Distance: 24.5 furlongs (🔼 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 34K
+🏆 Race Description: 1HG2M -- Grade 2 - 8
+🥇 Result: 1 🥇 / 🏇 6 runners. Expected: 1
+💰 Odds: 3.333 🔥
+📝 Comment: unseated rider on way to start, 🔄 towards rear, raced in third from 3rd, challenging 3 out, soon 🎯 led, drifted left but clear with one other run-in, faced challenge final 110yds, kept on well, gamely
+🎽 Jockey: J Bowen- (⚖️ Weight: 160.0 lbs (72.7 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 44  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-29 13:20:00
+🏆 RaceName: Beat The Bank.ie Irish EBF Mares Hurdle (Grade 3)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📋 Race Type: HG3M
+📏 Distance: 20.0 furlongs (➡️ vs 20.0 today)
+🌱 Going: GY
+👜 Prize: 💰 21K
+🏆 Race Description: HG3M -- Grade 3 - 9
+🥇 Result: 3 🥉 / 🏇 8 runners. Expected: 1
+💰 Odds: 3.5 🔥
+📝 Comment: didn't always jump with fluency, raced in second, joined leader before last (usual 2 out), lost second home turn, soon ❄️ weakened
+🎽 Jockey: D Meyler- (⚖️ Weight: 157.0 lbs (71.4 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 27  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-11-16 13:58:00
+🏆 RaceName: Railway Bar Lismullen Hurdle (Grade 2)
+🏟️ Course: Navan (left-handed, undulating, galloping track (1m4f circuit))
+📋 Race Type: HG2
+📏 Distance: 20.0 furlongs (➡️ vs 20.0 today)
+🌱 Going: Y
+👜 Prize: 💰 26K
+🏆 Race Description: HG2 -- Grade 2 - 8
+🥇 Result: 5 / 🏇 8 runners. Expected: 1
+💰 Odds: 2.0 🔥🔥
+📝 Comment: in touch with leaders, 🎯 prominent on inner 4th, outpaced after 3 out, ❄️ weakened 2 out (jockey said mare was showing signs of being in season post race)
+🎽 Jockey: D Meyler- (⚖️ Weight: 150.0 lbs (68.2 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 42  days ago
+---------------------------------------------------------------------------
+🐎 10 | Queens Gamble🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 is a 7 years old  mare, colo(u)r: ch, carrying 159 lbs today.
+🦄 Sire: Getaway 163/1185 (14.000000000000002%)
+🌿 Dam: Gambling Girl 2/3 (67.0%)
+⏱️ Speed record - Runs: 3 | Best: 7.15 sec (Rank 5), Worst: 7.62 sec (Rank 3), Avg: 7.34 sec (Rank 3)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 34.0 (Rank: 8.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Ardmulchan Stud
+🏠 Owner: A Frost And E Galvin 2/3 (67.0) - (No previous owner(s))
+👤 Trainer: Harry Derham (0 previous trainer(s)) last 14d WinRate (6.0/18.0 runs) (Rank: 5.0) RTF: 76.0 (OVR: 9%)
+🏇 Jockey: Paul Obrien (Rank: 4.0) 🏇 Jockey 92112 Win SR: 0.0% | 🏆 Best Alternative Jockey: 91759 (4/6 - 67.0%)(4.0/ 17.0 runs) RTF: N/A (OVR: 13%) 5Y: 71/450 (16.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Listed bumper/hurdle winner; fair efforts in handicaps this winter but this demands more
+🔦 Spotlight: Listed winner in bumpers and over hurdles; runner-up in a Grade 3 handicap at Newbury in November after almost a year off and advanced her RPR again when sixth of 19 at Leopardstown (2m2f, soft) last month; plenty more will be needed in this race, though.
+📊 **STATS**
+📉 OFR: 136.0 (Rank: 9)
+📈 RPR: 143.0 (Rank: 10)
+📉 TS: 133.0 (Rank: 7)
+🏟️ Course Wins/Runs: 2/3 | Ratio: 0.67
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 1/3 | Ratio: 0.33
+📊 Form: 111-26 → Score: 0.13 (Rank: 6)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-02 12:40:00
+🏆 RaceName: Irish Stallion Farms EBF Paddy And Maureen Mullins Mares Handicap Hurdle (Listed Race)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📋 Race Type: HcHLM
+📏 Distance: 18.0 furlongs (🔽 vs 20.0 today)
+🌱 Going: S
+👜 Prize: 💰 50K
+🏆 Race Description: HcHLM -- Listed Handicap - H
+🥇 Result: 6 / 🏇 19 runners. Expected: 1
+💰 Odds: 4.5 🔥
+📝 Comment: 🔄 towards rear early, 🔄 midfield before 3rd, in touch with leaders when not fluent 2 out, switched left before last, kept on but no impression run-in
+🎽 Jockey: Rachael Blackmore- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 36  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-11-30 14:25:00
+🏆 RaceName: Coral Racing Club Intermediate Handicap Hurdle (Reg' As The Gerry Feilden) (Premier Handicap) (GBB)
+🏟️ Course: Newbury (left-handed, galloping track with stiff fences)
+📋 Race Type: 1HcHG3
+📏 Distance: 16.5 furlongs (🔽 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 31K
+🏆 Race Description: 1HcHG3 -- Grade 3 Handicap - H
+🥇 Result: 2 🥈 / 🏇 13 runners. Expected: 1
+💰 Odds: 6.0 📉
+📝 Comment: 🔄 midfield, headway after 3 out, went third after 2 out, went second run-in, stayed on
+🎽 Jockey: J J Burke- (⚖️ Weight: 155.0 lbs (70.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 63  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2023-12-30 14:10:00
+🏆 RaceName: Byerley Stud Mares' Novices' Hurdle (Listed Race) (GBB Race)
+🏟️ Course: Taunton (right-handed, sharp track)
+📋 Race Type: 1NvHLM
+📏 Distance: 16.5 furlongs (🔽 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 14K
+🏆 Race Description: 1NvHLM -- Listed - 4
+🥇 Result: 1 🥇 / 🏇 6 runners. Expected: 1
+💰 Odds: 0.833 🔥🔥
+📝 Comment: travelled strongly, 🔄 held up in rear but in touch with leaders, headway after 4 out, joined leader 2 out, soon pushed along, 🎯 led run-in, kept on
+🎽 Jockey: J J Burke- (⚖️ Weight: 158.0 lbs (71.8 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 336  days ago
+---------------------------------------------------------------------------
+🐎 3 | Gala Marceau📈 Owner has a strong record (SR: 20.69%, 87 runs). (Rank: 7)
+🐎 is a 6 years old  mare, colo(u)r: b, carrying 159 lbs today.
+🦄 Sire: Galiway 9/74 (12.0%)
+🌿 Dam: Alma Marceau 0/5 (0.0%)
+⏱️ Speed record - Runs: 5 | Best: 7.16 sec (Rank 6), Worst: 8.63 sec (Rank 11), Avg: 7.74 sec (Rank 10)
+🛠️ Gear: h
+🩺 Medical History: No records
+🎲 Early market: 51.0 (Rank: 10.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Guy Pariente Holding Sprl
+🏠 Owner: Kenneth Alexander 18/87 (21.0) - (No previous owner(s))
+👤 Trainer: W P Mullins (0 previous trainer(s)) last 14d WinRate (7.0/30.0 runs) (Rank: 6.0) RTF: 48.0 (OVR: 13%)
+🏇 Jockey: Brian Hayes (Rank: 6.0) 🏇 Jockey 83964 Win SR: 0.0% | 🏆 Best Alternative Jockey: 86321 (1/1 - 100.0%)(3.0/ 16.0 runs) RTF: N/A (OVR: 11%) 5Y: 35/381 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Smart mare who should be sharper for reappearance but her yard has stronger contenders
+🔦 Spotlight: Runner-up in the 2023 Triumph but only sixth to Lossiemouth in this last year; got a lot closer to her stablemate in a Punchestown Grade 1 in May but not at her best when third in 2m5f Warwick Listed race (soft) on reappearance 31 days ago; may come on for the outing but even a return to her peak form is unlikely to be enough.
+📊 **STATS**
+📉 OFR: 145.0 (Rank: 5)
+📈 RPR: 149.0 (Rank: 6)
+📉 TS: 120.0 (Rank: 9)
+🏟️ Course Wins/Runs: 0/2 | Ratio: 0.00
+📏 Distance Wins/Runs: 1/4 | Ratio: 0.25
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 336-23 → Score: 0.09 (Rank: 10)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-08 14:40:00
+🏆 RaceName: Read Nicky Henderson's Weekly Unibet Blog Mares' Hurdle (Listed Race) (GBB Race)
+🏟️ Course: Warwick (left-handed, sharp track)
+📋 Race Type: 1HLM
+📏 Distance: 21.0 furlongs (🔼 vs 20.0 today)
+🌱 Going: S
+👜 Prize: 💰 17K
+🏆 Race Description: 1HLM -- Listed - 4
+🥇 Result: 3 🥉 / 🏇 6 runners. Expected: 1
+💰 Odds: 1.0 🔥🔥
+📝 Comment: 🎯 prominent, outpaced after 3 out, mistake 2 out, left in second last, kept on but lost second towards finish
+🎽 Jockey: D E Mullins- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 30  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-05-04 14:42:00
+🏆 RaceName: Coolmore N.H. Sires Bolshoi Ballet Irish EBF Mares Champion Hurdle (Grade 1)
+🏟️ Course: Punchestown (right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses)
+📋 Race Type: HG1M
+📏 Distance: 20.5 furlongs (🔼 vs 20.0 today)
+🌱 Going: S
+👜 Prize: 💰 65K
+🏆 Race Description: HG1M -- Grade 1 - 7
+🥇 Result: 2 🥈 / 🏇 5 runners. Expected: 1
+💰 Odds: 16.0 📉
+📝 Comment: 🎯 prominent behind clear leader, disputing second 2 out, went second but no chance with winner approaching last
+🎽 Jockey: D E Mullins- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 279  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-03-12 16:10:00
+🏆 RaceName: Close Brothers Mares' Hurdle (Registered As The David Nicholson Mares' Hurdle) (Grade 1) (GBB Race)
+🏟️ Course: Cheltenham (left-handed, galloping, undulating and testing track with stiff fences)
+📋 Race Type: 1HG1M
+📏 Distance: 20.0 furlongs (➡️ vs 20.0 today)
+🌱 Going: HY
+👜 Prize: 💰 68K
+🏆 Race Description: 1HG1M -- Grade 1 - 7
+🥇 Result: 6 / 🏇 11 runners. Expected: 1
+💰 Odds: 12.0 📉
+📝 Comment: 🔄 towards rear, short of room before 4 out, not fluent 3 out, lost touch from 2 out
+🎽 Jockey: D E Mullins- (⚖️ Weight: 159.0 lbs (72.3 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 52  days ago
+---------------------------------------------------------------------------
+🐎 1 | Casa No Mento🐎 is a 7 years old  mare, colo(u)r: b, carrying 159 lbs today.
+🦄 Sire: Casamento 11/92 (12.0%)
+🌿 Dam: Red Hibiscus 0/0 (0.0%)
+⏱️ Speed record - Runs: 7 | Best: 7.1 sec (Rank 4), Worst: 8.25 sec (Rank 9), Avg: 7.53 sec (Rank 8)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 101.0 (Rank: 11.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Miss S J Turner
+🏠 Owner: Lrk Racing & Willy Twiston-Davies 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Nigel Twiston-Davies (0 previous trainer(s)) last 14d WinRate (2.0/25.0 runs) (Rank: 1.0) RTF: 32.0 (OVR: 10%)
+🏇 Jockey: Sam Twiston-Davies (Rank: 6.0) 🏇 Jockey 88023 Win SR: 38.0% (No better alternative found.)(7.0/ 37.0 runs) RTF: N/A (OVR: 13%) 5Y: 165/1014 (16.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Useful hurdler/chaser but this looks too tough
+🔦 Spotlight: Listed novice hurdle winner last spring; showed she's also useful over fences when landing a Bangor novice chase (around 2m2f, heavy) 13 days ago but about 8l behind Take No Chances in an Ascot Listed hurdle prior to that and there's nothing in her record to suggest she'll be up to the task here.
+📊 **STATS**
+📉 OFR: 134.0 (Rank: 11)
+📈 RPR: 143.0 (Rank: 10)
+📉 TS: 123.0 (Rank: 8)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 1/3 | Ratio: 0.33
+📊 Form: -1P441 → Score: 0.12 (Rank: 8)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-26 13:55:00
+🏆 RaceName: Weatherbys Cheltenham Festival Betting Guide Novices' Chase (GBB Race)
+🏟️ Course: Bangor-on-Dee (left-handed, fairly sharp track)
+📋 Race Type: 3NvCh
+📏 Distance: 17.5 furlongs (🔽 vs 20.0 today)
+🌱 Going: HY
+👜 Prize: 💰 7K
+🏆 Race Description: 3NvCh -- Unknown - 0
+🥇 Result: 1 🥇 / 🏇 5 runners. Expected: 1
+💰 Odds: 0.571 🔥🔥
+📝 Comment: 🔄 held up in rear, not fluent 3rd, awkward jump 5th, in touch with leaders 7th, smooth headway after 3 out, 🎯 led and went clear 2 out, easily
+🎽 Jockey: S Twiston-Davies- (⚖️ Weight: 149.0 lbs (67.7 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 12  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-18 13:40:00
+🏆 RaceName: BetMGM Mares' Hurdle (Grade 2) (Registered As The Warfield Mares' Hurdle) (GBB Race)
+🏟️ Course: Ascot (right-handed, galloping, testing track with stiff fences)
+📋 Race Type: 1HG2M
+📏 Distance: 15.5 furlongs (🔽 vs 20.0 today)
+🌱 Going: G
+👜 Prize: 💰 34K
+🏆 Race Description: 1HG2M -- Grade 2 - 8
+🥇 Result: 4 / 🏇 7 runners. Expected: 1
+💰 Odds: 16.0 📉
+📝 Comment: 🔄 held up in rear, went fourth last, not pace to challenge
+🎽 Jockey: S Twiston-Davies- (⚖️ Weight: 158.0 lbs (71.8 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 39  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-11-13 12:55:00
+🏆 RaceName: Yorton Mares' Novices' Chase (Listed Race) (For The Richard Aston Memorial Trophy) (GBB Race)
+🏟️ Course: Bangor-on-Dee (left-handed, fairly sharp track)
+📋 Race Type: 1NvChLM
+📏 Distance: 17.5 furlongs (🔽 vs 20.0 today)
+🌱 Going: S
+👜 Prize: 💰 23K
+🏆 Race Description: 1NvChLM -- Listed - 4
+🥇 Result: 4 / 🏇 6 runners. Expected: 1
+💰 Odds: 6.0 📉
+📝 Comment: jumped right throughout, 🔄 held up in rear early, raced in fourth behind clear leaders after 3rd, went third 7th, in touch with leaders before 2 out, ❄️ weakened and lost third before last
+🎽 Jockey: S Twiston-Davies- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 66  days ago
+---------------------------------------------------------------------------

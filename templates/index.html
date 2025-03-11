@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Race Data Search</title>
+    <title>RP Raceday</title>
     <style>
         /* ✅ CSS Variables for Light & Dark Mode */
         :root {
@@ -45,14 +45,16 @@
             margin: 0;
             padding: 40px 0;
             min-height: 100vh;
-            background: linear-gradient(rgba(255,255,255,0.9), rgba(255,255,255,0.9)),
-                        url("{{ url_for('static', filename='images/Horses_in_Newmarket.jpg') }}");
             background-size: cover;
             background-attachment: fixed;
             background-position: center;
             background-color: var(--bg-color);
             color: var(--text-color);
             transition: all 0.3s ease-in-out;
+        }
+
+        .text-center {
+            color: darkred;
         }
 
         .banner {
@@ -222,6 +224,10 @@
      color: #007bff;
 }
 
+        th, td { border: 1px solid darkred; padding: 8px; text-align: left; }
+        th { background-color: darkred; }
+        .title-row { font-size: 18px; font-weight: bold; text-align: center; background-color: black; }
+
     </style>
 </head>
 
@@ -234,9 +240,7 @@
     <div class="container mt-3">
         <div class="banner">
             🏇 **Breaking News**: Improved Perfomance Ranks table! 🚀
-            <p>Extra owner and trainer history hints.</p>
-              <p>Gearing up to Cheltenham 2025- Horse&Jockey ran well before? Coming soon. </p>
-            <p>Gearing up to Cheltenham 2025- Owner, sire, dam, trainer, jockey strike rates coming very soon! </p>
+            <p>Extra Course-Specific Stats for Cheltenham Today</p>
         </div>
 
     </div>
@@ -251,7 +255,7 @@
                         ⏳ **Current Time in London (GMT/BST):** <span id="london-time">Loading...</span><br>
                         🕰 **Your Local Time:** <span id="browser-time">Loading...</span>
                     </div>
-                    <h2> Enter a race ID and hash. For a single hash code for all of today's races, please email us rpraceday at tuta.com.</h2>
+                    <h2> Enter a race ID and hash. For a single hash code for all of today's races, please email us rpraceday@tuta.com.</h2>
                     <div>
 
                     </div>
@@ -267,16 +271,44 @@
                         <p class="error">{{ error }}</p>
                     {% endif %}
 
-                        <div class="random-hash-container">
-                            <h2>🔑 27 races under consideration today. Here is a selection:</h2>
+                    <div class="course-stats-container">
+                        <table>
+                            <tr class="title-row"><td colspan="9">Cheltenham Class 2 Statistics</td></tr>
+                            <tr><th>Metric</th><th>Min</th><th>Max</th><th>Avg</th><th>Runs</th><th>Mode</th><th>Mode Count</th><th>Median</th><th>Last 10 (rightmost is most recent)</th></tr>
+                            <tr><td>RPR Rank</td><td>1</td><td>70</td><td>18.34</td><td>14349</td><td>1</td><td>3051</td><td>16.0</td><td>1.0 | 1.0 | 1.0 | 4.0 | 10.0 | 1.0 | 7.0 | 13.0 | 16.0 | 19.0</td></tr>
+                            <tr><td>TS Rank</td><td>1</td><td>70</td><td>17.99</td><td>14349</td><td>1</td><td>3495</td><td>13.0</td><td>1.0 | 1.0 | 1.0 | 4.0 | 10.0 | 1.0 | 7.0 | 13.0 | 16.0 | 19.0</td></tr>
+                            <tr><td>Secs Rank</td><td>1</td><td>70</td><td>18.44</td><td>14349</td><td>1</td><td>3189</td><td>16.0</td><td>1.0 | 1.0 | 1.0 | 1.0 | 4.0 | 7.0 | 10.0 | 13.0 | 16.0 | 19.0</td></tr>
+                        </table>
+
+                        <table>
+                            <tr class="title-row"><td colspan="9">Cheltenham Grade 1 Statistics</td></tr>
+                            <tr><th>Metric</th><th>Min</th><th>Max</th><th>Avg</th><th>Runs</th><th>Mode</th><th>Mode Count</th><th>Median</th><th>Last 10 (rightmost is most recent)</th></tr>
+                            <tr><td>RPR Rank</td><td>1</td><td>67</td><td>18.45</td><td>4371</td><td>1</td><td>774</td><td>16.0</td><td>10.0 | 16.0 | 19.0 | 22.0 | 25.0 | 31.0 | 28.0 | 34.0 | 1.0 | 1.0</td></tr>
+                            <tr><td>TS Rank</td><td>1</td><td>67</td><td>18.38</td><td>4371</td><td>1</td><td>864</td><td>16.0</td><td>19.0 | 25.0 | 28.0 | 31.0 | 34.0 | 7.0 | 10.0 | 13.0 | 1.0 | 1.0</td></tr>
+                            <tr><td>Secs Rank</td><td>1</td><td>67</td><td>18.64</td><td>4371</td><td>1</td><td>843</td><td>16.0</td><td>13.0 | 16.0 | 19.0 | 22.0 | 25.0 | 28.0 | 31.0 | 34.0 | 1.0 | 1.0</td></tr>
+                        </table>
+
+                        <table>
+                            <tr class="title-row"><td colspan="9">Cheltenham Grade 2 Statistics</td></tr>
+                            <tr><th>Metric</th><th>Min</th><th>Max</th><th>Avg</th><th>Runs</th><th>Mode</th><th>Mode Count</th><th>Median</th><th>Last 10 (rightmost is most recent)</th></tr>
+                            <tr><td>RPR Rank</td><td>1</td><td>64</td><td>12.64</td><td>4056</td><td>1</td><td>738</td><td>10.0</td><td>13.0 | 13.0 | 19.0 | 1.0 | 7.0 | 1.0 | 1.0 | 7.0 | 13.0 | 16.0</td></tr>
+                            <tr><td>TS Rank</td><td>1</td><td>64</td><td>12.52</td><td>4056</td><td>1</td><td>819</td><td>10.0</td><td>7.0 | 10.0 | 13.0 | 16.0 | 13.0 | 10.0 | 7.0 | 13.0 | 1.0 | 4.0</td></tr>
+                            <tr><td>Secs Rank</td><td>1</td><td>64</td><td>12.75</td><td>4056</td><td>1</td><td>756</td><td>10.0</td><td>10.0 | 13.0 | 16.0 | 19.0 | 1.0 | 4.0 | 7.0 | 10.0 | 13.0 | 16.0</td></tr>
+                        </table>
+                    </div>
+
+
+                         <div class="random-hash-container">
+                            <h2>🔑 29 races under consideration today. Here is a selection:</h2>
                             <ul>
-                        <li><strong>ID:</strong> 888198 - <strong>Hash:</strong> 6795f650</li>
-                <li><strong>ID:</strong> 888195 - <strong>Hash:</strong> 1dee91ed</li>
-                <li><strong>ID:</strong> 888188 - <strong>Hash:</strong> a8d10b6c</li>
-                <li><strong>ID:</strong> 888182 - <strong>Hash:</strong> b8ac6953</li>
-                <li><strong>ID:</strong> 888379 - <strong>Hash:</strong> b4fe37c9</li>
+                        <li><strong>ID:</strong> 887341 - <strong>Hash:</strong> b88fac10</li>
+                <li><strong>ID:</strong> 887339 - <strong>Hash:</strong> fa85879d</li>
+                <li><strong>ID:</strong> 881095 - <strong>Hash:</strong> 0a76c8ec</li>
+                <li><strong>ID:</strong> 883096 - <strong>Hash:</strong> 3de6c27d</li>
+                <li><strong>ID:</strong> 887340 - <strong>Hash:</strong> 44672cf8</li>
 
                             </ul>
+                        </div>
                         </div>
 
 
@@ -302,7 +334,6 @@
 
 
     <script>
-
 
         function updateTime() {
         // ✅ Get Browser Local Time (24-hour format)
