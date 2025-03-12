@@ -1,0 +1,584 @@
+🏁 Race ID: 881096
+8 runners declared
+📍 Venue: Cheltenham (left-handed, galloping, undulating and testing track with stiff fences)
+⛅ Weather: Partly cloudy
+🍃 Going: Good To Soft
+⏰ Off Time: 16:00
+🏆 Race Name: BetMGM Queen Mother Champion Chase (Grade 1) (GBB Race)
+📏 Distance: 16.0 furlongs
+🏇 Race/Grade: Class 1 Grade 1
+🏆 Type: Chase
+🎂 Age Band: 5yo+
+💰 Today's Purse: 💰 225K
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Performance Table
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4        | Jonbon                    | 3265152  | 1.0      | 1.0      | 1.0      | 1.0      | 1.0      | 4        | 4        | 7.0      | 1.0      | 3.0      | 7.0      | 1.0      | 1.0      | 1.0      | 6.0      | 2.0      | 4.0      | 4.0      | 6.0      | 4.0      | 4.0      | 6.0      | 1.0      | 3.0      | 1.0      | 1.0      | 1.0      | 4.0      | 2.0      | 5.0      | 1.0      | 2.0     
+6        | Marine Nationale          | 4334961  | 6.0      | 3.0      | 3.0      | 4.0      | 1.0      | 3        | 2        | 1.0      | 5.0      | 6.0      | 3.0      | 6.0      | 4.0      | 6.0      | 3.0      | 7.0      | 7.0      | 1.0      | 8.0      | 2.0      | 3.0      | 4.0      | 6.0      | 4.0      | 6.0      | N/A      | 2.0      | 5.0      | 6.0      | 6.0      | 6.0      | 5.0     
+2        | Energumene                | 1784723  | 1.0      | 2.0      | 2.0      | 2.0      | 2.0      | 5        | 1        | 8.0      | 1.0      | 2.0      | 2.0      | 2.0      | 8.0      | 2.0      | 5.0      | 1.0      | 3.0      | 7.0      | 5.0      | 3.0      | 8.0      | 8.0      | 3.0      | 1.0      | 2.0      | N/A      | 3.0      | 6.0      | 1.0      | 1.0      | 3.0      | 1.0     
+8        | Solness                   | 4249685  | 3.0      | 6.0      | 8.0      | 4.0      | 6.0      | 1        | 3        | 2.0      | 3.0      | 7.0      | 5.0      | 4.0      | 3.0      | 3.0      | 8.0      | 5.0      | 2.0      | 6.0      | 4.0      | 1.0      | 1.0      | 5.0      | 5.0      | 7.0      | 8.0      | N/A      | 4.0      | 2.0      | 5.0      | 4.0      | 4.0      | 8.0     
+3        | Found A Fifty             | 3970593  | 1.0      | 4.0      | 4.0      | 6.0      | 3.0      | 1        | 5        | 5.0      | 1.0      | 4.0      | 4.0      | 5.0      | 7.0      | 3.0      | 1.0      | 4.0      | 6.0      | 8.0      | 1.0      | 8.0      | 2.0      | 7.0      | 2.0      | 7.0      | 7.0      | 3.0      | 5.0      | 1.0      | 4.0      | 2.0      | 2.0      | 3.0     
+1        | Captain Guinness          | 2929506  | 4.0      | 7.0      | 6.0      | 7.0      | 7.0      | 7        | 5        | 3.0      | 4.0      | 1.0      | 1.0      | 3.0      | 2.0      | 5.0      | 2.0      | 6.0      | 4.0      | 5.0      | 1.0      | 6.0      | 6.0      | 2.0      | 7.0      | 6.0      | 4.0      | 5.0      | 6.0      | 8.0      | 3.0      | 7.0      | N/A      | 4.0     
+7        | Quilixios                 | 3055322  | 5.0      | 4.0      | 7.0      | 3.0      | 5.0      | 6        | 8        | 6.0      | 3.0      | 5.0      | 6.0      | 6.0      | 5.0      | 7.0      | 4.0      | 8.0      | 7.0      | 3.0      | 1.0      | 6.0      | 6.0      | 2.0      | 8.0      | 4.0      | 5.0      | 3.0      | 7.0      | 7.0      | 3.0      | 3.0      | 5.0      | 6.0     
+5        | Libberty Hunter           | 3272418  | 2.0      | 5.0      | 5.0      | 5.0      | 4.0      | 8        | 7        | 4.0      | 2.0      | 8.0      | 7.0      | 8.0      | 6.0      | 8.0      | 7.0      | 3.0      | 1.0      | 2.0      | 7.0      | 5.0      | 4.0      | 1.0      | 4.0      | 1.0      | 3.0      | 2.0      | 8.0      | 3.0      | 7.0      | N/A      | N/A      | 7.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 4 | Jonbon⬆🏇 Jonbon id 3265152🌟 is a TOP Ranked horse in at least one speed or OPR!
+📈 Owner has a strong record (SR: 13.90%, 1705 runs). (Rank: 5)
+🐎 is a 9 years old  gelding, colo(u)r: b, carrying 164 lbs today.
+🦄 Sire: Walk In The Park 250/1525 (16.0%)
+🌿 Dam: Star Face 7/9 (78.0%)
+⏱️ Speed record - Runs: 8 | Best: 7.32 sec (Rank 4), Worst: 7.91 sec (Rank 3), Avg: 7.64 sec (Rank 4)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 1.8 (Rank: 1.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Lotfi Kohli
+🏠 Owner: John P Mcmanus 237/1705 (14.000000000000002) - (No previous owner(s))
+👤 Trainer: Nicky Henderson (0 previous trainer(s)) last 14d WinRate (2.0/18.0 runs) (Rank: 6.0) RTF: 63.0 (OVR: 17%)
+🏇 Jockey: Nico De Boinville (Rank: 6.0) 🏇 Jockey 87644 Win SR: 100.0% (No better alternative found.)(2.0/ 10.0 runs) RTF: N/A (OVR: 20%) 5Y: 94/422 (22.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Has become a powerhouse in this division; better than ever judged on last two performances
+🔦 Spotlight: Acts on any ground; withdrawn from this contest 12 months ago when his stable was under a big cloud; has become a powerhouse in this division and readily beat Energumene in the Clarence House at Ascot most recently, registering an eighth Grade 1 success over fences; has met his only defeats at Cheltenham, including twice at the Festival (admittedly a creditable second both times), and two Shloer wins over C&D do not feature among his best figures; furthermore, favourites have a notoriously bad record (only three wins and several dismal flops) in this race in the last decade; those doubts aside, he's better than ever judged on last two performances and the clear pick on current form.
+📊 **STATS**
+📉 OFR: 171.0 (Rank: 1)
+📈 RPR: 181.0 (Rank: 1)
+📉 TS: 159.0 (Rank: 1)
+🏟️ Course Wins/Runs: 2/5 | Ratio: 0.40
+📏 Distance Wins/Runs: 16/19 | Ratio: 0.84
+🌱 Going Wins/Runs: 7/9 | Ratio: 0.78
+📊 Form: 11-111 → Score: 0.67 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-01-18 15:32:00
+🏆 RaceName: BetMGM Clarence House Chase (Grade 1) (GBB Race)
+🏟️ Course: Ascot (right-handed, galloping, testing track with stiff fences)
+📋 Race Type: 1ChG1
+📏 Distance: 17.0 furlongs (🔼 vs 16.0 today)
+🌱 Going: G
+👜 Prize: 💰 98K
+🏆 Race Description: 1ChG1 -- Grade 1 - 7
+🥇 Result: 1 🥇 / 🏇 4 runners. Expected: 1
+💰 Odds: 0.615 🔥🔥
+📝 Comment: jumped left on occasions, 🎯 made all, not fluent 3 out, 🔥 ridden clear after 2 out, good jump last, kept on well, readily
+🎽 Jockey: N De Boinville- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 52  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-07 15:00:00
+🏆 RaceName: Betfair Tingle Creek Chase (Grade 1) (GBB Race)
+🏟️ Course: Sandown (right-handed, galloping, testing track)
+📋 Race Type: 1ChG1
+📏 Distance: 15.5 furlongs (🔽 vs 16.0 today)
+🌱 Going: S
+👜 Prize: 💰 102K
+🏆 Race Description: 1ChG1 -- Grade 1 - 7
+🥇 Result: 1 🥇 / 🏇 6 runners. Expected: 1
+💰 Odds: 0.615 🔥🔥
+📝 Comment: 🎯 prominent, mistake 2nd, pressed leader 3rd, 🎯 led 6th, briefly disputed lead after 4 out, clear when not fluent 2 out, ridden and kept on well run-in, readily
+🎽 Jockey: N De Boinville- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 42  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-11-15 14:20:00
+🏆 RaceName: Shloer Chase (Registered As The Cheltenham Chase) (Grade 2) (GBB Race)
+🏟️ Course: Cheltenham (left-handed, galloping, undulating and testing track with stiff fences)
+📋 Race Type: 1ChG2
+📏 Distance: 16.0 furlongs (➡️ vs 16.0 today)
+🌱 Going: G
+👜 Prize: 💰 57K
+🏆 Race Description: 1ChG2 -- Grade 2 - 8
+🥇 Result: 1 🥇 / 🏇 4 runners. Expected: 1
+💰 Odds: 0.333 🔥🔥
+📝 Comment: jumped well, 🎯 made all, pushed along before 2 out, 2 1/2 lengths ahead last, ridden out, always doing enough
+🎽 Jockey: N De Boinville- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 22  days ago
+---------------------------------------------------------------------------
+🐎 6 | Marine Nationale📈 Owner has a strong record (SR: 12.75%, 149 runs). (Rank: 6)
+🐎 is a 8 years old  gelding, colo(u)r: b, carrying 164 lbs today.
+🦄 Sire: French Navy 10/62 (16.0%)
+🌿 Dam: Power Of Future 2/16 (12.0%)
+⏱️ Speed record - Runs: 4 | Best: 7.28 sec (Rank 3), Worst: 7.69 sec (Rank 2), Avg: 7.52 sec (Rank 2)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 5.5 (Rank: 2.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: J B Bloodstock Ltd
+🏠 Owner: Barry Connell 19/149 (13.0) - (No previous owner(s))
+👤 Trainer: Barry Connell (0 previous trainer(s)) last 14d WinRate (0.0/4.0 runs) (Rank: 8.0) RTF: 25.0 (OVR: 33%)
+🏇 Jockey: Sean Flanagan (Rank: 3.0) 🏇 Jockey 84936 Win SR: 0.0% | 🏆 Best Alternative Jockey: 95275 (6/7 - 86.0%)(1.0/ 16.0 runs) RTF: N/A (OVR: 10%) 5Y: 65/594 (11.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Won the Supreme here in 2023; produced a career-best effort last time; commands respect
+🔦 Spotlight: Unraced on heavy, acts on any other ground; unbeaten spell featured a ready success in the Supreme at this meeting two years ago when given a superb ride by the late and greatly missed Michael O'Sullivan; 0-4 since successful debut over fences but ran very well (produced a career-best RPR) in the Dublin Chase at Leopardstown most recently, emerging from the chasing pack to finish only 2l behind Solness and pull clear of the remainder; peaking at the right time and, with a fast pace likely, the cards could drop perfectly on this return to Cheltenham; respected, with further progress very plausible.
+📊 **STATS**
+📉 OFR: 159.0 (Rank: 6)
+📈 RPR: 167.0 (Rank: 6)
+📉 TS: 152.0 (Rank: 4)
+🏟️ Course Wins/Runs: 1/1 | Ratio: 1.00
+📏 Distance Wins/Runs: 5/6 | Ratio: 0.83
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 15-232 → Score: 0.11 (Rank: 6)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-02 14:10:00
+🏆 RaceName: Ladbrokes Dublin Chase (Grade 1)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📋 Race Type: ChG1
+📏 Distance: 17.0 furlongs (🔼 vs 16.0 today)
+🌱 Going: Y
+👜 Prize: 💰 74K
+🏆 Race Description: ChG1 -- Grade 1 - 7
+🥇 Result: 2 🥈 / 🏇 8 runners. Expected: 1
+💰 Odds: 4.5 🔥
+📝 Comment: raced wide, in touch with leaders, 🔄 towards rear 4th, headway 5th, went modest second after 4 out, disputing second after 3 out, keeping on before 2 out, pressed winner when ridden after last, kept on well
+🎽 Jockey: S W Flanagan- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 37  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-27 13:10:00
+🏆 RaceName: Paddy's Rewards Club Chase (Grade 1)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📋 Race Type: ChG1
+📏 Distance: 17.0 furlongs (🔼 vs 16.0 today)
+🌱 Going: GY
+👜 Prize: 💰 65K
+🏆 Race Description: ChG1 -- Grade 1 - 7
+🥇 Result: 3 🥉 / 🏇 9 runners. Expected: 1
+💰 Odds: 4.5 🔥
+📝 Comment: visibility reduced by fog, in touch with leaders on inner, briefly went second last, kept on final 110yds
+🎽 Jockey: S W Flanagan- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 37  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-11-10 14:35:00
+🏆 RaceName: Barberstown Castle Chase (Grade 3)
+🏟️ Course: Naas (left-handed, undulating, galloping track (1m4f circuit))
+📋 Race Type: ChG3
+📏 Distance: 16.0 furlongs (➡️ vs 16.0 today)
+🌱 Going: G
+👜 Prize: 💰 15K
+🏆 Race Description: ChG3 -- Grade 3 - 9
+🥇 Result: 2 🥈 / 🏇 5 runners. Expected: 1
+💰 Odds: 0.727 🔥🔥
+📝 Comment: pressed leaders, mistake 1st, not fluent 3rd, went second before 5 out, challenging when not fluent 2 out, soon ridden, no extra after last
+🎽 Jockey: M O'Sullivan- (⚖️ Weight: 155.0 lbs (70.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 46  days ago
+---------------------------------------------------------------------------
+🐎 2 | Energumene🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 is a 11 years old  gelding, colo(u)r: br, carrying 164 lbs today.
+🦄 Sire: Denham Red 2/14 (14.000000000000002%)
+🌿 Dam: Olinight 1/2 (50.0%)
+⏱️ Speed record - Runs: 2 | Best: 7.35 sec (Rank 5), Worst: 7.66 sec (Rank 1), Avg: 7.51 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 7.5 (Rank: 3.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Christophe Dubourg
+🏠 Owner: Tony Bloom 7/34 (21.0) - (No previous owner(s))
+👤 Trainer: W P Mullins (0 previous trainer(s)) last 14d WinRate (9.0/46.0 runs) (Rank: 5.0) RTF: 51.0 (OVR: 13%)
+🏇 Jockey: Paul Townend (Rank: 5.0) 🏇 Jockey 86502 Win SR: 85.0% (No better alternative found.)(5.0/ 11.0 runs) RTF: N/A (OVR: 28%) 5Y: 204/552 (37.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Dual winner of this contest; veteran now and he was beaten by Jonbon at Ascot last time
+🔦 Spotlight: Major force in this division in his prime and recorded emphatic wins in this contest in 2022 (albeit with the race falling apart) and 2023, both on soft; successful in Cork Grade 2 and second to Jonbon in Ascot Grade 1 since returning from lengthy layoff, doing enough to put him in calculations in this third Champion Chase attempt; sets the standard on peak figures, but whether he's capable of reproducing them at the age of 11 is open to doubt.
+📊 **STATS**
+📉 OFR: 166.0 (Rank: 2)
+📈 RPR: 176.0 (Rank: 2)
+📉 TS: 123.0 (Rank: 8)
+🏟️ Course Wins/Runs: 2/3 | Ratio: 0.67
+📏 Distance Wins/Runs: 9/12 | Ratio: 0.75
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 311/12 → Score: 0.29 (Rank: 3)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-01-18 15:32:00
+🏆 RaceName: BetMGM Clarence House Chase (Grade 1) (GBB Race)
+🏟️ Course: Ascot (right-handed, galloping, testing track with stiff fences)
+📋 Race Type: 1ChG1
+📏 Distance: 17.0 furlongs (🔼 vs 16.0 today)
+🌱 Going: G
+👜 Prize: 💰 98K
+🏆 Race Description: 1ChG1 -- Grade 1 - 7
+🥇 Result: 2 🥈 / 🏇 4 runners. Expected: 1
+💰 Odds: 2.25 🔥
+📝 Comment: took keen hold, raced in second, not fluent 3 out, outpaced when not fluent 2 out, kept on but no match for winner
+🎽 Jockey: P Townend- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 52  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-08 14:15:00
+🏆 RaceName: Bar One Racing Hilly Way Chase (Grade 2)
+🏟️ Course: Cork (right-handed flat and level (1m4f oval))
+📋 Race Type: ChG2
+📏 Distance: 16.5 furlongs (🔼 vs 16.0 today)
+🌱 Going: Y
+👜 Prize: 💰 52K
+🏆 Race Description: ChG2 -- Grade 2 - 8
+🥇 Result: 1 🥇 / 🏇 8 runners. Expected: 1
+💰 Odds: 1.25 🔥🔥
+📝 Comment: pressed leader, 🎯 led from 2nd, jumped right when not fluent 3 out, soon switched left and faced challenge but going okay, jumped slightly right 2 out, jumped right when left clear last, ridden out
+🎽 Jockey: P Townend- (⚖️ Weight: 158.0 lbs (71.8 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 41  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2023-04-25 16:25:00
+🏆 RaceName: William Hill Champion Chase (Grade 1)
+🏟️ Course: Punchestown (right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses)
+📋 Race Type: ChG1
+📏 Distance: 16.0 furlongs (➡️ vs 16.0 today)
+🌱 Going: YS
+👜 Prize: 💰 159K
+🏆 Race Description: ChG1 -- Grade 1 - 7
+🥇 Result: 1 🥇 / 🏇 5 runners. Expected: 1
+💰 Odds: 0.286 🔥🔥
+📝 Comment: in touch with leaders, mistake 4th, headway when mistake 4 out, went second 3 out, 🎯 led narrowly before 2 out, ridden and headed approaching last, rallied run-in, 🎯 led again towards finish
+🎽 Jockey: P Townend- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 592  days ago
+---------------------------------------------------------------------------
+🐎 8 | Solness⬆🏇 Solness id 4249685🌟 is a TOP Ranked horse in at least one speed or OPR!
+📈 Owner has a strong record (SR: 15.38%, 65 runs). (Rank: 4)
+🐎 is a 7 years old  gelding, colo(u)r: b, carrying 164 lbs today.
+🦄 Sire: Konig Turf 9/34 (26.0%)
+🌿 Dam: Solveigh 4/12 (33.0%)
+⏱️ Speed record - Runs: 12 | Best: 7.24 sec (Rank 1), Worst: 8.16 sec (Rank 7), Avg: 7.61 sec (Rank 3)
+🛠️ Gear: tp
+🩺 Medical History: No records
+🎲 Early market: 8.0 (Rank: 4.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: M L Bloodstock Limited
+🏠 Owner: Bronsan Racing 10/65 (15.0) - (No previous owner(s))
+👤 Trainer: Joseph Patrick Obrien (0 previous trainer(s)) last 14d WinRate (3.0/6.0 runs) (Rank: 4.0) RTF: 67.0 (OVR: 9%)
+🏇 Jockey: J J Slevin (Rank: 8.0) 🏇 Jockey 88288 Win SR: 25.0% | 🏆 Best Alternative Jockey: 84039 (1/1 - 100.0%)(0.0/ 12.0 runs) RTF: N/A (OVR: 6%) 5Y: 43/599 (7.000000000000001)
+🗞️ **PRESS OPINION**
+💬 Comment: Has shown major improvement with front-running Grade 1 wins at Leopardstown the last twice
+🔦 Spotlight: Looked a notch or two below championship standard for most of his career; however, he's taken his form to a completely new level with front-running Grade 1 wins at Leopardstown (yielding/good to yielding) the last twice, both times establishing a clear lead at various points and not for catching; stuck on gamely to beat Marine Nationale by 2l latest, confirming his sudden emergence as a realistic Champion Chase contender; possibilities, provided he's able to dominate in the same manner.
+📊 **STATS**
+📉 OFR: 162.0 (Rank: 3)
+📈 RPR: 170.0 (Rank: 4)
+📉 TS: 154.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/6 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 132411 → Score: 0.14 (Rank: 5)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-02 14:10:00
+🏆 RaceName: Ladbrokes Dublin Chase (Grade 1)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📋 Race Type: ChG1
+📏 Distance: 17.0 furlongs (🔼 vs 16.0 today)
+🌱 Going: Y
+👜 Prize: 💰 74K
+🏆 Race Description: ChG1 -- Grade 1 - 7
+🥇 Result: 1 🥇 / 🏇 8 runners. Expected: 1
+💰 Odds: 6.0 📉
+📝 Comment: raced wide, made virtually all, went clear after 3rd, reduced lead when pushed along after 2 out, ridden and kept on well after last, pushed out, gamely
+🎽 Jockey: D E Mullins- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 37  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-27 13:10:00
+🏆 RaceName: Paddy's Rewards Club Chase (Grade 1)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📋 Race Type: ChG1
+📏 Distance: 17.0 furlongs (🔼 vs 16.0 today)
+🌱 Going: GY
+👜 Prize: 💰 65K
+🏆 Race Description: ChG1 -- Grade 1 - 7
+🥇 Result: 1 🥇 / 🏇 9 runners. Expected: 1
+💰 Odds: 28.0 ❄️
+📝 Comment: visibility reduced by fog, raced wide, 🎯 made all, jumped slightly right throughout, went clear halfway, not fluent and reduced lead 3 out, went clear again after 2 out, ridden run-in, unchallenged
+🎽 Jockey: J J Slevin- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 37  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-07 15:00:00
+🏆 RaceName: Betfair Tingle Creek Chase (Grade 1) (GBB Race)
+🏟️ Course: Sandown (right-handed, galloping, testing track)
+📋 Race Type: 1ChG1
+📏 Distance: 15.5 furlongs (🔽 vs 16.0 today)
+🌱 Going: S
+👜 Prize: 💰 102K
+🏆 Race Description: 1ChG1 -- Grade 1 - 7
+🥇 Result: 4 / 🏇 6 runners. Expected: 1
+💰 Odds: 18.0 📉
+📝 Comment: took keen hold, 🎯 prominent, pecked on landing 1st, ❄️ weakened from 3 out
+🎽 Jockey: D E Mullins- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 19  days ago
+---------------------------------------------------------------------------
+🐎 3 | Found A Fifty⬆🏇 Found A Fifty id 3970593🌟 is a TOP Ranked horse in at least one speed or OPR!
+📈 Owner has a strong record (SR: 18.32%, 202 runs). (Rank: 2)
+🐎 is a 8 years old  gelding, colo(u)r: b, carrying 164 lbs today.
+🦄 Sire: Solskjaer 5/9 (56.00000000000001%)
+🌿 Dam: Fillmein 5/9 (56.00000000000001%)
+⏱️ Speed record - Runs: 8 | Best: 7.24 sec (Rank 1), Worst: 8.06 sec (Rank 6), Avg: 7.69 sec (Rank 5)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 13.0 (Rank: 5.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Thomas Fahey
+🏠 Owner: Bective Stud 37/202 (18.0) - (No previous owner(s))
+👤 Trainer: Gordon Elliott (0 previous trainer(s)) last 14d WinRate (5.0/55.0 runs) (Rank: 1.0) RTF: 41.0 (OVR: 7%)
+🏇 Jockey: Jack Kennedy (Rank: 1.0) 🏇 Jockey 94503 Win SR: 50.0% | 🏆 Best Alternative Jockey: 77030 (1/1 - 100.0%)(1.0/ 12.0 runs) RTF: N/A (OVR: 11%) 5Y: 147/691 (21.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Rare blip last time; solid record otherwise over fences; runner-up in last year's Arkle
+🔦 Spotlight: Sometimes jumps right; probably best to forgive his rare blip last time, as he was found to have a slight bilateral nasal discharge after the race; chase record otherwise reads 12122111, beating Solness by a neck in Navan Grade 2 the final occasion; respectable second in the Arkle at this meeting last year and was a dual Grade 1 scorer during that novice campaign; likely to bounce back and perform well.
+📊 **STATS**
+📉 OFR: 162.0 (Rank: 3)
+📈 RPR: 169.0 (Rank: 5)
+📉 TS: 134.0 (Rank: 7)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 3/8 | Ratio: 0.38
+🌱 Going Wins/Runs: 1/2 | Ratio: 0.50
+📊 Form: 21-11P → Score: 0.53 (Rank: 2)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-12-27 13:10:00
+🏆 RaceName: Paddy's Rewards Club Chase (Grade 1)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📋 Race Type: ChG1
+📏 Distance: 17.0 furlongs (🔼 vs 16.0 today)
+🌱 Going: GY
+👜 Prize: 💰 65K
+🏆 Race Description: ChG1 -- Grade 1 - 7
+🥇 Result: nan / 🏇 9 runners. Expected: 1
+💰 Odds: 4.0 🔥
+📝 Comment: visibility reduced by fog, jumped right throughout, raced in second, in touch with leaders halfway, ❄️ weakened 3 out, lost touch and pulled up before last (vet reported gelding to have a slight bilateral nasal discharge post race)
+🎽 Jockey: Sam Ewing- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 74  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-11-16 14:33:00
+🏆 RaceName: Bar One Racing Fortria Chase (Grade 2)
+🏟️ Course: Navan (left-handed, undulating, galloping track (1m4f circuit))
+📋 Race Type: ChG2
+📏 Distance: 16.0 furlongs (➡️ vs 16.0 today)
+🌱 Going: Y
+👜 Prize: 💰 26K
+🏆 Race Description: ChG2 -- Grade 2 - 8
+🥇 Result: 1 🥇 / 🏇 6 runners. Expected: 1
+💰 Odds: 1.375 🔥🔥
+📝 Comment: jumped right on occasions, 🔄 held up in rear but in touch with leaders, headway and 🎯 prominent after 5 out, 🎯 led 2 out, ridden when jumped badly right and ⚠️ hampered rival last, all out (jockey said gelding hung and jumped right throughout)
+🎽 Jockey: J Kennedy- (⚖️ Weight: 165.0 lbs (75.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 40  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-11-02 15:20:00
+🏆 RaceName: Bottlegreen Ladies Day 2024 Chase (Grade 2)
+🏟️ Course: Down Royal (right-handed, galloping, undulating, testing (1m7f circuit))
+📋 Race Type: ChG2
+📏 Distance: 19.5 furlongs (🔼 vs 16.0 today)
+🌱 Going: GY
+👜 Prize: 💰 26K
+🏆 Race Description: ChG2 -- Grade 2 - 8
+🥇 Result: 1 🥇 / 🏇 5 runners. Expected: 1
+💰 Odds: 1.1 🔥🔥
+📝 Comment: jumped well, 🎯 prominent, 🎯 led before 2nd, joined 5th, 🎯 led clearly 4 out, pushed along after 2 out, ridden and ⏳ ran on well run-in
+🎽 Jockey: Sam Ewing- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 13  days ago
+---------------------------------------------------------------------------
+🐎 1 | Captain Guinness📈 Owner has a strong record (SR: 12.50%, 32 runs). (Rank: 7)
+🐎 is a 10 years old  gelding, colo(u)r: b, carrying 164 lbs today.
+🦄 Sire: Arakan 5/45 (11.0%)
+🌿 Dam: Presenting Dazy 0/0 (0.0%)
+⏱️ Speed record - Runs: 5 | Best: 7.41 sec (Rank 7), Worst: 8.04 sec (Rank 5), Avg: 7.69 sec (Rank 5)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 21.0 (Rank: 6.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Arthur Fennelly
+🏠 Owner: Declan Landy 4/32 (12.0) - (No previous owner(s))
+👤 Trainer: Henry De Bromhead (0 previous trainer(s)) last 14d WinRate (2.0/23.0 runs) (Rank: 1.0) RTF: 71.0 (OVR: 15%)
+🏇 Jockey: Rachael Blackmore (Rank: 2.0) 🏇 Jockey 88993 Win SR: 30.0% (No better alternative found.)(1.0/ 14.0 runs) RTF: N/A (OVR: 20%) 5Y: 72/544 (13.0)
+🗞️ **PRESS OPINION**
+💬 Comment: No match for Energumene in this race in 2023 and looked a fortuitous winner last year
+🔦 Spotlight: Has performed well in both Champion Chase attempts but proved no match for Energumene in 2023 and looked a fortuitous winner last year when the race fell apart (Jonbon was withdrawn and odds-on El Fabiolo failed to complete); his recent form adds doubt, having been well held in Leopardstown contests won by Solness the last twice.
+📊 **STATS**
+📉 OFR: 160.0 (Rank: 5)
+📈 RPR: 172.0 (Rank: 3)
+📉 TS: 158.0 (Rank: 2)
+🏟️ Course Wins/Runs: 1/3 | Ratio: 0.33
+📏 Distance Wins/Runs: 6/15 | Ratio: 0.40
+🌱 Going Wins/Runs: 0/3 | Ratio: 0.00
+📊 Form: 1-2P56 → Score: 0.08 (Rank: 7)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-02 14:10:00
+🏆 RaceName: Ladbrokes Dublin Chase (Grade 1)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📋 Race Type: ChG1
+📏 Distance: 17.0 furlongs (🔼 vs 16.0 today)
+🌱 Going: Y
+👜 Prize: 💰 74K
+🏆 Race Description: ChG1 -- Grade 1 - 7
+🥇 Result: 6 / 🏇 8 runners. Expected: 1
+💰 Odds: 40.0 ❄️❄️
+📝 Comment: 🔄 towards rear but in touch with leaders, not fluent 6th, brief headway 4 out, ❄️ weakened 3 out
+🎽 Jockey: D O'Keeffe- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 37  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-27 13:10:00
+🏆 RaceName: Paddy's Rewards Club Chase (Grade 1)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📋 Race Type: ChG1
+📏 Distance: 17.0 furlongs (🔼 vs 16.0 today)
+🌱 Going: GY
+👜 Prize: 💰 65K
+🏆 Race Description: ChG1 -- Grade 1 - 7
+🥇 Result: 5 / 🏇 9 runners. Expected: 1
+💰 Odds: 11.0 📉
+📝 Comment: visibility reduced by fog, never better than 🔄 midfield, no impression when jumped right last
+🎽 Jockey: Rachael Blackmore- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 37  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-11-16 14:33:00
+🏆 RaceName: Bar One Racing Fortria Chase (Grade 2)
+🏟️ Course: Navan (left-handed, undulating, galloping track (1m4f circuit))
+📋 Race Type: ChG2
+📏 Distance: 16.0 furlongs (➡️ vs 16.0 today)
+🌱 Going: Y
+👜 Prize: 💰 26K
+🏆 Race Description: ChG2 -- Grade 2 - 8
+🥇 Result: nan / 🏇 6 runners. Expected: 1
+💰 Odds: 2.5 🔥
+📝 Comment: in touch with leaders, raced in last when nudged along after 5 out, weakening when not fluent 4 out, tailed off when pulled up before 3 out (vet reported gelding to be clinically abnormal post race)
+🎽 Jockey: D O'Keeffe- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 40  days ago
+---------------------------------------------------------------------------
+🐎 7 | Quilixios📈 Owner has a strong record (SR: 17.98%, 367 runs). (Rank: 3)
+🐎 is a 8 years old  gelding, colo(u)r: b, carrying 164 lbs today.
+🦄 Sire: Maxios 23/163 (14.000000000000002%)
+🌿 Dam: Quilita 3/11 (27.0%)
+⏱️ Speed record - Runs: 7 | Best: 7.39 sec (Rank 6), Worst: 8.41 sec (Rank 8), Avg: 7.9 sec (Rank 8)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 26.0 (Rank: 7.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Stiftung Gestuet Faehrhof
+🏠 Owner: Cheveley Park Stud 66/367 (18.0) - (No previous owner(s))
+👤 Trainer: Henry De Bromhead (0 previous trainer(s)) last 14d WinRate (2.0/23.0 runs) (Rank: 1.0) RTF: 71.0 (OVR: 15%)
+🏇 Jockey: Darragh Okeeffe (Rank: 4.0) 🏇 Jockey 96391 Win SR: 0.0% | 🏆 Best Alternative Jockey: 94503 (1/1 - 100.0%)(1.0/ 20.0 runs) RTF: N/A (OVR: 10%) 5Y: 89/851 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Still seeking a first Grade 1 win over fences; form dipped last time; others preferred
+🔦 Spotlight: Landed the Triumph Hurdle here in 2021; still seeking a first Grade 1 success over fences and form dipped in the Dublin Chase most recently, failing by a long way to confirm Naas November placings with Marine Nationale; ran well but was no match for Jonbon in the Tingle Creek in between; not the percentage call.
+📊 **STATS**
+📉 OFR: 158.0 (Rank: 7)
+📈 RPR: 167.0 (Rank: 6)
+📉 TS: 148.0 (Rank: 5)
+🏟️ Course Wins/Runs: 1/2 | Ratio: 0.50
+📏 Distance Wins/Runs: 6/13 | Ratio: 0.46
+🌱 Going Wins/Runs: 1/2 | Ratio: 0.50
+📊 Form: 85-124 → Score: 0.05 (Rank: 8)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-02 14:10:00
+🏆 RaceName: Ladbrokes Dublin Chase (Grade 1)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📋 Race Type: ChG1
+📏 Distance: 17.0 furlongs (🔼 vs 16.0 today)
+🌱 Going: Y
+👜 Prize: 💰 74K
+🏆 Race Description: ChG1 -- Grade 1 - 7
+🥇 Result: 4 / 🏇 8 runners. Expected: 1
+💰 Odds: 10.0 📉
+📝 Comment: jumped right on occasions, 🎯 led on inner early, 🎯 prominent after 1st, chased clear leader before 4th, lost second after 4 out, disputing second after 3 out, outpaced before 2 out, ❄️ weakened after 2 out
+🎽 Jockey: Rachael Blackmore- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 37  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-07 15:00:00
+🏆 RaceName: Betfair Tingle Creek Chase (Grade 1) (GBB Race)
+🏟️ Course: Sandown (right-handed, galloping, testing track)
+📋 Race Type: 1ChG1
+📏 Distance: 15.5 furlongs (🔽 vs 16.0 today)
+🌱 Going: S
+👜 Prize: 💰 102K
+🏆 Race Description: 1ChG1 -- Grade 1 - 7
+🥇 Result: 2 🥈 / 🏇 6 runners. Expected: 1
+💰 Odds: 7.5 📉
+📝 Comment: 🎯 led, headed and raced in second 6th, outpaced from 2 out, no match for winner
+🎽 Jockey: J J Burke- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 56  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-11-10 14:35:00
+🏆 RaceName: Barberstown Castle Chase (Grade 3)
+🏟️ Course: Naas (left-handed, undulating, galloping track (1m4f circuit))
+📋 Race Type: ChG3
+📏 Distance: 16.0 furlongs (➡️ vs 16.0 today)
+🌱 Going: G
+👜 Prize: 💰 15K
+🏆 Race Description: ChG3 -- Grade 3 - 9
+🥇 Result: 1 🥇 / 🏇 5 runners. Expected: 1
+💰 Odds: 3.5 🔥
+📝 Comment: jumped well, 🎯 made all, faced challenge 2 out, ridden before last, won going away
+🎽 Jockey: D O'Keeffe- (⚖️ Weight: 159.0 lbs (72.3 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 27  days ago
+---------------------------------------------------------------------------
+🐎 5 | Libberty Hunter🐎 is a 9 years old  gelding, colo(u)r: b, carrying 164 lbs today.
+🦄 Sire: Yorgunnabelucky 30/165 (18.0%)
+🌿 Dam: Classy Crewella 0/0 (0.0%)
+⏱️ Speed record - Runs: 6 | Best: 7.55 sec (Rank 8), Worst: 8.03 sec (Rank 4), Avg: 7.75 sec (Rank 7)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 34.0 (Rank: 8.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: B J Eckley
+🏠 Owner: Mr & Mrs William Rucker 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Evan Williams (0 previous trainer(s)) last 14d WinRate (2.0/20.0 runs) (Rank: 7.0) RTF: 35.0 (OVR: 17%)
+🏇 Jockey: Adam Wedge (Rank: 7.0) 🏇 Jockey 86912 Win SR: 38.0% (No better alternative found.)(1.0/ 10.0 runs) RTF: N/A (OVR: 9%) 5Y: 54/559 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: 📈 progressive and has useful Cheltenham form; however, he's bottom of this pack on ratings
+🔦 Spotlight: Has form figures of 112312 in completed chase starts and 121 (three handicaps) at Cheltenham; good second in the Grand Annual on this card 12 months ago and filled the same position in the Game Spirit at Newbury most recently; 📈 progressive but has the lowest rating of the field.
+📊 **STATS**
+📉 OFR: 151.0 (Rank: 8)
+📈 RPR: 164.0 (Rank: 8)
+📉 TS: 147.0 (Rank: 6)
+🏟️ Course Wins/Runs: 2/3 | Ratio: 0.67
+📏 Distance Wins/Runs: 6/14 | Ratio: 0.43
+🌱 Going Wins/Runs: 2/8 | Ratio: 0.25
+📊 Form: 123-12 → Score: 0.24 (Rank: 4)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-08 15:00:00
+🏆 RaceName: William Hill Best Odds Guaranteed Game Spirit Chase (Grade 2) (GBB Race)
+🏟️ Course: Newbury (left-handed, galloping track with stiff fences)
+📋 Race Type: 1ChG2
+📏 Distance: 16.5 furlongs (🔼 vs 16.0 today)
+🌱 Going: S
+👜 Prize: 💰 48K
+🏆 Race Description: 1ChG2 -- Grade 2 - 8
+🥇 Result: 2 🥈 / 🏇 5 runners. Expected: 1
+💰 Odds: 4.5 🔥
+📝 Comment: 🔄 held up in rear, jumped slightly right 3 out, ridden and steady headway after 2 out, went third last, kept on up the centre run-in, went second final strides
+🎽 Jockey: A Wedge- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 31  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-14 14:25:00
+🏆 RaceName: BetMGM Handicap Chase (GBB Race)
+🏟️ Course: Cheltenham (left-handed, galloping, undulating and testing track with stiff fences)
+📋 Race Type: 2HcCh
+📏 Distance: 16.5 furlongs (🔼 vs 16.0 today)
+🌱 Going: GS
+👜 Prize: 💰 21K
+🏆 Race Description: 2HcCh -- Handicap - H
+🥇 Result: 1 🥇 / 🏇 6 runners. Expected: 1
+💰 Odds: 3.5 🔥
+📝 Comment: 🔄 towards rear but in touch with leaders, headway 9th, nudged along and went second before 2 out, 🎯 led narrowly and going easily last, went clear nudged out final 110yds, comfortably
+🎽 Jockey: H Cobden- (⚖️ Weight: 158.0 lbs (71.8 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 56  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-04-13 16:00:00
+🏆 RaceName: My Pension Expert Maghull Novices' Chase (Grade 1) (GBB Race)
+🏟️ Course: Aintree (left-handed, flat track; Mildmay sharp; National galloping, stiff fences)
+📋 Race Type: 1NvChG1
+📏 Distance: 16.0 furlongs (➡️ vs 16.0 today)
+🌱 Going: GS
+👜 Prize: 💰 68K
+🏆 Race Description: 1NvChG1 -- Grade 1 - 7
+🥇 Result: 3 🥉 / 🏇 10 runners. Expected: 1
+💰 Odds: 33.0 ❄️
+📝 Comment: carried right start, in rear on outer, steady headway 3 out, went third last, no match for first two
+🎽 Jockey: H Cobden- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 244  days ago
+---------------------------------------------------------------------------

@@ -4,8 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="New data. First course-spec stats index.html.">
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="Course race type stats fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hash_codes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/881095.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/881100.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/883096.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/883108.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887339.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887340.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/887341.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888201.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888202.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888203.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888204.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888205.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888206.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888385.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888386.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888387.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888388.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888389.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888390.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888391.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888392.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888393.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888394.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888395.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888396.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888397.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/888398.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890123.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890124.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,15 +123,7 @@
       <workItem from="1740572483632" duration="11973000" />
       <workItem from="1740901685414" duration="602000" />
       <workItem from="1741192901933" duration="1192000" />
-      <workItem from="1741249269958" duration="15636000" />
-    </task>
-    <task id="LOCAL-00014" summary="improvement in data. updated footer version">
-      <option name="closed" value="true" />
-      <created>1738953688828</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1738953688828</updated>
+      <workItem from="1741249269958" duration="21068000" />
     </task>
     <task id="LOCAL-00015" summary="Todays data, Hash code samples. updated footer version. New data format with horses for first time">
       <option name="closed" value="true" />
@@ -487,14 +509,21 @@
       <option name="project" value="LOCAL" />
       <updated>1741696343367</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Course race type stats fix">
+      <option name="closed" value="true" />
+      <created>1741697824911</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1741697824911</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update to txt fles" />
     <MESSAGE value="update to txt files 2" />
     <MESSAGE value="fixed h history records not pulled and displyd. Ahgo/since days sicne last run now clearer. Version 0.x almost done" />
     <MESSAGE value="NR bug fix" />
@@ -519,6 +548,7 @@
     <MESSAGE value="index.html bug fx" />
     <MESSAGE value="new data. WinSR fixed." />
     <MESSAGE value="New data. First course-spec stats index.html." />
-    <option name="LAST_COMMIT_MESSAGE" value="New data. First course-spec stats index.html." />
+    <MESSAGE value="Course race type stats fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Course race type stats fix" />
   </component>
 </project>
