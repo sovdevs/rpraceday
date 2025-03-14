@@ -1,0 +1,439 @@
+🏁 Race ID: 890150
+6 runners declared
+📍 Venue: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+🌦️ Weather: Showers
+⚙️ Going: Standard
+⏰ Off Time: 18:10
+🏆 Race Name: William Hill Top Price Guarantee Handicap
+📏 Distance: 12.0 furlongs
+🏇 Race/Grade: nan
+🏇 Type: Flat
+🎂 Age Band: 4yo+
+💰 Today's Purse: 💰 7K
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Performance Table
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6        | Gracesolution             | 3632526  | 4.0      | 5.0      | 6.0      | 6.0      | 3.0      | 5        | 3        | 3.0      | 4.0      | 3.0      | 2.0      | 4.0      | 6.0      | 6.0      | 3.0      | 3.0      | 2.0      | 4.0      | 2.0      | 2.0      | 6.0      | 3.0      | 3.0      | 4.0      | 4.0      | 4.0      | 1.0      | 5.0      | 2.0      | 2.0      | 5.0      | 4.0     
+5        | Theophilos                | 4231654  | 2.0      | 6.0      | 3.0      | 4.0      | 4.0      | 4        | 5        | 2.0      | 4.0      | 1.0      | 1.0      | 4.0      | 4.0      | 5.0      | 3.0      | 6.0      | 3.0      | 6.0      | 6.0      | 1.0      | 3.0      | 4.0      | 4.0      | 4.0      | 4.0      | 4.0      | 2.0      | 3.0      | 4.0      | 2.0      | 3.0      | 6.0     
+1        | Pavilion End              | 5554972  | 1.0      | 2.0      | 1.0      | 1.0      | 4.0      | 6        | 6        | 4.0      | 1.0      | 5.0      | 5.0      | 3.0      | 3.0      | 1.0      | 1.0      | 1.0      | 6.0      | 1.0      | 2.0      | 2.0      | 2.0      | 1.0      | 1.0      | 3.0      | 2.0      | 3.0      | 3.0      | 2.0      | 5.0      | 1.0      | N/A      | 2.0     
+4        | Pearl Jewel               | 5218291  | 3.0      | 4.0      | 2.0      | 2.0      | 4.0      | 3        | 2        | 1.0      | 2.0      | 4.0      | 4.0      | 2.0      | 2.0      | 4.0      | 3.0      | 5.0      | 4.0      | 5.0      | 2.0      | 5.0      | 4.0      | 2.0      | 2.0      | 1.0      | 2.0      | 1.0      | 4.0      | 4.0      | 3.0      | N/A      | 2.0      | 5.0     
+2        | Polemon                   | 4611204  | 6.0      | 3.0      | 5.0      | 5.0      | 2.0      | 2        | 4        | 6.0      | 4.0      | 2.0      | 3.0      | 6.0      | 5.0      | 2.0      | 3.0      | 2.0      | 5.0      | 2.0      | 2.0      | 6.0      | 1.0      | 5.0      | 5.0      | 4.0      | 1.0      | 4.0      | 5.0      | 1.0      | 6.0      | N/A      | 1.0      | 1.0     
+3        | Migdam                    | 3733018  | 5.0      | 1.0      | 4.0      | 3.0      | 1.0      | 1        | 1        | 5.0      | 3.0      | 6.0      | 6.0      | 1.0      | 1.0      | 3.0      | 2.0      | 4.0      | 1.0      | 3.0      | 1.0      | 4.0      | 4.0      | 6.0      | 6.0      | 2.0      | 4.0      | 2.0      | 6.0      | 6.0      | 1.0      | N/A      | 4.0      | 3.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 6 | Gracesolution🐎 is a 8 years old  mare, colo(u)r: ch, carrying 127 lbs today.
+🦄 Sire: Notnowcato 5/71 (7.000000000000001%)
+🌿 Dam: Solution Set 0/12 (0.0%)
+⏱️ Speed record - Runs: 12 | Best: 6.4 sec (Rank 5), Worst: 6.83 sec (Rank 1), Avg: 6.58 sec (Rank 3)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 3.75 (Rank: 1.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Richard O'Hara
+🏠 Owner: Patrick Mcguill 0/17 (0.0) - (No previous owner(s))
+👤 Trainer: Ross Osullivan (0 previous trainer(s)) last 14d WinRate (0.0/1.0 runs) (Rank: 2.0) RTF: 63.0 (OVR: 10%)
+🏇 Jockey: Donagh Oconnor (Rank: 3.0) 🏇 Jockey 93716 Win SR: 0.0% | 🏆 Best Alternative Jockey: 101180 (2/7 - 29.0%)(0.0/ 2.0 runs) RTF: N/A (OVR: 8%) 5Y: 11/212 (5.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Fine C&D comeback run in January; granted normal improvement, could take the beating here
+🔦 Spotlight: Yet to win on this surface, the latest of two turf wins coming in 2022; very promising C&D comeback run in January when only losing second late on when unfancied (fourth and fifth have won since); granted normal improvement, could take the beating here.
+📊 **STATS**
+📉 OFR: 67.0 (Rank: 6)
+📈 RPR: 81.0 (Rank: 4)
+📉 TS: 30.0 (Rank: 6)
+🏟️ Course Wins/Runs: 0/14 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/11 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/14 | Ratio: 0.00
+📊 Form: 3640-3 → Score: 0.08 (Rank: 3)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-01-27 17:45:00
+🏆 RaceName: DundalkStadium.com Handicap
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📋 Race Type: Hc
+📏 Distance: 12.0 furlongs (➡️ vs 12.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+🏆 Race Description: Hc -- Handicap - H
+🥇 Result: 3 🥉 / 🏇 10 runners. Expected: 1
+💰 Odds: 22.0 ❄️
+📝 Comment: 🎯 prominent, went second under 2f out, no extra and lost second towards finish
+🎽 Jockey: D O'Connor- (⚖️ Weight: 136.0 lbs (61.8 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 45  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-09-01 16:30:00
+🏆 RaceName: Great National Ballykisteen Golf Hotel Handicap
+🏟️ Course: Tipperary (left-handed, sharp, flat track (1m2f circuit), chute for 5f races)
+📋 Race Type: Hc
+📏 Distance: 12.5 furlongs (🔼 vs 12.0 today)
+🌱 Going: G
+👜 Prize: 💰 6K
+🏆 Race Description: Hc -- Handicap - H
+🥇 Result: 11 / 🏇 16 runners. Expected: 1
+💰 Odds: 6.5 📉
+📝 Comment: 🎯 prominent, went second 4f out, ❄️ weakened from under 2f out
+🎽 Jockey: S Foley- (⚖️ Weight: 140.0 lbs (63.6 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 148  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-07-17 19:20:00
+🏆 RaceName: Kelly Bros Handicap
+🏟️ Course: Killarney (left-handed, sharp track (1m2f oval))
+📋 Race Type: Hc
+📏 Distance: 14.5 furlongs (🔼 vs 12.0 today)
+🌱 Going: G
+👜 Prize: 💰 6K
+🏆 Race Description: Hc -- Handicap - H
+🥇 Result: 4 / 🏇 12 runners. Expected: 1
+💰 Odds: 4.5 🔥
+📝 Comment: 🔄 midfield, switched right over 3f out, headway towards far side from 2f out, went modest third inside final furlong, no extra when lost third towards finish
+🎽 Jockey: S Foley- (⚖️ Weight: 140.0 lbs (63.6 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 45  days ago
+---------------------------------------------------------------------------
+🐎 5 | Theophilos🐎 is a 6 years old  gelding, colo(u)r: ch, carrying 131 lbs today.
+🦄 Sire: Teofilo 32/332 (10.0%)
+🌿 Dam: Catchphrase 1/17 (6.0%)
+⏱️ Speed record - Runs: 11 | Best: 6.39 sec (Rank 4), Worst: 8.21 sec (Rank 6), Avg: 6.94 sec (Rank 5)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 4.0 (Rank: 2.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Newtown Anner Stud
+🏠 Owner: Boyneside Syndicate 0/6 (0.0) - (No previous owner(s))
+👤 Trainer: Gerard Keane (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 6.0) RTF: N/A (OVR: 3%)
+🏇 Jockey: J M Sheridan (Rank: 3.0) 🏇 Jockey 99171 Win SR: 0.0% | 🏆 Best Alternative Jockey: 97031 (1/8 - 12.0%)(0.0/ 7.0 runs) RTF: N/A (OVR: 5%) 5Y: 10/301 (3.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Just denied over C&D last month; holds Pavilion End on that run so big chance
+🔦 Spotlight: Won on turf over 1m1f in 2023; well beaten over hurdles this winter but fine C&D effort last month when just denied off 70 (Pavilion End fourth); big chance.
+📊 **STATS**
+📉 OFR: 71.0 (Rank: 5)
+📈 RPR: 81.0 (Rank: 4)
+📉 TS: 54.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/3 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/3 | Ratio: 0.00
+📊 Form: 276-32 → Score: 0.06 (Rank: 4)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-21 20:30:00
+🏆 RaceName: Floodlit Friday Nights At Dundalk Stadium Handicap
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📋 Race Type: Hc
+📏 Distance: 12.0 furlongs (➡️ vs 12.0 today)
+🌱 Going: SD
+👜 Prize: 💰 6K
+🏆 Race Description: Hc -- Handicap - H
+🥇 Result: 2 🥈 / 🏇 7 runners. Expected: 1
+💰 Odds: 8.0 📉
+📝 Comment: chased clear leader, headway under 4f out, pushed along under 2f out, pressed leader from 1f out, sustained duel with winner inside final furlong, just held
+🎽 Jockey: James Ryan- (⚖️ Weight: 124.0 lbs (56.4 kg) carried -- Allowance: 3.0) 
+⏳ Time between runs: 20  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-29 14:47:00
+🏆 RaceName: Put The Fun In Fundraising At Dundalk Handicap
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📋 Race Type: Hc
+📏 Distance: 10.5 furlongs (🔽 vs 12.0 today)
+🌱 Going: SD
+👜 Prize: 💰 6K
+🏆 Race Description: Hc -- Handicap - H
+🥇 Result: 3 🥉 / 🏇 6 runners. Expected: 1
+💰 Odds: 12.0 📉
+📝 Comment: in touch with leaders, outpaced over 3f out, headway up the centre from under 2f out, not reach leaders
+🎽 Jockey: J Kearney- (⚖️ Weight: 124.0 lbs (56.4 kg) carried -- Allowance: 5.0) 
+⏳ Time between runs: 23  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-01-12 14:55:00
+🏆 RaceName: Sky Bet Acca Freeze Maiden Hurdle
+🏟️ Course: Punchestown (right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses)
+📋 Race Type: MdH
+📏 Distance: 17.0 furlongs (🔼 vs 12.0 today)
+🌱 Going: S
+👜 Prize: 💰 6K
+🏆 Race Description: MdH -- Unknown - 0
+🥇 Result: 8 / 🏇 21 runners. Expected: 1
+💰 Odds: 250.0 ❄️❄️
+📝 Comment: 🔄 midfield, kept on but no impression after 2 out
+🎽 Jockey: J Kearney- (⚖️ Weight: 160.0 lbs (72.7 kg) carried -- Allowance: 3.0) 
+⏳ Time between runs: 16  days ago
+---------------------------------------------------------------------------
+🐎 1 | Pavilion End🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 is a 5 years old  gelding, colo(u)r: ch, carrying 140 lbs today.
+🦄 Sire: Jack Hobbs 38/275 (14.000000000000002%)
+🌿 Dam: Munstead Star 0/0 (0.0%)
+⏱️ Speed record - Runs: 6 | Best: 6.44 sec (Rank 6), Worst: 8.19 sec (Rank 5), Avg: 7.14 sec (Rank 6)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 5.0 (Rank: 3.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Overbury Stallions & Conduit Farm Stud
+🏠 Owner: Michael L Keating 1/3 (33.0) - (No previous owner(s))
+👤 Trainer: Charles Obrien (0 previous trainer(s)) last 14d WinRate (0.0/1.0 runs) (Rank: 2.0) RTF: 100.0 (OVR: 6%)
+🏇 Jockey: Keithen Kennedy(5) (Rank: 1.0) 🏇 Jockey 103045 Win SR: 0.0% (No better alternative found.)(1.0/ 3.0 runs) RTF: N/A (OVR: 11%) 5Y: 23/154 (15.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Left with fair bit to do when fourth over this trip latest; down in grade and respected
+🔦 Spotlight: Some promise in bumpers before winning Flat start in C&D maiden in January; has run well in both handicaps since, left with fair bit to do when fourth over this trip latest; down in grade and has to be respected.
+📊 **STATS**
+📉 OFR: 80.0 (Rank: 1)
+📈 RPR: 82.0 (Rank: 3)
+📉 TS: 55.0 (Rank: 3)
+🏟️ Course Wins/Runs: 1/3 | Ratio: 0.33
+📏 Distance Wins/Runs: 1/2 | Ratio: 0.50
+🌱 Going Wins/Runs: 1/3 | Ratio: 0.33
+📊 Form: 124 → Score: 0.19 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-21 20:30:00
+🏆 RaceName: Floodlit Friday Nights At Dundalk Stadium Handicap
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📋 Race Type: Hc
+📏 Distance: 12.0 furlongs (➡️ vs 12.0 today)
+🌱 Going: SD
+👜 Prize: 💰 6K
+🏆 Race Description: Hc -- Handicap - H
+🥇 Result: 4 / 🏇 7 runners. Expected: 1
+💰 Odds: 1.5 🔥🔥
+📝 Comment: 🔄 midfield, headway towards near side over 1f out, went fourth inside final furlong, not reach leaders
+🎽 Jockey: J Kearney- (⚖️ Weight: 130.0 lbs (59.1 kg) carried -- Allowance: 5.0) 
+⏳ Time between runs: 20  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-07 17:25:00
+🏆 RaceName: William Hill Top Price Guarantee Handicap
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📋 Race Type: Hc
+📏 Distance: 16.0 furlongs (🔼 vs 12.0 today)
+🌱 Going: SD
+👜 Prize: 💰 8K
+🏆 Race Description: Hc -- Handicap - H
+🥇 Result: 2 🥈 / 🏇 6 runners. Expected: 1
+💰 Odds: 4.5 🔥
+📝 Comment: in rear but in touch with leaders, headway and 🎯 prominent 2f out, challenging when ridden 1f out, no extra inside final 110yds, no match for winner
+🎽 Jockey: J Kearney- (⚖️ Weight: 120.0 lbs (54.5 kg) carried -- Allowance: 5.0) 
+⏳ Time between runs: 14  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-01-14 14:30:00
+🏆 RaceName: Irishinjuredjockeys.com Apprentice Maiden
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📋 Race Type: Md
+📏 Distance: 12.0 furlongs (➡️ vs 12.0 today)
+🌱 Going: SD
+👜 Prize: 💰 6K
+🏆 Race Description: Md -- Unknown - 0
+🥇 Result: 1 🥇 / 🏇 8 runners. Expected: 1
+💰 Odds: 16.0 📉
+📝 Comment: slowly into stride, raced in last, 🔄 towards rear 6f out, steady headway from over 4f out, pressed leaders when ridden and ran on towards near side inside final furlong, 🎯 led post
+🎽 Jockey: Keithen Kennedy- (⚖️ Weight: 138.0 lbs (62.7 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 24  days ago
+---------------------------------------------------------------------------
+🐎 4 | Pearl Jewel🐎 is a 4 years old  filly, colo(u)r: b, carrying 135 lbs today.
+🦄 Sire: Free Eagle 24/270 (9.0%)
+🌿 Dam: Princess Pearlita 2/22 (9.0%)
+⏱️ Speed record - Runs: 9 | Best: 6.33 sec (Rank 3), Worst: 7.02 sec (Rank 2), Avg: 6.54 sec (Rank 2)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 6.0 (Rank: 4.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Mr M Enright
+🏠 Owner: Future Stars & Brian Murray Partnership 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Chris Timmons (0 previous trainer(s)) last 14d WinRate (0.0/2.0 runs) (Rank: 2.0) RTF: 100.0 (OVR: 11%)
+🏇 Jockey: Robbie Colgan (Rank: 3.0) 🏇 Jockey 75609 Win SR: 0.0% (No better alternative found.)(0.0/ 5.0 runs) RTF: N/A (OVR: 4%) 5Y: 4/100 (4.0)
+🗞️ **PRESS OPINION**
+💬 Comment: C&D winner closely matched with Pavilion End on 2m run since
+🔦 Spotlight: Gained a well-deserved maiden win over C&D in November and good effort when third in 2m handicap (Pavilion End second) last month considering she was keen; bit more needed but entitled to be thereabouts.
+📊 **STATS**
+📉 OFR: 76.0 (Rank: 4)
+📈 RPR: 83.0 (Rank: 2)
+📉 TS: 56.0 (Rank: 2)
+🏟️ Course Wins/Runs: 1/6 | Ratio: 0.17
+📏 Distance Wins/Runs: 1/2 | Ratio: 0.50
+🌱 Going Wins/Runs: 1/6 | Ratio: 0.17
+📊 Form: 2551-3 → Score: 0.08 (Rank: 2)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-07 17:25:00
+🏆 RaceName: William Hill Top Price Guarantee Handicap
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📋 Race Type: Hc
+📏 Distance: 16.0 furlongs (🔼 vs 12.0 today)
+🌱 Going: SD
+👜 Prize: 💰 8K
+🏆 Race Description: Hc -- Handicap - H
+🥇 Result: 3 🥉 / 🏇 6 runners. Expected: 1
+💰 Odds: 5.5 🔥
+📝 Comment: took keen hold, 🎯 prominent, ridden towards near side 2f out, kept on
+🎽 Jockey: R Whearty- (⚖️ Weight: 116.0 lbs (52.7 kg) carried -- Allowance: 3.0) 
+⏳ Time between runs: 34  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-11-20 17:15:00
+🏆 RaceName: DundalkStadium.com Fillies & Mares Maiden
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📋 Race Type: MdF
+📏 Distance: 12.0 furlongs (➡️ vs 12.0 today)
+🌱 Going: SD
+👜 Prize: 💰 6K
+🏆 Race Description: MdF -- Unknown - 0
+🥇 Result: 1 🥇 / 🏇 6 runners. Expected: 1
+💰 Odds: 1.75 🔥🔥
+📝 Comment: 🎯 led, raced in second after 1f, 🎯 led again over 3f out, soon pushed along, ridden and kept on well up the centre from over 2f out, pushed out
+🎽 Jockey: G F Carroll- (⚖️ Weight: 129.0 lbs (58.6 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 79  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-10-25 19:30:00
+🏆 RaceName: Floodlit Fridays At Dundalk Maiden
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📋 Race Type: Md
+📏 Distance: 10.5 furlongs (🔽 vs 12.0 today)
+🌱 Going: SD
+👜 Prize: 💰 6K
+🏆 Race Description: Md -- Unknown - 0
+🥇 Result: 5 / 🏇 14 runners. Expected: 1
+💰 Odds: 5.0 🔥
+📝 Comment: 🎯 led, headed and 🎯 prominent after 1f, no extra from under 2f out
+🎽 Jockey: G F Carroll- (⚖️ Weight: 129.0 lbs (58.6 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 25  days ago
+---------------------------------------------------------------------------
+🐎 2 | Polemon🐎 is a 6 years old  gelding, colo(u)r: b, carrying 139 lbs today.
+🦄 Sire: Frankel 92/581 (16.0%)
+🌿 Dam: Very Good News 3/19 (16.0%)
+⏱️ Speed record - Runs: 19 | Best: 6.25 sec (Rank 2), Worst: 7.56 sec (Rank 4), Avg: 6.7 sec (Rank 4)
+🛠️ Gear: tp
+🩺 Medical History: 📅 2024-01-23: Wind Surgery
+🎲 Early market: 8.0 (Rank: 5.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Juddmonte Farms Ltd
+🏠 Owner: Carthy, Rogers & Obrien Partnership 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Denis Gerard Hogan (0 previous trainer(s)) last 14d WinRate (0.0/8.0 runs) (Rank: 2.0) RTF: 38.0 (OVR: 8%)
+🏇 Jockey: Dylan Oconnor(10) (Rank: 3.0) 🏇 Jockey 104226 Win SR: 0.0% | 🏆 Best Alternative Jockey: 103749 (1/3 - 33.0%)(0.0/ 1.0 runs) RTF: N/A (OVR: 14%) 5Y: 1/5 (20.0)
+🗞️ **PRESS OPINION**
+💬 Comment: 0-9 on AW but couple of decent C&D runs over the winter; claims
+🔦 Spotlight: Three-time Turf winner is 0-9 on AW but couple of decent C&D runs over the winter; recent hurdles run was okay and has his chance.
+📊 **STATS**
+📉 OFR: 79.0 (Rank: 2)
+📈 RPR: 78.0 (Rank: 6)
+📉 TS: 52.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/4 | Ratio: 0.00
+📏 Distance Wins/Runs: 2/12 | Ratio: 0.17
+🌱 Going Wins/Runs: 0/8 | Ratio: 0.00
+📊 Form: 109-44 → Score: 0.06 (Rank: 5)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-02 13:50:00
+🏆 RaceName: Adare Manor Opportunity Maiden Hurdle
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📋 Race Type: MdH
+📏 Distance: 16.0 furlongs (🔼 vs 12.0 today)
+🌱 Going: Y
+👜 Prize: 💰 6K
+🏆 Race Description: MdH -- Unknown - 0
+🥇 Result: 5 / 🏇 18 runners. Expected: 1
+💰 Odds: 5.0 🔥
+📝 Comment: 🎯 prominent, 🎯 led after 2 out, headed approaching last, kept on run-in
+🎽 Jockey: P Donovan- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 11  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-31 18:45:00
+🏆 RaceName: Floodlit Friday Nights At Dundalk Stadium Rated Race
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📋 Race Type: nan
+📏 Distance: 12.0 furlongs (➡️ vs 12.0 today)
+🌱 Going: SD
+👜 Prize: 💰 8K
+🏆 Race Description: nan -- Unknown - 0
+🥇 Result: 4 / 🏇 5 runners. Expected: 1
+💰 Odds: 2.25 🔥
+📝 Comment: 🎯 prominent, soon went second, outpaced under 2f out, no extra over 1f out (vet reported gelding to be post race normal)
+🎽 Jockey: J M Sheridan- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 29  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-01-10 16:00:00
+🏆 RaceName: Happy New Year From All At Dundalk Apprentice Handicap
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📋 Race Type: Hc
+📏 Distance: 12.0 furlongs (➡️ vs 12.0 today)
+🌱 Going: SD
+👜 Prize: 💰 6K
+🏆 Race Description: Hc -- Handicap - H
+🥇 Result: 4 / 🏇 11 runners. Expected: 1
+💰 Odds: 18.0 📉
+📝 Comment: 🔄 towards rear, headway from over 3f out, 🎯 prominent but no extra inside final 110yds
+🎽 Jockey: Keithen Kennedy- (⚖️ Weight: 142.0 lbs (64.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 21  days ago
+---------------------------------------------------------------------------
+🐎 3 | Migdam⬆🏇 Migdam id 3733018🥇🥇 is TOP Ranked horse in Speed AND RPRating in this race!
+⬆🏇 Migdam id 3733018🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 6 years old  gelding, colo(u)r: b, carrying 138 lbs today.
+🦄 Sire: Zelzal 4/62 (6.0%)
+🌿 Dam: Asyad 1/18 (6.0%)
+⏱️ Speed record - Runs: 14 | Best: 6.19 sec (Rank 1), Worst: 7.18 sec (Rank 3), Avg: 6.41 sec (Rank 1)
+🛠️ Gear: v
+🩺 Medical History: No records
+🎲 Early market: 9.0 (Rank: 6.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Al Shaqab Racing
+🏠 Owner: Dooley Thoroughbreds & J Fairhurst & Paul Riley 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Adrian Mcguinness (0 previous trainer(s)) last 14d WinRate (1.0/10.0 runs) (Rank: 1.0) RTF: 60.0 (OVR: 11%)
+🏇 Jockey: Sam Coen(7) (Rank: 2.0) 🏇 Jockey 103881 Win SR: 0.0% | 🏆 Best Alternative Jockey: 79202 (1/1 - 100.0%)(1.0/ 7.0 runs) RTF: N/A (OVR: 9%) 5Y: 5/56 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Four wins all over shorter; hasn't convinced at this trip in the past, opposable
+🔦 Spotlight: Four wins all over shorter; hasn't convinced at this trip in the past and opposable.
+📊 **STATS**
+📉 OFR: 78.0 (Rank: 3)
+📈 RPR: 84.0 (Rank: 1)
+📉 TS: 57.0 (Rank: 1)
+🏟️ Course Wins/Runs: 1/10 | Ratio: 0.10
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 1/10 | Ratio: 0.10
+📊 Form: 6-8347 → Score: 0.04 (Rank: 6)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-21 19:00:00
+🏆 RaceName: SIS, Supporting Irish Racing Handicap
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📋 Race Type: Hc
+📏 Distance: 8.0 furlongs (🔽 vs 12.0 today)
+🌱 Going: SD
+👜 Prize: 💰 8K
+🏆 Race Description: Hc -- Handicap - H
+🥇 Result: 7 / 🏇 11 runners. Expected: 1
+💰 Odds: 33.0 ❄️
+📝 Comment: 🔄 midfield, kept on final furlong, never on terms
+🎽 Jockey: C D Hayes- (⚖️ Weight: 125.0 lbs (56.8 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 20  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-07 19:00:00
+🏆 RaceName: Put The Fun In Fundraising At Dundalk Handicap
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📋 Race Type: Hc
+📏 Distance: 8.0 furlongs (🔽 vs 12.0 today)
+🌱 Going: SD
+👜 Prize: 💰 6K
+🏆 Race Description: Hc -- Handicap - H
+🥇 Result: 4 / 🏇 9 runners. Expected: 1
+💰 Odds: 22.0 ❄️
+📝 Comment: in touch with leaders, some headway inside final furlong, kept on
+🎽 Jockey: A Caffrey- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 3.0) 
+⏳ Time between runs: 14  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-01-31 18:45:00
+🏆 RaceName: Floodlit Friday Nights At Dundalk Stadium Rated Race
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📋 Race Type: nan
+📏 Distance: 12.0 furlongs (➡️ vs 12.0 today)
+🌱 Going: SD
+👜 Prize: 💰 8K
+🏆 Race Description: nan -- Unknown - 0
+🥇 Result: 3 🥉 / 🏇 5 runners. Expected: 1
+💰 Odds: 8.5 📉
+📝 Comment: 🔄 held up in rear, headway under 2f out, went third over 1f out, soon no impression
+🎽 Jockey: C D Hayes- (⚖️ Weight: 135.0 lbs (61.4 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 7  days ago
+---------------------------------------------------------------------------
