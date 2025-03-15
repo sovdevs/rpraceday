@@ -1,0 +1,509 @@
+🏁 Race ID: 888454
+7 runners declared
+📍 Venue: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+🌥️ Weather: Mostly cloudy
+⚙️ Going: Standard
+⏰ Off Time: 20:00
+🏆 Race Name: Gamble Responsibly At BetMGM Handicap
+📏 Distance: 9.5 furlongs
+🏇 Race/Grade: Class 6
+🏇 Type: Flat
+🎂 Age Band: 3yo
+💰 Today's Purse: 💰 3K
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Performance Table
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1        | Bay Of Dreams             | 6088063  | 3.0      | 2.0      | 2.0      | 1.0      | 2.0      | 2        | 2        | 6.0      | 2.0      | 3.0      | 1.0      | 1.0      | 7.0      | 1.0      | 3.0      | 1.0      | 2.0      | 4.0      | 4.0      | 1.0      | 3.0      | 1.0      | 2.0      | N/A      | N/A      | 1.0      | 1.0      | 1.0      | 2.0      | N/A      | 2.0      | 3.0     
+2        | Take The Boat             | 6278737  | 6.0      | 1.0      | 6.0      | 1.0      | 1.0      | 5        | 3        | 4.0      | 1.0      | 5.0      | 1.0      | 2.0      | 5.0      | 2.0      | 7.0      | 3.0      | 2.0      | 5.0      | 6.0      | 2.0      | 2.0      | 4.0      | 6.0      | N/A      | N/A      | 2.0      | 2.0      | 2.0      | 6.0      | N/A      | 1.0      | 4.0     
+3        | Herkeios                  | 6345374  | 5.0      | 2.0      | 5.0      | 1.0      | 2.0      | 3        | 3        | 3.0      | 2.0      | 6.0      | 1.0      | 3.0      | 1.0      | 2.0      | 4.0      | 2.0      | 5.0      | 3.0      | 6.0      | 2.0      | 7.0      | 3.0      | 5.0      | 1.0      | N/A      | 2.0      | 3.0      | 6.0      | 3.0      | N/A      | 2.0      | 5.0     
+4        | All Cost                  | 6541709  | 1.0      | 2.0      | 1.0      | 1.0      | 2.0      | 7        | 7        | 1.0      | 2.0      | 2.0      | 1.0      | 3.0      | 4.0      | 4.0      | 6.0      | 3.0      | 1.0      | 7.0      | 4.0      | 4.0      | 5.0      | 2.0      | 1.0      | N/A      | N/A      | 2.0      | 4.0      | 5.0      | 7.0      | 2.0      | N/A      | 6.0     
+5        | Havana Club               | 6092554  | 2.0      | 2.0      | 4.0      | 1.0      | 2.0      | 1        | 1        | 5.0      | 2.0      | 7.0      | 1.0      | 7.0      | 3.0      | 5.0      | 5.0      | 5.0      | 5.0      | 2.0      | 1.0      | 6.0      | 1.0      | 6.0      | 3.0      | N/A      | N/A      | 2.0      | 5.0      | 4.0      | 5.0      | 1.0      | 2.0      | 7.0     
+6        | Ballarat Bertie           | 5598636  | 4.0      | 2.0      | 3.0      | 1.0      | 2.0      | 6        | 5        | 2.0      | 2.0      | 4.0      | 1.0      | 5.0      | 2.0      | 6.0      | 1.0      | 6.0      | 5.0      | 1.0      | 1.0      | 7.0      | 4.0      | 5.0      | 4.0      | 1.0      | N/A      | 2.0      | 6.0      | 7.0      | 1.0      | 3.0      | 2.0      | 1.0     
+7        | Evas Eyes                 | 5951757  | 5.0      | 2.0      | 7.0      | 1.0      | 2.0      | 4        | 6        | 7.0      | 2.0      | 1.0      | 1.0      | 5.0      | 6.0      | 6.0      | 2.0      | 7.0      | 4.0      | 6.0      | 3.0      | 5.0      | 6.0      | 7.0      | 7.0      | 1.0      | N/A      | 2.0      | 7.0      | 3.0      | 4.0      | 3.0      | N/A      | 2.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 1 | Bay Of Dreams⬆🏇 Bay Of Dreams id 6088063🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 3 years old  filly, colo(u)r: b, carrying 138 lbs today.
+🦄 Sire: New Bay 61/400 (15.0%)
+🌿 Dam: Praden 0/5 (0.0%)
+⏱️ Speed record - Runs: 3 | Best: 6.05 sec (Rank 2), Worst: 6.5 sec (Rank 3), Avg: 6.22 sec (Rank 2)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 2.1 (Rank: 1.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: China Horse Club International Ltd
+🏠 Owner: Hasmonean Racing & Partner 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: James Ferguson (0 previous trainer(s)) last 14d WinRate (1.0/7.0 runs) (Rank: 4.0) RTF: 57.0 (OVR: 20%)
+🏇 Jockey: Saffie Osborne (14d rank: 3.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(2.0/ 14.0 runs) RTF: N/A (OVR: 13%) 5Y: 75/621 (12.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Scored emphatically at Newcastle five days ago; big shout under a 6lb penalty
+🔦 Spotlight: Vastly improved on her handicap debut when scoring emphatically at Newcastle (1m) five days ago; she looks to have a fair bit more to offer and rates a 🔥 big player under a 6lb penalty.
+📊 **STATS**
+📉 OFR: 61.0 (Rank: 1)
+📈 RPR: 68.0 (Rank: 1)
+📉 TS: 29.0 (Rank: 7)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 1/2 | Ratio: 0.50
+📊 Form: 30-61 → Score: 0.13 (Rank: 2)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-10 19:30:00
+🏆 RaceName: Win £1M With BetMGM's Golden Goals Handicap
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📋 Race Type: 63yHc
+📏 Distance: 8.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 3K
+🏆 Race Description: 63yHc -- Handicap - H
+🥇 Result: 1 🥇 / 🏇 9 runners. Expected: 1
+💰 Odds: 8.5 📉
+📝 Comment: pressed leader, 🎯 led 2f out, ridden when edged left and clear with one other final 110yds, ran on (trainer said, regarding the apparent improvement in form, that filly appreciated the step up in trip from 6f to 1m and that filly appeared to break better from stalls on this occasion)
+🎽 Jockey: Saffie Osborne- (⚖️ Weight: 135.0 lbs (61.4 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 4  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-13 18:00:00
+🏆 RaceName: Download The bet365 App Restricted Maiden Stakes (For horses In Bands B, C And D) (GBB Race)
+🏟️ Course: Chelmsford (AW) (Polytrack. Left-handed, flat track, circuit 8.5f)
+📋 Race Type: 5Md
+📏 Distance: 6.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+🏆 Race Description: 5Md -- Unknown - 0
+🥇 Result: 6 / 🏇 7 runners. Expected: 1
+💰 Odds: 33.0 ❄️
+📝 Comment: slowly into stride, always behind
+🎽 Jockey: Saffie Osborne- (⚖️ Weight: 120.0 lbs (54.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 25  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-09-18 14:15:00
+🏆 RaceName: Hatfields Range Rover Sport Phev Bik Beater EBF Fillies' Restricted Novice Stakes (Qual') (GBB Race)
+🏟️ Course: Beverley (right-handed, essentially galloping track (sprint course testing))
+📋 Race Type: 52yNvF
+📏 Distance: 7.5 furlongs (🔽 vs 9.5 today)
+🌱 Going: G
+👜 Prize: 💰 4K
+🏆 Race Description: 52yNvF -- Unknown - 0
+🥇 Result: 11 / 🏇 11 runners. Expected: 1
+💰 Odds: 10.0 📉
+📝 Comment: slowly into stride, always behind
+🎽 Jockey: R Dawson- (⚖️ Weight: 126.0 lbs (57.3 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 148  days ago
+---------------------------------------------------------------------------
+🐎 2 | Take The Boat🐎 is a 3 years old  filly, colo(u)r: b, carrying 135 lbs today.
+🦄 Sire: Belardo 55/413 (13.0%)
+🌿 Dam: Nameless 2/7 (28.999999999999996%)
+⏱️ Speed record - Runs: 7 | Best: 6.13 sec (Rank 5), Worst: 6.42 sec (Rank 1), Avg: 6.27 sec (Rank 3)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 4.0 (Rank: 2.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Nawara Stud Limited
+🏠 Owner: B Keane & S Nugent 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: D Donovan (0 previous trainer(s)) last 14d WinRate (0.0/2.0 runs) (Rank: 6.0) RTF: N/A (OVR: 4%)
+🏇 Jockey: Rob Hornby (14d rank: 7.0) 🏇 Today's Jock winSR: 100.0% (No better alternative found.)(0.0/ 7.0 runs) RTF: N/A (OVR: 13%) 5Y: 64/569 (11.0)
+🗞️ **PRESS OPINION**
+💬 Comment: On a hat-trick after back-to-back 7f/1m wins at Kempton; not taken lightly on Tapeta debut
+🔦 Spotlight: On the up since sent handicapping and she bids for a hat-trick following back-to-back 7f/1m wins at Kempton last month; up 3lb but she's not taken lightly in her current mood on her Tapeta debut.
+📊 **STATS**
+📉 OFR: 58.0 (Rank: 2)
+📈 RPR: 66.0 (Rank: 2)
+📉 TS: 48.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/3 | Ratio: 0.00
+📊 Form: 87-811 → Score: 0.04 (Rank: 6)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-26 16:55:00
+🏆 RaceName: Unibet Support Safer Gambling Handicap (Div I)
+🏟️ Course: Kempton (AW) (Polytrack. Right-handed)
+📋 Race Type: 63yHc
+📏 Distance: 7.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SS
+👜 Prize: 💰 3K
+🏆 Race Description: 63yHc -- Handicap - H
+🥇 Result: 1 🥇 / 🏇 9 runners. Expected: 1
+💰 Odds: 5.0 🔥
+📝 Comment: 🔄 midfield, 🔄 towards rear 2f out, pushed along and headway over 1f out, ridden and 🎯 led inside final furlong, ran on
+🎽 Jockey: R Hornby- (⚖️ Weight: 132.0 lbs (60.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 16  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-12 17:00:00
+🏆 RaceName: Unibet Supports Safer Gambling Handicap (Div I)
+🏟️ Course: Kempton (AW) (Polytrack. Right-handed)
+📋 Race Type: 63yHc
+📏 Distance: 8.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SS
+👜 Prize: 💰 3K
+🏆 Race Description: 63yHc -- Handicap - H
+🥇 Result: 1 🥇 / 🏇 8 runners. Expected: 1
+💰 Odds: 4.5 🔥
+📝 Comment: taken down early, in touch with leaders, headway to lead 1f out, kept on inside final furlong, faced challenge towards finish, just did enough (trainer said, regarding the apparent improvement in form, that gelding had appreciated the drop in grade and benefitted from what in his opinion was a less competitive race)
+🎽 Jockey: R Hornby- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 13  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-01-22 13:55:00
+🏆 RaceName: Gamble Responsibly At BetMGM Handicap
+🏟️ Course: Lingfield (AW) (Polytrack: left-handed, sharp)
+📋 Race Type: 63yHc
+📏 Distance: 8.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 3K
+🏆 Race Description: 63yHc -- Handicap - H
+🥇 Result: 8 / 🏇 11 runners. Expected: 1
+💰 Odds: 16.0 📉
+📝 Comment: 🔄 towards rear, 🔄 midfield on outer after 2f, headway and pressed leaders 3f out, hung left over 1f out, soon ❄️ weakened
+🎽 Jockey: D Keenan- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 21  days ago
+---------------------------------------------------------------------------
+🐎 3 | Herkeios🐎 is a 3 years old  gelding, colo(u)r: b, carrying 135 lbs today.
+🦄 Sire: Zoustar 52/498 (10.0%)
+🌿 Dam: Worship 0/7 (0.0%)
+⏱️ Speed record - Runs: 6 | Best: 6.09 sec (Rank 3), Worst: 6.51 sec (Rank 5), Avg: 6.27 sec (Rank 3)
+🛠️ Gear: h
+🩺 Medical History: No records
+🎲 Early market: 8.0 (Rank: 3.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: The Worship Partnership
+🏠 Owner: P Brierley & Partner 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Julia & Shelley Birkett (0 previous trainer(s)) last 14d WinRate (0.0/2.0 runs) (Rank: 6.0) RTF: N/A (OVR: 0%)
+🏇 Jockey: Dylan Hogan (14d rank: 4.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(1.0/ 8.0 runs) RTF: N/A (OVR: 11%) 5Y: 28/275 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Good third for 🆕 new yard in 8.6f handicap here 19 days ago; can make his presence felt
+🔦 Spotlight: A fair maiden who recorded a good third of 11 for his 🆕 new yard in 8.6f handicap here 19 days ago; he can make his presence felt with a hood added.
+📊 **STATS**
+📉 OFR: 58.0 (Rank: 2)
+📈 RPR: 65.0 (Rank: 3)
+📉 TS: 63.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/4 | Ratio: 0.00
+📊 Form: 68-533 → Score: 0.05 (Rank: 5)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-24 20:00:00
+🏆 RaceName: Gamble Responsibly At BetMGM Handicap
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📋 Race Type: 63yHc
+📏 Distance: 8.5 furlongs (🔽 vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+🏆 Race Description: 63yHc -- Handicap - H
+🥇 Result: 3 🥉 / 🏇 11 runners. Expected: 1
+💰 Odds: 9.0 📉
+📝 Comment: ducked left start, in touch with leaders, raced wide from over 2f out, outpaced over 1f out, rallied inside final furlong
+🎽 Jockey: D Hogan- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 18  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-22 13:55:00
+🏆 RaceName: Gamble Responsibly At BetMGM Handicap
+🏟️ Course: Lingfield (AW) (Polytrack: left-handed, sharp)
+📋 Race Type: 63yHc
+📏 Distance: 8.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 3K
+🏆 Race Description: 63yHc -- Handicap - H
+🥇 Result: 3 🥉 / 🏇 11 runners. Expected: 1
+💰 Odds: 16.0 📉
+📝 Comment: 🔄 midfield, headway 2f out, briefly went second final 110yds, kept on
+🎽 Jockey: J Peate- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 33  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-01-11 15:10:00
+🏆 RaceName: Gamble Responsibly At BetMGM Handicap
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📋 Race Type: 63yHc
+📏 Distance: 7.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 3K
+🏆 Race Description: 63yHc -- Handicap - H
+🥇 Result: 5 / 🏇 8 runners. Expected: 1
+💰 Odds: 6.5 📉
+📝 Comment: 🎯 led against near rail, headed over 1f out, ❄️ weakened final 110yds
+🎽 Jockey: J Peate- (⚖️ Weight: 129.0 lbs (58.6 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 10  days ago
+---------------------------------------------------------------------------
+🐎 4 | All Cost⚠️ Owner's record is weaker (SR: 5.88%, 17 runs). (Rank: 2)
+🐎 is a 3 years old  gelding, colo(u)r: b, carrying 132 lbs today.
+🦄 Sire: Iffraaj 92/867 (11.0%)
+🌿 Dam: Brown Honey 0/0 (0.0%)
+⏱️ Speed record - Runs: 5 | Best: 6.22 sec (Rank 7), Worst: 6.68 sec (Rank 7), Avg: 6.47 sec (Rank 7)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 9.0 (Rank: 4.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Rabbah Bloodstock Limited
+🏠 Owner: The Poor Sexy Farmers Club 1/17 (6.0) - (No previous owner(s))
+👤 Trainer: Martin Dunne (0 previous trainer(s)) last 14d WinRate (1.0/7.0 runs) (Rank: 4.0) RTF: 29.0 (OVR: 14%)
+🏇 Jockey: William Carson (14d rank: 6.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(1.0/ 10.0 runs) RTF: N/A (OVR: 6%) 5Y: 43/489 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Only sixth at Lingfield ten days ago; needs to get back on track on first go on Tapeta
+🔦 Spotlight: Failed to build on his Kempton second when only sixth of eight in 1m2f Lingfield handicap ten days ago; he needs to get back on track on his first go on Tapeta.
+📊 **STATS**
+📉 OFR: 55.0 (Rank: 4)
+📈 RPR: 65.0 (Rank: 3)
+📉 TS: 50.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 000-26 → Score: 0.14 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-05 17:17:00
+🏆 RaceName: Best Odds Guaranteed At BetMGM Handicap
+🏟️ Course: Lingfield (AW) (Polytrack: left-handed, sharp)
+📋 Race Type: 63yHc
+📏 Distance: 10.0 furlongs (🔼 vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 3K
+🏆 Race Description: 63yHc -- Handicap - H
+🥇 Result: 6 / 🏇 8 runners. Expected: 1
+💰 Odds: 5.0 🔥
+📝 Comment: 🎯 led, faced challenge 2f out, briefly headed over 1f out, headed and ❄️ weakened quickly inside final 110yds
+🎽 Jockey: D Keenan- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 9  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-12 17:00:00
+🏆 RaceName: Unibet Supports Safer Gambling Handicap (Div I)
+🏟️ Course: Kempton (AW) (Polytrack. Right-handed)
+📋 Race Type: 63yHc
+📏 Distance: 8.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SS
+👜 Prize: 💰 3K
+🏆 Race Description: 63yHc -- Handicap - H
+🥇 Result: 2 🥈 / 🏇 8 runners. Expected: 1
+💰 Odds: 2.0 🔥🔥
+📝 Comment: 🔄 towards rear, pushed along over 3f out, headway from over 1f out, kept on inside final furlong, pressed leader towards finish, just failed
+🎽 Jockey: D Keenan- (⚖️ Weight: 135.0 lbs (61.4 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 21  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-10-31 16:30:00
+🏆 RaceName: Complimentary Remembrance Tickets For Armed Forces EBF Novice Stakes (GBB Race)
+🏟️ Course: Chelmsford (AW) (Polytrack. Left-handed, flat track, circuit 8.5f)
+📋 Race Type: 52yNv
+📏 Distance: 7.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+🏆 Race Description: 52yNv -- Unknown - 0
+🥇 Result: 11 / 🏇 11 runners. Expected: 1
+💰 Odds: 400.0 ❄️❄️
+📝 Comment: 🐢 slowly away, in rear, outpaced from over 2f out, soon ❄️ weakened
+🎽 Jockey: S W Kelly- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 104  days ago
+---------------------------------------------------------------------------
+🐎 5 | Havana Club⬆🏇 Havana Club id 6092554🌟 is a TOP Ranked horse in at least one speed or OPR!
+🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 is a 3 years old  gelding, colo(u)r: ch, carrying 131 lbs today.
+🦄 Sire: Havana Gold 59/510 (12.0%)
+🌿 Dam: Last Tango 0/7 (0.0%)
+⏱️ Speed record - Runs: 7 | Best: 5.83 sec (Rank 1), Worst: 6.5 sec (Rank 3), Avg: 6.16 sec (Rank 1)
+🛠️ Gear: h
+🩺 Medical History: No records
+🎲 Early market: 11.0 (Rank: 5.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Plantation Stud
+🏠 Owner: Adrian Wintle 10/93 (11.0) - (No previous owner(s))
+👤 Trainer: Adrian Wintle (0 previous trainer(s)) last 14d WinRate (1.0/12.0 runs) (Rank: 1.0) RTF: 38.0 (OVR: 9%)
+🏇 Jockey: Paddy Bradley (14d rank: 5.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(2.0/ 19.0 runs) RTF: N/A (OVR: 11%) 5Y: 25/305 (8.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Consistent maiden for Warren Greatrex; off five months but not ruled out for 🆕 new yard
+🔦 Spotlight: A fair and consistent 7f maiden for Warren Greatrex at 2yrs; changed hands for 11,000gns in the autumn and not ruled out for his 🆕 new yard over this longer distance despite a five-month lay-off.
+📊 **STATS**
+📉 OFR: 54.0 (Rank: 5)
+📈 RPR: 62.0 (Rank: 7)
+📉 TS: 53.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 03432- → Score: 0.12 (Rank: 3)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-10-08 13:40:00
+🏆 RaceName: Sky Sports Racing Sky 415 Nursery Handicap
+🏟️ Course: Brighton (left-handed sharp track)
+📋 Race Type: 62yHc
+📏 Distance: 7.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: GS
+👜 Prize: 💰 3K
+🏆 Race Description: 62yHc -- Handicap - H
+🥇 Result: 2 🥈 / 🏇 14 runners. Expected: 1
+💰 Odds: 8.5 📉
+📝 Comment: took keen hold, in touch with leaders, headway over 2f out, went second over 1f out, soon edged left, kept on but no impression inside final furlong
+🎽 Jockey: E Jones- (⚖️ Weight: 123.0 lbs (55.9 kg) carried -- Allowance: 5.0) 
+⏳ Time between runs: 157  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-09-28 15:50:00
+🏆 RaceName: Betfair Safer Gambling Tools Nursery Handicap
+🏟️ Course: Chelmsford (AW) (Polytrack. Left-handed, flat track, circuit 8.5f)
+📋 Race Type: 62yHc
+📏 Distance: 7.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+🏆 Race Description: 62yHc -- Handicap - H
+🥇 Result: 3 🥉 / 🏇 12 runners. Expected: 1
+💰 Odds: 4.0 🔥
+📝 Comment: 🔄 towards rear, switched right and headway from over 2f out, kept on inside final furlong
+🎽 Jockey: F Marsh- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 9  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-09-10 13:40:00
+🏆 RaceName: It's National Racehorse Week Nursery Handicap
+🏟️ Course: Leicester (right-handed, galloping, testing track)
+📋 Race Type: 62yHc
+📏 Distance: 7.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: GS
+👜 Prize: 💰 3K
+🏆 Race Description: 62yHc -- Handicap - H
+🥇 Result: 4 / 🏇 7 runners. Expected: 1
+💰 Odds: 7.0 📉
+📝 Comment: reduced visibility, 🎯 led narrowly, headed and hung right over 1f out, no extra inside final furlong
+🎽 Jockey: C Bishop- (⚖️ Weight: 129.0 lbs (58.6 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 18  days ago
+---------------------------------------------------------------------------
+🐎 6 | Ballarat Bertie🐎 is a 3 years old  gelding, colo(u)r: br, carrying 122 lbs today.
+🦄 Sire: Oasis Dream 64/688 (9.0%)
+🌿 Dam: Isole Canarie 0/9 (0.0%)
+⏱️ Speed record - Runs: 7 | Best: 6.14 sec (Rank 6), Worst: 6.48 sec (Rank 2), Avg: 6.34 sec (Rank 5)
+🛠️ Gear: b
+🩺 Medical History: 📅 2024-07-03: Wind Surgery
+🎲 Early market: 13.0 (Rank: 6.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: P J Gleeson
+🏠 Owner: R J Rexton 0/7 (0.0) - (No previous owner(s))
+👤 Trainer: Richard Hughes (0 previous trainer(s)) last 14d WinRate (1.0/13.0 runs) (Rank: 1.0) RTF: 54.0 (OVR: 19%)
+🏇 Jockey: Finley Marsh (14d rank: 1.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(2.0/ 25.0 runs) RTF: N/A (OVR: 11%) 5Y: 93/655 (14.000000000000002)
+🗞️ **PRESS OPINION**
+💬 Comment: Arrives in good nick without winning; considered now stepping back up in trip
+🔦 Spotlight: Arrives in good nick without winning, staying on late when fourth of nine in 7f Kempton handicap 17 days ago; considered now stepping back up in trip.
+📊 **STATS**
+📉 OFR: 45.0 (Rank: 6)
+📈 RPR: 63.0 (Rank: 5)
+📉 TS: 56.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 80-444 → Score: 0.05 (Rank: 4)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-26 17:30:00
+🏆 RaceName: Unibet Support Safer Gambling Handicap (Div II)
+🏟️ Course: Kempton (AW) (Polytrack. Right-handed)
+📋 Race Type: 63yHc
+📏 Distance: 7.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SS
+👜 Prize: 💰 3K
+🏆 Race Description: 63yHc -- Handicap - H
+🥇 Result: 4 / 🏇 9 runners. Expected: 1
+💰 Odds: 18.0 📉
+📝 Comment: 🎯 prominent, outpaced and hung right over 1f out, kept on inside final furlong
+🎽 Jockey: F Marsh- (⚖️ Weight: 123.0 lbs (55.9 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 16  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-12 17:00:00
+🏆 RaceName: Unibet Supports Safer Gambling Handicap (Div I)
+🏟️ Course: Kempton (AW) (Polytrack. Right-handed)
+📋 Race Type: 63yHc
+📏 Distance: 8.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SS
+👜 Prize: 💰 3K
+🏆 Race Description: 63yHc -- Handicap - H
+🥇 Result: 4 / 🏇 8 runners. Expected: 1
+💰 Odds: 4.0 🔥
+📝 Comment: in touch with leaders, headway over 1f out, ❄️ weakened gradually inside final furlong
+🎽 Jockey: F Marsh- (⚖️ Weight: 126.0 lbs (57.3 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 14  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-02-01 17:40:00
+🏆 RaceName: BetMGM: It's Showtime Handicap (Div I)
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📋 Race Type: 63yHc
+📏 Distance: 8.5 furlongs (🔽 vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 3K
+🏆 Race Description: 63yHc -- Handicap - H
+🥇 Result: 4 / 🏇 9 runners. Expected: 1
+💰 Odds: 9.0 📉
+📝 Comment: 🎯 prominent, lost position over 2f out, ridden over 1f out, rallied and went fourth inside final 110yds, not reach leaders
+🎽 Jockey: R Hornby- (⚖️ Weight: 126.0 lbs (57.3 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 10  days ago
+---------------------------------------------------------------------------
+🐎 7 | Evas Eyes🐎 is a 3 years old  filly, colo(u)r: b, carrying 122 lbs today.
+🦄 Sire: Harry Angel 57/474 (12.0%)
+🌿 Dam: Chandresh 0/0 (0.0%)
+⏱️ Speed record - Runs: 10 | Best: 6.12 sec (Rank 4), Worst: 6.59 sec (Rank 6), Avg: 6.43 sec (Rank 6)
+🛠️ Gear: v
+🩺 Medical History: No records
+🎲 Early market: 21.0 (Rank: 7.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Manor Farm Stud (Rutland)
+🏠 Owner: Jr Roberts Slurry Sealing Ltd 0/10 (0.0) - (No previous owner(s))
+👤 Trainer: Ian Williams (0 previous trainer(s)) last 14d WinRate (2.0/13.0 runs) (Rank: 3.0) RTF: 75.0 (OVR: 11%)
+🏇 Jockey: Marco Ghiani (14d rank: 2.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(1.0/ 23.0 runs) RTF: N/A (OVR: 12%) 5Y: 78/588 (13.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Not discredited when 4th here four days ago; in the mix with visor replacing cheekpieces
+🔦 Spotlight: Seems a poor maiden but she wasn't discredited when fourth of six in 8.5f handicap here four days ago; in the mix with visor replacing cheekpieces.
+📊 **STATS**
+📉 OFR: 45.0 (Rank: 6)
+📈 RPR: 63.0 (Rank: 5)
+📉 TS: 47.0 (Rank: 6)
+🏟️ Course Wins/Runs: 0/3 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/5 | Ratio: 0.00
+📊 Form: 6-3764 → Score: 0.04 (Rank: 7)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-11 18:30:00
+🏆 RaceName: BetMGM: It's Showtime Handicap
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📋 Race Type: 63yHc
+📏 Distance: 8.5 furlongs (🔽 vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+🏆 Race Description: 63yHc -- Handicap - H
+🥇 Result: 4 / 🏇 6 runners. Expected: 1
+💰 Odds: 28.0 ❄️
+📝 Comment: took keen hold, in touch with leaders, 🎯 prominent over 4f out, outpaced then ⚠️ hampered 1f out, carried left and ❄️ weakened inside final furlong
+🎽 Jockey: K O'Neill- (⚖️ Weight: 122.0 lbs (55.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 3  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-12 17:00:00
+🏆 RaceName: Unibet Supports Safer Gambling Handicap (Div I)
+🏟️ Course: Kempton (AW) (Polytrack. Right-handed)
+📋 Race Type: 63yHc
+📏 Distance: 8.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SS
+👜 Prize: 💰 3K
+🏆 Race Description: 63yHc -- Handicap - H
+🥇 Result: 6 / 🏇 8 runners. Expected: 1
+💰 Odds: 18.0 📉
+📝 Comment: 🔄 midfield, some headway over 1f out, ❄️ weakened inside final furlong
+🎽 Jockey: R Kavanagh- (⚖️ Weight: 116.0 lbs (52.7 kg) carried -- Allowance: 5.0) 
+⏳ Time between runs: 27  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-02-01 18:10:00
+🏆 RaceName: BetMGM: It's Showtime Handicap (Div II)
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📋 Race Type: 63yHc
+📏 Distance: 8.5 furlongs (🔽 vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 3K
+🏆 Race Description: 63yHc -- Handicap - H
+🥇 Result: 7 / 🏇 9 runners. Expected: 1
+💰 Odds: 8.0 📉
+📝 Comment: 🔄 midfield on outer, ridden over 2f out, hung right over 1f out, soon ridden and ❄️ weakened
+🎽 Jockey: R Kavanagh- (⚖️ Weight: 116.0 lbs (52.7 kg) carried -- Allowance: 5.0) 
+⏳ Time between runs: 10  days ago
+---------------------------------------------------------------------------

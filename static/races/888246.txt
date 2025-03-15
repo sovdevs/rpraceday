@@ -1,0 +1,442 @@
+🏁 Race ID: 888246
+6 runners declared
+📍 Venue: Newcastle (left-handed, galloping, testing track with stiff fences)
+🌥️ Weather: Mostly cloudy
+🌱 Going: Good
+⏰ Off Time: 16:22
+🏆 Race Name: Guinness At The Canny Lad Handicap Chase (Go North Red Rum Series Qualifier)
+📏 Distance: 23.5 furlongs
+🏇 Race/Grade: Class 5
+🏆 Type: Chase
+🎂 Age Band: 5yo+
+💰 Today's Purse: 💰 3K
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Performance Table
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3        | Jamesieconn               | 5671322  | 5.0      | 2.0      | 1.0      | 4.0      | 1.0      | 1        | 1        | 2.0      | 2.0      | 6.0      | 2.0      | 1.0      | 1.0      | 2.0      | 3.0      | 4.0      | 1.0      | 5.0      | 2.0      | 4.0      | 3.0      | 5.0      | 3.0      | N/A      | N/A      | 2.0      | 1.0      | 2.0      | 2.0      | N/A      | 1.0      | 4.0     
+2        | Hawkseye View             | 5045961  | 2.0      | 4.0      | 3.0      | 4.0      | 1.0      | 2        | 4        | 5.0      | 1.0      | 3.0      | 2.0      | 2.0      | 2.0      | 2.0      | 1.0      | 3.0      | 4.0      | 4.0      | 1.0      | 1.0      | 3.0      | 3.0      | 5.0      | 3.0      | N/A      | 4.0      | 2.0      | 3.0      | 1.0      | 3.0      | N/A      | 5.0     
+6        | Halfway House Lad         | 4806344  | 6.0      | 6.0      | 4.0      | 2.0      | 4.0      | 6        | 5        | 3.0      | 2.0      | 1.0      | 2.0      | 2.0      | 5.0      | 6.0      | 5.0      | 4.0      | 6.0      | 2.0      | 3.0      | 2.0      | 1.0      | 2.0      | 6.0      | 2.0      | 1.0      | 3.0      | 3.0      | 5.0      | 6.0      | 2.0      | N/A      | 1.0     
+4        | Watchoutitscookie         | 4211321  | 4.0      | 3.0      | 5.0      | 1.0      | 2.0      | 4        | 6        | 1.0      | 2.0      | 4.0      | 2.0      | 4.0      | 4.0      | 4.0      | 5.0      | 6.0      | 2.0      | 3.0      | 3.0      | 5.0      | 5.0      | 1.0      | 4.0      | 1.0      | 2.0      | 4.0      | 4.0      | 1.0      | 4.0      | 4.0      | 2.0      | 6.0     
+1        | Community Rebel           | 4217571  | 1.0      | 1.0      | 2.0      | 4.0      | 1.0      | 5        | 3        | 6.0      | 2.0      | 5.0      | 2.0      | N/A      | N/A      | 1.0      | 4.0      | 1.0      | 4.0      | 1.0      | 3.0      | 3.0      | 6.0      | 4.0      | 2.0      | N/A      | 2.0      | N/A      | 5.0      | 6.0      | 3.0      | 5.0      | 4.0      | 3.0     
+5        | Onenightintown            | 2481574  | 3.0      | 5.0      | 6.0      | 3.0      | 3.0      | 3        | 2        | 4.0      | 2.0      | 2.0      | 1.0      | 5.0      | 3.0      | 5.0      | 2.0      | 2.0      | 3.0      | 6.0      | 3.0      | 6.0      | 1.0      | 6.0      | 1.0      | 3.0      | 4.0      | 1.0      | 5.0      | 4.0      | 5.0      | 1.0      | 3.0      | 2.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 3 | Jamesieconn⬆🏇 Jamesieconn id 5671322🥇🥇 is TOP Ranked horse in Speed AND RPRating in this race!
+⬆🏇 Jamesieconn id 5671322🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 6 years old  gelding, colo(u)r: b, carrying 165 lbs today.
+🦄 Sire: Shirocco 81/649 (12.0%)
+🌿 Dam: Grandy Serenade 1/4 (25.0%)
+⏱️ Speed record - Runs: 4 | Best: 7.34 sec (Rank 1), Worst: 8.09 sec (Rank 1), Avg: 7.77 sec (Rank 1)
+🛠️ Gear: t
+🩺 Medical History: 📅 2025-01-08: Wind Surgery
+🎲 Early market: 2.25 (Rank: 1.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: George Lane
+🏠 Owner: D&D Armstrong Ltd 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Sam England (0 previous trainer(s)) last 14d WinRate (1.0/9.0 runs) (Rank: 2.0) RTF: 78.0 (OVR: 6%)
+🏇 Jockey: Jonathan England (14d rank: 3.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(1.0/ 8.0 runs) RTF: N/A (OVR: 7%) 5Y: 35/309 (11.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Had wind op before winning chasing debut at Doncaster latest; bold showing on the cards
+🔦 Spotlight: Winning Irish pointer who left his hurdling form behind on the back of a wind op when successful on his chasing debut in 3m2f handicap at Doncaster 24 days ago; up 5lb but has more to offer and another bold showing is on the cards.
+📊 **STATS**
+📉 OFR: 92.0 (Rank: 2)
+📈 RPR: 104.0 (Rank: 1)
+📉 TS: 92.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 1/2 | Ratio: 0.50
+📊 Form: -48051 → Score: 0.06 (Rank: 3)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-19 15:58:00
+🏆 RaceName: Livescore Bet Best Odds Daily Handicap Chase (Go North Red Rum Series Qualifier)
+🏟️ Course: Doncaster (left-handed, galloping, flat track)
+📋 Race Type: 5HcCh
+📏 Distance: 26.0 furlongs (🔼 vs 23.5 today)
+🌱 Going: G
+👜 Prize: 💰 3K
+🏆 Race Description: 5HcCh -- Handicap - H
+🥇 Result: 1 🥇 / 🏇 10 runners. Expected: 1
+💰 Odds: 3.5 🔥
+📝 Comment: travelled strongly, in touch with leaders, jumped right 5th, not fluent 6th, lost ground after 8th, mistake 13th, headway before 15th, joined leader 3 out, 🎯 led narrowly just before last, ridden and kept on well run-in, all out
+🎽 Jockey: J England- (⚖️ Weight: 155.0 lbs (70.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 23  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-28 13:00:00
+🏆 RaceName: Sky Bet For The Fans Maiden Hurdle (GBB Race)
+🏟️ Course: Catterick (left-handed, sharp, undulating track)
+📋 Race Type: 4MdH
+📏 Distance: 19.5 furlongs (🔽 vs 23.5 today)
+🌱 Going: G
+👜 Prize: 💰 4K
+🏆 Race Description: 4MdH -- Unknown - 0
+🥇 Result: 5 / 🏇 10 runners. Expected: 1
+💰 Odds: 150.0 ❄️❄️
+📝 Comment: didn't always jump with fluency, 🔄 midfield, not fluent and lost ground 5th, no chance from 3 out, tailed off
+🎽 Jockey: J England- (⚖️ Weight: 158.0 lbs (71.8 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 53  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-20 11:45:00
+🏆 RaceName: Creation Office Maiden Hurdle (GBB Race)
+🏟️ Course: Uttoxeter (left-handed, fairly galloping, track)
+📋 Race Type: 4MdH
+📏 Distance: 16.0 furlongs (🔽 vs 23.5 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+🏆 Race Description: 4MdH -- Unknown - 0
+🥇 Result: 11 / 🏇 14 runners. Expected: 1
+💰 Odds: 200.0 ❄️❄️
+📝 Comment: 🔄 midfield, not fluent 4th, lost ground before 3 out, no chance before 2 out
+🎽 Jockey: J England- (⚖️ Weight: 158.0 lbs (71.8 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 8  days ago
+---------------------------------------------------------------------------
+🐎 2 | Hawkseye View⚠️ Owner's record is weaker (SR: 5.00%, 20 runs). (Rank: 3)
+🐎 is a 6 years old  gelding, colo(u)r: b, carrying 165 lbs today.
+🦄 Sire: Telescope 34/328 (10.0%)
+🌿 Dam: Noir Girl 0/0 (0.0%)
+⏱️ Speed record - Runs: 12 | Best: 7.5 sec (Rank 2), Worst: 8.41 sec (Rank 4), Avg: 7.95 sec (Rank 4)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 4.0 (Rank: 2.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Auroras Encore 2 Ltd
+🏠 Owner: Mrs A Ellis 1/20 (5.0) - (No previous owner(s))
+👤 Trainer: Joel Parkinson & Sue Smith (0 previous trainer(s)) last 14d WinRate (3.0/12.0 runs) (Rank: 1.0) RTF: 71.0 (OVR: 6%)
+🏇 Jockey: Peter Kavanagh(3) (14d rank: 1.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(1.0/ 19.0 runs) RTF: N/A (OVR: 13%) 5Y: 22/205 (11.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Solid third here last time so he's no forlorn hope now stepping up in trip
+🔦 Spotlight: Successful in points but still a maiden over hurdles and fences; posted a solid third of seven in 2m4f handicap chase here last time though so he's no forlorn hope stepping up in trip.
+📊 **STATS**
+📉 OFR: 92.0 (Rank: 2)
+📈 RPR: 103.0 (Rank: 2)
+📉 TS: 87.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/2 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/3 | Ratio: 0.00
+📊 Form: 7625U3 → Score: 0.05 (Rank: 5)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-03 15:25:00
+🏆 RaceName: Power Your Performance With Equine Products Novices' Handicap Chase
+🏟️ Course: Newcastle (left-handed, galloping, testing track with stiff fences)
+📋 Race Type: 5NvHcCh
+📏 Distance: 20.0 furlongs (🔽 vs 23.5 today)
+🌱 Going: G
+👜 Prize: 💰 3K
+🏆 Race Description: 5NvHcCh -- Handicap - H
+🥇 Result: 3 🥉 / 🏇 7 runners. Expected: 1
+💰 Odds: 3.5 🔥
+📝 Comment: didn't always jump with fluency, raced in third, lost position 8th, rallied before 4 out, outpaced when left in third 2 out
+🎽 Jockey: P J Kavanagh- (⚖️ Weight: 160.0 lbs (72.7 kg) carried -- Allowance: 3.0) 
+⏳ Time between runs: 11  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-01 13:00:00
+🏆 RaceName: William Hill Best Odds Guaranteed Novices' Handicap Chase
+🏟️ Course: Wetherby (left-handed, galloping track with stiff fences)
+📋 Race Type: 5NvHcCh
+📏 Distance: 19.5 furlongs (🔽 vs 23.5 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+🏆 Race Description: 5NvHcCh -- Handicap - H
+🥇 Result: nan / 🏇 10 runners. Expected: 1
+💰 Odds: 3.333 🔥
+📝 Comment: 🎯 prominent, mistake 3rd, 🎯 led 8th, headed 10th, disputing second when bad mistake and unseated 3 out
+🎽 Jockey: T Gillard- (⚖️ Weight: 162.0 lbs (73.6 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 30  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-26 12:27:00
+🏆 RaceName: William Hill Offers Top Price Guarantees Novices' Handicap Chase
+🏟️ Course: Wetherby (left-handed, galloping track with stiff fences)
+📋 Race Type: 5NvHcCh
+📏 Distance: 19.5 furlongs (🔽 vs 23.5 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+🏆 Race Description: 5NvHcCh -- Handicap - H
+🥇 Result: 5 / 🏇 7 runners. Expected: 1
+💰 Odds: 2.0 🔥🔥
+📝 Comment: didn't jump well, chased clear leader, lost ground and in rear after 9th, no impression (jockey said gelding jumped poorly)
+🎽 Jockey: N Scholfield- (⚖️ Weight: 162.0 lbs (73.6 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 37  days ago
+---------------------------------------------------------------------------
+🐎 6 | Halfway House Lad⚠️ Owner's record is weaker (SR: 8.33%, 12 runs). (Rank: 2)
+🐎 is a 6 years old  gelding, colo(u)r: b, carrying 143 lbs today.
+🦄 Sire: Recharge 1/22 (5.0%)
+🌿 Dam: Pezula 0/0 (0.0%)
+⏱️ Speed record - Runs: 11 | Best: 7.76 sec (Rank 6), Worst: 8.44 sec (Rank 5), Avg: 8.06 sec (Rank 5)
+🛠️ Gear: t
+🩺 Medical History: 📅 2024-08-07: Wind Surgery | 📅 2023-12-06: Wind Surgery
+🎲 Early market: 6.0 (Rank: 3.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Mrs J Weston
+🏠 Owner: Halfway House Syndicate 1/12 (8.0) - (No previous owner(s))
+👤 Trainer: Maurice Barnes (0 previous trainer(s)) last 14d WinRate (0.0/1.0 runs) (Rank: 3.0) RTF: N/A (OVR: 9%)
+🏇 Jockey: Charlie Price(3) (14d rank: 5.0) 🏇 Jockey 95646 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 79499 (1/1 - 100.0%)(0.0/ 5.0 runs) RTF: N/A (OVR: 0%) 5Y: 9/62 (15.0)
+🗞️ **PRESS OPINION**
+💬 Comment: C&D winner; good third at Wetherby 17 days ago; weighted to go close off a 1lb lower mark
+🔦 Spotlight: A fortunate C&D winner in November but he comes here on the back of a very good third of eight in 3m Wetherby handicap 17 days ago; weighted to go close off a 1lb lower mark.
+📊 **STATS**
+📉 OFR: 70.0 (Rank: 6)
+📈 RPR: 103.0 (Rank: 2)
+📉 TS: 67.0 (Rank: 5)
+🏟️ Course Wins/Runs: 1/3 | Ratio: 0.33
+📏 Distance Wins/Runs: 1/6 | Ratio: 0.17
+🌱 Going Wins/Runs: 1/3 | Ratio: 0.33
+📊 Form: 615943 → Score: 0.04 (Rank: 6)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-26 16:28:00
+🏆 RaceName: Bet Now At racingtv.com Handicap Chase
+🏟️ Course: Wetherby (left-handed, galloping track with stiff fences)
+📋 Race Type: 5HcCh
+📏 Distance: 24.0 furlongs (🔼 vs 23.5 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+🏆 Race Description: 5HcCh -- Handicap - H
+🥇 Result: 3 🥉 / 🏇 8 runners. Expected: 1
+💰 Odds: 12.0 📉
+📝 Comment: 🎯 led at steady pace, headed 14th, 🎯 led again home turn, faced challenge from 4 out, edged right 3 out, pecked on landing and headed 2 out, no extra last, ❄️ weakened gradually and lost second run-in
+🎽 Jockey: C O'Farrell- (⚖️ Weight: 142.0 lbs (64.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 16  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-04 14:10:00
+🏆 RaceName: TrustATrader You Can Trust Our Traders Novices' Handicap Chase
+🏟️ Course: Market Rasen (right-handed, sharp, undulating track with easy fences)
+📋 Race Type: 5NvHcCh
+📏 Distance: 24.0 furlongs (🔼 vs 23.5 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+🏆 Race Description: 5NvHcCh -- Handicap - H
+🥇 Result: 4 / 🏇 10 runners. Expected: 1
+💰 Odds: 16.0 📉
+📝 Comment: 🎯 led but pestered, joined 8th, 🎯 led again before 11th, headed before 3 out, ❄️ weakened from 2 out
+🎽 Jockey: C Price- (⚖️ Weight: 136.0 lbs (61.8 kg) carried -- Allowance: 3.0) 
+⏳ Time between runs: 22  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-28 14:45:00
+🏆 RaceName: Sky Bet Super Week Supersized Handicap Chase (Go North Red Rum Series Qualifier)
+🏟️ Course: Catterick (left-handed, sharp, undulating track)
+📋 Race Type: 5HcCh
+📏 Distance: 25.5 furlongs (🔼 vs 23.5 today)
+🌱 Going: G
+👜 Prize: 💰 5K
+🏆 Race Description: 5HcCh -- Handicap - H
+🥇 Result: 9 / 🏇 13 runners. Expected: 1
+💰 Odds: 16.0 📉
+📝 Comment: 🔄 midfield, 🔄 towards rear after 3rd, dropped to last before 8th, struggling before 12th, tailed off from 15th
+🎽 Jockey: W Maggs- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 5.0) 
+⏳ Time between runs: 37  days ago
+---------------------------------------------------------------------------
+🐎 4 | Watchoutitscookie⚠️ Owner's record is weaker (SR: 4.00%, 25 runs). (Rank: 4)
+🐎 is a 7 years old  gelding, colo(u)r: ch, carrying 149 lbs today.
+🦄 Sire: Doyen 98/731 (13.0%)
+🌿 Dam: Medimli 1/11 (9.0%)
+⏱️ Speed record - Runs: 11 | Best: 7.55 sec (Rank 4), Worst: 8.58 sec (Rank 6), Avg: 8.09 sec (Rank 6)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 7.0 (Rank: 4.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Philip Rothwell
+🏠 Owner: Russell Lane 1/25 (4.0) - (No previous owner(s))
+👤 Trainer: Nigel Hawke (0 previous trainer(s)) last 14d WinRate (0.0/9.0 runs) (Rank: 3.0) RTF: 33.0 (OVR: 33%)
+🏇 Jockey: Lorcan Murtagh (14d rank: 5.0) 🏇 Today's Jock winSR: 50.0% (No better alternative found.)(0.0/ 11.0 runs) RTF: N/A (OVR: 6%) 5Y: 7/122 (6.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Won over C&D in December but below that form both runs since;  needs to bounce back
+🔦 Spotlight: Gained his first win in this sphere over C&D in December but below that form both runs since, going freely when a fading fifth of eight at Lingfield (3m) 23 days ago; he needs to bounce back.
+📊 **STATS**
+📉 OFR: 76.0 (Rank: 4)
+📈 RPR: 100.0 (Rank: 4)
+📉 TS: 85.0 (Rank: 4)
+🏟️ Course Wins/Runs: 1/1 | Ratio: 1.00
+📏 Distance Wins/Runs: 1/4 | Ratio: 0.25
+🌱 Going Wins/Runs: 0/7 | Ratio: 0.00
+📊 Form: -35165 → Score: 0.06 (Rank: 4)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-20 14:35:00
+🏆 RaceName: Sri Lanka, The Wonder Of Asia Handicap Chase
+🏟️ Course: Lingfield (left-handed, sharp, undulating track)
+📋 Race Type: 5HcCh
+📏 Distance: 23.5 furlongs (➡️ vs 23.5 today)
+🌱 Going: S
+👜 Prize: 💰 3K
+🏆 Race Description: 5HcCh -- Handicap - H
+🥇 Result: 5 / 🏇 8 runners. Expected: 1
+💰 Odds: 4.5 🔥
+📝 Comment: took keen hold, pressed leaders, 🎯 led narrowly 4th, went clear with winner after 3 out (usual 4 out), headed before 2 out (usual 3 out), lost second and ❄️ weakened last (jockey said gelding hung right-handed; vet said gelding had lost his left-fore shoe)
+🎽 Jockey: L Murtagh- (⚖️ Weight: 145.0 lbs (65.9 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 22  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-31 15:48:00
+🏆 RaceName: At The Races App Expert Tips Handicap Chase
+🏟️ Course: Lingfield (left-handed, sharp, undulating track)
+📋 Race Type: 5HcCh
+📏 Distance: 20.0 furlongs (🔽 vs 23.5 today)
+🌱 Going: HY
+👜 Prize: 💰 3K
+🏆 Race Description: 5HcCh -- Handicap - H
+🥇 Result: 6 / 🏇 11 runners. Expected: 1
+💰 Odds: 5.0 🔥
+📝 Comment: disputed lead, lost position and raced in second 2nd, 🎯 led 5 out, headed 3 out, ❄️ weakened 2 out
+🎽 Jockey: L Murtagh- (⚖️ Weight: 146.0 lbs (66.4 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 19  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-14 14:32:00
+🏆 RaceName: Happy Birthday Lyndsey Lane From Brunel Novices' Handicap Chase
+🏟️ Course: Newcastle (left-handed, galloping, testing track with stiff fences)
+📋 Race Type: 5NvHcCh
+📏 Distance: 23.5 furlongs (➡️ vs 23.5 today)
+🌱 Going: GS
+👜 Prize: 💰 3K
+🏆 Race Description: 5NvHcCh -- Handicap - H
+🥇 Result: 1 🥇 / 🏇 7 runners. Expected: 1
+💰 Odds: 3.0 🔥
+📝 Comment: 🎯 made all, mistake 8th, steadied 13th, pushed along before 3 out, ridden before 2 out, good jump last, kept on well run-in, unchallenged
+🎽 Jockey: L Murtagh- (⚖️ Weight: 145.0 lbs (65.9 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 48  days ago
+---------------------------------------------------------------------------
+🐎 1 | Community Rebel🐎 is a 9 years old  gelding, colo(u)r: b, carrying 168 lbs today.
+🦄 Sire: Asian Heights 0/11 (0.0%)
+🌿 Dam: Cnocbui Cailin 0/2 (0.0%)
+⏱️ Speed record - Runs: 2 | Best: 7.72 sec (Rank 5), Worst: 8.12 sec (Rank 2), Avg: 7.92 sec (Rank 3)
+🛠️ No gear today
+🩺 Medical History: 📅 2024-08-07: Wind Surgery
+🎲 Early market: 15.0 (Rank: 5.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: James O'Donovan
+🏠 Owner: The Craig Farm Syndicate 0/13 (0.0) - (No previous owner(s))
+👤 Trainer: James Ewart (0 previous trainer(s)) last 14d WinRate (0.0/4.0 runs) (Rank: 3.0) RTF: 25.0 (OVR: 11%)
+🏇 Jockey: Ryan Mania (14d rank: 4.0) 🏇 Jockey 86359 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 94305 (1/2 - 50.0%)(1.0/ 10.0 runs) RTF: N/A (OVR: 13%) 5Y: 4/34 (12.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Well held both hurdle starts this season; goes over fences now with a bit to prove
+🔦 Spotlight: Lightly-raced 3m winning hurdler but he's been well held both starts this season, sixth at Sedgefield (3m3f) last month; goes over fences now with a bit to prove.
+📊 **STATS**
+📉 OFR: 95.0 (Rank: 1)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 1/4 | Ratio: 0.25
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 51P/56 → Score: 0.06 (Rank: 2)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-05 14:05:00
+🏆 RaceName: MW Paving & Groundworks Handicap Hurdle (Go North Brindisi Breeze Series Qualifier)
+🏟️ Course: Sedgefield (left-handed, sharp, undulating, testing track with easy fences)
+📋 Race Type: 5HcH
+📏 Distance: 27.0 furlongs (🔼 vs 23.5 today)
+🌱 Going: GS
+👜 Prize: 💰 3K
+🏆 Race Description: 5HcH -- Handicap - H
+🥇 Result: 6 / 🏇 12 runners. Expected: 1
+💰 Odds: 20.0 ❄️
+📝 Comment: in touch with leaders, lost position 3 out, ❄️ weakened before 2 out
+🎽 Jockey: B Hughes- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 37  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-01 14:55:00
+🏆 RaceName: LiveScore Bet Handicap Hurdle (Go North Brindisi Breeze Series Qualifier)
+🏟️ Course: Musselburgh (right-handed, sharp track with stiffish fences)
+📋 Race Type: 4HcH
+📏 Distance: 24.0 furlongs (🔼 vs 23.5 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+🏆 Race Description: 4HcH -- Handicap - H
+🥇 Result: 5 / 🏇 8 runners. Expected: 1
+💰 Odds: 33.0 ❄️
+📝 Comment: in touch with leaders, lost position on turn before 3 out, soon no extra
+🎽 Jockey: B Hughes- (⚖️ Weight: 163.0 lbs (74.1 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 34  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2023-04-21 15:45:00
+🏆 RaceName: Thistle Cabs Group Handicap Hurdle
+🏟️ Course: Ayr (left-handed, fairly galloping track)
+📋 Race Type: 3HcH
+📏 Distance: 24.5 furlongs (🔼 vs 23.5 today)
+🌱 Going: GS
+👜 Prize: 💰 8K
+🏆 Race Description: 3HcH -- Handicap - H
+🥇 Result: nan / 🏇 13 runners. Expected: 1
+💰 Odds: 22.0 ❄️
+📝 Comment: 🔄 towards rear, hit 7th, soon pushed along, lost touch from 4 out, tailed off from 3 out, pulled up before 2 out
+🎽 Jockey: E Austin- (⚖️ Weight: 143.0 lbs (65.0 kg) carried -- Allowance: 5.0) 
+⏳ Time between runs: 620  days ago
+---------------------------------------------------------------------------
+🐎 5 | Onenightintown🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 is a 11 years old  gelding, colo(u)r: b, carrying 146 lbs today.
+🦄 Sire: Robin Des Pres 1/18 (6.0%)
+🌿 Dam: Snug Bunch 1/15 (7.000000000000001%)
+⏱️ Speed record - Runs: 9 | Best: 7.54 sec (Rank 3), Worst: 8.3 sec (Rank 3), Avg: 7.9 sec (Rank 2)
+🛠️ Gear: tb
+🩺 Medical History: No records
+🎲 Early market: 15.0 (Rank: 5.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: J Conlon
+🏠 Owner: The Rat Pack Racing Club 3/34 (9.0) - (No previous owner(s))
+👤 Trainer: Micky Hammond (0 previous trainer(s)) last 14d WinRate (0.0/12.0 runs) (Rank: 3.0) RTF: 36.0 (OVR: 9%)
+🏇 Jockey: Brian Hughes (14d rank: 2.0) 🏇 Jockey 81409 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 88965 (2/9 - 22.0%)(4.0/ 25.0 runs) RTF: N/A (OVR: 18%) 5Y: 122/880 (14.000000000000002)
+🗞️ **PRESS OPINION**
+💬 Comment: Not one to rely on and beat just two at Musselburgh 27 days ago; others are preferred
+🔦 Spotlight: Not one to rely on and he was tried in a change of headgear when beating just two in 2m4f Musselburgh handicap chase 27 days ago; others are preferred.
+📊 **STATS**
+📉 OFR: 73.0 (Rank: 5)
+📈 RPR: 96.0 (Rank: 5)
+📉 TS: 86.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 2/21 | Ratio: 0.10
+📊 Form: -P45P7 → Score: 0.06 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-16 15:30:00
+🏆 RaceName: George Crawford Legacy Trust Handicap Chase (Go North Monet's Garden Series Qualifier)
+🏟️ Course: Musselburgh (right-handed, sharp track with stiffish fences)
+📋 Race Type: 5HcCh
+📏 Distance: 20.5 furlongs (🔽 vs 23.5 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+🏆 Race Description: 5HcCh -- Handicap - H
+🥇 Result: 7 / 🏇 9 runners. Expected: 1
+💰 Odds: 33.0 ❄️
+📝 Comment: jumped left throughout, in touch with leaders, outpaced halfway, ❄️ weakened before 4 out
+🎽 Jockey: Alice Stevens- (⚖️ Weight: 139.0 lbs (63.2 kg) carried -- Allowance: 3.0) 
+⏳ Time between runs: 26  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-05 14:15:00
+🏆 RaceName: Discover What's Trending At Rhino.Bet Casino Handicap Chase
+🏟️ Course: Market Rasen (right-handed, sharp, undulating track with easy fences)
+📋 Race Type: 5HcCh
+📏 Distance: 24.0 furlongs (🔼 vs 23.5 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+🏆 Race Description: 5HcCh -- Handicap - H
+🥇 Result: nan / 🏇 8 runners. Expected: 1
+💰 Odds: 22.0 ❄️
+📝 Comment: 🔄 held up in rear, outpaced 12th, no impression when eased and pulled up before 3 out
+🎽 Jockey: Alice Stevens- (⚖️ Weight: 136.0 lbs (61.8 kg) carried -- Allowance: 3.0) 
+⏳ Time between runs: 73  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-11-05 15:20:00
+🏆 RaceName: George Reveley Handicap Chase
+🏟️ Course: Sedgefield (left-handed, sharp, undulating, testing track with easy fences)
+📋 Race Type: 5HcCh
+📏 Distance: 21.0 furlongs (🔽 vs 23.5 today)
+🌱 Going: G
+👜 Prize: 💰 3K
+🏆 Race Description: 5HcCh -- Handicap - H
+🥇 Result: 5 / 🏇 11 runners. Expected: 1
+💰 Odds: 33.0 ❄️
+📝 Comment: 🔄 towards rear, hung left 2 out, stayed on run-in, eyecatcher
+🎽 Jockey: Alice Stevens- (⚖️ Weight: 142.0 lbs (64.5 kg) carried -- Allowance: 5.0) 
+⏳ Time between runs: 29  days ago
+---------------------------------------------------------------------------
