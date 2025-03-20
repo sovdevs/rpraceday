@@ -1,0 +1,482 @@
+🏁 Race ID: 888308
+7 runners declared
+📍 Venue: Chepstow (left-handed, essentially galloping track, despite pronounced undulations)
+☁️ Weather: Cloudy
+🌱 Going: Good
+⏰ Off Time: 15:30
+🏆 Race Name: Stephens Industries Elevate EPDM Mares' "National Hunt" Novices' Hurdle (GBB Race)
+📏 Distance: 16.0 furlongs
+🏇 Race/Grade: Class 4
+⛷️ Type: Hurdle
+🎂 Age Band: 4yo+
+💰 Today's Purse: 💰 4K
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Performance Table
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1        | Hard As Nails             | 4669051  | 2.0      | 2.0      | 6.0      | 1.0      | 2.0      | 2        | 4        | 6.0      | 1.0      | 2.0      | 1.0      | 2.0      | 1.0      | 1.0      | 6.0      | 4.0      | 2.0      | 1.0      | 4.0      | 6.0      | 6.0      | 6.0      | 5.0      | N/A      | 1.0      | 1.0      | 1.0      | 4.0      | 2.0      | 3.0      | N/A      | 4.0     
+2        | Jaminska                  | 4697468  | 5.0      | 3.0      | 7.0      | 2.0      | 3.0      | 3        | 3        | 2.0      | 2.0      | 1.0      | 1.0      | 1.0      | 2.0      | 2.0      | 3.0      | 6.0      | 1.0      | 7.0      | 6.0      | 5.0      | 5.0      | 1.0      | 7.0      | 1.0      | 2.0      | 1.0      | 2.0      | 6.0      | 3.0      | 4.0      | 1.0      | 7.0     
+3        | Chique Angel              | 5447230  | 3.0      | 4.0      | 2.0      | 2.0      | 4.0      | 5        | 5        | 1.0      | 2.0      | 6.0      | 1.0      | 4.0      | 4.0      | N/A      | 4.0      | 1.0      | 3.0      | 5.0      | 1.0      | 1.0      | 4.0      | 5.0      | 2.0      | N/A      | 3.0      | N/A      | 3.0      | 3.0      | 1.0      | 1.0      | 1.0      | 1.0     
+4        | Hard Dealt                | 5864654  | 4.0      | 1.0      | 3.0      | 2.0      | 1.0      | 6        | 6        | 1.0      | 2.0      | 7.0      | 1.0      | 3.0      | 3.0      | N/A      | 5.0      | 2.0      | 5.0      | 4.0      | 2.0      | 3.0      | 1.0      | 3.0      | 3.0      | N/A      | 3.0      | N/A      | 4.0      | 2.0      | 4.0      | N/A      | 1.0      | 3.0     
+5        | Put A Lid On It           | 6097231  | 5.0      | 4.0      | 4.0      | 2.0      | 4.0      | 1        | 1        | 5.0      | 2.0      | 5.0      | 1.0      | N/A      | N/A      | N/A      | 6.0      | 3.0      | 7.0      | 2.0      | 4.0      | 6.0      | 6.0      | 6.0      | 4.0      | N/A      | 3.0      | 1.0      | 5.0      | 5.0      | 2.0      | 4.0      | N/A      | 5.0     
+6        | Seventeenothree           | 6928463  | 6.0      | 4.0      | 5.0      | 2.0      | 4.0      | 7        | 7        | 4.0      | 2.0      | 4.0      | 1.0      | 5.0      | N/A      | N/A      | 2.0      | 5.0      | 6.0      | 3.0      | 6.0      | 2.0      | 3.0      | 2.0      | 6.0      | N/A      | 3.0      | N/A      | 6.0      | 2.0      | 5.0      | N/A      | 1.0      | 6.0     
+7        | Pepper Queen              | 6807927  | 1.0      | 4.0      | 1.0      | 2.0      | 4.0      | 4        | 2        | 3.0      | 2.0      | 3.0      | 1.0      | N/A      | N/A      | N/A      | 1.0      | 7.0      | 4.0      | 6.0      | 2.0      | 3.0      | 1.0      | 3.0      | 1.0      | N/A      | 3.0      | N/A      | 6.0      | 1.0      | 4.0      | 2.0      | N/A      | 2.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 1 | Hard As Nails📈 Owner has a strong record (SR: 10.64%, 47 runs). (Rank: 3)
+🐎 is a 7 years old  mare, colo(u)r: b, carrying 166 lbs today.
+🦄 Sire: Black Sam Bellamy 34/383 (9.0%)
+🌿 Dam: Cream Cracker 0/0 (0.0%)
+⏱️ Speed record - Runs: 9 | Best: 7.15 sec (Rank 2), Worst: 8.42 sec (Rank 7), Avg: 7.7 sec (Rank 4)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 2.75 (Rank: 1.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: T C Frost
+🏠 Owner: Raymond Treacy 5/47 (11.0) - (No previous owner(s))
+👤 Trainer: Fergal Obrien (0 previous trainer(s)) last 14d WinRate (4.0/29.0 runs) (Rank: 4.0) RTF: 41.0 (OVR: 12%)
+🏇 Jockey: Jack Hogan(3) (14d rank: 6.0) 🏇 Today's Jock winSR: 50.0% (No better alternative found.)(0.0/ 9.0 runs) RTF: N/A (OVR: 29%) 5Y: 21/172 (12.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Twice made all; 2m4f may help to explain the two heavy defeats among her last four starts
+🔦 Spotlight: Made all at Southwell last May and Stratford in October, so carries a double penalty today; both were on soft ground but she does have some form on good and good to firm; appearances at about 2m4f may help to explain the two heavy defeats among her last four starts; a leading form contender.
+📊 **STATS**
+📉 OFR: 112.0 (Rank: 1)
+📈 RPR: 115.0 (Rank: 2)
+📉 TS: 102.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 3/8 | Ratio: 0.38
+🌱 Going Wins/Runs: 0/3 | Ratio: 0.00
+📊 Form: 231426 → Score: 0.07 (Rank: 5)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-26 17:00:00
+🏆 RaceName: Racing TV For The Cheltenham Festival Mares' Handicap Hurdle (Go North Lady Buttons Series Qual')
+🏟️ Course: Wetherby (left-handed, galloping track with stiff fences)
+📋 Race Type: 4HcHM
+📏 Distance: 19.5 furlongs (🔼 vs 16.0 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+🏆 Race Description: 4HcHM -- Handicap - H
+🥇 Result: 6 / 🏇 10 runners. Expected: 1
+💰 Odds: 3.75 🔥
+📝 Comment: in touch with leaders, went third before 6th, lost third 3 out, soon ❄️ weakened (trainer's rep could offer no explanation for the poor form shown)
+🎽 Jockey: Fern O'Brien- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 7.0) 
+⏳ Time between runs: 21  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-28 13:55:00
+🏆 RaceName: Free Tips Daily On attheraces.com Mares' Handicap Hurdle (Go North Lady Buttons Series Qualifier)
+🏟️ Course: Newcastle (left-handed, galloping, testing track with stiff fences)
+📋 Race Type: 4HcHM
+📏 Distance: 17.0 furlongs (🔼 vs 16.0 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+🏆 Race Description: 4HcHM -- Handicap - H
+🥇 Result: 2 🥈 / 🏇 5 runners. Expected: 1
+💰 Odds: 4.333 🔥
+📝 Comment: 🎯 led, headed after 3 out, 2 lengths down when slow jump last, kept on well run-in
+🎽 Jockey: J Hogan- (⚖️ Weight: 155.0 lbs (70.5 kg) carried -- Allowance: 3.0) 
+⏳ Time between runs: 29  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-07 12:40:00
+🏆 RaceName: Betfair Supports Racing With Pride Mares' Handicap Hurdle (Challenger Mares' Hurdle Series Qual')
+🏟️ Course: Sandown (right-handed, galloping, testing track)
+📋 Race Type: 3HcHM
+📏 Distance: 20.0 furlongs (🔼 vs 16.0 today)
+🌱 Going: HY
+👜 Prize: 💰 9K
+🏆 Race Description: 3HcHM -- Handicap - H
+🥇 Result: 4 / 🏇 8 runners. Expected: 1
+💰 Odds: 4.5 🔥
+📝 Comment: 🎯 led, not fluent 5 out, headed after 2 out, soon ❄️ weakened
+🎽 Jockey: J Hogan- (⚖️ Weight: 152.0 lbs (69.1 kg) carried -- Allowance: 3.0) 
+⏳ Time between runs: 52  days ago
+---------------------------------------------------------------------------
+🐎 2 | Jaminska⬆🏇 Jaminska id 4697468🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 6 years old  mare, colo(u)r: b, carrying 161 lbs today.
+🦄 Sire: Manatee 2/50 (4.0%)
+🌿 Dam: Pacifie Du Charmil 0/9 (0.0%)
+⏱️ Speed record - Runs: 7 | Best: 7.43 sec (Rank 3), Worst: 8.01 sec (Rank 3), Avg: 7.63 sec (Rank 3)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 3.75 (Rank: 2.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: J Duteuil & G Le Borgne
+🏠 Owner: Larkhills Racing Partnership Iii 0/9 (0.0) - (No previous owner(s))
+👤 Trainer: Jane Williams (0 previous trainer(s)) last 14d WinRate (0.0/6.0 runs) (Rank: 6.0) RTF: 33.0 (OVR: 19%)
+🏇 Jockey: David Noonan (14d rank: 3.0) 🏇 Today's Jock winSR: 11.0% (No better alternative found.)(1.0/ 17.0 runs) RTF: N/A (OVR: 9%) 5Y: 38/434 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Her win was in January 2023; second at Exeter (2m2f, good) in November three starts back
+🔦 Spotlight: Her win was in January 2023; nine races since, not in such good form this season as last but she was still second at Exeter (2m2f, good) in November three starts back and not disgraced on latest; player back down in trip.
+📊 **STATS**
+📉 OFR: 104.0 (Rank: 2)
+📈 RPR: 117.0 (Rank: 1)
+📉 TS: 95.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/2 | Ratio: 0.00
+📏 Distance Wins/Runs: 1/5 | Ratio: 0.20
+🌱 Going Wins/Runs: 0/3 | Ratio: 0.00
+📊 Form: 4-62P7 → Score: 0.06 (Rank: 7)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-12-17 15:45:00
+🏆 RaceName: £9 Tickets On Saver Saturday-4th January Mares' Handicap Hurdle
+🏟️ Course: Wincanton (right-handed, galloping track)
+📋 Race Type: 4HcHM
+📏 Distance: 20.0 furlongs (🔼 vs 16.0 today)
+🌱 Going: GS
+👜 Prize: 💰 5K
+🏆 Race Description: 4HcHM -- Handicap - H
+🥇 Result: 7 / 🏇 11 runners. Expected: 1
+💰 Odds: 9.5 📉
+📝 Comment: 🎯 prominent, briefly went fourth after last, no extra final 110yds
+🎽 Jockey: C Gethings- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 92  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-06 14:45:00
+🏆 RaceName: JCB Hydradig Novices' Handicap Hurdle (GBB Race)
+🏟️ Course: Exeter (right-handed, very undulating, testing track)
+📋 Race Type: 4NvHcH
+📏 Distance: 21.5 furlongs (🔼 vs 16.0 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+🏆 Race Description: 4NvHcH -- Handicap - H
+🥇 Result: nan / 🏇 11 runners. Expected: 1
+💰 Odds: 4.0 🔥
+📝 Comment: 🔄 midfield, pulled up when saddle slipped after 4th (jockey said saddle slipped)
+🎽 Jockey: C Pritchard- (⚖️ Weight: 146.0 lbs (66.4 kg) carried -- Allowance: 7.0) 
+⏳ Time between runs: 11  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-11-08 15:00:00
+🏆 RaceName: ICL, Impact For A Sustainable Future Challenger Mares Handicap Hurdle (Challenger Mares' Hdl Series)
+🏟️ Course: Exeter (right-handed, very undulating, testing track)
+📋 Race Type: 4HcHM
+📏 Distance: 18.5 furlongs (🔼 vs 16.0 today)
+🌱 Going: G
+👜 Prize: 💰 11K
+🏆 Race Description: 4HcHM -- Handicap - H
+🥇 Result: 2 🥈 / 🏇 7 runners. Expected: 1
+💰 Odds: 8.5 📉
+📝 Comment: pressed leader, 🎯 led 3 out, headed 2 out, kept on but no match for winner
+🎽 Jockey: D Noonan- (⚖️ Weight: 159.0 lbs (72.3 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 27  days ago
+---------------------------------------------------------------------------
+🐎 3 | Chique Angel🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 is a 6 years old  mare, colo(u)r: b, carrying 154 lbs today.
+🦄 Sire: Flemensfirth 80/633 (13.0%)
+🌿 Dam: Marie Des Anges 0/3 (0.0%)
+⏱️ Speed record - Runs: 3 | Best: 7.59 sec (Rank 5), Worst: 8.32 sec (Rank 5), Avg: 7.87 sec (Rank 5)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 4.0 (Rank: 3.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Miss Lisa Pyne
+🏠 Owner: Mrs L Maclennan 23/125 (18.0) - (No previous owner(s))
+👤 Trainer: Paul Nicholls (0 previous trainer(s)) last 14d WinRate (9.0/45.0 runs) (Rank: 1.0) RTF: 42.0 (OVR: 26%)
+🏇 Jockey: Harry Cobden (14d rank: 4.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(8.0/ 36.0 runs) RTF: N/A (OVR: 28%) 5Y: 186/788 (24.0)
+🗞️ **PRESS OPINION**
+💬 Comment: In the frame in bumpers; 4-1 for hurdle debut at Wincanton (2m5f, heavy) but beaten 28l
+🔦 Spotlight: Made the frame in both her bumpers (soft/good to soft) despite 390 days off in between; 4-1 for hurdle debut at Wincanton (extended 2m5f, heavy) seven weeks ago but faded to go down by 28l; early days.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 84.0 (Rank: 4)
+📉 TS: 28.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 4-34 → Score: 0.11 (Rank: 2)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-01-30 12:55:00
+🏆 RaceName: ITM EBF Mares' "National Hunt" Novices' Hurdle (EBF Mares' Novices' Hurdle Series Qualifier) (GBB)
+🏟️ Course: Wincanton (right-handed, galloping track)
+📋 Race Type: 4NvHM
+📏 Distance: 21.5 furlongs (🔼 vs 16.0 today)
+🌱 Going: HY
+👜 Prize: 💰 4K
+🏆 Race Description: 4NvHM -- Unknown - 0
+🥇 Result: 4 / 🏇 8 runners. Expected: 1
+💰 Odds: 5.0 🔥
+📝 Comment: 🎯 prominent behind clear leader, not fluent 7th, outpaced when not fluent 2 out, soon no impression, ❄️ weakened run-in
+🎽 Jockey: H Cobden- (⚖️ Weight: 157.0 lbs (71.4 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 48  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-16 15:40:00
+🏆 RaceName: Merry Christmas From Plumpton Racecourse Mares' Open NH Flat Race (Category 1 Elimination) (GBB)
+🏟️ Course: Plumpton (left-handed, sharp, undulating track)
+📋 Race Type: 5NHFM
+📏 Distance: 18.0 furlongs (🔼 vs 16.0 today)
+🌱 Going: GS
+👜 Prize: 💰 3K
+🏆 Race Description: 5NHFM -- Unknown - 0
+🥇 Result: 3 🥉 / 🏇 10 runners. Expected: 1
+💰 Odds: 5.0 🔥
+📝 Comment: 🔄 midfield, headway and 🎯 prominent 6f out, pressed leaders 4f out, ridden and disputing second when edged left and 🚧 bumped rival over 1f out, no extra final furlong
+🎽 Jockey: L Williams- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 44  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2023-11-22 15:50:00
+🏆 RaceName: David Nicholson Memorial Mares' Open National Hunt Flat Race (Category 1 Elimination) (GBB Race)
+🏟️ Course: Warwick (left-handed, sharp track)
+📋 Race Type: 5NHFM
+📏 Distance: 16.0 furlongs (➡️ vs 16.0 today)
+🌱 Going: S
+👜 Prize: 💰 2K
+🏆 Race Description: 5NHFM -- Unknown - 0
+🥇 Result: 4 / 🏇 10 runners. Expected: 1
+💰 Odds: 3.75 🔥
+📝 Comment: 🎯 prominent, hung right and outpaced under 2f out, lost third over 1f out, soon ❄️ weakened
+🎽 Jockey: H Cobden- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 389  days ago
+---------------------------------------------------------------------------
+🐎 4 | Hard Dealt🐎 is a 5 years old  mare, colo(u)r: b, carrying 154 lbs today.
+🦄 Sire: Walk In The Park 194/1309 (15.0%)
+🌿 Dam: Princess Bella 0/2 (0.0%)
+⏱️ Speed record - Runs: 2 | Best: 7.78 sec (Rank 6), Worst: 8.03 sec (Rank 4), Avg: 7.9 sec (Rank 6)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 6.0 (Rank: 4.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Martin Doyle
+🏠 Owner: Richard Johnson Racing- Hard Dealt 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Henry Daly (0 previous trainer(s)) last 14d WinRate (2.0/12.0 runs) (Rank: 2.0) RTF: 42.0 (OVR: 9%)
+🏇 Jockey: David Bass (14d rank: 5.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(4.0/ 19.0 runs) RTF: N/A (OVR: 11%) 5Y: 21/155 (14.000000000000002)
+🗞️ **PRESS OPINION**
+💬 Comment: Won Irish point; well beaten in bumper and maiden hurdle but pretty useful jumps pedigree
+🔦 Spotlight: Won Irish mares' maiden point (3m, good to yielding) on debut last May; well beaten in bumper at Ffos Las (soft) and maiden hurdle at Exeter (good to soft) but has a pretty useful jumps pedigree, so needs a second look.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 101.0 (Rank: 3)
+📉 TS: 77.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 164 → Score: 0.1 (Rank: 3)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-12-19 12:10:00
+🏆 RaceName: Coreus Group Maiden Hurdle (GBB Race)
+🏟️ Course: Exeter (right-handed, very undulating, testing track)
+📋 Race Type: 4MdH
+📏 Distance: 16.5 furlongs (🔼 vs 16.0 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+🏆 Race Description: 4MdH -- Unknown - 0
+🥇 Result: 4 / 🏇 9 runners. Expected: 1
+💰 Odds: 51.0 ❄️❄️
+📝 Comment: 🎯 prominent, disputing second after 5th, lost position 3 out, soon ❄️ weakened
+🎽 Jockey: D Bass- (⚖️ Weight: 151.0 lbs (68.6 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 90  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-11-20 15:45:00
+🏆 RaceName: Ffos Las Spring Ladies Day Open National Hunt Flat Race (Category 1 Elimination) (GBB Race)
+🏟️ Course: Ffos Las (left-handed, flat, galloping)
+📋 Race Type: 5NHF
+📏 Distance: 16.0 furlongs (➡️ vs 16.0 today)
+🌱 Going: S
+👜 Prize: 💰 2K
+🏆 Race Description: 5NHF -- Unknown - 0
+🥇 Result: 6 / 🏇 7 runners. Expected: 1
+💰 Odds: 7.5 📉
+📝 Comment: took keen hold, 🔄 midfield, outpaced 2f out, soon no impression
+🎽 Jockey: L Harrison- (⚖️ Weight: 147.0 lbs (66.8 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 28  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-05-12 12:00:00
+🏆 RaceName: Paul Gilligan Racing 4yo Mares Maiden
+🏟️ Course: Loughrea (RH, sharp)
+📋 Race Type: 4yMdPTP
+📏 Distance: 24.0 furlongs (🔼 vs 16.0 today)
+🌱 Going: GY
+👜 Prize: 💰 0K
+🏆 Race Description: 4yMdPTP -- N/A
+🥇 Result: 1 🥇 / 🏇 10 runners. Expected: 1
+💰 Odds: 4.0 🔥
+📝 Comment: mid-div, disp 4th 1/2way, jnd ldr 3out, rdn in 1l 2nd early str, wo early run-in, ko
+🎽 Jockey: J Scallan- (⚖️ Weight: 165.0 lbs (75.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 192  days ago
+---------------------------------------------------------------------------
+🐎 5 | Put A Lid On It⬆🏇 Put A Lid On It id 6097231🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 5 years old  mare, colo(u)r: b, carrying 154 lbs today.
+🦄 Sire: Dartmouth 7/99 (7.000000000000001%)
+🌿 Dam: La Doelenaise 0/0 (0.0%)
+⏱️ Speed record - Runs: 2 | Best: 7.1 sec (Rank 1), Worst: 7.56 sec (Rank 2), Avg: 7.33 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 15.0 (Rank: 5.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Shade Oak Stud & Bryan Mayoh
+🏠 Owner: Mrs Carolyn Kendrick 0/29 (0.0) - (No previous owner(s))
+👤 Trainer: Fergal Obrien (0 previous trainer(s)) last 14d WinRate (4.0/29.0 runs) (Rank: 4.0) RTF: 41.0 (OVR: 12%)
+🏇 Jockey: Fern Obrien(7) (14d rank: 6.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0.0/ 3.0 runs) RTF: N/A (OVR: 0%) 5Y: 7/63 (11.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Modest in bumpers at Worcester (good) in July and Fontwell (good to soft) in September
+🔦 Spotlight: Out of a mare who was placed over hurdles in France; modest form last year in bumpers at Worcester (good) in July and Fontwell (good to soft) in September; needs a transformation on hurdle debut.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: 75 → Score: 0.08 (Rank: 4)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-09-08 15:50:00
+🏆 RaceName: Wandsworth Gaels GAA Club Mares' Open National Hunt Flat Race (Category 1 Elimination) (GBB Race)
+🏟️ Course: Fontwell (left-handed, fairly sharp hurdles track; fig. 8, undulating, chase track)
+📋 Race Type: 5NHFM
+📏 Distance: 17.5 furlongs (🔼 vs 16.0 today)
+🌱 Going: GS
+👜 Prize: 💰 2K
+🏆 Race Description: 5NHFM -- Unknown - 0
+🥇 Result: 5 / 🏇 6 runners. Expected: 1
+💰 Odds: 7.0 📉
+📝 Comment: 🎯 prominent, ridden and lost ground quickly 5f out, struggling 3f out, kept on inside final furlong, no telling impression
+🎽 Jockey: M Kendrick- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 192  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-07-01 14:30:00
+🏆 RaceName: Summer Anthems Pitchcroft Family Event 13/07/2024 Mares' Open NH Flat Race (Cat 1 Elimination) (GBB)
+🏟️ Course: Worcester (left-handed, galloping flat track)
+📋 Race Type: 5NHFM
+📏 Distance: 16.0 furlongs (➡️ vs 16.0 today)
+🌱 Going: G
+👜 Prize: 💰 2K
+🏆 Race Description: 5NHFM -- Unknown - 0
+🥇 Result: 7 / 🏇 12 runners. Expected: 1
+💰 Odds: 15.0 📉
+📝 Comment: 🔄 held up in rear, slightly ⚠️ hampered over 3f out, no impression over 1f out, ran on inside final furlong (vet said filly lost her right-fore shoe)
+🎽 Jockey: M Kendrick- (⚖️ Weight: 152.0 lbs (69.1 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 69  days ago
+---------------------------------------------------------------------------
+🐎 6 | Seventeenothree🐎 is a 5 years old  mare, colo(u)r: b, carrying 154 lbs today.
+🦄 Sire: Walk In The Park 194/1309 (15.0%)
+🌿 Dam: Leyan 0/4 (0.0%)
+⏱️ Speed record - Runs: 4 | Best: 7.8 sec (Rank 7), Worst: 8.32 sec (Rank 5), Avg: 8.06 sec (Rank 7)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 41.0 (Rank: 6.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Compad Racing Ab/Wm Racing Ab
+🏠 Owner: D Stevens & Mrs S Stevens 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Kayley Woollacott (0 previous trainer(s)) last 14d WinRate (0.0/5.0 runs) (Rank: 6.0) RTF: 20.0 (OVR: 3%)
+🏇 Jockey: Harry Kimber (14d rank: 2.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(1.0/ 14.0 runs) RTF: N/A (OVR: 10%) 5Y: 3/30 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Fourth in January in her two bumpers but tailed off at Wincanton in her two hurdle races
+🔦 Spotlight: Fourth in January in her two bumpers (soft/heavy) but tailed off at Wincanton in her two hurdle races.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 69.0 (Rank: 5)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/4 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 4408 → Score: 0.06 (Rank: 6)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-06 14:50:00
+🏆 RaceName: Women Investors Network Mares' Novices' Hurdle (Herring Queen Mares' Novices' Hurdle Qual') (GBB)
+🏟️ Course: Wincanton (right-handed, galloping track)
+📋 Race Type: 4NvHM
+📏 Distance: 15.0 furlongs (🔽 vs 16.0 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+🏆 Race Description: 4NvHM -- Unknown - 0
+🥇 Result: 8 / 🏇 12 runners. Expected: 1
+💰 Odds: 126.0 ❄️❄️
+📝 Comment: in rear, not fluent 3rd, struggling when not fluent 3 out, tailed off
+🎽 Jockey: B Godfrey- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 13  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-15 14:50:00
+🏆 RaceName: BetMGM King Of The Golden Oche "National Hunt" Maiden Hurdle (GBB Race)
+🏟️ Course: Wincanton (right-handed, galloping track)
+📋 Race Type: 4MdH
+📏 Distance: 15.0 furlongs (🔽 vs 16.0 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+🏆 Race Description: 4MdH -- Unknown - 0
+🥇 Result: 13 / 🏇 14 runners. Expected: 1
+💰 Odds: 11.0 📉
+📝 Comment: always behind, slow jump 3rd
+🎽 Jockey: H Kimber- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 19  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-01-30 16:25:00
+🏆 RaceName: Start Your Irish Racing Journey Mares' Open Maiden National Hunt Flat Race (Cat 3) (GBB) (Div II)
+🏟️ Course: Wincanton (right-handed, galloping track)
+📋 Race Type: 5MdNHFM
+📏 Distance: 15.0 furlongs (🔽 vs 16.0 today)
+🌱 Going: HY
+👜 Prize: 💰 2K
+🏆 Race Description: 5MdNHFM -- Unknown - 0
+🥇 Result: 4 / 🏇 8 runners. Expected: 1
+💰 Odds: 11.0 📉
+📝 Comment: took keen hold, 🎯 prominent, went second home turn, outpaced under 2f out, ❄️ weakened and lost two places 1f out
+🎽 Jockey: B Godfrey- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 15  days ago
+---------------------------------------------------------------------------
+🐎 7 | Pepper Queen📈 Owner has a strong record (SR: 12.50%, 16 runs). (Rank: 2)
+🐎 is a 4 years old  filly, colo(u)r: b, carrying 144 lbs today.
+🦄 Sire: Pethers Moon 33/201 (16.0%)
+🌿 Dam: The Jaffna Queen 0/0 (0.0%)
+⏱️ Speed record - Runs: 1 | Best: 7.54 sec (Rank 4), Worst: 7.54 sec (Rank 1), Avg: 7.54 sec (Rank 2)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 41.0 (Rank: 6.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Yorton Farm Stud
+🏠 Owner: The Henry Daly Racing Club 2/16 (12.0) - (No previous owner(s))
+👤 Trainer: Henry Daly (0 previous trainer(s)) last 14d WinRate (2.0/12.0 runs) (Rank: 2.0) RTF: 42.0 (OVR: 9%)
+🏇 Jockey: Sam Twiston-Davies (14d rank: 1.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(3.0/ 38.0 runs) RTF: N/A (OVR: 12%) 5Y: 129/733 (18.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Beat only one home at Ludlow and none at Market Rasen in another bumper
+🔦 Spotlight: Beat only one home at Ludlow and none at Market Rasen, so brings no form claims from her two bumpers; same stable as Hard Dealt.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 09 → Score: 0.11 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-04 16:20:00
+🏆 RaceName: TrustATrader Fully Vetted Tradespeople Mares' Open National Hunt Flat Race (Cat 1 Elim') (GBB Race)
+🏟️ Course: Market Rasen (right-handed, sharp, undulating track with easy fences)
+📋 Race Type: 5NHFM
+📏 Distance: 16.5 furlongs (🔼 vs 16.0 today)
+🌱 Going: GS
+👜 Prize: 💰 2K
+🏆 Race Description: 5NHFM -- Unknown - 0
+🥇 Result: 9 / 🏇 9 runners. Expected: 1
+💰 Odds: 67.0 ❄️❄️
+📝 Comment: 🎯 prominent, reminder 5f out, ❄️ weakened quickly from 2f out
+🎽 Jockey: S Twiston-Davies- (⚖️ Weight: 144.0 lbs (65.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 43  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-04 15:42:00
+🏆 RaceName: Marsh Commercial Mares' Open National Hunt Flat Race (Category 1 Elimination) (GBB Race)
+🏟️ Course: Ludlow (right-handed, sharp track)
+📋 Race Type: 4NHFM
+📏 Distance: 16.0 furlongs (➡️ vs 16.0 today)
+🌱 Going: GS
+👜 Prize: 💰 3K
+🏆 Race Description: 4NHFM -- Unknown - 0
+🥇 Result: 10 / 🏇 11 runners. Expected: 1
+💰 Odds: 21.0 ❄️
+📝 Comment: taken down early, 🔄 towards rear, pushed along after 4f, ❄️ weakened 3f out
+🎽 Jockey: Alice Stevens- (⚖️ Weight: 137.0 lbs (62.3 kg) carried -- Allowance: 3.0) 
+⏳ Time between runs: 62  days ago
+---------------------------------------------------------------------------

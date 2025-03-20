@@ -1,0 +1,360 @@
+🏁 Race ID: 888313
+7 runners declared
+📍 Venue: Chepstow (left-handed, essentially galloping track, despite pronounced undulations)
+☁️ Weather: Cloudy
+🌱 Going: Good
+⏰ Off Time: 17:45
+🏆 Race Name: Core Hereford Open National Hunt Flat Race (Category 1 Elimination) (GBB Race)
+📏 Distance: 16.0 furlongs
+🏇 Race/Grade: Class 5
+🏇🌿 Type: NH Flat
+🎂 Age Band: 4-6yo
+💰 Today's Purse: 💰 2K
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Performance Table
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2        | Calvino                   | 6692987  | 4.0      | 2.0      | 4.0      | 1.0      | 2.0      | 4        | 4        | N/A      | 1.0      | 3.0      | 2.0      | 3.0      | 3.0      | N/A      | 2.0      | 2.0      | 4.0      | 6.0      | 2.0      | 4.0      | 1.0      | 6.0      | 3.0      | N/A      | 2.0      | 1.0      | 1.0      | 1.0      | 1.0      | N/A      | 2.0      | 1.0     
+3        | Crossgales King           | 5671296  | 1.0      | 2.0      | 1.0      | 1.0      | 2.0      | 1        | 1        | 2.0      | 1.0      | 3.0      | 2.0      | N/A      | N/A      | N/A      | 4.0      | 1.0      | 2.0      | 7.0      | 4.0      | 1.0      | 3.0      | 3.0      | 1.0      | N/A      | N/A      | N/A      | 2.0      | 6.0      | 4.0      | 1.0      | N/A      | 6.0     
+5        | Three Pikes               | 6873173  | 4.0      | 2.0      | 4.0      | 1.0      | 2.0      | 5        | 5        | N/A      | 1.0      | 3.0      | 2.0      | 2.0      | 2.0      | N/A      | 5.0      | 6.0      | 3.0      | 3.0      | 5.0      | 5.0      | 3.0      | 7.0      | 5.0      | N/A      | 2.0      | N/A      | 2.0      | 3.0      | 2.0      | N/A      | N/A      | 4.0     
+4        | Money To Burn             | 5181937  | 3.0      | 2.0      | 3.0      | 1.0      | 2.0      | 7        | 6        | 1.0      | 1.0      | 2.0      | 1.0      | 4.0      | 4.0      | N/A      | 1.0      | 3.0      | 1.0      | 5.0      | 6.0      | 2.0      | 7.0      | 1.0      | 3.0      | N/A      | 2.0      | N/A      | 4.0      | 5.0      | 5.0      | 2.0      | 2.0      | 2.0     
+6        | Robin Blue Breast         | 7280798  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 3.0      | 5.0      | 6.0      | 1.0      | 6.0      | 2.0      | 3.0      | 5.0      | 6.0      | N/A      | N/A      | N/A      | 4.0      | 2.0      | 7.0      | 2.0      | N/A      | 7.0     
+7        | El Arco                   | 7280800  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 5.0      | 4.0      | 5.0      | 2.0      | 3.0      | 7.0      | 2.0      | 2.0      | 6.0      | N/A      | N/A      | N/A      | 4.0      | 7.0      | 6.0      | N/A      | N/A      | 3.0     
+1        | Hurricane Pat             | 5784869  | 2.0      | 1.0      | 2.0      | 1.0      | 1.0      | 6        | 7        | 1.0      | 1.0      | 1.0      | 2.0      | 1.0      | 1.0      | N/A      | 5.0      | 7.0      | 7.0      | 4.0      | 1.0      | 6.0      | 3.0      | 3.0      | 2.0      | N/A      | 1.0      | N/A      | N/A      | 4.0      | 3.0      | N/A      | 1.0      | 5.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 2 | Calvino🐎 is a 5 years old  gelding, colo(u)r: b, carrying 156 lbs today.
+🦄 Sire: Walk In The Park 194/1309 (15.0%)
+🌿 Dam: Antartica De Thaix 0/1 (0.0%)
+⏱️ Speed record - Runs: 1 | Best: 7.26 sec (Rank 4), Worst: 7.26 sec (Rank 4), Avg: 7.26 sec (Rank 4)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 4.0 (Rank: 1.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: George Clohessy
+🏠 Owner: Kate & Andrew Brooks 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Paul Nicholls (0 previous trainer(s)) last 14d WinRate (9.0/45.0 runs) (Rank: 2.0) RTF: 42.0 (OVR: 26%)
+🏇 Jockey: Harry Cobden (14d rank: 2.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(8.0/ 36.0 runs) RTF: N/A (OVR: 28%) 5Y: 186/788 (24.0)
+🗞️ **PRESS OPINION**
+💬 Comment: They went very steady at Ascot and he got outpaced; still ran a promising race
+🔦 Spotlight: 130,000euros 3yo and the dam was very useful for Paul Nicholls; fourth of six runners when second favourite at Ascot (good) and it's unlikely that a steady pace would have benefited him; can improve.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 110.0 (Rank: 3)
+📉 TS: 49.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: 4 → Score: 0.25 (Rank: 3)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-11-22 15:50:00
+🏆 RaceName: Not Forgotten Open National Hunt Flat Race (Category 1 Elimination) (GBB Race)
+🏟️ Course: Ascot (right-handed, galloping, testing track with stiff fences)
+📋 Race Type: 3NHF
+📏 Distance: 15.5 furlongs (🔽 vs 16.0 today)
+🌱 Going: G
+👜 Prize: 💰 6K
+🏆 Race Description: 3NHF -- Unknown - 0
+🥇 Result: 4 / 🏇 6 runners. Expected: 1
+💰 Odds: 3.5 🔥
+📝 Comment: in touch with leaders, against near rail 2f out, ❄️ weakened final furlong
+🎽 Jockey: F Gingell- (⚖️ Weight: 150.0 lbs (68.2 kg) carried -- Allowance: 3.0) 
+⏳ Time between runs: 117  days ago
+---------------------------------------------------------------------------
+🐎 3 | Crossgales King⬆🏇 Crossgales King id 5671296🌟 is a TOP Ranked horse in at least one speed or OPR!
+🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 is a 5 years old  gelding, colo(u)r: b, carrying 156 lbs today.
+🦄 Sire: Kingston Hill 22/225 (10.0%)
+🌿 Dam: Rock On Annie 0/0 (0.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 5.5 (Rank: 2.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Daniel Cronin
+🏠 Owner: Mrs Kate Kenyon 5/62 (8.0) - (No previous owner(s))
+👤 Trainer: Anthony Charlton (0 previous trainer(s)) last 14d WinRate (1.0/8.0 runs) (Rank: 4.0) RTF: 63.0 (OVR: 0%)
+🏇 Jockey: James Best (14d rank: 4.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(2.0/ 19.0 runs) RTF: N/A (OVR: 4%) 5Y: 23/325 (7.000000000000001)
+🗞️ **PRESS OPINION**
+💬 Comment: Finished runner-up in two Irish points and changed hands for £85,000
+🔦 Spotlight: Finished runner-up in two Irish points (good to yielding/good) and changed hands for £85,000; should have a future under rules.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: P-22 → Score: 0.5 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-12-01 12:30:01
+🏆 RaceName: JS Horse Trucks & Darren ODwyer Bloodstock 4yo Geldings Maiden (Div 1)
+🏟️ Course: Borris House (LH, flat)
+📋 Race Type: 4yMdPTP
+📏 Distance: 24.0 furlongs (🔼 vs 16.0 today)
+🌱 Going: G
+👜 Prize: 💰 0K
+🏆 Race Description: 4yMdPTP -- N/A
+🥇 Result: 2 🥈 / 🏇 9 runners. Expected: 1
+💰 Odds: 5.0 🔥
+📝 Comment: mid-div, 5th 1/2way, 2nd 4out, 2nd & rdn bef 2out, rallied aftr last, nt rch wnr
+🎽 Jockey: B Stone- (⚖️ Weight: 165.0 lbs (75.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 108  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-11-09 13:00:00
+🏆 RaceName: The Goffs Coral Gold Cup Sale 4yo Geldings Maiden
+🏟️ Course: Quakerstown (RH, undulating, flat finish)
+📋 Race Type: 4yMdPTP
+📏 Distance: 24.0 furlongs (🔼 vs 16.0 today)
+🌱 Going: GY
+👜 Prize: 💰 0K
+🏆 Race Description: 4yMdPTP -- N/A
+🥇 Result: 2 🥈 / 🏇 11 runners. Expected: 1
+💰 Odds: 7.0 📉
+📝 Comment: mid-div, 6th 1/2way, eff in 7th aftr 2out, went 4th well bef last & disp 3rd last, ko flat bt no ch with wnr
+🎽 Jockey: B Stone- (⚖️ Weight: 165.0 lbs (75.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 21  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-03-10 13:30:00
+🏆 RaceName: ABP Slaney & Goffs Aintree Sale 4yo Geldings Maiden
+🏟️ Course: Lingstown (RH, flat, galloping)
+📋 Race Type: 4yMdPTP
+📏 Distance: 24.0 furlongs (🔼 vs 16.0 today)
+🌱 Going: S
+👜 Prize: 💰 0K
+🏆 Race Description: 4yMdPTP -- N/A
+🥇 Result: nan / 🏇 6 runners. Expected: 1
+💰 Odds: 2.5 🔥
+📝 Comment: twrds rr, sl mstk 2nd, prog into 2nd bef 4th, mstk 5out, nt fluent next, lost pos & hmprd bef 2out, sn no ex & pu
+🎽 Jockey: B Stone- (⚖️ Weight: 165.0 lbs (75.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 243  days ago
+---------------------------------------------------------------------------
+🐎 5 | Three Pikes🐎 is a 5 years old  gelding, colo(u)r: br, carrying 156 lbs today.
+🦄 Sire: Jack Hobbs 23/208 (11.0%)
+🌿 Dam: My Dixie 0/0 (0.0%)
+⏱️ Speed record - Runs: 1 | Best: 7.29 sec (Rank 5), Worst: 7.29 sec (Rank 5), Avg: 7.29 sec (Rank 5)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 5.5 (Rank: 2.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Trull House Stud Ltd
+🏠 Owner: Mr & Mrs R Kelvin-Hughes 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Tom George (0 previous trainer(s)) last 14d WinRate (0.0/1.0 runs) (Rank: 5.0) RTF: 100.0 (OVR: 0%)
+🏇 Jockey: Jack Hogan(3) (14d rank: 5.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0.0/ 9.0 runs) RTF: N/A (OVR: 29%) 5Y: 21/172 (12.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Close up at Huntingdon behind a previous winner and should have more to offer
+🔦 Spotlight: Dam had modest form but closely related to smart jumper My Drogo; weak in the market (18-1) but was beaten only 6l at Huntingdon (good to soft) and he wasn't far behind John Barbour who had won the time before and has since finished second over hurdles; this 5yo should have more to offer.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 112.0 (Rank: 2)
+📉 TS: 78.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 5 → Score: 0.2 (Rank: 5)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-01-02 15:40:00
+🏆 RaceName: Purchase Hospitality At Huntingdon In 2025 National Hunt Flat Race (Conditional & Amateurs) (GBB)
+🏟️ Course: Huntingdon (right-handed, flat, fast track)
+📋 Race Type: 5NHF
+📏 Distance: 16.0 furlongs (➡️ vs 16.0 today)
+🌱 Going: GS
+👜 Prize: 💰 2K
+🏆 Race Description: 5NHF -- Unknown - 0
+🥇 Result: 5 / 🏇 12 runners. Expected: 1
+💰 Odds: 19.0 📉
+📝 Comment: in touch with leaders, no impression but kept on from 3f out
+🎽 Jockey: J Hogan- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 3.0) 
+⏳ Time between runs: 76  days ago
+---------------------------------------------------------------------------
+🐎 4 | Money To Burn🐎 is a 6 years old  gelding, colo(u)r: b, carrying 156 lbs today.
+🦄 Sire: Valirann 23/227 (10.0%)
+🌿 Dam: Little Vinnie 0/11 (0.0%)
+⏱️ Speed record - Runs: 2 | Best: 7.48 sec (Rank 7), Worst: 7.51 sec (Rank 6), Avg: 7.49 sec (Rank 6)
+🛠️ Gear: h
+🩺 Medical History: No records
+🎲 Early market: 51.0 (Rank: 4.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Miss R O'Neill
+🏠 Owner: Robert Clarke And Clare Ellam 0/8 (0.0) - (No previous owner(s))
+👤 Trainer: Shaun Lycett (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 6.0) RTF: 100.0 (OVR: -)
+🏇 Jockey: Kielan Woods (14d rank: 1.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(3.0/ 13.0 runs) RTF: N/A (OVR: 8%) 5Y: 21/118 (18.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Unruly before finishing tailed off at Huntingdon; new trainer fits a hood
+🔦 Spotlight: His fourth of 14 in a Cork bumper was in July 2023; returned from 538 days away when tailed off at Huntingdon having been unruly before the race; another new trainer; now goes with a hood.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 107.0 (Rank: 4)
+📉 TS: 34.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 4-0 → Score: 0.25 (Rank: 3)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-01-02 15:40:00
+🏆 RaceName: Purchase Hospitality At Huntingdon In 2025 National Hunt Flat Race (Conditional & Amateurs) (GBB)
+🏟️ Course: Huntingdon (right-handed, flat, fast track)
+📋 Race Type: 5NHF
+📏 Distance: 16.0 furlongs (➡️ vs 16.0 today)
+🌱 Going: GS
+👜 Prize: 💰 2K
+🏆 Race Description: 5NHF -- Unknown - 0
+🥇 Result: 10 / 🏇 12 runners. Expected: 1
+💰 Odds: 67.0 ❄️❄️
+📝 Comment: unseated rider in paddock, 🔄 towards rear throughout (unseated jockey in parade ring; having been checked by doctor, jockey was deemed fit to race)
+🎽 Jockey: C Quinn- (⚖️ Weight: 162.0 lbs (73.6 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 76  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2023-07-14 19:10:00
+🏆 RaceName: Coolagown Stud INH Flat Race
+🏟️ Course: Cork (right-handed flat and level (1m4f oval))
+📋 Race Type: 4yNHF
+📏 Distance: 17.0 furlongs (🔼 vs 16.0 today)
+🌱 Going: Y
+👜 Prize: 💰 6K
+🏆 Race Description: 4yNHF -- Unknown - 0
+🥇 Result: 4 / 🏇 14 runners. Expected: 1
+💰 Odds: 21.0 ❄️
+📝 Comment: 🔄 midfield, headway on inner and in touch with leaders 3f out, briefly went second over 1f out, no extra and lost two places inside final furlong
+🎽 Jockey: P Hanlon- (⚖️ Weight: 150.0 lbs (68.2 kg) carried -- Allowance: 7.0) 
+⏳ Time between runs: 537  days ago
+---------------------------------------------------------------------------
+🐎 6 | Robin Blue Breast⬆🏇 Robin Blue Breast id 7280798🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 5 years old  mare, colo(u)r: b, carrying 149 lbs today.
+🦄 Sire: Blue Bresil 61/493 (12.0%)
+🌿 Dam: Robinesse 0/0 (0.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 51.0 (Rank: 4.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: H Fowler
+🏠 Owner: Mark Timothy Davies 0/11 (0.0) - (No previous owner(s))
+👤 Trainer: Joe Ponting (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 6.0) RTF: 67.0 (OVR: 0%)
+🏇 Jockey: Charlie Hammond (14d rank: 3.0) ⚠️ No race history available for this horse.(2.0/ 14.0 runs) RTF: N/A (OVR: 17%) 5Y: 1/18 (6.0)
+🗞️ **PRESS OPINION**
+💬 Comment: 3,000euros 3yo; first foal out of a bumper winner; stable 0-6 in bumpers recent seasons
+🔦 Spotlight: 3,000euros 3yo; first foal out of a bumper winner and half-sister to useful winners Mischievous Milly (2m hurdle) and Jersey Bean (bumper and 2m3f-3m4f hurdle/chase); stable 0-6 in bumpers recent seasons.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 6)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7280798.
+
+🐎 7 | El Arco⬆🏇 El Arco id 7280800🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 4 years old  gelding, colo(u)r: b, carrying 146 lbs today.
+🦄 Sire: Pillar Coral 4/69 (6.0%)
+🌿 Dam: Mareena 0/0 (0.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 51.0 (Rank: 4.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Ballinaroone Stud Ltd
+🏠 Owner: Royal Arch Racing El Arco 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Harriet Dickin (0 previous trainer(s)) last 14d WinRate (1.0/7.0 runs) (Rank: 3.0) RTF: 13.0 (OVR: 13%)
+🏇 Jockey: Bradley Harris(3) (14d rank: 5.0) ⚠️ No race history available for this horse.(0.0/ 6.0 runs) RTF: N/A (OVR: 22%) 5Y: 20/130 (15.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Third foal; dam French 10.5f winner; stable not noted for having bumper winners
+🔦 Spotlight: Third foal; dam French 10.5f winner (RPR 68), sister to winners Miskin (10.5f-1m4f), Saint Arvans (2m-3m hurdle/chase) and Via Delle Volte (2m hurdle); stable 0-21 in races of this nature in the last five seasons.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 6)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7280800.
+
+🐎 1 | Hurricane Pat⬆🏇 Hurricane Pat id 5784869🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 5 years old  gelding, colo(u)r: b, carrying 163 lbs today.
+🦄 Sire: Kalanisi 15/145 (10.0%)
+🌿 Dam: Fedoria 1/5 (20.0%)
+⏱️ Speed record - Runs: 2 | Best: 7.45 sec (Rank 6), Worst: 8.27 sec (Rank 7), Avg: 7.86 sec (Rank 7)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: nan (Rank: nan)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Pat McCarthy
+🏠 Owner: Noel Fehily Racing Syndicate - Hurricane 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Gary & Josh Moore (0 previous trainer(s)) last 14d WinRate (10.0/40.0 runs) (Rank: 1.0) RTF: 63.0 (OVR: 0%)
+🏇 Jockey: Freddie Mitchell(5) (14d rank: 5.0) 🏇 Jockey 90091 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 96502 (1/1 - 100.0%)(0.0/ 10.0 runs) RTF: N/A (OVR: 0%) 5Y: 6/60 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Ran well under a penalty at Sandown (heavy) and his form sets the standard
+🔦 Spotlight: Bought for £40,000 after finishing close up in his two Irish points; won at Sandown (good to soft) from a subsequent winner and ran well under a penalty back there on heavy ground; Freddie Mitchell's claim eases the penalty this afternoon and his form sets the standard.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 117.0 (Rank: 1)
+📉 TS: 109.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 1/2 | Ratio: 0.50
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 2-213 → Score: 0.26 (Rank: 2)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-01 16:12:00
+🏆 RaceName: Virgin Bet Best Odds Daily Open National Hunt Flat Race (Category 1 Elimination) (GBB Race)
+🏟️ Course: Sandown (right-handed, galloping, testing track)
+📋 Race Type: 2NHF
+📏 Distance: 16.0 furlongs (➡️ vs 16.0 today)
+🌱 Going: HY
+👜 Prize: 💰 9K
+🏆 Race Description: 2NHF -- Unknown - 0
+🥇 Result: 3 🥉 / 🏇 7 runners. Expected: 1
+💰 Odds: 4.333 🔥
+📝 Comment: 🎯 prominent, 🎯 led over 2f out, headed over 1f out, lost second inside final furlong, kept on
+🎽 Jockey: N Houlihan- (⚖️ Weight: 162.0 lbs (73.6 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 46  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-11-10 16:00:00
+🏆 RaceName: Racing Welfare Open National Hunt Flat Race (Category 1 Elimination) (GBB Race)
+🏟️ Course: Sandown (right-handed, galloping, testing track)
+📋 Race Type: 4NHF
+📏 Distance: 16.0 furlongs (➡️ vs 16.0 today)
+🌱 Going: GS
+👜 Prize: 💰 3K
+🏆 Race Description: 4NHF -- Unknown - 0
+🥇 Result: 1 🥇 / 🏇 10 runners. Expected: 1
+💰 Odds: 8.0 📉
+📝 Comment: 🎯 prominent on inner, 🎯 led over 2f out, ridden over 1f out, faced challenge towards finish, just held on
+🎽 Jockey: N Houlihan- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 83  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-05-11 13:00:02
+🏆 RaceName: Dennison Commercials Ltd 4yo Maiden (Div 2)
+🏟️ Course: Toomebridge (LH, sharp; downhill from fouth last)
+📋 Race Type: 4yMdPTP
+📏 Distance: 24.0 furlongs (🔼 vs 16.0 today)
+🌱 Going: GY
+👜 Prize: 💰 0K
+🏆 Race Description: 4yMdPTP -- N/A
+🥇 Result: 2 🥈 / 🏇 10 runners. Expected: 1
+💰 Odds: 7.0 📉
+📝 Comment: tr ldrs on outer, 2l 3rd 6out, 3l 2nd 4out, kpt gng in 4l 2nd appr 2out, 4l down appr str, sl mstk last, ko
+🎽 Jockey: H Goff- (⚖️ Weight: 155.0 lbs (70.5 kg) carried -- Allowance: 5.0) 
+⏳ Time between runs: 183  days ago
+---------------------------------------------------------------------------
