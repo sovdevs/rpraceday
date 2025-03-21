@@ -1,0 +1,510 @@
+🏁 Race ID: 888335
+7 runners declared
+📍 Venue: Musselburgh (right-handed, sharp track)
+🌦️ Weather: Light rain
+🍃 Going: Good To Soft
+⏰ Off Time: 15:20
+🏆 Race Name: Ladbrokes Go North Grey Bomber Juvenile Hurdle Series Final (Handicap Hurdle) (GBB Race)
+📏 Distance: 17.5 furlongs
+🏇 Race/Grade: Class 2
+⛷️ Type: Hurdle
+🎂 Age Band: 4yo
+💰 Today's Purse: 💰 16K
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Performance Table
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1        | Belfrina                  | 5403077  | 1.0      | 1.0      | 1.0      | 4.0      | 1.0      | 6        | 6        | 3.0      | 1.0      | 1.0      | 1.0      | 7.0      | 2.0      | 1.0      | 1.0      | 1.0      | 7.0      | 4.0      | 2.0      | 5.0      | 6.0      | 3.0      | 1.0      | N/A      | 1.0      | 1.0      | 1.0      | 7.0      | 5.0      | 1.0      | N/A      | 2.0     
+2        | Johnny Ringo              | 5297340  | 3.0      | 5.0      | 4.0      | 3.0      | 3.0      | 3        | 1        | 4.0      | 1.0      | 3.0      | 2.0      | 3.0      | 4.0      | 2.0      | 5.0      | 4.0      | 2.0      | 2.0      | 5.0      | 6.0      | 4.0      | 7.0      | 2.0      | 1.0      | N/A      | 2.0      | 2.0      | 6.0      | 2.0      | 2.0      | 2.0      | 1.0     
+3        | Inappropriate             | 5325155  | 4.0      | 2.0      | 6.0      | 2.0      | 4.0      | 3        | 2        | 5.0      | 1.0      | 2.0      | 2.0      | 5.0      | 7.0      | 3.0      | 4.0      | 6.0      | 5.0      | 5.0      | 6.0      | 3.0      | 6.0      | 4.0      | 4.0      | N/A      | N/A      | 2.0      | 3.0      | 5.0      | 7.0      | N/A      | 1.0      | 5.0     
+6        | Platin Moon               | 6903328  | 6.0      | 6.0      | 2.0      | 4.0      | 5.0      | 7        | 7        | 6.0      | 1.0      | 7.0      | 2.0      | 2.0      | 6.0      | 6.0      | 2.0      | 3.0      | 1.0      | 7.0      | 4.0      | 1.0      | 4.0      | 6.0      | 6.0      | 2.0      | N/A      | 2.0      | 4.0      | 3.0      | 3.0      | N/A      | 3.0      | 4.0     
+5        | Spartan Warrior           | 5412923  | 5.0      | 3.0      | 5.0      | 4.0      | 2.0      | 5        | 3        | 7.0      | 1.0      | 4.0      | 2.0      | 4.0      | 5.0      | 5.0      | 2.0      | 2.0      | 4.0      | 6.0      | 1.0      | 2.0      | 3.0      | 5.0      | 3.0      | 2.0      | N/A      | 2.0      | 5.0      | 1.0      | 6.0      | 3.0      | 3.0      | 3.0     
+4        | Maple                     | 5162467  | 2.0      | 6.0      | 3.0      | 4.0      | 5.0      | 1        | 4        | 2.0      | 1.0      | 6.0      | 2.0      | 6.0      | 1.0      | 4.0      | 5.0      | 7.0      | 6.0      | 1.0      | 6.0      | 3.0      | 1.0      | 2.0      | 5.0      | 2.0      | 2.0      | 2.0      | 6.0      | 2.0      | 1.0      | N/A      | N/A      | 6.0     
+7        | Rukaana                   | 4924437  | 7.0      | 4.0      | 7.0      | 1.0      | 5.0      | 2        | 4        | 1.0      | 1.0      | 5.0      | 2.0      | 1.0      | 3.0      | 7.0      | 5.0      | 5.0      | 3.0      | 3.0      | 3.0      | 7.0      | 2.0      | 1.0      | 7.0      | N/A      | N/A      | 2.0      | 7.0      | 4.0      | 4.0      | N/A      | N/A      | 7.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 1 | Belfrina🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 is a 4 years old  filly, colo(u)r: b, carrying 168 lbs today.
+🦄 Sire: Zoffany 71/737 (10.0%)
+🌿 Dam: Partita 0/0 (0.0%)
+⏱️ Speed record - Runs: 4 | Best: 6.49 sec (Rank 6), Worst: 7.51 sec (Rank 1), Avg: 6.98 sec (Rank 6)
+🛠️ No gear today
+🩺 Medical History: 📅 2025-01-29: Wind Surgery
+🎲 Early market: 3.0 (Rank: 1.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Aston House Stud
+🏠 Owner: Green Agri Land Ltd Racing 1/3 (33.0) - (No previous owner(s))
+👤 Trainer: David Pipe (0 previous trainer(s)) last 14d WinRate (1.0/12.0 runs) (Rank: 2.0) RTF: 15.0 (OVR: 0%)
+🏇 Jockey: Jack Tudor (14d rank: 1.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(6.0/ 21.0 runs) RTF: N/A (OVR: 0%) 5Y: 83/535 (16.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Won fillies' Listed race in January and could still have more to offer over hurdles
+🔦 Spotlight: Won Flat maiden in Ireland in September and has taken very well to hurdling for new stable, despite a tendency to race too freely; justified favouritism in fillies' Listed race at Doncaster (2m, good to soft) in January and could have more to offer if subsequent wind op has made a difference.
+📊 **STATS**
+📉 OFR: 119.0 (Rank: 1)
+📈 RPR: 105.0 (Rank: 7)
+📉 TS: 94.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 1/3 | Ratio: 0.33
+🌱 Going Wins/Runs: 1/3 | Ratio: 0.33
+📊 Form: 2F1 → Score: 0.77 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-01-25 12:20:00
+🏆 RaceName: Livescore Bet Fillies' Juvenile Hurdle (Listed Race) (GBB Race)
+🏟️ Course: Doncaster (left-handed, galloping, flat track)
+📋 Race Type: 14yHLM
+📏 Distance: 16.5 furlongs (🔽 vs 17.5 today)
+🌱 Going: GS
+👜 Prize: 💰 23K
+🏆 Race Description: 14yHLM -- Listed - 4
+🥇 Result: 1 🥇 / 🏇 6 runners. Expected: 1
+💰 Odds: 2.25 🔥
+📝 Comment: took keen hold, raced in third, went second 3 out, clear with one other after 2 out, 🎯 led final 110yds, kept on well
+🎽 Jockey: J Tudor- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 54  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-29 11:52:00
+🏆 RaceName: Watch Unbridled On attheraces.com Fillies' Juvenile Maiden Hurdle (Go North Grey Bomber Qual') (GBB)
+🏟️ Course: Doncaster (left-handed, galloping, flat track)
+📋 Race Type: 43yMdHM
+📏 Distance: 16.5 furlongs (🔽 vs 17.5 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+🏆 Race Description: 43yMdHM -- Unknown - 0
+🥇 Result: nan / 🏇 8 runners. Expected: 1
+💰 Odds: 1.444 🔥🔥
+📝 Comment: travelled strongly, 🎯 prominent, went second before 2 out, went clear with winner after 2 out, switched right and 🎯 led before last, shaken up and 1 length ahead when fell last
+🎽 Jockey: J Tudor- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 27  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-13 11:40:00
+🏆 RaceName: Christmas Live @ Doncaster Juvenile Maiden Hurdle (Go North Grey Bomber Qualifier) (GBB)
+🏟️ Course: Doncaster (left-handed, galloping, flat track)
+📋 Race Type: 43yMdH
+📏 Distance: 16.5 furlongs (🔽 vs 17.5 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+🏆 Race Description: 43yMdH -- Unknown - 0
+🥇 Result: 2 🥈 / 🏇 7 runners. Expected: 1
+💰 Odds: 3.25 🔥
+📝 Comment: took keen hold, in touch with leaders, steady headway and pressed winner before last, 🎯 led last, hung right and headed final 110yds, soon no extra
+🎽 Jockey: N Scholfield- (⚖️ Weight: 151.0 lbs (68.6 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 16  days ago
+---------------------------------------------------------------------------
+🐎 2 | Johnny Ringo📈 Owner has a strong record (SR: 16.67%, 12 runs). (Rank: 2)
+🐎 is a 4 years old  gelding, colo(u)r: b, carrying 167 lbs today.
+🦄 Sire: Twilight Son 35/357 (10.0%)
+🌿 Dam: Florett 2/36 (6.0%)
+⏱️ Speed record - Runs: 13 | Best: 6.2 sec (Rank 3), Worst: 7.77 sec (Rank 2), Avg: 6.69 sec (Rank 1)
+🛠️ Gear: t
+🩺 Medical History: 📅 2024-05-12: Wind Surgery
+🎲 Early market: 3.5 (Rank: 2.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Bolton Grange
+🏠 Owner: The Outlaws 2/12 (17.0) - (No previous owner(s))
+👤 Trainer: Lucinda Russell (0 previous trainer(s)) last 14d WinRate (4.0/39.0 runs) (Rank: 5.0) RTF: 35.0 (OVR: 13%)
+🏇 Jockey: Conner Mccann(7) (14d rank: 5.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0.0/ 5.0 runs) RTF: N/A (OVR: 38%) 5Y: 8/48 (17.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Fairly useful on the Flat and a course winner over hurdles; likely contender
+🔦 Spotlight: Fairly useful Flat racer who beat Maple to open his hurdling account here (1m7f, soft) in January and has since been placed in a Listed race over that trip here (good to soft); likely to make his presence felt.
+📊 **STATS**
+📉 OFR: 118.0 (Rank: 2)
+📈 RPR: 113.0 (Rank: 3)
+📉 TS: 87.0 (Rank: 4)
+🏟️ Course Wins/Runs: 1/3 | Ratio: 0.33
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 213 → Score: 0.36 (Rank: 2)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-01 13:42:00
+🏆 RaceName: bet365 Scottish Triumph Hurdle (A Juvenile Hurdle) (Listed Race) (GBB Race)
+🏟️ Course: Musselburgh (right-handed, sharp track with stiffish fences)
+📋 Race Type: 14yHL
+📏 Distance: 15.5 furlongs (🔽 vs 17.5 today)
+🌱 Going: GS
+👜 Prize: 💰 23K
+🏆 Race Description: 14yHL -- Listed - 4
+🥇 Result: 3 🥉 / 🏇 10 runners. Expected: 1
+💰 Odds: 11.0 📉
+📝 Comment: in rear, some headway 3 out, mistake 2 out, no impression when left in third last
+🎽 Jockey: P Wadge- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 47  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-01 12:35:00
+🏆 RaceName: Henry Bocian Juvenile Hurdle (Go North Grey Bomber Series Qualifier) (GBB Race)
+🏟️ Course: Musselburgh (right-handed, sharp track with stiffish fences)
+📋 Race Type: 44yH
+📏 Distance: 15.5 furlongs (🔽 vs 17.5 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+🏆 Race Description: 44yH -- Unknown - 0
+🥇 Result: 1 🥇 / 🏇 8 runners. Expected: 1
+💰 Odds: 1.8 🔥🔥
+📝 Comment: in touch with leaders, nudged along before 3 out, headway and went second after 2 out, 🎯 led narrowly last, 🔥 ridden clear run-in
+🎽 Jockey: D R Fox- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 31  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-11-28 13:00:00
+🏆 RaceName: Athelstaneford Home Of The Saltire Juvenile Maiden Hurdle (Go North Grey Bomber Qualifier) (GBB)
+🏟️ Course: Musselburgh (right-handed, sharp track with stiffish fences)
+📋 Race Type: 43yMdH
+📏 Distance: 15.5 furlongs (🔽 vs 17.5 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+🏆 Race Description: 43yMdH -- Unknown - 0
+🥇 Result: 2 🥈 / 🏇 8 runners. Expected: 1
+💰 Odds: 2.875 🔥
+📝 Comment: in touch with leaders, headway and pressed winner before last, no extra inside final 110yds
+🎽 Jockey: D R Fox- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 33  days ago
+---------------------------------------------------------------------------
+🐎 3 | Inappropriate🐎 is a 4 years old  gelding, colo(u)r: ch, carrying 159 lbs today.
+🦄 Sire: Churchill 91/793 (11.0%)
+🌿 Dam: Kimblewick 1/3 (33.0%)
+⏱️ Speed record - Runs: 14 | Best: 6.2 sec (Rank 3), Worst: 8.03 sec (Rank 6), Avg: 6.7 sec (Rank 2)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 7.0 (Rank: 3.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Grenane House Stud
+🏠 Owner: Caron & Paul Chapman 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Jedd Okeeffe (0 previous trainer(s)) last 14d WinRate (0.0/2.0 runs) (Rank: 6.0) RTF: 60.0 (OVR: 0%)
+🏇 Jockey: Conor Ofarrell (14d rank: 4.0) 🏇 Jockey 85846 Today's Jock winSR: 50.0% | 🏆 Not H&J as Best Alternative Jockey: 101188 (2/3 - 67.0%)(3.0/ 23.0 runs) RTF: N/A (OVR: 11%) 5Y: 35/293 (12.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Won on hurdling debut but two slightly disappointing runs have followed
+🔦 Spotlight: Fair on the Flat; eased down when beating short-odds favourite on stable/hurdle debut at Newcastle (2m, good) in November but next two runs were slightly disappointing, and he'll need to up his game to make a winning handicap debut here.
+📊 **STATS**
+📉 OFR: 110.0 (Rank: 3)
+📈 RPR: 111.0 (Rank: 5)
+📉 TS: 67.0 (Rank: 7)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: 154 → Score: 0.11 (Rank: 4)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-01-23 12:25:00
+🏆 RaceName: William Hill Proper Prices Juvenile Hurdle (Go North Grey Bomber Series Qualifier) (GBB Race)
+🏟️ Course: Wetherby (left-handed, galloping track with stiff fences)
+📋 Race Type: 44yH
+📏 Distance: 16.0 furlongs (🔽 vs 17.5 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+🏆 Race Description: 44yH -- Unknown - 0
+🥇 Result: 4 / 🏇 8 runners. Expected: 1
+💰 Odds: 13.0 📉
+📝 Comment: 🔄 midfield, in touch with leaders 3rd, not fluent 3 out, outpaced after 2 out
+🎽 Jockey: C O'Farrell- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 56  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-27 12:45:00
+🏆 RaceName: Ladbrokes Best Odds Guaranteed On Racing 'Introductory' Juvenile Hurdle (GBB Race)
+🏟️ Course: Kempton (right-handed, sharpish, flat track)
+📋 Race Type: 23yH
+📏 Distance: 16.0 furlongs (🔽 vs 17.5 today)
+🌱 Going: GS
+👜 Prize: 💰 16K
+🏆 Race Description: 23yH -- Unknown - 0
+🥇 Result: 5 / 🏇 7 runners. Expected: 1
+💰 Odds: 4.5 🔥
+📝 Comment: visibility reduced by fog, 🔄 held up in rear, some headway before 2 out, no impression when mistake last
+🎽 Jockey: C O'Farrell- (⚖️ Weight: 159.0 lbs (72.3 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 26  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-11-30 11:53:00
+🏆 RaceName: Paul Ferguson's Jumpers To Follow 'Introductory' Juvenile Hurdle (Go North Grey Bomber Qual') (GBB)
+🏟️ Course: Newcastle (left-handed, galloping, testing track with stiff fences)
+📋 Race Type: 23yH
+📏 Distance: 16.0 furlongs (🔽 vs 17.5 today)
+🌱 Going: G
+👜 Prize: 💰 16K
+🏆 Race Description: 23yH -- Unknown - 0
+🥇 Result: 1 🥇 / 🏇 4 runners. Expected: 1
+💰 Odds: 6.5 📉
+📝 Comment: 🔄 held up in last, headway 4 out, nudged along and challenging when not fluent 2 out, 🎯 led last, soon clear, eased towards finish
+🎽 Jockey: C O'Farrell- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 27  days ago
+---------------------------------------------------------------------------
+🐎 6 | Platin Moon🐎 is a 4 years old  gelding, colo(u)r: b, carrying 149 lbs today.
+🦄 Sire: Sea The Moon 46/393 (12.0%)
+🌿 Dam: Alsusha 0/3 (0.0%)
+⏱️ Speed record - Runs: 3 | Best: 7.26 sec (Rank 7), Worst: 7.94 sec (Rank 5), Avg: 7.59 sec (Rank 7)
+🛠️ Gear: h
+🩺 Medical History: No records
+🎲 Early market: 8.0 (Rank: 4.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: R Shaykhutdinov
+🏠 Owner: H W Turcan 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: N W Alexander (0 previous trainer(s)) last 14d WinRate (4.0/15.0 runs) (Rank: 4.0) RTF: 40.0 (OVR: 13%)
+🏇 Jockey: Bruce Lynn (14d rank: 2.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(2.0/ 11.0 runs) RTF: N/A (OVR: 4%) 5Y: 33/253 (13.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Improved form when second at Kelso this month; may progress again in handicaps
+🔦 Spotlight: Placed on the Flat in France last summer; safely held over 1m7f here on first two hurdling starts but his recent Kelso second (2m, good to soft) was more encouraging and further progress is possible in handicaps.
+📊 **STATS**
+📉 OFR: 100.0 (Rank: 6)
+📈 RPR: 117.0 (Rank: 2)
+📉 TS: 70.0 (Rank: 6)
+🏟️ Course Wins/Runs: 0/2 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 652 → Score: 0.08 (Rank: 6)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-01 16:04:00
+🏆 RaceName: bet365 Juvenile Hurdle (Go North Grey Bomber Series Qualifier) (GBB Race)
+🏟️ Course: Kelso (left-handed, sharp track (hurdles very sharp))
+📋 Race Type: 34yH
+📏 Distance: 16.0 furlongs (🔽 vs 17.5 today)
+🌱 Going: GS
+👜 Prize: 💰 9K
+🏆 Race Description: 34yH -- Unknown - 0
+🥇 Result: 2 🥈 / 🏇 6 runners. Expected: 1
+💰 Odds: 26.0 ❄️
+📝 Comment: took keen hold, 🔄 held up in rear, not fluent 3rd, mistake 4 out, headway and went second before last, kept on but no match for winner
+🎽 Jockey: B Lynn- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 19  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-01 13:42:00
+🏆 RaceName: bet365 Scottish Triumph Hurdle (A Juvenile Hurdle) (Listed Race) (GBB Race)
+🏟️ Course: Musselburgh (right-handed, sharp track with stiffish fences)
+📋 Race Type: 14yHL
+📏 Distance: 15.5 furlongs (🔽 vs 17.5 today)
+🌱 Going: GS
+👜 Prize: 💰 23K
+🏆 Race Description: 14yHL -- Listed - 4
+🥇 Result: 5 / 🏇 10 runners. Expected: 1
+💰 Odds: 201.0 ❄️❄️
+📝 Comment: took keen hold, 🔄 towards rear, ❄️ weakened after 3 out
+🎽 Jockey: B Lynn- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 28  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-01-01 12:35:00
+🏆 RaceName: Henry Bocian Juvenile Hurdle (Go North Grey Bomber Series Qualifier) (GBB Race)
+🏟️ Course: Musselburgh (right-handed, sharp track with stiffish fences)
+📋 Race Type: 44yH
+📏 Distance: 15.5 furlongs (🔽 vs 17.5 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+🏆 Race Description: 44yH -- Unknown - 0
+🥇 Result: 6 / 🏇 8 runners. Expected: 1
+💰 Odds: 13.0 📉
+📝 Comment: took keen hold, 🎯 led, headed 4 out, ❄️ weakened 3 out (jockey said gelding ran too free)
+🎽 Jockey: D McMenamin- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 31  days ago
+---------------------------------------------------------------------------
+🐎 5 | Spartan Warrior📈 Owner has a strong record (SR: 15.60%, 218 runs). (Rank: 3)
+🐎 is a 4 years old  gelding, colo(u)r: b, carrying 151 lbs today.
+🦄 Sire: Saxon Warrior 63/452 (14.000000000000002%)
+🌿 Dam: Silky 0/14 (0.0%)
+⏱️ Speed record - Runs: 11 | Best: 6.27 sec (Rank 5), Worst: 7.93 sec (Rank 4), Avg: 6.76 sec (Rank 3)
+🛠️ Gear: tp
+🩺 Medical History: 📅 2025-01-29: Wind Surgery
+🎲 Early market: 9.0 (Rank: 5.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Lynch Bages Ltd
+🏠 Owner: J Fyffe 34/218 (16.0) - (No previous owner(s))
+👤 Trainer: Rebecca Menzies (0 previous trainer(s)) last 14d WinRate (1.0/11.0 runs) (Rank: 1.0) RTF: 24.0 (OVR: 15%)
+🏇 Jockey: Brian Hughes (14d rank: 2.0) 🏇 Jockey 81409 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 91867 (1/1 - 100.0%)(6.0/ 34.0 runs) RTF: N/A (OVR: 20%) 5Y: 80/552 (14.000000000000002)
+🗞️ **PRESS OPINION**
+💬 Comment: Well held on soft ground last time but has shown hurdling promise on good to soft/good
+🔦 Spotlight: About 25l behind Johnny Ringo on soft ground here (1m7f) in January but began hurdling career with two quite promising runs on good to soft/good and remains 🔍 unexposed in this sphere; had wind op at end of January; no surprise if he features.
+📊 **STATS**
+📉 OFR: 102.0 (Rank: 5)
+📈 RPR: 112.0 (Rank: 4)
+📉 TS: 81.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/2 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: 335 → Score: 0.12 (Rank: 3)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-01-01 12:35:00
+🏆 RaceName: Henry Bocian Juvenile Hurdle (Go North Grey Bomber Series Qualifier) (GBB Race)
+🏟️ Course: Musselburgh (right-handed, sharp track with stiffish fences)
+📋 Race Type: 44yH
+📏 Distance: 15.5 furlongs (🔽 vs 17.5 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+🏆 Race Description: 44yH -- Unknown - 0
+🥇 Result: 5 / 🏇 8 runners. Expected: 1
+💰 Odds: 6.0 📉
+📝 Comment: 🎯 prominent, 🎯 led narrowly 4 out, headed 2 out, soon ❄️ weakened
+🎽 Jockey: B Hughes- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 78  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-11-30 11:53:00
+🏆 RaceName: Paul Ferguson's Jumpers To Follow 'Introductory' Juvenile Hurdle (Go North Grey Bomber Qual') (GBB)
+🏟️ Course: Newcastle (left-handed, galloping, testing track with stiff fences)
+📋 Race Type: 23yH
+📏 Distance: 16.0 furlongs (🔽 vs 17.5 today)
+🌱 Going: G
+👜 Prize: 💰 16K
+🏆 Race Description: 23yH -- Unknown - 0
+🥇 Result: 3 🥉 / 🏇 4 runners. Expected: 1
+💰 Odds: 11.0 📉
+📝 Comment: raced in second, 🎯 led before 3 out, faced challenge 2 out, headed and mistake last, ❄️ weakened run-in, lost second post
+🎽 Jockey: C Nichol- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 32  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-11-28 13:00:00
+🏆 RaceName: Athelstaneford Home Of The Saltire Juvenile Maiden Hurdle (Go North Grey Bomber Qualifier) (GBB)
+🏟️ Course: Musselburgh (right-handed, sharp track with stiffish fences)
+📋 Race Type: 43yMdH
+📏 Distance: 15.5 furlongs (🔽 vs 17.5 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+🏆 Race Description: 43yMdH -- Unknown - 0
+🥇 Result: 3 🥉 / 🏇 8 runners. Expected: 1
+💰 Odds: 4.0 🔥
+📝 Comment: jumped left throughout, in touch with leaders, not fluent and reminder 1st, headway and went third before last, no extra run-in
+🎽 Jockey: B Hughes- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 1  days ago
+---------------------------------------------------------------------------
+🐎 4 | Maple⬆🏇 Maple id 5162467🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 4 years old  gelding, colo(u)r: b, carrying 152 lbs today.
+🦄 Sire: Camelot 87/642 (14.000000000000002%)
+🌿 Dam: Spice Trail 0/0 (0.0%)
+⏱️ Speed record - Runs: 10 | Best: 5.88 sec (Rank 1), Worst: 7.8 sec (Rank 3), Avg: 6.87 sec (Rank 4)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 11.0 (Rank: 6.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Juddmonte Farms (east) Ltd
+🏠 Owner: R Whitelock, L Clemitson & R Jefferson 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Ruth Jefferson (0 previous trainer(s)) last 14d WinRate (0.0/2.0 runs) (Rank: 6.0) RTF: N/A (OVR: 27%)
+🏇 Jockey: Jamie Hamilton (14d rank: 5.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0.0/ 18.0 runs) RTF: N/A (OVR: 10%) 5Y: 49/452 (11.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Second on three of his six hurdle runs but others in this line-up may have more potential
+🔦 Spotlight: Runner-up on three of his six hurdling starts, perhaps most notably when beaten by a nose at Catterick (1m7f, soft) two runs ago; not at best when last in action, though, and others in this line-up may have more potential.
+📊 **STATS**
+📉 OFR: 103.0 (Rank: 4)
+📈 RPR: 109.0 (Rank: 6)
+📉 TS: 97.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 24U224 → Score: 0.09 (Rank: 5)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-01 16:04:00
+🏆 RaceName: bet365 Juvenile Hurdle (Go North Grey Bomber Series Qualifier) (GBB Race)
+🏟️ Course: Kelso (left-handed, sharp track (hurdles very sharp))
+📋 Race Type: 34yH
+📏 Distance: 16.0 furlongs (🔽 vs 17.5 today)
+🌱 Going: GS
+👜 Prize: 💰 9K
+🏆 Race Description: 34yH -- Unknown - 0
+🥇 Result: 4 / 🏇 6 runners. Expected: 1
+💰 Odds: 4.333 🔥
+📝 Comment: 🔄 towards rear, headway before 4 out, 🎯 prominent when 🚧 bumped rival 2 out, ❄️ weakened before last
+🎽 Jockey: J Hamilton- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 19  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-31 14:05:00
+🏆 RaceName: Raceday Ready Juvenile Maiden Hurdle (Go North Grey Bomber Juvenile Hurdle Series Qualifier) (GBB)
+🏟️ Course: Catterick (left-handed, sharp, undulating track)
+📋 Race Type: 44yMdH
+📏 Distance: 15.5 furlongs (🔽 vs 17.5 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+🏆 Race Description: 44yMdH -- Unknown - 0
+🥇 Result: 2 🥈 / 🏇 8 runners. Expected: 1
+💰 Odds: 6.0 📉
+📝 Comment: in touch with leaders, headway and went second after 2 out, pressed winner run-in, just held
+🎽 Jockey: J Hamilton- (⚖️ Weight: 152.0 lbs (69.1 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 29  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-01-01 12:35:00
+🏆 RaceName: Henry Bocian Juvenile Hurdle (Go North Grey Bomber Series Qualifier) (GBB Race)
+🏟️ Course: Musselburgh (right-handed, sharp track with stiffish fences)
+📋 Race Type: 44yH
+📏 Distance: 15.5 furlongs (🔽 vs 17.5 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+🏆 Race Description: 44yH -- Unknown - 0
+🥇 Result: 2 🥈 / 🏇 8 runners. Expected: 1
+💰 Odds: 12.0 📉
+📝 Comment: in touch with leaders, took keen hold early, headway and 🎯 led 2 out, ridden and headed last, kept on
+🎽 Jockey: J Hamilton- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 30  days ago
+---------------------------------------------------------------------------
+🐎 7 | Rukaana⬆🏇 Rukaana id 4924437🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 4 years old  gelding, colo(u)r: gr, carrying 142 lbs today.
+🦄 Sire: Dark Angel 139/1192 (12.0%)
+🌿 Dam: Shurooq 0/0 (0.0%)
+⏱️ Speed record - Runs: 12 | Best: 6.15 sec (Rank 2), Worst: 8.13 sec (Rank 7), Avg: 6.87 sec (Rank 4)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 13.0 (Rank: 7.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Shadwell Estate Company Limited
+🏠 Owner: Marbro Contracts & The Ocean Partnership 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Jonjo & A J Oneill (0 previous trainer(s)) last 14d WinRate (1.0/28.0 runs) (Rank: 3.0) RTF: 45.0 (OVR: 25%)
+🏇 Jockey: Benjamin Macey(7) (14d rank: 5.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0.0/ 8.0 runs) RTF: N/A (OVR: 25%) 5Y: 6/61 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Soundly beaten on recent handicap debut and needs to take a big step forward
+🔦 Spotlight: Dual Flat winner; launched hurdling career with two fairly encouraging runs in the autumn but two lesser efforts followed, the latter a 32l defeat on handicap debut at Huntingdon (2m, good to soft) this month; needs to take a big step forward here.
+📊 **STATS**
+📉 OFR: 93.0 (Rank: 7)
+📈 RPR: 118.0 (Rank: 1)
+📉 TS: 88.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 3587 → Score: 0.05 (Rank: 7)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-02 16:27:00
+🏆 RaceName: Fail To Plan, Plan To Fail Handicap Hurdle
+🏟️ Course: Huntingdon (right-handed, flat, fast track)
+📋 Race Type: 5HcH
+📏 Distance: 16.0 furlongs (🔽 vs 17.5 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+🏆 Race Description: 5HcH -- Handicap - H
+🥇 Result: 7 / 🏇 12 runners. Expected: 1
+💰 Odds: 15.0 📉
+📝 Comment: 🔄 towards rear, ⚠️ hampered by faller 2nd, some headway before 3 out, ❄️ weakened quickly before 2 out
+🎽 Jockey: R McLernon- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 18  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-23 12:25:00
+🏆 RaceName: William Hill Proper Prices Juvenile Hurdle (Go North Grey Bomber Series Qualifier) (GBB Race)
+🏟️ Course: Wetherby (left-handed, galloping track with stiff fences)
+📋 Race Type: 44yH
+📏 Distance: 16.0 furlongs (🔽 vs 17.5 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+🏆 Race Description: 44yH -- Unknown - 0
+🥇 Result: 8 / 🏇 8 runners. Expected: 1
+💰 Odds: 17.0 📉
+📝 Comment: 🔄 midfield, outpaced 🔄 towards rear after 3 out
+🎽 Jockey: J O'Neill Jr- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 38  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-18 12:05:00
+🏆 RaceName: Get Best Odds Guaranteed At BetVictor Juvenile Hurdle (GBB Race)
+🏟️ Course: Newbury (left-handed, galloping track with stiff fences)
+📋 Race Type: 33yH
+📏 Distance: 16.5 furlongs (🔽 vs 17.5 today)
+🌱 Going: S
+👜 Prize: 💰 6K
+🏆 Race Description: 33yH -- Unknown - 0
+🥇 Result: 5 / 🏇 9 runners. Expected: 1
+💰 Odds: 41.0 ❄️❄️
+📝 Comment: 🔄 towards rear, headway before 3 out, badly ⚠️ hampered 2 out, not recover
+🎽 Jockey: J O'Neill Jr- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 36  days ago
+---------------------------------------------------------------------------

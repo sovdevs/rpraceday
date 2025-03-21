@@ -1,0 +1,443 @@
+🏁 Race ID: 888340
+6 runners declared
+📍 Venue: Newbury (left-handed, galloping track)
+☁️ Weather: Cloudy
+🍃 Going: Good To Soft
+⏰ Off Time: 15:30
+🏆 Race Name: Ultimate Travel Company Handicap Hurdle (Challenger Stayers Hurdle Series Qualifier)
+📏 Distance: 24.0 furlongs
+🏇 Race/Grade: Class 3
+⛷️ Type: Hurdle
+🎂 Age Band: 4yo+
+💰 Today's Purse: 💰 8K
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Performance Table
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1        | Hititi                    | 3454851  | 2.0      | 3.0      | 5.0      | 3.0      | 3.0      | 6        | 5        | 1.0      | 3.0      | 6.0      | 2.0      | 3.0      | 5.0      | 1.0      | 1.0      | 3.0      | 6.0      | 2.0      | 3.0      | 2.0      | 6.0      | 4.0      | 1.0      | 2.0      | 2.0      | 1.0      | 1.0      | 1.0      | 5.0      | N/A      | N/A      | 4.0     
+4        | Go To War                 | 4217587  | 4.0      | 1.0      | 4.0      | 1.0      | 2.0      | 5        | 3        | 4.0      | 1.0      | 1.0      | 2.0      | 1.0      | 1.0      | 4.0      | 4.0      | 2.0      | 4.0      | 1.0      | 4.0      | 1.0      | 3.0      | 6.0      | 4.0      | 2.0      | N/A      | 5.0      | 1.0      | 5.0      | 2.0      | 2.0      | 2.0      | 2.0     
+2        | Welcom To Cartries        | 4753556  | 6.0      | 2.0      | 2.0      | 4.0      | 1.0      | 3        | 3        | 2.0      | 5.0      | 5.0      | 2.0      | 3.0      | N/A      | 2.0      | 5.0      | 1.0      | 3.0      | 3.0      | 5.0      | 3.0      | 2.0      | 5.0      | 6.0      | N/A      | 4.0      | 3.0      | 3.0      | 3.0      | 1.0      | 3.0      | 4.0      | 1.0     
+3        | Zain Nights               | 3853588  | 5.0      | 3.0      | 6.0      | 2.0      | 5.0      | 1        | 1        | 5.0      | 4.0      | 4.0      | 2.0      | 1.0      | 2.0      | 3.0      | 6.0      | 4.0      | 1.0      | 6.0      | 6.0      | 4.0      | 1.0      | 1.0      | 5.0      | 1.0      | 1.0      | 2.0      | 4.0      | 6.0      | 4.0      | 1.0      | 1.0      | 5.0     
+6        | Jubilant                  | 5472229  | 1.0      | 3.0      | 1.0      | 4.0      | 2.0      | 2        | 2        | 3.0      | 2.0      | 3.0      | 2.0      | 5.0      | 3.0      | 6.0      | 3.0      | 6.0      | 5.0      | 4.0      | 2.0      | 6.0      | 5.0      | 3.0      | 2.0      | N/A      | 3.0      | 3.0      | 5.0      | 2.0      | 3.0      | N/A      | 3.0      | 3.0     
+5        | Gold In The Rivers        | 5089404  | 3.0      | 4.0      | 3.0      | 4.0      | 4.0      | 4        | 6        | 6.0      | 5.0      | 2.0      | 1.0      | 6.0      | 4.0      | 5.0      | 1.0      | 5.0      | 2.0      | 5.0      | 1.0      | 5.0      | 3.0      | 2.0      | 2.0      | N/A      | 4.0      | 5.0      | 6.0      | 4.0      | 6.0      | 4.0      | 5.0      | 6.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 1 | Hititi🐎 is a 8 years old  gelding, colo(u)r: b, carrying 168 lbs today.
+🦄 Sire: Great Pretender 28/130 (22.0%)
+🌿 Dam: Valmelodie 0/0 (0.0%)
+⏱️ Speed record - Runs: 9 | Best: 7.39 sec (Rank 6), Worst: 8.5 sec (Rank 5), Avg: 7.96 sec (Rank 5)
+🛠️ Gear: tp
+🩺 Medical History: No records
+🎲 Early market: 4.0 (Rank: 1.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Ludovic Fleury Et Al
+🏠 Owner: Dr & Mrs John Millar 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Robert Walford (0 previous trainer(s)) last 14d WinRate (1.0/3.0 runs) (Rank: 3.0) RTF: 33.0 (OVR: 11%)
+🏇 Jockey: Harry Kimber (14d rank: 1.0) 🏇 Jockey 98637 Today's Jock winSR: 17.0% | 🏆 Not H&J as Best Alternative Jockey: 92990 (1/1 - 100.0%)(1.0/ 13.0 runs) RTF: N/A (OVR: 0%) 5Y: 34/224 (15.0)
+🗞️ **PRESS OPINION**
+💬 Comment: On a tough mark but strong form when runner-up last time at Exeter; very solid
+🔦 Spotlight: Has been racking up the places since completing a hat-trick two years ago, a sure sign that he's high in the weights; however, again ran well at Exeter (2m7f, good to soft) last time and finished just ahead of last week's Pertemps Final runner-up Jeriko Du Reponet; raised another 2lb for that but he's very solid.
+📊 **STATS**
+📉 OFR: 137.0 (Rank: 1)
+📈 RPR: 137.0 (Rank: 3)
+📉 TS: 90.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 1/6 | Ratio: 0.17
+🌱 Going Wins/Runs: 3/11 | Ratio: 0.27
+📊 Form: -2P262 → Score: 0.11 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-09 15:33:00
+🏆 RaceName: Pertemps Network Handicap Hurdle (Pertemps Hurdle Series Qualifier) (GBB Race)
+🏟️ Course: Exeter (right-handed, very undulating, testing track)
+📋 Race Type: 2HcH
+📏 Distance: 23.0 furlongs (🔽 vs 24.0 today)
+🌱 Going: GS
+👜 Prize: 💰 18K
+🏆 Race Description: 2HcH -- Handicap - H
+🥇 Result: 2 🥈 / 🏇 12 runners. Expected: 1
+💰 Odds: 11.0 📉
+📝 Comment: 🎯 prominent early, 🔄 midfield 3rd, steady headway from 3 out, went fourth after 2 out, went second inside final 110yds, stayed on
+🎽 Jockey: H Kimber- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 39  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-17 16:08:00
+🏆 RaceName: Berkshire Winter Million Supports Injured Jockeys Fund Handicap Chase (GBB Race)
+🏟️ Course: Windsor (left hand; fairly sharp track)
+📋 Race Type: 3HcCh
+📏 Distance: 22.0 furlongs (🔽 vs 24.0 today)
+🌱 Going: S
+👜 Prize: 💰 11K
+🏆 Race Description: 3HcCh -- Handicap - H
+🥇 Result: 6 / 🏇 14 runners. Expected: 1
+💰 Odds: 8.5 📉
+📝 Comment: 🔄 midfield, ❄️ weakened from last (usual 2 out)
+🎽 Jockey: H Kimber- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 22  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-19 13:55:00
+🏆 RaceName: Southwest Rail Solutions Handicap Chase
+🏟️ Course: Exeter (right-handed, very undulating, testing track)
+📋 Race Type: 3HcCh
+📏 Distance: 24.5 furlongs (🔼 vs 24.0 today)
+🌱 Going: GS
+👜 Prize: 💰 10K
+🏆 Race Description: 3HcCh -- Handicap - H
+🥇 Result: 2 🥈 / 🏇 11 runners. Expected: 1
+💰 Odds: 5.5 🔥
+📝 Comment: 🔄 towards rear, headway from 13th, in touch with leaders 5 out, went second 2 out, kept on but no match for winner
+🎽 Jockey: H Kimber- (⚖️ Weight: 167.0 lbs (75.9 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 29  days ago
+---------------------------------------------------------------------------
+🐎 4 | Go To War⬆🏇 Go To War id 4217587🌟 is a TOP Ranked horse in at least one speed or OPR!
+📈 Owner has a strong record (SR: 24.14%, 29 runs). (Rank: 2)
+🐎 is a 7 years old  gelding, colo(u)r: b, carrying 155 lbs today.
+🦄 Sire: Soldier Of Fortune 96/749 (13.0%)
+🌿 Dam: Rate Of Knots 2/7 (28.999999999999996%)
+⏱️ Speed record - Runs: 6 | Best: 7.36 sec (Rank 5), Worst: 7.84 sec (Rank 1), Avg: 7.56 sec (Rank 3)
+🛠️ Gear: t
+🩺 Medical History: 📅 2024-01-19: Wind Surgery
+🎲 Early market: 4.0 (Rank: 1.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Grove View Stud Limited
+🏠 Owner: Grant Leon 7/29 (24.0) - (No previous owner(s))
+👤 Trainer: Nicky Henderson (0 previous trainer(s)) last 14d WinRate (6.0/36.0 runs) (Rank: 4.0) RTF: 44.0 (OVR: 18%)
+🏇 Jockey: Nico De Boinville (14d rank: 4.0) 🏇 Jockey 87644 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 76635 (2/5 - 40.0%)(4.0/ 19.0 runs) RTF: N/A (OVR: 20%) 5Y: 109/464 (23.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Yet to win a handicap but third here last time and this longer trip is worth exploring
+🔦 Spotlight: Won a pair of 2m novice hurdles at Ludlow in these colours for Fergal O'Brien; has run well in two of his three handicaps for Nicky Henderson and, judged on his latest effort here 20 days ago, this longer trip is worth exploring.
+📊 **STATS**
+📉 OFR: 124.0 (Rank: 4)
+📈 RPR: 138.0 (Rank: 1)
+📉 TS: 129.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/2 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 11-283 → Score: 0.09 (Rank: 4)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-01 16:15:00
+🏆 RaceName: Football Betbuilder Boosts At BetVictor Handicap Hurdle
+🏟️ Course: Newbury (left-handed, galloping track with stiff fences)
+📋 Race Type: 3HcH
+📏 Distance: 20.5 furlongs (🔽 vs 24.0 today)
+🌱 Going: S
+👜 Prize: 💰 16K
+🏆 Race Description: 3HcH -- Handicap - H
+🥇 Result: 3 🥉 / 🏇 11 runners. Expected: 1
+💰 Odds: 6.5 📉
+📝 Comment: 🎯 prominent, disputed lead 6th, pressed leader 3 out, lost position and not fluent 2 out, kept on
+🎽 Jockey: N De Boinville- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 19  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-28 13:45:00
+🏆 RaceName: Coral Racing Club Join For Free Handicap Hurdle
+🏟️ Course: Newbury (left-handed, galloping track with stiff fences)
+📋 Race Type: 3HcH
+📏 Distance: 20.5 furlongs (🔽 vs 24.0 today)
+🌱 Going: GS
+👜 Prize: 💰 14K
+🏆 Race Description: 3HcH -- Handicap - H
+🥇 Result: 8 / 🏇 11 runners. Expected: 1
+💰 Odds: 4.5 🔥
+📝 Comment: didn't jump with fluency, 🔄 midfield, outpaced 3 out, ❄️ weakened after 2 out (vet said gelding sustained a wound to his left-fore)
+🎽 Jockey: N De Boinville- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 63  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-08 14:25:00
+🏆 RaceName: Trustatrader You Can Trust Our Traders Handicap Hurdle (Challenger Two Mile Hurdle Series Qualifier)
+🏟️ Course: Huntingdon (right-handed, flat, fast track)
+📋 Race Type: 3HcH
+📏 Distance: 16.0 furlongs (🔽 vs 24.0 today)
+🌱 Going: S
+👜 Prize: 💰 8K
+🏆 Race Description: 3HcH -- Handicap - H
+🥇 Result: 2 🥈 / 🏇 6 runners. Expected: 1
+💰 Odds: 1.7269999999999999 🔥🔥
+📝 Comment: 🎯 prominent, 🎯 led after 1st, headed 2 out, mistake last, no extra run-in
+🎽 Jockey: N De Boinville- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 19  days ago
+---------------------------------------------------------------------------
+🐎 2 | Welcom To Cartries📈 Owner has a strong record (SR: 23.21%, 112 runs). (Rank: 3)
+🐎 is a 7 years old  gelding, colo(u)r: b, carrying 161 lbs today.
+🦄 Sire: No Risk At All 45/276 (16.0%)
+🌿 Dam: Nasou 1/6 (17.0%)
+⏱️ Speed record - Runs: 6 | Best: 7.25 sec (Rank 3), Worst: 8.1 sec (Rank 4), Avg: 7.56 sec (Rank 3)
+🛠️ Gear: t
+🩺 Medical History: 📅 2024-07-16: Wind Surgery | 📅 2023-07-17: Wind Surgery
+🎲 Early market: 5.0 (Rank: 3.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: T Eluard & G Eluard
+🏠 Owner: Mrs Johnny De La Hey 26/112 (23.0) - (No previous owner(s))
+👤 Trainer: Paul Nicholls (0 previous trainer(s)) last 14d WinRate (7.0/44.0 runs) (Rank: 5.0) RTF: 41.0 (OVR: 23%)
+🏇 Jockey: Harry Cobden (14d rank: 5.0) 🏇 Today's Jock winSR: 33.0% (No better alternative found.)(6.0/ 34.0 runs) RTF: N/A (OVR: 23%) 5Y: 217/923 (24.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Has potential back hurdling as he's lightly raced and did finish runner-up in a Grade 2
+🔦 Spotlight: Chasing this season after wind surgery, running well in a Grade 2 first time out (3m, soft) before the last to finish in a Grade 1 at Christmas; could retain some potential back over hurdles as he's lightly raced and did finish runner-up in a Grade 2.
+📊 **STATS**
+📉 OFR: 130.0 (Rank: 2)
+📈 RPR: 137.0 (Rank: 3)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/4 | Ratio: 0.00
+🌱 Going Wins/Runs: 1/1 | Ratio: 1.00
+📊 Form: 128-44 → Score: 0.06 (Rank: 6)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-12-26 13:20:00
+🏆 RaceName: Ladbrokes Kauto Star Novices' Chase (In Memory Of Nigel Clark) (Grade 1) (GBB Race)
+🏟️ Course: Kempton (right-handed, sharpish, flat track)
+📋 Race Type: 1NvChG1
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: G
+👜 Prize: 💰 58K
+🏆 Race Description: 1NvChG1 -- Grade 1 - 7
+🥇 Result: 4 / 🏇 5 runners. Expected: 1
+💰 Odds: 11.0 📉
+📝 Comment: 🎯 led, raced in second 3rd, raced in third 9th, dropped to last home turn, soon ❄️ weakened
+🎽 Jockey: H Cobden- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 84  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-06 14:33:00
+🏆 RaceName: Betfair Esher Novices' Chase (Grade 2) (GBB Race)
+🏟️ Course: Sandown (right-handed, galloping, testing track)
+📋 Race Type: 1NvChG2
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: S
+👜 Prize: 💰 37K
+🏆 Race Description: 1NvChG2 -- Grade 2 - 8
+🥇 Result: 4 / 🏇 5 runners. Expected: 1
+💰 Odds: 9.0 📉
+📝 Comment: 🎯 prominent on outer, went second after 4 out, jumped right 2 out, ridden run-in, ❄️ weakened and lost two places final 110yds
+🎽 Jockey: H Skelton- (⚖️ Weight: 158.0 lbs (71.8 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 19  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-04-20 15:10:00
+🏆 RaceName: Let Good Times Roll With Stagecoach Novices' Handicap Hurdle (GBB Race)
+🏟️ Course: Ayr (left-handed, fairly galloping track)
+📋 Race Type: 3NvHcH
+📏 Distance: 24.5 furlongs (🔼 vs 24.0 today)
+🌱 Going: S
+👜 Prize: 💰 11K
+🏆 Race Description: 3NvHcH -- Handicap - H
+🥇 Result: 8 / 🏇 10 runners. Expected: 1
+💰 Odds: 5.5 🔥
+📝 Comment: 🎯 prominent, pressed leader when not fluent 6th, lost position before 2 out, ❄️ weakened quickly approaching last (trainer's rep could offer no explanation for the poor form shown)
+🎽 Jockey: H Cobden- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 229  days ago
+---------------------------------------------------------------------------
+🐎 3 | Zain Nights⬆🏇 Zain Nights id 3853588🥇🥇 is TOP Ranked horse in Speed AND RPRating in this race!
+⬆🏇 Zain Nights id 3853588🌟 is a TOP Ranked horse in at least one speed or OPR!
+🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 is a 6 years old  gelding, colo(u)r: b, carrying 159 lbs today.
+🦄 Sire: Decorated Knight 16/164 (10.0%)
+🌿 Dam: Missy O Gwaun 4/12 (33.0%)
+⏱️ Speed record - Runs: 16 | Best: 6.37 sec (Rank 1), Worst: 7.84 sec (Rank 1), Avg: 7.14 sec (Rank 1)
+🛠️ Gear: v
+🩺 Medical History: No records
+🎲 Early market: 5.5 (Rank: 4.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Blue Diamond Stud Farm (uk) Ltd
+🏠 Owner: J And J Mcandrew 9/21 (43.0) - (No previous owner(s))
+👤 Trainer: Lucy Wadham (0 previous trainer(s)) last 14d WinRate (0.0/7.0 runs) (Rank: 6.0) RTF: 14.0 (OVR: 9%)
+🏇 Jockey: Tom Cannon (14d rank: 6.0) 🏇 Today's Jock winSR: 40.0% (No better alternative found.)(3.0/ 20.0 runs) RTF: N/A (OVR: 8%) 5Y: 72/497 (14.000000000000002)
+🗞️ **PRESS OPINION**
+💬 Comment: Won this last year and then two more; would go well if a change of headgear inspires
+🔦 Spotlight: Improved for going this far for the first time when winning this 12 months ago, after which he went on to complete a hat-trick; pulled up in the Pertemps Final last week but he has run two good races this season and a change of headgear (usually wears cheekpieces) is an interesting angle.
+📊 **STATS**
+📉 OFR: 128.0 (Rank: 3)
+📈 RPR: 138.0 (Rank: 1)
+📉 TS: 121.0 (Rank: 2)
+🏟️ Course Wins/Runs: 1/1 | Ratio: 1.00
+📏 Distance Wins/Runs: 3/8 | Ratio: 0.38
+🌱 Going Wins/Runs: 2/6 | Ratio: 0.33
+📊 Form: 13P84P → Score: 0.07 (Rank: 5)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-13 14:40:00
+🏆 RaceName: Pertemps Network Final Handicap Hurdle (Premier Handicap) (GBB Race)
+🏟️ Course: Cheltenham (left-handed, galloping, undulating and testing track with stiff fences)
+📋 Race Type: 1HcHG3
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: GS
+👜 Prize: 💰 62K
+🏆 Race Description: 1HcHG3 -- Grade 3 Handicap - H
+🥇 Result: nan / 🏇 24 runners. Expected: 1
+💰 Odds: 21.0 ❄️
+📝 Comment: always behind, lost touch and pulled up before 3 out
+🎽 Jockey: C Deutsch- (⚖️ Weight: 153.0 lbs (69.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 7  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-23 14:30:00
+🏆 RaceName: Pertemps Network Handicap Hurdle (Series Qualifier) (GBB Race)
+🏟️ Course: Huntingdon (right-handed, flat, fast track)
+📋 Race Type: 2HcH
+📏 Distance: 25.0 furlongs (🔼 vs 24.0 today)
+🌱 Going: S
+👜 Prize: 💰 13K
+🏆 Race Description: 2HcH -- Handicap - H
+🥇 Result: 4 / 🏇 10 runners. Expected: 1
+💰 Odds: 6.0 📉
+📝 Comment: took keen hold, in touch with leaders, outpaced before 2 out, switched right and rallied approaching last, kept on run-in, no impression towards finish
+🎽 Jockey: T Cannon- (⚖️ Weight: 153.0 lbs (69.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 49  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-13 15:35:00
+🏆 RaceName: Citipost Handicap Hurdle (GBB Race)
+🏟️ Course: Cheltenham (left-handed, galloping, undulating and testing track with stiff fences)
+📋 Race Type: 2HcH
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: GS
+👜 Prize: 💰 16K
+🏆 Race Description: 2HcH -- Handicap - H
+🥇 Result: 8 / 🏇 9 runners. Expected: 1
+💰 Odds: 12.0 📉
+📝 Comment: raced in second, lost second and ❄️ weakened before last
+🎽 Jockey: H Cobden- (⚖️ Weight: 153.0 lbs (69.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 40  days ago
+---------------------------------------------------------------------------
+🐎 6 | Jubilant🐎 is a 6 years old  gelding, colo(u)r: b, carrying 149 lbs today.
+🦄 Sire: Doctor Dino 41/207 (20.0%)
+🌿 Dam: A Merveille 2/8 (25.0%)
+⏱️ Speed record - Runs: 7 | Best: 6.99 sec (Rank 2), Worst: 8.05 sec (Rank 3), Avg: 7.49 sec (Rank 2)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 6.0 (Rank: 5.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Francois-Marie Cottin
+🏠 Owner: Mr & Mrs R Sage 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: James Owen (0 previous trainer(s)) last 14d WinRate (1.0/16.0 runs) (Rank: 2.0) RTF: 53.0 (OVR: 17%)
+🏇 Jockey: Sam Twiston-Davies (14d rank: 3.0) 🏇 Jockey 88023 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 99249 (1/1 - 100.0%)(2.0/ 36.0 runs) RTF: N/A (OVR: 10%) 5Y: 169/943 (18.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Up in grade and looks on a harsh mark; they have claimed 5lb the last twice as well
+🔦 Spotlight: Clearcut winner in a first-time tongue-tie at Huntingdon (3m1f, good to soft) on his first venture beyond an extended 2m4f; went up 10lb though and was found wanting at Market Rasen (2m7f); he runs off an untouched mark here and they have claimed 5lb the last twice.
+📊 **STATS**
+📉 OFR: 118.0 (Rank: 6)
+📈 RPR: 136.0 (Rank: 5)
+📉 TS: 113.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 1/1 | Ratio: 1.00
+🌱 Going Wins/Runs: 1/4 | Ratio: 0.25
+📊 Form: 233P15 → Score: 0.11 (Rank: 2)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-04 17:15:00
+🏆 RaceName: Get Daily Tips At racingtv.com Handicap Hurdle
+🏟️ Course: Market Rasen (right-handed, sharp, undulating track with easy fences)
+📋 Race Type: 4HcH
+📏 Distance: 23.0 furlongs (🔽 vs 24.0 today)
+🌱 Going: GS
+👜 Prize: 💰 6K
+🏆 Race Description: 4HcH -- Handicap - H
+🥇 Result: 5 / 🏇 6 runners. Expected: 1
+💰 Odds: 3.25 🔥
+📝 Comment: 🔄 held up in last, outpaced 2 out, some headway approaching last, no impression run-in
+🎽 Jockey: Mr A Chadwick- (⚖️ Weight: 157.0 lbs (71.4 kg) carried -- Allowance: 5.0) 
+⏳ Time between runs: 16  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-20 14:45:00
+🏆 RaceName: Visit Huntingdon For Your Next Conference Handicap Hurdle
+🏟️ Course: Huntingdon (right-handed, flat, fast track)
+📋 Race Type: 4HcH
+📏 Distance: 25.0 furlongs (🔼 vs 24.0 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+🏆 Race Description: 4HcH -- Handicap - H
+🥇 Result: 1 🥇 / 🏇 6 runners. Expected: 1
+💰 Odds: 3.0 🔥
+📝 Comment: travelled strongly, 🔄 held up in rear, good jump and smooth headway 8th, pressed leader when not fluent 3 out, soon 🎯 led going easily, went clear 2 out, pushed along approaching last, went further clear run-in, eased run-in, readily
+🎽 Jockey: Mr A Chadwick- (⚖️ Weight: 150.0 lbs (68.2 kg) carried -- Allowance: 5.0) 
+⏳ Time between runs: 12  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-08 12:43:00
+🏆 RaceName: Trustatrader Apply Today Conditional Jockeys' Handicap Hurdle
+🏟️ Course: Huntingdon (right-handed, flat, fast track)
+📋 Race Type: 4HcH
+📏 Distance: 20.5 furlongs (🔽 vs 24.0 today)
+🌱 Going: S
+👜 Prize: 💰 5K
+🏆 Race Description: 4HcH -- Handicap - H
+🥇 Result: nan / 🏇 8 runners. Expected: 1
+💰 Odds: 3.0 🔥
+📝 Comment: in touch with leaders, lost position after 7th, ❄️ weakened 3 out, pulled up last (trainer's rep said, regarding the poor form shown, that gelding was unsuited by the going, which was officially described as soft on this occasion, and would prefer a quicker surface)
+🎽 Jockey: C Pritchard- (⚖️ Weight: 160.0 lbs (72.7 kg) carried -- Allowance: 3.0) 
+⏳ Time between runs: 74  days ago
+---------------------------------------------------------------------------
+🐎 5 | Gold In The Rivers⚠️ Owner's record is weaker (SR: 5.56%, 18 runs). (Rank: 4)
+🐎 is a 6 years old  gelding, colo(u)r: b, carrying 153 lbs today.
+🦄 Sire: Walk In The Park 141/914 (15.0%)
+🌿 Dam: Aulne River 0/3 (0.0%)
+⏱️ Speed record - Runs: 7 | Best: 7.33 sec (Rank 4), Worst: 9.01 sec (Rank 6), Avg: 8.14 sec (Rank 6)
+🛠️ Gear: p
+🩺 Medical History: 📅 2024-12-18: Wind Surgery
+🎲 Early market: 11.0 (Rank: 6.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Michael Whitty
+🏠 Owner: South West Rail Solutions Limited 1/18 (6.0) - (No previous owner(s))
+👤 Trainer: David Pipe (0 previous trainer(s)) last 14d WinRate (1.0/12.0 runs) (Rank: 1.0) RTF: 15.0 (OVR: 18%)
+🏇 Jockey: Tom Bellamy (14d rank: 1.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(2.0/ 26.0 runs) RTF: N/A (OVR: 5%) 5Y: 62/462 (13.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Below his Irish form in three runs for current yard and now tries cheekpieces
+🔦 Spotlight: Only had five races for Gordon Elliott and his best two were the final two, including a maiden win; well below that level so far for David Pipe, in a 2m novice and two staying handicaps (latest after wind surgery); bit risky for now and tries cheekpieces.
+📊 **STATS**
+📉 OFR: 122.0 (Rank: 5)
+📈 RPR: 134.0 (Rank: 6)
+📉 TS: 102.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/3 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: 1-244P → Score: 0.11 (Rank: 2)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-22 14:32:00
+🏆 RaceName: Pertemps Network Handicap Hurdle (Pertemps Hurdle Series Qualifier) (GBB Race)
+🏟️ Course: Chepstow (left-handed, galloping, and undulating.)
+📋 Race Type: 2HcH
+📏 Distance: 23.5 furlongs (🔽 vs 24.0 today)
+🌱 Going: S
+👜 Prize: 💰 10K
+🏆 Race Description: 2HcH -- Handicap - H
+🥇 Result: nan / 🏇 13 runners. Expected: 1
+💰 Odds: 19.0 📉
+📝 Comment: 🔄 midfield, headway and 🎯 prominent 8th, ❄️ weakened quickly and pulled up before 3 out
+🎽 Jockey: D Noonan- (⚖️ Weight: 151.0 lbs (68.6 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 26  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-15 14:07:00
+🏆 RaceName: Pertemps Network Handicap Hurdle (Pertemps Hurdle Series Qualifier) (GBB Race)
+🏟️ Course: Carlisle (right-handed, galloping, undulating and testing track)
+📋 Race Type: 2HcH
+📏 Distance: 25.0 furlongs (🔼 vs 24.0 today)
+🌱 Going: S
+👜 Prize: 💰 16K
+🏆 Race Description: 2HcH -- Handicap - H
+🥇 Result: 4 / 🏇 9 runners. Expected: 1
+💰 Odds: 11.0 📉
+📝 Comment: took keen hold, in touch with leaders, pressed leaders 2 out, no extra before last, ❄️ weakened quickly run-in
+🎽 Jockey: J Tudor- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 69  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-11-10 12:10:00
+🏆 RaceName: Weatherbys & Birdie Calendars Novices' Hurdle (GBB Race) (Div I)
+🏟️ Course: Ffos Las (left-handed, flat, galloping)
+📋 Race Type: 4NvH
+📏 Distance: 16.0 furlongs (🔽 vs 24.0 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+🏆 Race Description: 4NvH -- Unknown - 0
+🥇 Result: 4 / 🏇 12 runners. Expected: 1
+💰 Odds: 5.5 🔥
+📝 Comment: raced in third, not fluent 5th, ❄️ weakened approaching last
+🎽 Jockey: J Tudor- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 35  days ago
+---------------------------------------------------------------------------
