@@ -1,0 +1,441 @@
+🏁 Race ID: 891010
+6 runners declared
+📍 Venue: Limerick (right-handed, undulating track (1m3f oval))
+☁️ Weather: Cloudy
+🌱 Going: Good
+⏰ Off Time: 16:03
+🏆 Race Name: Hugh McMahon Memorial Novice Chase (Grade 3)
+📏 Distance: 24.5 furlongs
+🏇 Race/Grade: Class 1 Grade 3
+🏆 Type: Chase
+🎂 Age Band: 5yo+
+💰 Today's Purse: 💰 18K
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Performance Table
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1        | Harry Des Ongrais         | 3513246  | 5.0      | 4.0      | 3.0      | 2.0      | 6.0      | 4        | 4        | 4.0      | 5.0      | 4.0      | 4.0      | 2.0      | 4.0      | N/A      | 4.0      | 1.0      | 5.0      | 3.0      | 4.0      | 5.0      | 2.0      | 5.0      | 6.0      | 1.0      | 2.0      | N/A      | 1.0      | 4.0      | 2.0      | N/A      | 5.0      | 2.0     
+6        | Fun Fun Fun               | 4593470  | 3.0      | 1.0      | 1.0      | 1.0      | 1.0      | 3        | 3        | 2.0      | 5.0      | 2.0      | 2.0      | 2.0      | 3.0      | N/A      | 2.0      | 4.0      | 4.0      | 1.0      | 2.0      | 1.0      | 1.0      | 2.0      | 3.0      | N/A      | N/A      | N/A      | 1.0      | 2.0      | 1.0      | N/A      | 1.0      | 1.0     
+3        | Monbeg Park               | 3918373  | 2.0      | 3.0      | 5.0      | 3.0      | 4.0      | 2        | 2        | 1.0      | 2.0      | 3.0      | 3.0      | 1.0      | 1.0      | 1.0      | 6.0      | 5.0      | 2.0      | 5.0      | 5.0      | 2.0      | 5.0      | 4.0      | 2.0      | N/A      | 2.0      | 1.0      | 3.0      | 1.0      | 5.0      | 2.0      | 4.0      | 4.0     
+4        | Shannon Royale            | 4129144  | 1.0      | 2.0      | 2.0      | 5.0      | 3.0      | 5        | 5        | 3.0      | 1.0      | 6.0      | 6.0      | 4.0      | 5.0      | 2.0      | 3.0      | 2.0      | 6.0      | 2.0      | 3.0      | 6.0      | 2.0      | 6.0      | 1.0      | N/A      | 1.0      | N/A      | 4.0      | 1.0      | 3.0      | 1.0      | 2.0      | 6.0     
+5        | Broomfield Bijou          | 4189611  | 4.0      | 5.0      | 6.0      | 4.0      | 5.0      | 1        | 1        | 5.0      | 3.0      | 5.0      | 5.0      | 4.0      | 2.0      | 3.0      | 4.0      | 3.0      | 1.0      | 4.0      | 1.0      | 4.0      | 4.0      | 1.0      | 5.0      | N/A      | N/A      | 2.0      | 5.0      | 1.0      | 4.0      | 2.0      | 3.0      | 5.0     
+2        | Lonesome Boatman          | 3087846  | 4.0      | 2.0      | 4.0      | 5.0      | 2.0      | 6        | 6        | 6.0      | 4.0      | 1.0      | 1.0      | 6.0      | N/A      | N/A      | 1.0      | 6.0      | 3.0      | 6.0      | 5.0      | 2.0      | 5.0      | 3.0      | 4.0      | N/A      | 2.0      | 2.0      | 6.0      | 3.0      | 6.0      | 3.0      | 5.0      | 3.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 1 | Harry Des Ongrais🐎 is a 8 years old  gelding, colo(u)r: gr, carrying 154 lbs today.
+🦄 Sire: Crillon 7/61 (11.0%)
+🌿 Dam: Lola Des Ongrais 0/3 (0.0%)
+⏱️ Speed record - Runs: 3 | Best: 7.77 sec (Rank 4), Worst: 7.97 sec (Rank 2), Avg: 7.85 sec (Rank 4)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 3.5 (Rank: 1.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: M Marc Trincot & Mme Odile Trincot
+🏠 Owner: K Haughey & Laura Haughey & Kieran T Byrne 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Henry De Bromhead (0 previous trainer(s)) last 14d WinRate (5.0/48.0 runs) (Rank: 4.0) RTF: 69.0 (OVR: 16%)
+🏇 Jockey: Rachael Blackmore (14d rank: 4.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(3.0/ 24.0 runs) RTF: N/A (OVR: 21%) 5Y: 94/640 (15.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Always been useful and won easily at Gowran on second chase start; jumped well
+🔦 Spotlight: Smart novice hurdler two seasons ago and ended up in a Grade 1 (well beaten); this winning pointer was always going to be a better chaser and, having probably needed his first run back after a long absence, he made no mistake at Gowran (2m4f, soft; jumped well); there should be plenty more to come over this longer trip.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 156.0 (Rank: 2)
+📉 TS: 111.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 357/51 → Score: 0.05 (Rank: 6)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-15 15:42:00
+🏆 RaceName: QuinnBet Beginners Chase
+🏟️ Course: Gowran Park (right-handed, undulating track (1m4f circuit))
+📋 Race Type: Ch
+📏 Distance: 20.0 furlongs (🔽 vs 24.5 today)
+🌱 Going: S
+👜 Prize: 💰 6K
+🏆 Race Description: Ch -- Unknown - 0
+🥇 Result: 1 🥇 / 🏇 11 runners. Expected: 1
+💰 Odds: 9.0 📉
+📝 Comment: 🎯 prominent early, in touch with leaders from 3rd, headway 4 out, 🔄 ridden to lead last, kept on well
+🎽 Jockey: Rachael Blackmore- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 35  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-11 14:18:00
+🏆 RaceName: Irish Stallion Farms EBF Beginners Chase
+🏟️ Course: Fairyhouse (right-handed, galloping, testing track (1m6f circuit))
+📋 Race Type: Ch
+📏 Distance: 17.0 furlongs (🔽 vs 24.5 today)
+🌱 Going: S
+👜 Prize: 💰 8K
+🏆 Race Description: Ch -- Unknown - 0
+🥇 Result: 5 / 🏇 12 runners. Expected: 1
+💰 Odds: 41.0 ❄️❄️
+📝 Comment: 🔄 held up in rear, headway after 5th, nudged along into 🔄 midfield after 3 out, kept on after 2 out, never near to challenge
+🎽 Jockey: Rachael Blackmore- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 35  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2023-04-26 16:20:00
+🏆 RaceName: Irish Mirror Novice Hurdle (Grade 1)
+🏟️ Course: Punchestown (right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses)
+📋 Race Type: NvHG1
+📏 Distance: 24.0 furlongs (🔽 vs 24.5 today)
+🌱 Going: Y
+👜 Prize: 💰 66K
+🏆 Race Description: NvHG1 -- Grade 1 - 7
+🥇 Result: 7 / 🏇 9 runners. Expected: 1
+💰 Odds: 41.0 ❄️❄️
+📝 Comment: 🔄 midfield, nudged along and dropped to rear 2 out, no extra when mistake last
+🎽 Jockey: Rachael Blackmore- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 625  days ago
+---------------------------------------------------------------------------
+🐎 6 | Fun Fun Fun🐎 is a 7 years old  mare, colo(u)r: b, carrying 147 lbs today.
+🦄 Sire: Martaline 58/359 (16.0%)
+🌿 Dam: Ocean Breeze 4/10 (40.0%)
+⏱️ Speed record - Runs: 8 | Best: 7.38 sec (Rank 3), Worst: 8.37 sec (Rank 4), Avg: 7.82 sec (Rank 3)
+🛠️ Gear: h
+🩺 Medical History: No records
+🎲 Early market: 3.5 (Rank: 1.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Patrick Mullins
+🏠 Owner: Simon Munir & Isaac Souede 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: W P Mullins (0 previous trainer(s)) last 14d WinRate (15.0/95.0 runs) (Rank: 2.0) RTF: 57.0 (OVR: 36%)
+🏇 Jockey: Paul Townend (14d rank: 2.0) 🏇 Jockey 86502 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 85115 (3/5 - 60.0%)(5.0/ 22.0 runs) RTF: N/A (OVR: 32%) 5Y: 245/668 (37.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Classy mare who looked good on her chasing debut and there were excuses last time
+🔦 Spotlight: Won a Grade 2 bumper and Grade 3 novice hurdle; looked good on her chase debut at Naas (2m4f, soft) and when below that level at Exeter (2m1f, good to soft) she made mistakes and lost a shoe; unraced over this far but there's plenty of stamina in the pedigree; every chance.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 156.0 (Rank: 2)
+📉 TS: 125.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 16P-14 → Score: 0.09 (Rank: 3)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-02-09 14:00:00
+🏆 RaceName: Agatha Christie Mares' Novices' Chase (Listed Race) (GBB Race)
+🏟️ Course: Exeter (right-handed, very undulating, testing track)
+📋 Race Type: 1NvChLM
+📏 Distance: 17.5 furlongs (🔽 vs 24.5 today)
+🌱 Going: GS
+👜 Prize: 💰 23K
+🏆 Race Description: 1NvChLM -- Listed - 4
+🥇 Result: 4 / 🏇 5 runners. Expected: 1
+💰 Odds: 2.5 🔥
+📝 Comment: 🎯 led, not fluent 3rd, bad mistake 4th, headed 6th, 🎯 led again 8th, joined when not fluent 4 out, headed before 2 out, ❄️ weakened approaching last (vet reported mare lost her right-fore shoe)
+🎽 Jockey: J J Slevin- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 41  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-05 12:25:00
+🏆 RaceName: Irish Stallion Farms EBF Mares Beginners Chase
+🏟️ Course: Naas (left-handed, undulating, galloping track (1m4f circuit))
+📋 Race Type: ChM
+📏 Distance: 20.0 furlongs (🔽 vs 24.5 today)
+🌱 Going: S
+👜 Prize: 💰 8K
+🏆 Race Description: ChM -- Unknown - 0
+🥇 Result: 1 🥇 / 🏇 8 runners. Expected: 1
+💰 Odds: 4.5 🔥
+📝 Comment: 🎯 made all, travelled strongly, jumped right on occasions, joined after 3 out, going easily and clear after 2 out, stayed on
+🎽 Jockey: Mr P W Mullins- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 35  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-04-30 14:40:00
+🏆 RaceName: KPMG Champion Novice Hurdle (Grade 1)
+🏟️ Course: Punchestown (right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses)
+📋 Race Type: NvHG1
+📏 Distance: 16.5 furlongs (🔽 vs 24.5 today)
+🌱 Going: Y
+👜 Prize: 💰 65K
+🏆 Race Description: NvHG1 -- Grade 1 - 7
+🥇 Result: nan / 🏇 9 runners. Expected: 1
+💰 Odds: 34.0 ❄️
+📝 Comment: in rear throughout, detached 3 out, pulled up after 2 out
+🎽 Jockey: B Hayes- (⚖️ Weight: 159.0 lbs (72.3 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 249  days ago
+---------------------------------------------------------------------------
+🐎 3 | Monbeg Park⬆🏇 Monbeg Park id 3918373🌟 is a TOP Ranked horse in at least one speed or OPR!
+📈 Owner has a strong record (SR: 11.11%, 36 runs). (Rank: 2)
+🐎 is a 8 years old  gelding, colo(u)r: b, carrying 154 lbs today.
+🦄 Sire: Walk In The Park 232/1395 (17.0%)
+🌿 Dam: Cyclones Sister 3/14 (21.0%)
+⏱️ Speed record - Runs: 13 | Best: 7.35 sec (Rank 2), Worst: 8.25 sec (Rank 3), Avg: 7.66 sec (Rank 2)
+🛠️ Gear: tp
+🩺 Medical History: No records
+🎲 Early market: 3.75 (Rank: 3.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Grange Stud
+🏠 Owner: Donnchadh Doyle 4/36 (11.0) - (No previous owner(s))
+👤 Trainer: Sean Thomas Doyle (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 5.0) RTF: N/A (OVR: 0%)
+🏇 Jockey: J J Slevin (14d rank: 6.0) 🏇 Jockey 88288 Today's Jock winSR: 33.0% | 🏆 Not H&J as Best Alternative Jockey: 87729 (1/1 - 100.0%)(0.0/ 23.0 runs) RTF: N/A (OVR: 7%) 5Y: 54/434 (12.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Probably career-best form in winning a 2m5f Listed handicap at Leopardstown
+🔦 Spotlight: Quirky but very talented; peak RPR of 147 over hurdles when beating Spillane's Tower in a novice; beaten in eight of his ten chases but probably career-best form in winning a 2m5f Listed handicap at Leopardstown three weeks ago (yielding); has to be taken very seriously on the back of that, for all that his stamina for this far isn't entirely proven.
+📊 **STATS**
+📉 OFR: 149.0 (Rank: 1)
+📈 RPR: 161.0 (Rank: 1)
+📉 TS: 148.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 1/3 | Ratio: 0.33
+📊 Form: 422231 → Score: 0.11 (Rank: 2)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-02 16:02:00
+🏆 RaceName: QuinnBet Handicap Chase (Listed Race)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📋 Race Type: HcChL
+📏 Distance: 21.5 furlongs (🔽 vs 24.5 today)
+🌱 Going: Y
+👜 Prize: 💰 22K
+🏆 Race Description: HcChL -- Listed Handicap - H
+🥇 Result: 1 🥇 / 🏇 13 runners. Expected: 1
+💰 Odds: 5.0 🔥
+📝 Comment: 🔄 midfield on outer, headway after 2 out, drifted left and 🎯 led before last, went clear run-in, reduced lead inside final 110yds, pushed out
+🎽 Jockey: T P Roche- (⚖️ Weight: 147.0 lbs (66.8 kg) carried -- Allowance: 5.0) 
+⏳ Time between runs: 20  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-02 14:45:00
+🏆 RaceName: O'Driscolls Irish Whiskey Leopardstown Handicap Chase (Grade 3)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📋 Race Type: HcChG3
+📏 Distance: 21.5 furlongs (🔽 vs 24.5 today)
+🌱 Going: Y
+👜 Prize: 💰 74K
+🏆 Race Description: HcChG3 -- Grade 3 Handicap - H
+🥇 Result: 3 🥉 / 🏇 16 runners. Expected: 1
+💰 Odds: 10.0 📉
+📝 Comment: raced wide, 🔄 midfield, in touch with leaders when not fluent 5th, headway approaching last, switched left and went third before last, kept on well when flashed tail repeatedly run-in
+🎽 Jockey: T P Roche- (⚖️ Weight: 142.0 lbs (64.5 kg) carried -- Allowance: 5.0) 
+⏳ Time between runs: 28  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-11-03 14:42:00
+🏆 RaceName: Paddy Power Betting Shops Irish EBF Novice Chase (Grade 3)
+🏟️ Course: Cork (right-handed flat and level (1m4f oval))
+📋 Race Type: NvChG3
+📏 Distance: 20.0 furlongs (🔽 vs 24.5 today)
+🌱 Going: G
+👜 Prize: 💰 16K
+🏆 Race Description: NvChG3 -- Grade 3 - 9
+🥇 Result: 2 🥈 / 🏇 9 runners. Expected: 1
+💰 Odds: 5.5 🔥
+📝 Comment: 🎯 prominent, slow jump 4th, challenging when not fluent 2 out, no extra approaching last, flashed tail run-in, finished lame (jockey said gelding lost his action pulling up; vet said gelding was lame left fore post race)
+🎽 Jockey: J Gainford- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 91  days ago
+---------------------------------------------------------------------------
+🐎 4 | Shannon Royale🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 is a 7 years old  gelding, colo(u)r: b, carrying 154 lbs today.
+🦄 Sire: Walk In The Park 232/1395 (17.0%)
+🌿 Dam: Shannon Rose 4/13 (31.0%)
+⏱️ Speed record - Runs: 12 | Best: 7.87 sec (Rank 5), Worst: 8.53 sec (Rank 5), Avg: 8.18 sec (Rank 5)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 6.0 (Rank: 4.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Vambeck Bloodstock Ltd
+🏠 Owner: Robcour 60/284 (21.0) - (No previous owner(s))
+👤 Trainer: Gordon Elliott (0 previous trainer(s)) last 14d WinRate (10.0/92.0 runs) (Rank: 3.0) RTF: 47.0 (OVR: 16%)
+🏇 Jockey: Jordan Gainford (14d rank: 3.0) 🏇 Jockey 99256 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 94503 (1/4 - 25.0%)(3.0/ 21.0 runs) RTF: N/A (OVR: 16%) 5Y: 22/270 (8.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Had made a solid start over fences but on a recovery mission after last two efforts
+🔦 Spotlight: Dual hurdle winner who bumped into smart opposition in his first two chases before beating the useful High Class Hero at Punchestown (3m, yielding); his pull-up in the Thyestes can be forgiven but Navan was disappointing, even allowing for the drop back to 2m4f; now on a recovery mission.
+📊 **STATS**
+📉 OFR: 140.0 (Rank: 2)
+📈 RPR: 154.0 (Rank: 4)
+📉 TS: 109.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 1/3 | Ratio: 0.33
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: -221P6 → Score: 0.12 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-01 16:20:00
+🏆 RaceName: Nas Na Riogh Novice Handicap Chase (Listed Race)
+🏟️ Course: Navan (left-handed, undulating, galloping track (1m4f circuit))
+📋 Race Type: NvHcChL
+📏 Distance: 20.5 furlongs (🔽 vs 24.5 today)
+🌱 Going: HY
+👜 Prize: 💰 22K
+🏆 Race Description: NvHcChL -- Listed Handicap - H
+🥇 Result: 6 / 🏇 9 runners. Expected: 1
+💰 Odds: 7.0 📉
+📝 Comment: 🔄 midfield, 🔄 towards rear halfway, no extra from 3 out (vet reported gelding to have an over reach on his left-fore but was otherwise post race normal)
+🎽 Jockey: C Millar- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 5.0) 
+⏳ Time between runs: 21  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-23 14:48:00
+🏆 RaceName: Goffs Thyestes Handicap Chase (Grade 3)
+🏟️ Course: Gowran Park (right-handed, undulating track (1m4f circuit))
+📋 Race Type: HcChG3
+📏 Distance: 25.0 furlongs (🔼 vs 24.5 today)
+🌱 Going: SH
+👜 Prize: 💰 50K
+🏆 Race Description: HcChG3 -- Grade 3 Handicap - H
+🥇 Result: nan / 🏇 18 runners. Expected: 1
+💰 Odds: 10.0 📉
+📝 Comment: 🎯 prominent, joined leaders 2nd, briefly disputed lead from 7th, mistake 9th, in touch with leaders when mistake and ❄️ weakened 4 out, dropped to rear when pulled up before 3 out
+🎽 Jockey: M P Walsh- (⚖️ Weight: 153.0 lbs (69.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 37  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-31 12:35:00
+🏆 RaceName: Your Free Entry Sponsored By Tote Ireland Beginners Chase
+🏟️ Course: Punchestown (right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses)
+📋 Race Type: Ch
+📏 Distance: 24.0 furlongs (🔽 vs 24.5 today)
+🌱 Going: Y
+👜 Prize: 💰 7K
+🏆 Race Description: Ch -- Unknown - 0
+🥇 Result: 1 🥇 / 🏇 7 runners. Expected: 1
+💰 Odds: 3.0 🔥
+📝 Comment: didn't always jump with fluency, made virtually all, shaken up before 3 out, hard ridden and faced challenges before 2 out, kept on well
+🎽 Jockey: J Gainford- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 23  days ago
+---------------------------------------------------------------------------
+🐎 5 | Broomfield Bijou⬆🏇 Broomfield Bijou id 4189611🌟 is a TOP Ranked horse in at least one speed or OPR!
+📈 Owner has a strong record (SR: 11.11%, 27 runs). (Rank: 2)
+🐎 is a 7 years old  mare, colo(u)r: b, carrying 147 lbs today.
+🦄 Sire: Walk In The Park 232/1395 (17.0%)
+🌿 Dam: Aure Antique 7/25 (28.000000000000004%)
+⏱️ Speed record - Runs: 13 | Best: 7.18 sec (Rank 1), Worst: 7.71 sec (Rank 1), Avg: 7.56 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 9.0 (Rank: 5.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Herine Bloodstock
+🏠 Owner: Raymond P Fitzgerald 3/27 (11.0) - (No previous owner(s))
+👤 Trainer: J P Dempsey (0 previous trainer(s)) last 14d WinRate (1.0/6.0 runs) (Rank: 1.0) RTF: 50.0 (OVR: 10%)
+🏇 Jockey: Donagh Meyler (14d rank: 4.0) 🏇 Jockey 92335 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 88732 (1/2 - 50.0%)(2.0/ 15.0 runs) RTF: N/A (OVR: 9%) 5Y: 26/295 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Useful mare but would appear to have her work cut out at these weights
+🔦 Spotlight: Useful mare who was second in a Grade 2 chase on her penultimate start but then finished seventh behind Monbeg Park in a handicap at Leopardstown (pestered for the lead); expected to come up shy again in today's company.
+📊 **STATS**
+📉 OFR: 128.0 (Rank: 3)
+📈 RPR: 154.0 (Rank: 4)
+📉 TS: 139.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/3 | Ratio: 0.00
+📊 Form: 326027 → Score: 0.06 (Rank: 5)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-02 16:02:00
+🏆 RaceName: QuinnBet Handicap Chase (Listed Race)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📋 Race Type: HcChL
+📏 Distance: 21.5 furlongs (🔽 vs 24.5 today)
+🌱 Going: Y
+👜 Prize: 💰 22K
+🏆 Race Description: HcChL -- Listed Handicap - H
+🥇 Result: 7 / 🏇 13 runners. Expected: 1
+💰 Odds: 7.0 📉
+📝 Comment: 🎯 led but pestered, headed and in touch with leaders 2nd, struggling 3 out, stayed on final 110yds
+🎽 Jockey: D O'Keeffe- (⚖️ Weight: 144.0 lbs (65.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 20  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-19 13:30:00
+🏆 RaceName: Carey Glass Irish EBF Mares Novice Chase (Grade 2)
+🏟️ Course: Thurles (right-handed, undulating track (1m2f circuit))
+📋 Race Type: NvChG2M
+📏 Distance: 21.0 furlongs (🔽 vs 24.5 today)
+🌱 Going: G
+👜 Prize: 💰 25K
+🏆 Race Description: NvChG2M -- Grade 2 - 8
+🥇 Result: 2 🥈 / 🏇 5 runners. Expected: 1
+💰 Odds: 12.0 📉
+📝 Comment: in touch with leaders, headway and 🎯 prominent from 4 out, went second 2 out, soon joined winner, outpaced when ridden and switched right before last, kept on but no match for winner
+🎽 Jockey: D Meyler- (⚖️ Weight: 152.0 lbs (69.1 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 42  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-26 14:55:00
+🏆 RaceName: Racing Post Handicap Chase
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📋 Race Type: HcCh
+📏 Distance: 17.0 furlongs (🔽 vs 24.5 today)
+🌱 Going: GY
+👜 Prize: 💰 16K
+🏆 Race Description: HcCh -- Handicap - H
+🥇 Result: 10 / 🏇 12 runners. Expected: 1
+💰 Odds: 8.0 📉
+📝 Comment: visibility reduced by fog, never better than 🔄 midfield
+🎽 Jockey: Sam Ewing- (⚖️ Weight: 150.0 lbs (68.2 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 23  days ago
+---------------------------------------------------------------------------
+🐎 2 | Lonesome Boatman🐎 is a 9 years old  gelding, colo(u)r: b, carrying 154 lbs today.
+🦄 Sire: Jukebox Jury 41/280 (15.0%)
+🌿 Dam: Nadin 0/4 (0.0%)
+⏱️ Speed record - Runs: 3 | Best: 8.25 sec (Rank 6), Worst: 8.85 sec (Rank 6), Avg: 8.55 sec (Rank 6)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 26.0 (Rank: 6.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Gestut Eulenberger Hof
+🏠 Owner: Patrick Oleary 0/6 (0.0) - (No previous owner(s))
+👤 Trainer: Sean Joseph Allen (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 5.0) RTF: N/A (OVR: 0%)
+🏇 Jockey: Darragh Okeeffe (14d rank: 1.0) 🏇 Jockey 96391 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 91464 (3/4 - 75.0%)(1.0/ 34.0 runs) RTF: N/A (OVR: 5%) 5Y: 58/454 (13.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Multiple point winner but unlikely to making his rules breakthrough in this company
+🔦 Spotlight: Third to Its On The Line at Punchestown last May but below that level in a recent hunter chase at Gowran; the winner of four points but unlikely to making his rules breakthrough in this company.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 150.0 (Rank: 6)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/3 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: -3F714 → Score: 0.08 (Rank: 4)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-08 17:00:00
+🏆 RaceName: INHSC Supporting Point-To-Points Tetratema Cup Hunters Chase
+🏟️ Course: Gowran Park (right-handed, undulating track (1m4f circuit))
+📋 Race Type: HntCh
+📏 Distance: 25.0 furlongs (🔼 vs 24.5 today)
+🌱 Going: S
+👜 Prize: 💰 7K
+🏆 Race Description: HntCh -- Unknown - 0
+🥇 Result: 4 / 🏇 13 runners. Expected: 1
+💰 Odds: 9.5 📉
+📝 Comment: 🔄 midfield, headway 4 out, outpaced 3 out, kept on but no impression run-in
+🎽 Jockey: Mr D Allen- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 7.0) 
+⏳ Time between runs: 14  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-23 15:00:00
+🏆 RaceName: Camas Park and Summerhill Studs Open
+🏟️ Course: Lisronagh (LH, flat, sharp)
+📋 Race Type: OpenPTP
+📏 Distance: 24.0 furlongs (🔽 vs 24.5 today)
+🌱 Going: HY
+👜 Prize: 💰 0K
+🏆 Race Description: OpenPTP -- N/A
+🥇 Result: 1 🥇 / 🏇 7 runners. Expected: 1
+💰 Odds: 2.5 🔥
+📝 Comment: ld, jnd 5out, ld agn 3out & sn wo, 5l clr bef 2out & went further clr bef last, kow run-in
+🎽 Jockey: D Allen- (⚖️ Weight: 170.0 lbs (77.3 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 13  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-02-08 16:50:00
+🏆 RaceName: QuinnBet Hunters Chase
+🏟️ Course: Naas (left-handed, undulating, galloping track (1m4f circuit))
+📋 Race Type: HntCh
+📏 Distance: 25.0 furlongs (🔼 vs 24.5 today)
+🌱 Going: S
+👜 Prize: 💰 7K
+🏆 Race Description: HntCh -- Unknown - 0
+🥇 Result: 7 / 🏇 9 runners. Expected: 1
+💰 Odds: 13.0 📉
+📝 Comment: in touch with leaders, 🎯 prominent 3rd, joined leaders 4 out, switched right towards near side before 2 out, soon ❄️ weakened
+🎽 Jockey: Mr D Allen- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 7.0) 
+⏳ Time between runs: 14  days ago
+---------------------------------------------------------------------------

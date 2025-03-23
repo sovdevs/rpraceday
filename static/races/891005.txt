@@ -1,0 +1,467 @@
+🏁 Race ID: 891005
+7 runners declared
+📍 Venue: Naas (left-handed, undulating, galloping track (1m4f circuit), chute for sprints)
+☁️ Weather: Cloudy
+🌧️ Going: Yielding To Soft
+⏰ Off Time: 17:30
+🏆 Race Name: TRM - Supplements You Can Trust Race
+📏 Distance: 8.0 furlongs
+🏇 Race/Grade: nan
+🏇 Type: Flat
+🎂 Age Band: 3yo
+💰 Today's Purse: 💰 10K
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Performance Table
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5        | Trinity College           | 6102193  | 5.0      | 2.0      | 6.0      | 3.0      | 2.0      | 2        | 4        | 2.0      | 3.0      | 2.0      | 2.0      | 1.0      | 1.0      | 1.0      | 1.0      | 4.0      | 5.0      | 4.0      | 2.0      | 3.0      | 2.0      | 1.0      | 7.0      | N/A      | 2.0      | N/A      | 1.0      | 1.0      | 1.0      | N/A      | 2.0      | 1.0     
+1        | Acapulco Bay              | 6202587  | 1.0      | 4.0      | 1.0      | 3.0      | 3.0      | 1        | 2        | 1.0      | 3.0      | 6.0      | 5.0      | 4.0      | 6.0      | 2.0      | 5.0      | 5.0      | 2.0      | 7.0      | 2.0      | 3.0      | 2.0      | 1.0      | 1.0      | N/A      | 1.0      | N/A      | 2.0      | 1.0      | 1.0      | N/A      | N/A      | 5.0     
+4        | One Smack Mac             | 58956118 | 2.0      | 1.0      | 2.0      | 1.0      | 3.0      | 4        | 5        | 1.0      | 3.0      | 4.0      | 3.0      | 2.0      | 3.0      | 3.0      | 5.0      | 7.0      | 4.0      | 5.0      | 2.0      | 2.0      | 4.0      | 6.0      | 3.0      | 1.0      | N/A      | N/A      | 3.0      | 5.0      | 2.0      | 1.0      | N/A      | 2.0     
+3        | Green Triangle            | 58956382 | 3.0      | 3.0      | 3.0      | 3.0      | 1.0      | 2        | 3        | 3.0      | 2.0      | 5.0      | 4.0      | 3.0      | 2.0      | 4.0      | 7.0      | 2.0      | 1.0      | 3.0      | 2.0      | 3.0      | 5.0      | 4.0      | 4.0      | N/A      | 2.0      | N/A      | 4.0      | 6.0      | 3.0      | N/A      | N/A      | 7.0     
+2        | Dignam                    | 6175444  | 4.0      | 2.0      | 5.0      | 2.0      | 3.0      | 6        | 7        | 2.0      | 3.0      | 3.0      | 6.0      | 7.0      | 7.0      | 5.0      | 3.0      | 1.0      | 5.0      | 2.0      | 2.0      | 3.0      | 5.0      | 4.0      | 6.0      | 2.0      | N/A      | N/A      | 5.0      | 3.0      | 3.0      | 2.0      | N/A      | 3.0     
+6        | Spicy Margarita           | 6609341  | 4.0      | 1.0      | 4.0      | 1.0      | 3.0      | 5        | 6        | 1.0      | 1.0      | 1.0      | 1.0      | 5.0      | 5.0      | 6.0      | 4.0      | 6.0      | 3.0      | 1.0      | 1.0      | 1.0      | 1.0      | 3.0      | 4.0      | N/A      | 2.0      | N/A      | 6.0      | 4.0      | 5.0      | N/A      | 1.0      | 6.0     
+7        | Diamond Exchange          | 6238179  | 6.0      | 4.0      | 7.0      | 3.0      | 3.0      | 6        | 1        | N/A      | 3.0      | 7.0      | 7.0      | 6.0      | 3.0      | N/A      | 1.0      | 3.0      | 7.0      | 6.0      | 2.0      | 7.0      | 7.0      | 7.0      | 2.0      | N/A      | N/A      | N/A      | 7.0      | 2.0      | 4.0      | N/A      | 3.0      | 4.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 5 | Trinity College⬆🏇 Trinity College id 6102193🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 3 years old  colt, colo(u)r: b, carrying 135 lbs today.
+🦄 Sire: Dubawi 56/269 (21.0%)
+🌿 Dam: Hermosa 2/7 (28.999999999999996%)
+⏱️ Speed record - Runs: 5 | Best: 6.12 sec (Rank 2), Worst: 6.6 sec (Rank 4), Avg: 6.34 sec (Rank 4)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 2.38 (Rank: 1.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Coolmore
+🏠 Owner: M Matsushima & Mrs J Magnier & M Tabor & D Smith 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: A P Obrien (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 2.0) RTF: 67.0 (OVR: 26%)
+🏇 Jockey: Wayne Lordan (14d rank: 1.0) 🏇 Today's Jock winSR: 25.0% (No better alternative found.)(1.0/ 13.0 runs) RTF: N/A (OVR: 14%) 5Y: 72/394 (18.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Top rated, placed in a Group 3 on soft over 1m1f, shorter trip fine, leading chance
+🔦 Spotlight: Galway maiden winner at the third attempt over 7.5f on yielding; followed that up with excellent efforts in a 1m Curragh Group 2 (good to yielding) and in a soft ground 1m1f Group 3 at Leopardstown; top rated and the one to beat.
+📊 **STATS**
+📉 OFR: 105.0 (Rank: 1)
+📈 RPR: 107.0 (Rank: 1)
+📉 TS: 97.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 94142- → Score: 0.05 (Rank: 7)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-10-19 14:40:00
+🏆 RaceName: Mongey Communications Eyrefield Stakes (Group 3)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📋 Race Type: 2yG3
+📏 Distance: 9.0 furlongs (🔼 vs 8.0 today)
+🌱 Going: S
+👜 Prize: 💰 28K
+🏆 Race Description: 2yG3 -- Group 3 - 3
+🥇 Result: 2 🥈 / 🏇 6 runners. Expected: 1
+💰 Odds: 2.75 🔥
+📝 Comment: dwelt start, carried right start, in touch with leaders, headway from 2f out, pressed leaders when ridden from over 1f out, kept on and went second towards finish, no match for winner
+🎽 Jockey: W M Lordan- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 154  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-09-28 13:35:00
+🏆 RaceName: Montane Developments Beresford Stakes (Group 2)
+🏟️ Course: Curragh (right-handed, galloping, testing, horseshoe (2m) + chute (races up to 1m))
+📋 Race Type: 2yG2
+📏 Distance: 8.0 furlongs (➡️ vs 8.0 today)
+🌱 Going: GY
+👜 Prize: 💰 63K
+🏆 Race Description: 2yG2 -- Group 2 - 2
+🥇 Result: 4 / 🏇 5 runners. Expected: 1
+💰 Odds: 4.6 🔥
+📝 Comment: 🎯 led, headed inside final furlong, no extra final 110yds
+🎽 Jockey: W M Lordan- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 21  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-09-10 14:35:00
+🏆 RaceName: Irish Stallion Farms EBF Maiden
+🏟️ Course: Galway (right-handed, undulating, testing track (1m2f rectangle))
+📋 Race Type: 2yMd
+📏 Distance: 8.5 furlongs (🔼 vs 8.0 today)
+🌱 Going: Y
+👜 Prize: 💰 9K
+🏆 Race Description: 2yMd -- Unknown - 0
+🥇 Result: 1 🥇 / 🏇 10 runners. Expected: 1
+💰 Odds: 1.909 🔥🔥
+📝 Comment: made virtually all, joined after 2f, went clear going best from over 2f out, ridden over 1f out, ran on, easily
+🎽 Jockey: W M Lordan- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 17  days ago
+---------------------------------------------------------------------------
+🐎 1 | Acapulco Bay⬆🏇 Acapulco Bay id 6202587🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 3 years old  colt, colo(u)r: b, carrying 135 lbs today.
+🦄 Sire: Dubawi 56/269 (21.0%)
+🌿 Dam: Je Ne Regretterien 0/0 (0.0%)
+⏱️ Speed record - Runs: 2 | Best: 6.09 sec (Rank 1), Worst: 6.33 sec (Rank 2), Avg: 6.21 sec (Rank 2)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 5.0 (Rank: 2.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Westerberg
+🏠 Owner: Westerberg, Mrs J Magnier, M Tabor, D Smith 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: A P Obrien (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 2.0) RTF: 67.0 (OVR: 26%)
+🏇 Jockey: Ronan Whelan (14d rank: 5.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0.0/ 8.0 runs) RTF: N/A (OVR: 4%) 5Y: 33/321 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Off the mark in second maiden at the Curragh, soft ground a query, chance if handles it
+🔦 Spotlight: Built on debut promise over 7f at the Curragh when winning second time out upped to 1m; both those runs came on quick ground and it remains to be seen if he'll be as effective on this softer ground; obvious chance if he does act on it.
+📊 **STATS**
+📉 OFR: 100.0 (Rank: 2)
+📈 RPR: 98.0 (Rank: 4)
+📉 TS: 62.0 (Rank: 6)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 1/1 | Ratio: 1.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 21- → Score: 0.77 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-08-31 12:45:00
+🏆 RaceName: Kara Quinn Memorial Irish EBF (C & G) Maiden
+🏟️ Course: Curragh (right-handed, galloping, testing, horseshoe (2m) + chute (races up to 1m))
+📋 Race Type: 2yMd
+📏 Distance: 8.0 furlongs (➡️ vs 8.0 today)
+🌱 Going: G
+👜 Prize: 💰 10K
+🏆 Race Description: 2yMd -- Unknown - 0
+🥇 Result: 1 🥇 / 🏇 12 runners. Expected: 1
+💰 Odds: 1.182 🔥🔥
+📝 Comment: 🎯 made all, faced challenges under 3f out, pushed along 2f out, 🔥 ridden clear inside final furlong, kept on well
+🎽 Jockey: R L Moore- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 203  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-08-10 12:45:00
+🏆 RaceName: Trainor Stone And Tile Irish EBF Maiden
+🏟️ Course: Curragh (right-handed, galloping, testing, horseshoe (2m) + chute (races up to 1m))
+📋 Race Type: 2yMd
+📏 Distance: 7.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: GF
+👜 Prize: 💰 10K
+🏆 Race Description: 2yMd -- Unknown - 0
+🥇 Result: 2 🥈 / 🏇 13 runners. Expected: 1
+💰 Odds: 7.0 📉
+📝 Comment: 🔄 towards rear, headway into 🔄 midfield 3f out, ran green over 2f out, soon switched left towards near side, went fourth inside final furlong, ⏳ ran on well and went second towards finish, eyecatcher
+🎽 Jockey: W M Lordan- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 21  days ago
+---------------------------------------------------------------------------
+🐎 4 | One Smack Mac🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 is a 3 years old  colt, colo(u)r: b, carrying 135 lbs today.
+🦄 Sire: Kodiac 53/499 (11.0%)
+🌿 Dam: Khaimah 0/0 (0.0%)
+⏱️ Speed record - Runs: 3 | Best: 6.13 sec (Rank 4), Worst: 6.78 sec (Rank 6), Avg: 6.37 sec (Rank 5)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 6.5 (Rank: 3.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Tally-Ho Stud
+🏠 Owner: A K Whelan 6/25 (24.0) - (No previous owner(s))
+👤 Trainer: G M Lyons (0 previous trainer(s)) last 14d WinRate (0.0/2.0 runs) (Rank: 2.0) RTF: 100.0 (OVR: 17%)
+🏇 Jockey: Colin Keane (14d rank: 5.0) 🏇 Today's Jock winSR: 50.0% (No better alternative found.)(0.0/ 15.0 runs) RTF: N/A (OVR: 17%) 5Y: 182/1152 (16.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Won debut here over 6f on good, struggled sole start on soft, up in trip, others preferred
+🔦 Spotlight: Made a solid start to his career, winning a 6f maiden here on debut and then finishing a close second in a 6f listed heat at Fairyhouse, both on good ground; concerning that his worst run came on soft ground on his final start of last season; may need the rain to miss.
+📊 **STATS**
+📉 OFR: 99.0 (Rank: 3)
+📈 RPR: 101.0 (Rank: 2)
+📉 TS: 70.0 (Rank: 3)
+🏟️ Course Wins/Runs: 1/1 | Ratio: 1.00
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 125- → Score: 0.16 (Rank: 3)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-10-19 15:40:00
+🏆 RaceName: Killavullan Stakes (Group 3)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📋 Race Type: 2yG3
+📏 Distance: 7.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: S
+👜 Prize: 💰 26K
+🏆 Race Description: 2yG3 -- Group 3 - 3
+🥇 Result: 5 / 🏇 5 runners. Expected: 1
+💰 Odds: 7.5 📉
+📝 Comment: in touch with leaders, outpaced when dropped to last and ❄️ weakened over 1f out
+🎽 Jockey: C T Keane- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 154  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-09-23 16:45:00
+🏆 RaceName: Ballyhane Blenheim Stakes (Listed Race)
+🏟️ Course: Fairyhouse (right-handed, galloping, testing track (1m6f circuit))
+📋 Race Type: 2yL
+📏 Distance: 6.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: G
+👜 Prize: 💰 21K
+🏆 Race Description: 2yL -- Listed - 4
+🥇 Result: 2 🥈 / 🏇 7 runners. Expected: 1
+💰 Odds: 4.333 🔥
+📝 Comment: in rear, headway on outer over 1f out, went second and edged right final 110yds, kept on (jockey said colt rolled around a bit inside final furlong)
+🎽 Jockey: C T Keane- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 25  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-05-11 13:35:00
+🏆 RaceName: Irish Stallion Farms EBF Maiden
+🏟️ Course: Naas (left-handed, undulating, galloping track (1m4f circuit), chute for sprints)
+📋 Race Type: 2yMd
+📏 Distance: 6.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: G
+👜 Prize: 💰 9K
+🏆 Race Description: 2yMd -- Unknown - 0
+🥇 Result: 1 🥇 / 🏇 9 runners. Expected: 1
+💰 Odds: 1.7269999999999999 🔥🔥
+📝 Comment: in touch with leaders, headway on near side of group when ran green and ridden from over 1f out, 🎯 led when wandered around but ⏳ ran on well inside final furlong, comfortably
+🎽 Jockey: C T Keane- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 135  days ago
+---------------------------------------------------------------------------
+🐎 3 | Green Triangle🐎 is a 3 years old  gelding, colo(u)r: b, carrying 135 lbs today.
+🦄 Sire: Gleneagles 42/404 (10.0%)
+🌿 Dam: Whimsical Dream 0/0 (0.0%)
+⏱️ Speed record - Runs: 5 | Best: 6.12 sec (Rank 2), Worst: 6.41 sec (Rank 3), Avg: 6.28 sec (Rank 3)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 7.5 (Rank: 4.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Mark Hanly & Sally Ann Grassick
+🏠 Owner: Simon Munir & Isaac Souede 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Joseph Patrick Obrien (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 2.0) RTF: 50.0 (OVR: 12%)
+🏇 Jockey: Scott Mccullagh(3) (14d rank: 7.0) 🏇 Jockey 96054 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 99727 (1/3 - 33.0%)(0.0/ 0.0 runs) RTF: N/A (OVR: 9%) 5Y: 10/154 (6.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Maiden winner, ran well in a Listed, testing ground a query, a bit to find; ✂️ gelded
+🔦 Spotlight: Won a maiden at Roscommon (7.5f, good) last July, his sole victory in six starts; shaped well in a listed race at Tipperary in August (7.5f, good to firm); unraced on softer than good and has been ✂️ gelded; Browne-McMonagle prefers Dignam; watch.
+📊 **STATS**
+📉 OFR: 94.0 (Rank: 4)
+📈 RPR: 100.0 (Rank: 3)
+📉 TS: 81.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 31O34- → Score: 0.14 (Rank: 4)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-09-14 12:40:00
+🏆 RaceName: KPMG Champions Juvenile Stakes (Group 2)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📋 Race Type: 2yG2
+📏 Distance: 8.0 furlongs (➡️ vs 8.0 today)
+🌱 Going: G
+👜 Prize: 💰 78K
+🏆 Race Description: 2yG2 -- Group 2 - 2
+🥇 Result: 4 / 🏇 4 runners. Expected: 1
+💰 Odds: 8.5 📉
+📝 Comment: in rear throughout, wandered around and outpaced under 2f out
+🎽 Jockey: D B McMonagle- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 189  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-08-09 17:25:00
+🏆 RaceName: Coolmore Stud Churchill Stakes (Listed Race)
+🏟️ Course: Tipperary (left-handed, sharp, flat track (1m2f circuit), chute for 5f races)
+📋 Race Type: 2yL
+📏 Distance: 7.5 furlongs (🔽 vs 8.0 today)
+🌱 Going: GF
+👜 Prize: 💰 24K
+🏆 Race Description: 2yL -- Listed - 4
+🥇 Result: 3 🥉 / 🏇 6 runners. Expected: 1
+💰 Odds: 3.75 🔥
+📝 Comment: 🎯 prominent, soon went second, pushed along to lead under 3f out, headed over 1f out, no extra and lost second final 110yds
+🎽 Jockey: D B McMonagle- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 35  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-07-17 16:20:00
+🏆 RaceName: Irish EBF Median Sires Series Race (IRE Incentive Race)
+🏟️ Course: Killarney (left-handed, sharp track (1m2f oval))
+📋 Race Type: 2y
+📏 Distance: 8.0 furlongs (➡️ vs 8.0 today)
+🌱 Going: G
+👜 Prize: 💰 13K
+🏆 Race Description: 2y -- Unknown - 0
+🥇 Result: nan / 🏇 10 runners. Expected: 1
+💰 Odds: 2.1 🔥
+📝 Comment: 🎯 led narrowly early, raced in second after 1f, 🎯 led again on inner from 4f out, ridden when clear over 1f out, jinked left inside final furlong, 4 lengths ahead when jinked left crashed through rails and ran out towards finish (jockey said colt ducked through the rail in final 50yds)
+🎽 Jockey: W Hassett- (⚖️ Weight: 124.0 lbs (56.4 kg) carried -- Allowance: 5.0) 
+⏳ Time between runs: 23  days ago
+---------------------------------------------------------------------------
+🐎 2 | Dignam📈 Owner has a strong record (SR: 19.74%, 76 runs). (Rank: 2)
+🐎 is a 3 years old  colt, colo(u)r: b, carrying 135 lbs today.
+🦄 Sire: Sea The Moon 30/233 (13.0%)
+🌿 Dam: Bunraku 0/0 (0.0%)
+⏱️ Speed record - Runs: 4 | Best: 6.2 sec (Rank 6), Worst: 6.62 sec (Rank 5), Avg: 6.43 sec (Rank 7)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 8.5 (Rank: 5.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Mount Coote Estates
+🏠 Owner: Paul Byrne 15/76 (20.0) - (No previous owner(s))
+👤 Trainer: Joseph Patrick Obrien (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 2.0) RTF: 50.0 (OVR: 12%)
+🏇 Jockey: Dylan Browne Mcmonagle (14d rank: 3.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(1.0/ 6.0 runs) RTF: N/A (OVR: 14%) 5Y: 130/858 (15.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Maiden winner at Tipperary, struggled upped in class since, soft ground an unknown, watch
+🔦 Spotlight: Won a 7.5f maiden on good ground at Tipperary last September; failed to fire upped in class at Chantilly and was well beaten here over 7f in the valuable Auction Series Final, his sole start on softer than good; preferred by Browne-McMonagle but probably best watched for now.
+📊 **STATS**
+📉 OFR: 92.0 (Rank: 5)
+📈 RPR: 90.0 (Rank: 7)
+📉 TS: 56.0 (Rank: 7)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 32150- → Score: 0.13 (Rank: 6)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-10-13 13:15:00
+🏆 RaceName: Irish EBF Auction Series Race Final
+🏟️ Course: Naas (left-handed, undulating, galloping track (1m4f circuit), chute for sprints)
+📋 Race Type: 2y
+📏 Distance: 7.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: Y
+👜 Prize: 💰 63K
+🏆 Race Description: 2y -- Unknown - 0
+🥇 Result: 14 / 🏇 16 runners. Expected: 1
+💰 Odds: 4.5 🔥
+📝 Comment: 🔄 midfield, bit short of room from under 3f out, weakening when slightly ⚠️ hampered 1f out (jockey said colt got no luck in running)
+🎽 Jockey: D B McMonagle- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 160  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-09-21 12:33:00
+🏆 RaceName: Prix de Conde (Group 3) (2yo) (Turf)
+🏟️ Course: Chantilly (right-handed, French Derby has one long bend with 3f straight)
+📋 Race Type: 2yG3
+📏 Distance: 9.0 furlongs (🔼 vs 8.0 today)
+🌱 Going: G
+👜 Prize: 💰 35K
+🏆 Race Description: 2yG3 -- Group 3 - 3
+🥇 Result: 5 / 🏇 7 runners. Expected: 1
+💰 Odds: 4.1 🔥
+📝 Comment: close up, asked for effort 2 1/2f out, ridden over 1 1/2f out, no impression, ❄️ weakened inside final furlong
+🎽 Jockey: M Barzalona- (⚖️ Weight: 126.0 lbs (57.3 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 22  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-09-01 13:30:00
+🏆 RaceName: Irish EBF Auction Series Maiden (IRE Incentive Race)
+🏟️ Course: Tipperary (left-handed, sharp, flat track (1m2f circuit), chute for 5f races)
+📋 Race Type: 2yMd
+📏 Distance: 7.5 furlongs (🔽 vs 8.0 today)
+🌱 Going: G
+👜 Prize: 💰 10K
+🏆 Race Description: 2yMd -- Unknown - 0
+🥇 Result: 1 🥇 / 🏇 13 runners. Expected: 1
+💰 Odds: 1.444 🔥🔥
+📝 Comment: soon 🎯 led, pushed along under 2f out, clear 1f out, ridden and kept on well inside final furlong, comfortably (jockey said colt lugged right for final 1 1/2f)
+🎽 Jockey: D P McDonogh- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 19  days ago
+---------------------------------------------------------------------------
+🐎 6 | Spicy Margarita🐎 is a 3 years old  filly, colo(u)r: ch, carrying 130 lbs today.
+🦄 Sire: Earthlight 3/25 (12.0%)
+🌿 Dam: Nahoodh 1/3 (33.0%)
+⏱️ Speed record - Runs: 3 | Best: 6.14 sec (Rank 5), Worst: 6.92 sec (Rank 7), Avg: 6.41 sec (Rank 6)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 13.0 (Rank: 6.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Loughtown Stud
+🏠 Owner: Amo Racing Limited & Giselle De Aguiar 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Adrian Murray (0 previous trainer(s)) last 14d WinRate (2.0/6.0 runs) (Rank: 1.0) RTF: 56.0 (OVR: 7%)
+🏇 Jockey: David Egan (14d rank: 4.0) 🏇 Jockey 95388 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 76602 (1/1 - 100.0%)(2.0/ 13.0 runs) RTF: N/A (OVR: 25%) 5Y: 34/360 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Won an AW maiden in February, fit from the flat, yard in form, may want better ground
+🔦 Spotlight: Midfield on heavy at Galway on debut last October over 7.5f; much better switched to the AW, landing a 7f maiden by 2.75l at Dundalk; not disgraced in a decent contest back there on latest but whether she'll act on this softer surface is up for debate.
+📊 **STATS**
+📉 OFR: 87.0 (Rank: 6)
+📈 RPR: 97.0 (Rank: 5)
+📉 TS: 64.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 6-12 → Score: 0.14 (Rank: 4)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-07 20:00:00
+🏆 RaceName: William Hill Top Price Guarantee Patton Race
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📋 Race Type: 3y
+📏 Distance: 8.0 furlongs (➡️ vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 20K
+🏆 Race Description: 3y -- Unknown - 0
+🥇 Result: 2 🥈 / 🏇 5 runners. Expected: 1
+💰 Odds: 13.0 📉
+📝 Comment: in touch with leaders, pushed along briefly early, 🎯 prominent 2f out, kept on and went second final strides, no match for winner
+🎽 Jockey: W M Lordan- (⚖️ Weight: 129.0 lbs (58.6 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 15  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-12 15:55:00
+🏆 RaceName: Irishinjuredjockeys.com Fillies Maiden
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📋 Race Type: 3yMdF
+📏 Distance: 7.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 6K
+🏆 Race Description: 3yMdF -- Unknown - 0
+🥇 Result: 1 🥇 / 🏇 13 runners. Expected: 1
+💰 Odds: 4.5 🔥
+📝 Comment: soon 🎯 prominent, pressed leader after 2f, 🔄 ridden to lead over 1f out, ran green but ran on inside final furlong, won going away
+🎽 Jockey: W M Lordan- (⚖️ Weight: 129.0 lbs (58.6 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 23  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-10-28 12:30:00
+🏆 RaceName: Irish Stallion Farms EBF Fillies Maiden
+🏟️ Course: Galway (right-handed, undulating, testing track (1m2f rectangle))
+📋 Race Type: 2yMdF
+📏 Distance: 8.5 furlongs (🔼 vs 8.0 today)
+🌱 Going: HY
+👜 Prize: 💰 9K
+🏆 Race Description: 2yMdF -- Unknown - 0
+🥇 Result: 6 / 🏇 11 runners. Expected: 1
+💰 Odds: 7.5 📉
+📝 Comment: took keen hold, soon 🎯 led, pressed leader after 1f, lost second under 2f out, soon ridden and ran green, ❄️ weakened inside final furlong
+🎽 Jockey: J A Heffernan- (⚖️ Weight: 128.0 lbs (58.2 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 107  days ago
+---------------------------------------------------------------------------
+🐎 7 | Diamond Exchange🐎 is a 3 years old  filly, colo(u)r: b, carrying 125 lbs today.
+🦄 Sire: Wootton Bassett 55/292 (19.0%)
+🌿 Dam: Snow Wind 0/1 (0.0%)
+⏱️ Speed record - Runs: 1 | Best: 6.2 sec (Rank 6), Worst: 6.2 sec (Rank 1), Avg: 6.2 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 17.0 (Rank: 7.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Castlehyde Stud
+🏠 Owner: Bronsan Racing & H Redknapp & John Breslin 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Mrs John Harrington (0 previous trainer(s)) last 14d WinRate (0.0/4.0 runs) (Rank: 2.0) RTF: 67.0 (OVR: 10%)
+🏇 Jockey: Shane Foley (14d rank: 1.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(1.0/ 12.0 runs) RTF: N/A (OVR: 10%) 5Y: 108/920 (12.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Midfield in the Goffs Millions on debut, needs to improve but that's possible
+🔦 Spotlight: Made a pleasing debut in the Goffs Millions over 7f last September; shaped like she needed further on that occasion so the step up to 1m is a plus; could outrun her odds if handling this testing ground.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 96.0 (Rank: 6)
+📉 TS: 70.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 6- → Score: 0.17 (Rank: 2)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-09-28 14:45:00
+🏆 RaceName: Goffs Million
+🏟️ Course: Curragh (right-handed, galloping, testing, horseshoe (2m) + chute (races up to 1m))
+📋 Race Type: 2y
+📏 Distance: 7.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: GY
+👜 Prize: 💰 435K
+🏆 Race Description: 2y -- Unknown - 0
+🥇 Result: 6 / 🏇 14 runners. Expected: 1
+💰 Odds: 17.0 📉
+📝 Comment: 🔄 midfield, outpaced 2f out, rallied against near rail inside final furlong, never on terms
+🎽 Jockey: S Foley- (⚖️ Weight: 126.0 lbs (57.3 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 175  days ago
+---------------------------------------------------------------------------
