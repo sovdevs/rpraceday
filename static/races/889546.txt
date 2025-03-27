@@ -1,0 +1,578 @@
+🏁 Race ID: 889546
+11 runners declared
+📍 Venue: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+🌦️ Weather: Light rain
+⚙️ Going: Standard
+⏰ Off Time: 18:10
+🏆 Race Name: BetUK: It's Where The UK Bets Restricted Novice Stakes (For horses In Bands C And D) (GBB Race)
+📏 Distance: 9.5 furlongs
+🏇 Race/Grade: Class 3
+🏇 Type: Flat
+🎂 Age Band: 3-5yo
+💰 Today's Purse: 💰 8K
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Performance Table
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5        | Circus Of Rome            | 6666817  | 5.0      | 2.0      | 5.0      | 2.0      | 1.0      | 6        | 6        | 1.0      | 2.0      | 5.0      | 1.0      | 1.0      | 1.0      | 1.0      | 2.0      | 1.0      | 8.0      | 1.0      | 3.0      | 1.0      | 5.0      | 4.0      | 4.0      | N/A      | N/A      | 2.0      | 1.0      | 10.0     | 4.0      | 2.0      | 3.0      | 2.0     
+3        | Hot Cash                  | 6111530  | 1.0      | 1.0      | 1.0      | 1.0      | 1.0      | 5        | 5        | 1.0      | 1.0      | 1.0      | 1.0      | 2.0      | N/A      | N/A      | 7.0      | 9.0      | 8.0      | 9.0      | 1.0      | 2.0      | 6.0      | 1.0      | 2.0      | N/A      | N/A      | N/A      | 2.0      | 1.0      | 2.0      | N/A      | N/A      | 4.0     
+4        | Perfect Life              | 6618141  | 2.0      | 2.0      | 2.0      | 2.0      | 1.0      | 8        | 7        | 3.0      | 2.0      | 5.0      | 1.0      | 4.0      | 2.0      | N/A      | 4.0      | 6.0      | 7.0      | 10.0     | 4.0      | 5.0      | 11.0     | 9.0      | 1.0      | 1.0      | N/A      | 1.0      | 3.0      | 3.0      | 6.0      | 4.0      | 2.0      | 1.0     
+8        | Maraaheb                  | 7312413  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 6.0      | 8.0      | 4.0      | 6.0      | 2.0      | 11.0     | 7.0      | 10.0     | 8.0      | N/A      | N/A      | N/A      | 4.0      | 7.0      | 3.0      | 5.0      | N/A      | 5.0     
+11       | Camtank                   | 7258524  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 8.0      | 7.0      | 2.0      | 8.0      | 6.0      | 7.0      | 4.0      | 5.0      | 8.0      | N/A      | N/A      | N/A      | 4.0      | 4.0      | 1.0      | 1.0      | 1.0      | 6.0     
+9        | Soy Loco                  | 7055592  | 4.0      | 2.0      | 4.0      | 2.0      | 1.0      | 7        | 7        | 2.0      | 2.0      | 2.0      | 1.0      | 3.0      | 3.0      | 2.0      | 1.0      | 10.0     | 8.0      | 11.0     | 6.0      | 7.0      | 1.0      | 2.0      | 3.0      | N/A      | N/A      | 2.0      | 6.0      | 5.0      | 10.0     | 6.0      | N/A      | 8.0     
+6        | Godstone                  | 7037500  | 5.0      | 2.0      | 5.0      | 2.0      | 1.0      | 11       | 10       | 5.0      | 2.0      | 4.0      | 1.0      | 5.0      | 5.0      | N/A      | 3.0      | 5.0      | 4.0      | 4.0      | 6.0      | 6.0      | 8.0      | 6.0      | 5.0      | N/A      | N/A      | 2.0      | 7.0      | 11.0     | 9.0      | N/A      | 4.0      | 7.0     
+7        | Lightning Tiger           | 7312414  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 8.0      | 11.0     | 3.0      | 7.0      | 6.0      | 9.0      | 10.0     | 8.0      | 8.0      | N/A      | N/A      | N/A      | 7.0      | 8.0      | 7.0      | N/A      | N/A      | 3.0     
+10       | My Mate Arnie             | 7312415  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 5.0      | 3.0      | 4.0      | 3.0      | 5.0      | 10.0     | 8.0      | 11.0     | 8.0      | N/A      | N/A      | N/A      | 7.0      | 9.0      | 8.0      | 3.0      | N/A      | 10.0    
+1        | Mybad                     | 6798293  | 3.0      | 2.0      | 3.0      | 2.0      | 1.0      | 9        | 9        | 6.0      | 2.0      | 4.0      | 1.0      | 7.0      | 4.0      | N/A      | 8.0      | 4.0      | 1.0      | 5.0      | 6.0      | 4.0      | 3.0      | 3.0      | 6.0      | 2.0      | N/A      | 2.0      | 10.0     | 6.0      | 11.0     | 8.0      | 4.0      | 11.0    
+2        | Guinness Lad              | 6451108  | 6.0      | 2.0      | 6.0      | 2.0      | 1.0      | 10       | 11       | 4.0      | 2.0      | 3.0      | 1.0      | 6.0      | 5.0      | N/A      | 8.0      | 2.0      | 8.0      | 2.0      | 11.0     | 2.0      | 2.0      | 7.0      | 6.0      | 2.0      | 1.0      | 2.0      | 11.0     | 2.0      | 5.0      | 7.0      | 4.0      | 9.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 5 | Circus Of Rome⬆🏇 Circus Of Rome id 6666817🌟 is a TOP Ranked horse in at least one speed or OPR!
+📈 Owner has a strong record (SR: 27.27%, 11 runs). (Rank: 2)
+🐎 is a 3 years old  gelding, colo(u)r: b, carrying 123 lbs today.
+🦄 Sire: Circus Maximus 1/26 (4.0%)
+🌿 Dam: Sea Meets Sky 2/26 (8.0%)
+⏱️ Speed record - Runs: 3 | Best: 6.03 sec (Rank 6), Worst: 6.16 sec (Rank 6), Avg: 6.08 sec (Rank 6)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 3.0 (Rank: 1.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Flaxman Stables Ireland Ltd
+🏠 Owner: Alex Smith 3/11 (27.0) - (No previous owner(s))
+👤 Trainer: Richard Hughes (0 previous trainer(s)) last 14d WinRate (2.0/11.0 runs) (Rank: 3.0) RTF: 73.0 (OVR: 19%)
+🏇 Jockey: Finley Marsh (14d rank: 2.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(4.0/ 17.0 runs) RTF: N/A (OVR: 12%) 5Y: 111/826 (13.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Runner-up in two of his three races and he's the standard-setter in this field
+🔦 Spotlight: Beaten a short-head by the favourite when clear of the rest on his second run at Lingfield (1m) and again ran well at Chelmsford where he seemed to find 7f too sharp (kept on for pressure); he's the standard-setter in this field.
+📊 **STATS**
+📉 OFR: 83.0 (Rank: 1)
+📈 RPR: 89.0 (Rank: 1)
+📉 TS: 85.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/3 | Ratio: 0.00
+📊 Form: 622- → Score: 0.12 (Rank: 4)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-12-12 18:00:00
+🏆 RaceName: Irish EBF Future Stayers' Novice Stakes (Sire And Dam Restricted Race) (GBB Race)
+🏟️ Course: Chelmsford (AW) (Polytrack. Left-handed, flat track, circuit 8.5f)
+📋 Race Type: 32yNv
+📏 Distance: 7.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 13K
+🏆 Race Description: 32yNv -- Unknown - 0
+🥇 Result: 2 🥈 / 🏇 9 runners. Expected: 1
+💰 Odds: 1.444 🔥🔥
+📝 Comment: in touch with leaders, hung right but headway over 1f out, kept on but no impression inside final furlong
+🎽 Jockey: F Marsh- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 104  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-03 12:27:00
+🏆 RaceName: Gamble Responsibly At BetMGM/EBF Restricted Maiden Stakes (Bands C/D) (GBB Race) (Div I)
+🏟️ Course: Lingfield (AW) (Polytrack: left-handed, sharp)
+📋 Race Type: 52yMd
+📏 Distance: 8.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+🏆 Race Description: 52yMd -- Unknown - 0
+🥇 Result: 2 🥈 / 🏇 10 runners. Expected: 1
+💰 Odds: 2.875 🔥
+📝 Comment: 🎯 prominent, went second over 1f out, switched right and kept on inside final furlong, just failed
+🎽 Jockey: F Marsh- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 9  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-11-13 12:35:00
+🏆 RaceName: BetMGM: It's Showtime / EBF Novice Stakes (GBB Race) (Div I)
+🏟️ Course: Lingfield (AW) (Polytrack: left-handed, sharp)
+📋 Race Type: 52yNv
+📏 Distance: 8.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+🏆 Race Description: 52yNv -- Unknown - 0
+🥇 Result: 6 / 🏇 12 runners. Expected: 1
+💰 Odds: 34.0 ❄️
+📝 Comment: 🔄 held up in rear, hung right throughout, outpaced over 2f out, kept on from over 1f out, never on terms (jockey said gelding hung right-handed throughout)
+🎽 Jockey: F Marsh- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 19  days ago
+---------------------------------------------------------------------------
+🐎 3 | Hot Cash🐎 is a 3 years old  colt, colo(u)r: b, carrying 130 lbs today.
+🦄 Sire: Too Darn Hot 43/291 (15.0%)
+🌿 Dam: Spirit Of Appin 0/0 (0.0%)
+⏱️ Speed record - Runs: 1 | Best: 6.01 sec (Rank 5), Worst: 6.01 sec (Rank 5), Avg: 6.01 sec (Rank 5)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 4.33 (Rank: 2.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Wellsummers Farm
+🏠 Owner: Six Or Sticks (Tdh) 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Jack Channon (0 previous trainer(s)) last 14d WinRate (2.0/6.0 runs) (Rank: 1.0) RTF: 83.0 (OVR: 16%)
+🏇 Jockey: David Probert (14d rank: 7.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(2.0/ 21.0 runs) RTF: N/A (OVR: 12%) 5Y: 200/1577 (13.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Won a weak race at Epsom before coming up well short in a French Group 3
+🔦 Spotlight: Both runs over 7f on good ground; won a weak race at Epsom before coming up well short in a French Group 3; bred for this longer distance and he's in the Derby.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 78.0 (Rank: 2)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 14- → Score: 0.23 (Rank: 2)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-08-11 11:58:00
+🏆 RaceName: Prix Francois Boutin (Group 3) (2yo) (Straight Course) (Turf)
+🏟️ Course: Deauville (right-handed 10.5f oval, 2f straight, straight and round mile)
+📋 Race Type: 2yG3
+📏 Distance: 7.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: G
+👜 Prize: 💰 35K
+🏆 Race Description: 2yG3 -- Group 3 - 3
+🥇 Result: 4 / 🏇 5 runners. Expected: 1
+💰 Odds: 11.0 📉
+📝 Comment: 🎯 chased leader, ridden 2 1/2f out, unable to quicken, lost position 2f out, ⏳ kept on same pace
+🎽 Jockey: S De Sousa- (⚖️ Weight: 127.0 lbs (57.7 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 227  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-07-03 17:50:00
+🏆 RaceName: Betfred Play Fred's £5 Million EBF Restricted Maiden Stakes (Bands B/C/D) (Qual) (GBB Race)
+🏟️ Course: Epsom (left-handed, sharp track (very sharp up to 1m))
+📋 Race Type: 42yMd
+📏 Distance: 7.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: G
+👜 Prize: 💰 5K
+🏆 Race Description: 42yMd -- Unknown - 0
+🥇 Result: 1 🥇 / 🏇 7 runners. Expected: 1
+💰 Odds: 5.5 🔥
+📝 Comment: in touch with leaders, headway on outer from under 2f out, soon pushed along, 🎯 led inside final 110yds, kept on
+🎽 Jockey: D Probert- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 38  days ago
+---------------------------------------------------------------------------
+🐎 4 | Perfect Life📈 Owner has a strong record (SR: 12.50%, 16 runs). (Rank: 4)
+🐎 is a 3 years old  colt, colo(u)r: gr, carrying 130 lbs today.
+🦄 Sire: Earthlight 10/82 (12.0%)
+🌿 Dam: Morning Jewel 1/7 (14.000000000000002%)
+⏱️ Speed record - Runs: 2 | Best: 6.31 sec (Rank 8), Worst: 6.4 sec (Rank 7), Avg: 6.35 sec (Rank 7)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 4.5 (Rank: 3.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Kevin & Meta Cullen
+🏠 Owner: Saeed Sultan Al Rahoomi 2/16 (12.0) - (No previous owner(s))
+👤 Trainer: Marco Botti (0 previous trainer(s)) last 14d WinRate (3.0/18.0 runs) (Rank: 4.0) RTF: 63.0 (OVR: 11%)
+🏇 Jockey: Hollie Doyle (14d rank: 4.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(5.0/ 29.0 runs) RTF: N/A (OVR: 14%) 5Y: 198/1390 (14.000000000000002)
+🗞️ **PRESS OPINION**
+💬 Comment: Comfortably repelled a well-touted Gosden newcomer here in December; looks useful
+🔦 Spotlight: Kicked clear about 2f out and comfortably kept a well-touted Gosden newcomer (unraced since) at bay over 8.6f here just before Christmas; carries the penalty but still has excellent claims with the promise of more to come.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 74.0 (Rank: 4)
+📉 TS: 59.0 (Rank: 2)
+🏟️ Course Wins/Runs: 1/1 | Ratio: 1.00
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 1/2 | Ratio: 0.50
+📊 Form: 31- → Score: 0.56 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-12-20 16:30:00
+🏆 RaceName: Weekly Free Bets With BetMGM Extra Maiden Stakes (GBB Race)
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📋 Race Type: 52yMd
+📏 Distance: 8.5 furlongs (🔽 vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+🏆 Race Description: 52yMd -- Unknown - 0
+🥇 Result: 1 🥇 / 🏇 7 runners. Expected: 1
+💰 Odds: 4.333 🔥
+📝 Comment: in touch with leaders, 🎯 led over 2f out, clear when ridden over 1f out, pushed out, comfortably
+🎽 Jockey: R Ryan- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 96  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-10-24 17:00:00
+🏆 RaceName: Best Odds Guaranteed At BetMGM EBF Restricted Maiden Stakes (Bands C/D, No More Than 3 Runs) (GBB)
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📋 Race Type: 52yMd
+📏 Distance: 8.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+🏆 Race Description: 52yMd -- Unknown - 0
+🥇 Result: 3 🥉 / 🏇 12 runners. Expected: 1
+💰 Odds: 13.0 📉
+📝 Comment: 🔄 towards rear, headway from 2f out, kept on inside final furlong, eyecatcher
+🎽 Jockey: Hollie Doyle- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 56  days ago
+---------------------------------------------------------------------------
+🐎 8 | Maraaheb⬆🏇 Maraaheb id 7312413🌟 is a TOP Ranked horse in at least one speed or OPR!
+⚠️ Owner's record is weaker (SR: 9.76%, 41 runs). (Rank: 5)
+🐎 is a 3 years old  colt, colo(u)r: ch, carrying 123 lbs today.
+🦄 Sire: Sottsass 2/22 (9.0%)
+🌿 Dam: Silver Rain 0/0 (0.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ Gear: h
+🩺 Medical History: No records
+🎲 Early market: 8.0 (Rank: 4.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Lynch - Bages & Longfield Stud
+🏠 Owner: Green Team Racing 4/41 (10.0) - (No previous owner(s))
+👤 Trainer: Andrew Balding (0 previous trainer(s)) last 14d WinRate (5.0/24.0 runs) (Rank: 2.0) RTF: 71.0 (OVR: 14%)
+🏇 Jockey: Jason Watson (14d rank: 6.0) ⚠️ No race history available for this horse.(1.0/ 9.0 runs) RTF: N/A (OVR: 15%) 5Y: 53/462 (11.0)
+🗞️ **PRESS OPINION**
+💬 Comment: 42,000euros yearling; hooded for debut but in top hands and needs checking in the betting
+🔦 Spotlight: 42,000euros yearling; twelfth foal; half-brother to seven winners including Opposite (1m-10.5f; RPR 111), Baahama (7.5f-1m4f; 106), Star System (8.5f-10.5f; 95) and Leaders Listen (1m1f; 83); dam 1m1f-1m4f winner (102); hooded for debut but in top hands and needs checking in the betting.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 8)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7312413.
+
+🐎 11 | Camtank⬆🏇 Camtank id 7258524🌟 is a TOP Ranked horse in at least one speed or OPR!
+🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 is a 3 years old  filly, colo(u)r: b, carrying 118 lbs today.
+🦄 Sire: Camelot 84/717 (12.0%)
+🌿 Dam: Janey Muddles 1/3 (33.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 8.0 (Rank: 4.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Eminent Kind Ltd
+🏠 Owner: Lee Yuk Lun Alan 1/3 (33.0) - (No previous owner(s))
+👤 Trainer: William Haggas (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 6.0) RTF: 50.0 (OVR: 21%)
+🏇 Jockey: Adam Farragher (14d rank: 8.0) ⚠️ No race history available for this horse.(0.0/ 6.0 runs) RTF: N/A (OVR: 6%) 5Y: 80/708 (11.0)
+🗞️ **PRESS OPINION**
+💬 Comment: 30,000gns yearling; the only female in the field but she's in a leading stable
+🔦 Spotlight: 30,000gns yearling; eighth foal; half-sister to four winners including Awesometank (7f/1m; RPR 109), Frantanck (1m; RPR 91) and Modern Approach (9.4f; 84); dam 6f 2yo winner (98); the only female in the field but she's in a leading stable.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 8)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7258524.
+
+🐎 9 | Soy Loco⚠️ Owner's record is weaker (SR: 9.73%, 185 runs). (Rank: 6)
+🐎 is a 3 years old  colt, colo(u)r: b, carrying 123 lbs today.
+🦄 Sire: Shaman 3/27 (11.0%)
+🌿 Dam: Starry Messenger 0/0 (0.0%)
+⏱️ Speed record - Runs: 3 | Best: 6.3 sec (Rank 7), Worst: 6.42 sec (Rank 8), Avg: 6.35 sec (Rank 7)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 9.0 (Rank: 6.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Knockainey Stud
+🏠 Owner: Robert Moss 18/185 (10.0) - (No previous owner(s))
+👤 Trainer: Simon Dow (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 6.0) RTF: N/A (OVR: 7%)
+🏇 Jockey: Luke Morris (14d rank: 1.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(2.0/ 27.0 runs) RTF: N/A (OVR: 12%) 5Y: 139/1534 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Perhaps flattered at Chelmsford last time but clearly up to winning races
+🔦 Spotlight: Has got closer with each run, last time going down by 1.5l to a Gosden odds-on favourite who had already shown a good level of ability; might have been flattered that day at Chelmsford having dictated up front, but clearly up to winning races.
+📊 **STATS**
+📉 OFR: 74.0 (Rank: 2)
+📈 RPR: 77.0 (Rank: 3)
+📉 TS: 45.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: 532 → Score: 0.13 (Rank: 3)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-08 18:00:00
+🏆 RaceName: Bet Boost At bet365 Maiden Stakes (GBB Race)
+🏟️ Course: Chelmsford (AW) (Polytrack. Left-handed, flat track, circuit 8.5f)
+📋 Race Type: 53yMd
+📏 Distance: 10.0 furlongs (🔼 vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+🏆 Race Description: 53yMd -- Unknown - 0
+🥇 Result: 2 🥈 / 🏇 8 runners. Expected: 1
+💰 Odds: 11.0 📉
+📝 Comment: 🎯 led, headed over 1f out, kept on but no match for winner
+🎽 Jockey: David Egan- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 18  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-12 18:00:00
+🏆 RaceName: Unibet More Extra Place Races Maiden Stakes (GBB Race)
+🏟️ Course: Kempton (AW) (Polytrack. Right-handed)
+📋 Race Type: 5Md
+📏 Distance: 8.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SS
+👜 Prize: 💰 4K
+🏆 Race Description: 5Md -- Unknown - 0
+🥇 Result: 3 🥉 / 🏇 12 runners. Expected: 1
+💰 Odds: 126.0 ❄️❄️
+📝 Comment: 🎯 led, jinked left after 2f, headed over 1f out, ❄️ weakened inside final furlong
+🎽 Jockey: Josephine Gordon- (⚖️ Weight: 123.0 lbs (55.9 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 24  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-01-29 17:30:00
+🏆 RaceName: Unibet Supports Safer Gambling Maiden Stakes (GBB Race) (Div I)
+🏟️ Course: Kempton (AW) (Polytrack. Right-handed)
+📋 Race Type: 5Md
+📏 Distance: 8.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SS
+👜 Prize: 💰 4K
+🏆 Race Description: 5Md -- Unknown - 0
+🥇 Result: 5 / 🏇 9 runners. Expected: 1
+💰 Odds: 23.0 ❄️
+📝 Comment: 🎯 prominent, ran green over 6f out, ❄️ weakened from over 2f out
+🎽 Jockey: L Morris- (⚖️ Weight: 122.0 lbs (55.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 14  days ago
+---------------------------------------------------------------------------
+🐎 6 | Godstone🐎 is a 3 years old  gelding, colo(u)r: b, carrying 123 lbs today.
+🦄 Sire: Wooded 0/15 (0.0%)
+🌿 Dam: Wiesenlerche 0/2 (0.0%)
+⏱️ Speed record - Runs: 2 | Best: 6.52 sec (Rank 11), Worst: 6.65 sec (Rank 10), Avg: 6.59 sec (Rank 10)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 26.0 (Rank: 7.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Rashit Shaykhutdinov
+🏠 Owner: Homecroft Wealth Racing & Wh Stables 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Tom Ward (0 previous trainer(s)) last 14d WinRate (0.0/2.0 runs) (Rank: 6.0) RTF: 50.0 (OVR: 13%)
+🏇 Jockey: Sean Levey (14d rank: 3.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(2.0/ 11.0 runs) RTF: N/A (OVR: 15%) 5Y: 51/500 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Showed more second time out at Kempton but was still beaten 8l and that was over 1m4f
+🔦 Spotlight: Showed more second time out at Kempton but was still beaten 8l and that was over 1m4f; looks vulnerable.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 65.0 (Rank: 5)
+📉 TS: 31.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: 74 → Score: 0.09 (Rank: 5)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-05 16:22:00
+🏆 RaceName: Unibet Supporting International Women's Day Restricted Maiden Stakes (Bands B, C And D) (GBB Race)
+🏟️ Course: Kempton (AW) (Polytrack. Right-handed)
+📋 Race Type: 5Md
+📏 Distance: 12.0 furlongs (🔼 vs 9.5 today)
+🌱 Going: SS
+👜 Prize: 💰 4K
+🏆 Race Description: 5Md -- Unknown - 0
+🥇 Result: 4 / 🏇 11 runners. Expected: 1
+💰 Odds: 51.0 ❄️❄️
+📝 Comment: 🔄 midfield, switched left over 2f out, soon outpaced, ⏳ ran on well final furlong, went fourth towards finish
+🎽 Jockey: Hollie Doyle- (⚖️ Weight: 118.0 lbs (53.6 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 21  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-24 17:15:00
+🏆 RaceName: Bet MGM: It's Showtime Restricted Maiden Stakes (For Horses In Bands B, C And D) (GBB Race) (Div I)
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📋 Race Type: 5Md
+📏 Distance: 8.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+🏆 Race Description: 5Md -- Unknown - 0
+🥇 Result: 7 / 🏇 7 runners. Expected: 1
+💰 Odds: 6.0 📉
+📝 Comment: 🐢 slowly away, in rear, pushed along over 3f out, ❄️ weakened from over 2f out
+🎽 Jockey: S D Bowen- (⚖️ Weight: 120.0 lbs (54.5 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 39  days ago
+---------------------------------------------------------------------------
+🐎 7 | Lightning Tiger⬆🏇 Lightning Tiger id 7312414🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 3 years old  gelding, colo(u)r: b, carrying 123 lbs today.
+🦄 Sire: Waldgeist 6/71 (8.0%)
+🌿 Dam: Bubble And Squeak 0/0 (0.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 26.0 (Rank: 7.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: C N Wright
+🏠 Owner: Christopher Wright And Emma Banks 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Charlie Fellowes (0 previous trainer(s)) last 14d WinRate (0.0/4.0 runs) (Rank: 6.0) RTF: 50.0 (OVR: 12%)
+🏇 Jockey: Daniel Muscutt (14d rank: 8.0) ⚠️ No race history available for this horse.(0.0/ 20.0 runs) RTF: N/A (OVR: 16%) 5Y: 168/1295 (13.0)
+🗞️ **PRESS OPINION**
+💬 Comment: First foal; dam 1m-1m1f winner (including AW; RPR 96); likely best watched on debut
+🔦 Spotlight: First foal; dam 1m-1m1f winner (including AW; RPR 96) and half-sister to useful 8.5f/9.4f winner Nonchalant; likely best watched on debut.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 8)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7312414.
+
+🐎 10 | My Mate Arnie⬆🏇 My Mate Arnie id 7312415🌟 is a TOP Ranked horse in at least one speed or OPR!
+📈 Owner has a strong record (SR: 13.25%, 385 runs). (Rank: 3)
+🐎 is a 3 years old  colt, colo(u)r: b, carrying 121 lbs today.
+🦄 Sire: Ardad 34/488 (7.000000000000001%)
+🌿 Dam: Elation 0/0 (0.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 26.0 (Rank: 7.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Mr & Mrs G Middlebrook
+🏠 Owner: R S Brookhouse 51/385 (13.0) - (No previous owner(s))
+👤 Trainer: David Evans (0 previous trainer(s)) last 14d WinRate (2.0/16.0 runs) (Rank: 5.0) RTF: 63.0 (OVR: 13%)
+🏇 Jockey: George Wood (14d rank: 5.0) ⚠️ No race history available for this horse.(2.0/ 15.0 runs) RTF: N/A (OVR: 15%) 5Y: 31/360 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Stable's newcomers are usually best watched and he's drawn wide
+🔦 Spotlight: Third foal; dam 6f 2yo winner (RPR 77), half-sister to winners Stetchworth (1m1f/1m2f), Shamrocked (6f/7f) and Taqwaa (1m); stable's newcomers are usually best watched and he's drawn wide.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 8)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7312415.
+
+🐎 1 | Mybad⚠️ Owner's record is weaker (SR: 2.22%, 45 runs). (Rank: 8)
+🐎 is a 4 years old  gelding, colo(u)r: b, carrying 142 lbs today.
+🦄 Sire: Awtaad 40/424 (9.0%)
+🌿 Dam: Lady Slippers 0/2 (0.0%)
+⏱️ Speed record - Runs: 2 | Best: 6.4 sec (Rank 9), Worst: 6.45 sec (Rank 9), Avg: 6.42 sec (Rank 9)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 101.0 (Rank: 10.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Airlie Stud
+🏠 Owner: A M Balding 1/45 (2.0) - (No previous owner(s))
+👤 Trainer: Simon Hodgson (0 previous trainer(s)) last 14d WinRate (0.0/1.0 runs) (Rank: 6.0) RTF: 100.0 (OVR: 4%)
+🏇 Jockey: William Carver (14d rank: 8.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0.0/ 2.0 runs) RTF: N/A (OVR: 8%) 5Y: 16/246 (7.000000000000001)
+🗞️ **PRESS OPINION**
+💬 Comment: Has performed to a modest level in his first two races at about 1m and looks outclassed
+🔦 Spotlight: Has performed to a modest level in his first two races at about 1m and looks outclassed.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 54.0 (Rank: 7)
+📉 TS: 32.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 6-6 → Score: 0.08 (Rank: 6)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-14 16:20:00
+🏆 RaceName: Weekly Free Bets With BetMGM Extra Restricted Maiden Stakes (Bands C And D) (GBB) (Div I)
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📋 Race Type: 5Md
+📏 Distance: 8.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+🏆 Race Description: 5Md -- Unknown - 0
+🥇 Result: 6 / 🏇 7 runners. Expected: 1
+💰 Odds: 26.0 ❄️
+📝 Comment: raced wide, took keen hold, pressed leader, ❄️ weakened over 2f out
+🎽 Jockey: B Lewis- (⚖️ Weight: 128.0 lbs (58.2 kg) carried -- Allowance: 7.0) 
+⏳ Time between runs: 12  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-12-02 18:00:00
+🏆 RaceName: BetMGM: It's Showtime Restricted Novice Stakes (Bands B-D) (Rider Restricted Race) (GBB Race)
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📋 Race Type: 5Nv
+📏 Distance: 8.5 furlongs (🔽 vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+🏆 Race Description: 5Nv -- Unknown - 0
+🥇 Result: 6 / 🏇 9 runners. Expected: 1
+💰 Odds: 67.0 ❄️❄️
+📝 Comment: dwelt start, 🔄 towards rear throughout
+🎽 Jockey: B Lewis- (⚖️ Weight: 115.0 lbs (52.3 kg) carried -- Allowance: 7.0) 
+⏳ Time between runs: 101  days ago
+---------------------------------------------------------------------------
+🐎 2 | Guinness Lad⚠️ Owner's record is weaker (SR: 9.38%, 32 runs). (Rank: 7)
+🐎 is a 5 years old  gelding, colo(u)r: bl, carrying 140 lbs today.
+🦄 Sire: Berkshire 4/30 (13.0%)
+🌿 Dam: Never Again 0/8 (0.0%)
+⏱️ Speed record - Runs: 8 | Best: 6.41 sec (Rank 10), Worst: 8.19 sec (Rank 11), Avg: 7.23 sec (Rank 11)
+🛠️ Gear: h
+🩺 Medical History: No records
+🎲 Early market: 201.0 (Rank: 11.0)
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Jeremiah Fitzpatrick
+🏠 Owner: Neil Mulholland Racing Ltd 3/32 (9.0) - (No previous owner(s))
+👤 Trainer: Neil Mulholland (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 11.0) RTF: 63.0 (OVR: 6%)
+🏇 Jockey: Millie Wonnacott(5) (14d rank: 8.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0.0/ 1.0 runs) RTF: N/A (OVR: 12%) 5Y: 11/122 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Has looked limited in a bumper, over hurdles and in three races on the AW
+🔦 Spotlight: Has looked limited in a bumper, over hurdles and in three races on the AW.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 56.0 (Rank: 6)
+📉 TS: 31.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 066 → Score: 0.08 (Rank: 6)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-12 18:00:00
+🏆 RaceName: Free Bets With BetUK Bet Club Restricted Novice Stakes (For horses In Bands B, C And D) (GBB Race)
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📋 Race Type: 5Nv
+📏 Distance: 9.5 furlongs (➡️ vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+🏆 Race Description: 5Nv -- Unknown - 0
+🥇 Result: 6 / 🏇 9 runners. Expected: 1
+💰 Odds: 301.0 ❄️❄️
+📝 Comment: dwelt start, took keen hold, 🔄 held up in rear, nudged along and outpaced over 2f out, some headway over 1f out, no impression inside final furlong
+🎽 Jockey: D C Costello- (⚖️ Weight: 138.0 lbs (62.7 kg) carried -- Allowance: 0.0) 
+⏳ Time between runs: 14  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-03-05 14:42:00
+🏆 RaceName: Win £1M With BetMGM's Golden Goals Restricted Maiden Stakes (Bands B, C And D) (GBB Race) (Div II)
+🏟️ Course: Lingfield (AW) (Polytrack: left-handed, sharp)
+📋 Race Type: 5Md
+📏 Distance: 8.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+🏆 Race Description: 5Md -- Unknown - 0
+🥇 Result: 6 / 🏇 8 runners. Expected: 1
+💰 Odds: 251.0 ❄️❄️
+📝 Comment: took keen hold, 🔄 held up in rear, headway from 3f out, no chance but kept on home straight
+🎽 Jockey: Millie Wonnacott- (⚖️ Weight: 128.0 lbs (58.2 kg) carried -- Allowance: 5.0) 
+⏳ Time between runs: 7  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-02-12 18:00:00
+🏆 RaceName: Unibet More Extra Place Races Maiden Stakes (GBB Race)
+🏟️ Course: Kempton (AW) (Polytrack. Right-handed)
+📋 Race Type: 5Md
+📏 Distance: 8.0 furlongs (🔽 vs 9.5 today)
+🌱 Going: SS
+👜 Prize: 💰 4K
+🏆 Race Description: 5Md -- Unknown - 0
+🥇 Result: 11 / 🏇 12 runners. Expected: 1
+💰 Odds: 301.0 ❄️❄️
+📝 Comment: 🐢 slowly away, in rear and detached early, hung badly left and ❄️ weakened from 2f out (jockey said gelding was 🐢 slowly away from stalls and hung badly left-handed in home straight)
+🎽 Jockey: Millie Wonnacott- (⚖️ Weight: 132.0 lbs (60.0 kg) carried -- Allowance: 5.0) 
+⏳ Time between runs: 20  days ago
+---------------------------------------------------------------------------

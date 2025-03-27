@@ -7,28 +7,28 @@
     <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="new data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hash_codes.json" beforeDir="false" afterPath="$PROJECT_DIR$/hash_codes.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889327.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889328.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889329.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889330.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889332.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889333.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889504.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889505.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889506.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889507.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889508.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889509.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889510.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889511.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889512.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889513.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889514.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889515.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889516.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/889517.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/891175.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/891176.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889334.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889335.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889336.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889337.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889338.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889339.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889340.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889341.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889342.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889343.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889344.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889345.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889346.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889518.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889519.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889520.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889521.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889522.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889523.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889524.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/891188.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/891189.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,15 +120,7 @@
       <workItem from="1741863775138" duration="663000" />
       <workItem from="1741940196379" duration="8291000" />
       <workItem from="1742374057464" duration="3376000" />
-      <workItem from="1742548206711" duration="9632000" />
-    </task>
-    <task id="LOCAL-00028" summary="addded new race data">
-      <option name="closed" value="true" />
-      <created>1739260212587</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1739260212587</updated>
+      <workItem from="1742548206711" duration="10483000" />
     </task>
     <task id="LOCAL-00029" summary="addded new race data">
       <option name="closed" value="true" />
@@ -514,7 +506,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742817560064</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="new data">
+      <option name="closed" value="true" />
+      <created>1742911317195</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1742911317195</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
