@@ -1,0 +1,569 @@
+⏰ Off Time: 13:15
+📍 Venue: Doncaster (left-handed, galloping track)
+🏁 Race ID: 889288 - 🏆 Name: William Hill Top Price Guarantee EBF Brocklesby Stakes (A Novice Stakes) (GBB/IRE Incentive Race)
+🏇 Type: Flat
+📏 Distance: 5.0 furlongs
+🏇 Class/Grade: Class 2
+🎂 Age Band: 2yo
+💰 Prize money: 💰 21K
+🌥️ Weather: Mostly cloudy
+🍃 Going: Good To Soft
+17 runners declared
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+No head-to-head data found for horse_ids: ['7324714', '7324733', '7324731', '7324715', '7324721', '7324728', '7020440', '7205014', '7324734', '7324725', '7324723', '7324713', '7324722', '7324732', '7324724', '7324727', '7324726']Performance Table
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7        | Kamakameleon              | 7020440  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 4.0      | 5.0      | 14.0     | 13.0     | 2.0      | 5.0      | 8.0      | 4.0      | 1.0      | N/A      | N/A      | N/A      | 1.0      | 6.0      | 1.0      | N/A      | N/A      | 4.0     
+11       | Normans Cay               | 7324723  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 8.0      | 13.0     | 10.0     | 3.0      | 1.0      | 9.0      | 5.0      | 5.0      | 1.0      | N/A      | N/A      | N/A      | 1.0      | 1.0      | 7.0      | 1.0      | N/A      | 7.0     
+17       | Sucking Diesel            | 7324726  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 9.0      | 11.0     | 10.0     | 8.0      | 4.0      | 6.0      | 7.0      | 12.0     | 1.0      | N/A      | N/A      | N/A      | 3.0      | 2.0      | 5.0      | 5.0      | 2.0      | 14.0    
+3        | Archibald Ives            | 7324731  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 14.0     | 14.0     | 6.0      | 16.0     | 5.0      | 4.0      | 4.0      | 3.0      | 1.0      | N/A      | N/A      | N/A      | 4.0      | 9.0      | 9.0      | N/A      | N/A      | 9.0     
+8        | Kanishka                  | 7205014  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 13.0     | 2.0      | 7.0      | 9.0      | 6.0      | 3.0      | 1.0      | 13.0     | 1.0      | N/A      | N/A      | N/A      | 5.0      | 8.0      | 6.0      | N/A      | N/A      | 13.0    
+9        | Mighty Vega               | 7324734  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 12.0     | 17.0     | 12.0     | 15.0     | 8.0      | 13.0     | 16.0     | 7.0      | 1.0      | N/A      | N/A      | N/A      | 6.0      | 13.0     | 2.0      | N/A      | N/A      | 5.0     
+13       | The Boreham Bullet        | 7324722  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 6.0      | 7.0      | 14.0     | 14.0     | 17.0     | 7.0      | 13.0     | 11.0     | 1.0      | N/A      | N/A      | N/A      | 6.0      | 10.0     | 13.0     | N/A      | N/A      | 1.0     
+10       | Monty Magoo               | 7324725  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 3.0      | 4.0      | 9.0      | 1.0      | 8.0      | 14.0     | 8.0      | 14.0     | 1.0      | N/A      | N/A      | N/A      | 8.0      | 10.0     | 8.0      | N/A      | N/A      | 2.0     
+14       | Justice Twice             | 7324732  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 2.0      | 3.0      | 17.0     | 6.0      | 6.0      | 2.0      | 2.0      | 6.0      | 1.0      | N/A      | N/A      | N/A      | 9.0      | 4.0      | 10.0     | 5.0      | N/A      | 11.0    
+16       | Lope Harswell             | 7324727  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 14.0     | 12.0     | 1.0      | 2.0      | 8.0      | 14.0     | 8.0      | 14.0     | 1.0      | N/A      | N/A      | N/A      | 9.0      | N/A      | 8.0      | 2.0      | 3.0      | 15.0    
+1        | Ahead Of Fashion          | 7324714  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 14.0     | 10.0     | 12.0     | 10.0     | 8.0      | 10.0     | 2.0      | 1.0      | 1.0      | N/A      | N/A      | N/A      | 11.0     | 3.0      | 3.0      | N/A      | N/A      | 16.0    
+4        | Exclamation               | 7324715  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 4.0      | 1.0      | 1.0      | 11.0     | 8.0      | 10.0     | 16.0     | 7.0      | 1.0      | N/A      | N/A      | N/A      | 12.0     | 7.0      | 12.0     | 4.0      | N/A      | 6.0     
+12       | Son Of Sarabi             | 7324713  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 1.0      | 15.0     | 4.0      | 4.0      | 8.0      | 12.0     | 13.0     | 9.0      | 1.0      | N/A      | N/A      | N/A      | 12.0     | 11.0     | 11.0     | N/A      | N/A      | 10.0    
+5        | Harome Star               | 7324721  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 10.0     | 8.0      | 16.0     | 12.0     | 8.0      | 14.0     | 8.0      | 14.0     | 1.0      | N/A      | N/A      | N/A      | 12.0     | 12.0     | 8.0      | N/A      | 4.0      | 3.0     
+6        | Harswell Calling          | 7324728  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 10.0     | 16.0     | 7.0      | 17.0     | 8.0      | 14.0     | 8.0      | 14.0     | 1.0      | N/A      | N/A      | N/A      | 15.0     | 8.0      | 8.0      | 2.0      | 1.0      | 8.0     
+2        | Alkuwarrior               | 7324733  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 7.0      | 6.0      | 1.0      | 7.0      | 8.0      | 8.0      | 13.0     | 9.0      | 1.0      | N/A      | N/A      | N/A      | 15.0     | N/A      | 14.0     | 3.0      | 4.0      | 12.0    
+15       | Lady Of Honour            | 7324724  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 17.0     | 9.0      | 4.0      | 5.0      | 3.0      | 1.0      | 6.0      | 2.0      | 1.0      | N/A      | N/A      | N/A      | 15.0     | 5.0      | 4.0      | N/A      | 4.0      | 17.0    
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 7 | Kamakameleon⬆🏇 Kamakameleon id 7020440🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 2 years old  colt, colo(u)r: ch, carrying 133 lbs today.
+🦄 Sire: Kameko 19/191 (10.0%)
+🌿 Dam: Moravia 0/0 (0.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 3.25 (Rank: 1.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🎲 Head to head performance: Score: nan (Rank: nan). Prev. raced against: nan horses.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: The Moravia Partnership
+🏠 Owner: Hold My Beer, M Broughton & T Elphick 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Dylan Cunha (0 previous trainer(s)) last 14d WinRate (2.0/9.0 runs) (Rank: 2.0) RTF: 44.0 (OVR: 10%)
+🏇 Jockey: Kieran Shoemark (14d rank: 4.0) ⚠️ No race history available for this horse.(4.0/ 16.0 runs) RTF: N/A (OVR: 11%) 5Y: 184/1387 (13.0)
+🗞️ **PRESS OPINION**
+💬 Comment: February foal; £30,000 yearling; represents last year's winning stable; interesting
+🔦 Spotlight: February foal; £30,000 yearling; by Kameko; dam Group-placed 7f 2yo winner (RPR 99), half-sister to French 7f 2yo Group 3 winner Moon Ray; represents last year's winning stable and looks interesting.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7020440.
+
+🐎 11 | Normans Cay⬆🏇 Normans Cay id 7324723🌟 is a TOP Ranked horse in at least one speed or OPR!
+🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 is a 2 years old  colt, colo(u)r: b, carrying 133 lbs today.
+🦄 Sire: Sioux Nation 157/1146 (14.000000000000002%)
+🌿 Dam: Dear Miriam 0/0 (0.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 3.25 (Rank: 1.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🎲 Head to head performance: Score: nan (Rank: nan). Prev. raced against: nan horses.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Louise McLoughlin & Jack Maher
+🏠 Owner: Amo Racing Limited 116/909 (13.0) - (No previous owner(s))
+👤 Trainer: Richard Hannon (0 previous trainer(s)) last 14d WinRate (3.0/10.0 runs) (Rank: 1.0) RTF: 50.0 (OVR: 14%)
+🏇 Jockey: David Egan (14d rank: 8.0) ⚠️ No race history available for this horse.(3.0/ 18.0 runs) RTF: N/A (OVR: 14%) 5Y: 216/1829 (12.0)
+🗞️ **PRESS OPINION**
+💬 Comment: March foal; £60,000 yearling; notable connections landed this prize in 2022; respected
+🔦 Spotlight: March foal; 60,000gns yearling; Sioux Nation half-brother to German 1m 2yo winner Bright Smiles, out of 1m1f winner (RPR 65); notable connections landed this prize in 2022; commands respect.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7324723.
+
+🐎 17 | Sucking Diesel⬆🏇 Sucking Diesel id 7324726🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 2 years old  filly, colo(u)r: b, carrying 128 lbs today.
+🦄 Sire: Aclaim 101/919 (11.0%)
+🌿 Dam: Sonko 7/62 (11.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 10.0 (Rank: 3.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🎲 Head to head performance: Score: nan (Rank: nan). Prev. raced against: nan horses.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Hyde Park Stud
+🏠 Owner: The Hidden Brace 0/6 (0.0) - (No previous owner(s))
+👤 Trainer: Alice Haynes (0 previous trainer(s)) last 14d WinRate (2.0/12.0 runs) (Rank: 4.0) RTF: 42.0 (OVR: 12%)
+🏇 Jockey: Kieran Oneill (14d rank: 9.0) ⚠️ No race history available for this horse.(3.0/ 19.0 runs) RTF: N/A (OVR: 14%) 5Y: 169/1960 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: March foal; by Aclaim; yard has a respectable record with 2yos; one to consider
+🔦 Spotlight: March foal; Aclaim half-sister to four winners, notably Four Adaay (5f/6f; RPR 82); dam 5f winner (including 2yo; 88); yard has a respectable record with 2yos; one to consider.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7324726.
+
+🐎 3 | Archibald Ives⬆🏇 Archibald Ives id 7324731🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 2 years old  gelding, colo(u)r: b, carrying 133 lbs today.
+🦄 Sire: Arizona 9/117 (8.0%)
+🌿 Dam: Divine Truth 0/0 (0.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ Gear: tb
+🩺 Medical History: No records
+🎲 Early market: 11.0 (Rank: 4.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🎲 Head to head performance: Score: nan (Rank: nan). Prev. raced against: nan horses.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Athnid Stud
+🏠 Owner: G Ainsworth & Hcs 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Darryll Holland (0 previous trainer(s)) last 14d WinRate (1.0/9.0 runs) (Rank: 5.0) RTF: 44.0 (OVR: 19%)
+🏇 Jockey: Jason Watson (14d rank: 14.0) ⚠️ No race history available for this horse.(0.0/ 9.0 runs) RTF: N/A (OVR: 7%) 5Y: 127/1253 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: March foal; 13,000gns foal; by Arizona; disconcertingly, the only runner with headgear
+🔦 Spotlight: March foal; 13,000gns foal; already ✂️ gelded; by Arizona out of an unraced half-sister to the dam of 7f 2yo Group 2 winner Agartha; disconcertingly, the only runner fitted with headgear (blinkers and tongue-tie).
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7324731.
+
+🐎 8 | Kanishka⬆🏇 Kanishka id 7205014🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 2 years old  colt, colo(u)r: b, carrying 133 lbs today.
+🦄 Sire: Coulsty 19/240 (8.0%)
+🌿 Dam: Blushing Rose 0/0 (0.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 12.0 (Rank: 5.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🎲 Head to head performance: Score: nan (Rank: nan). Prev. raced against: nan horses.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Aguiar Bloodstock & Padraig Williams
+🏠 Owner: C Booth, P Boyle, S Coleby & S Smith 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Brian Ellison (0 previous trainer(s)) last 14d WinRate (1.0/1.0 runs) (Rank: 6.0) RTF: 60.0 (OVR: 3%)
+🏇 Jockey: Ben Robinson (14d rank: 13.0) ⚠️ No race history available for this horse.(1.0/ 1.0 runs) RTF: N/A (OVR: 5%) 5Y: 68/785 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: February foal; 20,000gns yearling; Coulsty half-brother to a Doncaster winner (sole start)
+🔦 Spotlight: February foal; 20,000euros yearling; Coulsty half-brother to 7f Doncaster winner Red Rambler (only start; RPR 100) out of 7f-1m2f AW winner (including 2yo; 95), family of Notnowcato; attractively bred.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7205014.
+
+🐎 9 | Mighty Vega⬆🏇 Mighty Vega id 7324734🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 2 years old  colt, colo(u)r: b, carrying 133 lbs today.
+🦄 Sire: Lucky Vega 0/1 (0.0%)
+🌿 Dam: Own Gift 0/0 (0.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 13.0 (Rank: 6.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🎲 Head to head performance: Score: nan (Rank: nan). Prev. raced against: nan horses.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Golden Vale Stud
+🏠 Owner: D Macauliffe, A Don & Lds Bloodstock 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Lemos De Souza (0 previous trainer(s)) last 14d WinRate (0.0/4.0 runs) (Rank: 8.0) RTF: 25.0 (OVR: -)
+🏇 Jockey: Hollie Doyle (14d rank: 12.0) ⚠️ No race history available for this horse.(4.0/ 35.0 runs) RTF: N/A (OVR: 13%) 5Y: 277/2121 (13.0)
+🗞️ **PRESS OPINION**
+💬 Comment: March foal; 19,000gns yearling; from the first crop of Lucky Vega; likely type
+🔦 Spotlight: March foal; 10,000euros foal, 19,000gns yearling; from the first crop of Lucky Vega; half-brother to five winners, notably Broxi (7f including 2yo; RPR 92); should come to hand early if taking after his sire.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7324734.
+
+🐎 13 | The Boreham Bullet⬆🏇 The Boreham Bullet id 7324722🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 2 years old  colt, colo(u)r: b, carrying 133 lbs today.
+🦄 Sire: Kessaar 41/557 (7.000000000000001%)
+🌿 Dam: Ola Bonita 0/0 (0.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 13.0 (Rank: 6.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🎲 Head to head performance: Score: nan (Rank: nan). Prev. raced against: nan horses.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Ms Eileen Flanagan Bourke
+🏠 Owner: The Upt North Darn South Syndicate 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Bill Turner (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 17.0) RTF: 100.0 (OVR: 0%)
+🏇 Jockey: Billy Loughnane (14d rank: 6.0) ⚠️ No race history available for this horse.(8.0/ 39.0 runs) RTF: N/A (OVR: 11%) 5Y: 342/2353 (15.0)
+🗞️ **PRESS OPINION**
+💬 Comment: March foal; 1,000gns yearling; trainer has a good record in this contest; possibilities
+🔦 Spotlight: March foal; 3,000euros foal, 1,000gns yearling; by Kessaar and the first foal of a 6f AW winner (RPR 78); trainer has landed this prize six times and had the runner-up last year; possibilities.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7324722.
+
+🐎 10 | Monty Magoo⬆🏇 Monty Magoo id 7324725🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 2 years old  gelding, colo(u)r: b, carrying 133 lbs today.
+🦄 Sire: Kessaar 41/557 (7.000000000000001%)
+🌿 Dam: Charlize Angel 0/0 (0.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 15.0 (Rank: 8.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🎲 Head to head performance: Score: nan (Rank: nan). Prev. raced against: nan horses.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Rossenarra Bloodstock Ltd
+🏠 Owner: Thomas Kirby & Partner 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Roger Fell (0 previous trainer(s)) last 14d WinRate (0.0/5.0 runs) (Rank: 8.0) RTF: 40.0 (OVR: 10%)
+🏇 Jockey: Cieren Fallon (14d rank: 3.0) ⚠️ No race history available for this horse.(2.0/ 6.0 runs) RTF: N/A (OVR: 20%) 5Y: 143/1063 (13.0)
+🗞️ **PRESS OPINION**
+💬 Comment: February foal; £4,500 yearling; by Kessaar; one of four Fell runners
+🔦 Spotlight: February foal; £4,500 yearling; already ✂️ gelded; by Kessaar and the first foal of an unraced sister to 6f Group 3 winner Heeraat; one of four Fell runners; market helpful.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7324725.
+
+🐎 14 | Justice Twice⬆🏇 Justice Twice id 7324732🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 2 years old  filly, colo(u)r: b, carrying 128 lbs today.
+🦄 Sire: Inns Of Court 91/866 (11.0%)
+🌿 Dam: Second Life 0/0 (0.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 21.0 (Rank: 9.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🎲 Head to head performance: Score: nan (Rank: nan). Prev. raced against: nan horses.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: A Al-Mulla
+🏠 Owner: Al Jasra Racing 0/1 (0.0) - (No previous owner(s))
+👤 Trainer: Hilal Kobeissi (0 previous trainer(s)) last 14d WinRate (1.0/1.0 runs) (Rank: 6.0) RTF: 100.0 (OVR: 25%)
+🏇 Jockey: Kyle Strydom (14d rank: 2.0) ⚠️ No race history available for this horse.(1.0/ 2.0 runs) RTF: N/A (OVR: 0%) 5Y: 13/144 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: March foal; by Inns Of Court; trainer form (last two runners both won) bodes well
+🔦 Spotlight: March foal; by Inns Of Court and the first foal of a Qatar 7f/French 8.5f winner, from family of top-class middle-distance performer Fantastic Light; trainer form (last two runners both won) bodes well.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7324732.
+
+🐎 16 | Lope Harswell⬆🏇 Lope Harswell id 7324727🌟 is a TOP Ranked horse in at least one speed or OPR!
+📈 Owner has a strong record (SR: 10.53%, 38 runs). (Rank: 2)
+🐎 is a 2 years old  filly, colo(u)r: b, carrying 128 lbs today.
+🦄 Sire: Lope Y Fernandez 0/0 (0.0%)
+🌿 Dam: Livella Fella 1/31 (3.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 21.0 (Rank: 9.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🎲 Head to head performance: Score: nan (Rank: nan). Prev. raced against: nan horses.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: W H R John And Partners
+🏠 Owner: Harswell Thoroughbred Racing I 4/38 (11.0) - (No previous owner(s))
+👤 Trainer: Roger Fell (0 previous trainer(s)) last 14d WinRate (0.0/5.0 runs) (Rank: 8.0) RTF: 40.0 (OVR: 10%)
+🏇 Jockey: Rowan Scott (14d rank: 14.0) ⚠️ No race history available for this horse.(0.0/ 3.0 runs) RTF: N/A (OVR: 9%) 5Y: 86/1140 (8.0)
+🗞️ **PRESS OPINION**
+💬 Comment: April foal; 5,750gns foal; from the first crop of Lope Y Fernandez; part of the Fell team
+🔦 Spotlight: April foal; 5,750gns foal; from the first crop of Lope Y Fernandez; half-sister to two winners, notably Mai Alward (6f AW 2yo; RPR 67); one quarter of the Fell team; market informative.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7324727.
+
+🐎 1 | Ahead Of Fashion⬆🏇 Ahead Of Fashion id 7324714🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 2 years old  gelding, colo(u)r: b, carrying 133 lbs today.
+🦄 Sire: Dream Ahead 45/428 (11.0%)
+🌿 Dam: Fashion 0/0 (0.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 41.0 (Rank: 11.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🎲 Head to head performance: Score: nan (Rank: nan). Prev. raced against: nan horses.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Denford Stud Ltd
+🏠 Owner: Edwards, Ash & Hughes 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Dominic Ffrench Davis (0 previous trainer(s)) last 14d WinRate (0.0/2.0 runs) (Rank: 8.0) RTF: N/A (OVR: 25%)
+🏇 Jockey: J F Egan (14d rank: 14.0) ⚠️ No race history available for this horse.(0.0/ 1.0 runs) RTF: N/A (OVR: 13%) 5Y: 33/469 (7.000000000000001)
+🗞️ **PRESS OPINION**
+💬 Comment: February foal; 1,500gns yearling; by Dream Ahead; others have stronger-looking claims
+🔦 Spotlight: February foal; 1,500gns yearling; already ✂️ gelded; by Dream Ahead out of a maiden half-sister to three French winners; others have stronger-looking claims.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7324714.
+
+🐎 4 | Exclamation⬆🏇 Exclamation id 7324715🌟 is a TOP Ranked horse in at least one speed or OPR!
+⚠️ Owner's record is weaker (SR: 3.42%, 117 runs). (Rank: 4)
+🐎 is a 2 years old  colt, colo(u)r: gr, carrying 133 lbs today.
+🦄 Sire: Acclamation 138/1629 (8.0%)
+🌿 Dam: Amanda 0/0 (0.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 51.0 (Rank: 12.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🎲 Head to head performance: Score: nan (Rank: nan). Prev. raced against: nan horses.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: A V Bloodstock
+🏠 Owner: Foxhills Racing Limited 4/117 (3.0) - (No previous owner(s))
+👤 Trainer: Grace Harris (0 previous trainer(s)) last 14d WinRate (0.0/2.0 runs) (Rank: 8.0) RTF: N/A (OVR: -)
+🏇 Jockey: Finley Marsh (14d rank: 4.0) ⚠️ No race history available for this horse.(5.0/ 20.0 runs) RTF: N/A (OVR: 9%) 5Y: 130/1040 (12.0)
+🗞️ **PRESS OPINION**
+💬 Comment: February foal; 27,000gns yearling; by Acclamation; stable is 0-38 with 2yo runners
+🔦 Spotlight: February foal; 27,000gns yearling; by Acclamation and the first foal of a French 1m4f/12.5f winner; stable is 0-38 with 2yo runners; opposed.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7324715.
+
+🐎 12 | Son Of Sarabi⬆🏇 Son Of Sarabi id 7324713🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 2 years old  colt, colo(u)r: b, carrying 133 lbs today.
+🦄 Sire: Cable Bay 67/922 (7.000000000000001%)
+🌿 Dam: Sarabi Mshairi 0/0 (0.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 51.0 (Rank: 12.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🎲 Head to head performance: Score: nan (Rank: nan). Prev. raced against: nan horses.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Charlock Stud
+🏠 Owner: Old Stoic Racing Club & Partner 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Jonathan Portman (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 8.0) RTF: 67.0 (OVR: 0%)
+🏇 Jockey: Rob Hornby (14d rank: 1.0) ⚠️ No race history available for this horse.(1.0/ 11.0 runs) RTF: N/A (OVR: 8%) 5Y: 150/1589 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: February foal; brother to a 5f AW winner; yard's 2yo strike-rate is ordinary
+🔦 Spotlight: February foal; brother to 5f AW winner Sarafina Mshairi (RPR 61); dam unraced, out of 5f-winning half-sister to 7f 2yo Listed winner Look Around; yard's 2yo strike-rate is ordinary.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7324713.
+
+🐎 5 | Harome Star⬆🏇 Harome Star id 7324721🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 2 years old  gelding, colo(u)r: ch, carrying 133 lbs today.
+🦄 Sire: River Boyne 2/58 (3.0%)
+🌿 Dam: Maramba 0/1 (0.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 51.0 (Rank: 12.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🎲 Head to head performance: Score: nan (Rank: nan). Prev. raced against: nan horses.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: D G Iceton
+🏠 Owner: Aarons & Partner 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Roger Fell (0 previous trainer(s)) last 14d WinRate (0.0/5.0 runs) (Rank: 8.0) RTF: 40.0 (OVR: 10%)
+🏇 Jockey: Clifford Lee (14d rank: 10.0) ⚠️ No race history available for this horse.(2.0/ 14.0 runs) RTF: N/A (OVR: 10%) 5Y: 221/1644 (13.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Gelding by River Boyne; not certain to be sufficiently forward, being a May foal
+🔦 Spotlight: Already ✂️ gelded; River Boyne half-brother to five winners, notably Dream Mover (5.5f-7f including 2yo; RPR 97); dam 6f 2yo winner (94); not certain to be sufficiently forward, being a May foal.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7324721.
+
+🐎 6 | Harswell Calling⬆🏇 Harswell Calling id 7324728🌟 is a TOP Ranked horse in at least one speed or OPR!
+📈 Owner has a strong record (SR: 10.53%, 38 runs). (Rank: 2)
+🐎 is a 2 years old  gelding, colo(u)r: b, carrying 133 lbs today.
+🦄 Sire: Coulsty 19/240 (8.0%)
+🌿 Dam: Libiamo 2/8 (25.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 67.0 (Rank: 15.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🎲 Head to head performance: Score: nan (Rank: nan). Prev. raced against: nan horses.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Tara Stud
+🏠 Owner: Harswell Thoroughbred Racing I 4/38 (11.0) - (No previous owner(s))
+👤 Trainer: Roger Fell (0 previous trainer(s)) last 14d WinRate (0.0/5.0 runs) (Rank: 8.0) RTF: 40.0 (OVR: 10%)
+🏇 Jockey: Jason Hart (14d rank: 10.0) ⚠️ No race history available for this horse.(3.0/ 22.0 runs) RTF: N/A (OVR: 5%) 5Y: 271/2345 (12.0)
+🗞️ **PRESS OPINION**
+💬 Comment: February foal; by Coulsty; one of four runners for this yard; market instructive
+🔦 Spotlight: February foal; already ✂️ gelded; Coulsty half-brother to 5f 2yo winner Call Me Harswell (RPR 78); dam last over 5f as 2yo both starts; one of four runners for this yard; market instructive.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7324728.
+
+🐎 2 | Alkuwarrior⬆🏇 Alkuwarrior id 7324733🌟 is a TOP Ranked horse in at least one speed or OPR!
+⚠️ Owner's record is weaker (SR: 4.00%, 25 runs). (Rank: 3)
+🐎 is a 2 years old  colt, colo(u)r: b, carrying 133 lbs today.
+🦄 Sire: Alkumait 0/0 (0.0%)
+🌿 Dam: Elegant Peace 0/19 (0.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 67.0 (Rank: 15.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🎲 Head to head performance: Score: nan (Rank: nan). Prev. raced against: nan horses.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: John Malone
+🏠 Owner: Mrs K Keane 1/25 (4.0) - (No previous owner(s))
+👤 Trainer: D Donovan (0 previous trainer(s)) last 14d WinRate (0.0/1.0 runs) (Rank: 8.0) RTF: 100.0 (OVR: 0%)
+🏇 Jockey: Tom Eaves (14d rank: 7.0) ⚠️ No race history available for this horse.(2.0/ 10.0 runs) RTF: N/A (OVR: 9%) 5Y: 145/1672 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: March foal; 11,000euros foal; by Alkumait; yard's 2yo strike-rate is modest
+🔦 Spotlight: March foal; 11,000euros foal; from the first crop of Alkumait; half-brother to three winners, notably Sister Of Love (French 6f/7f including 2yo; RPR 81); dam 7f 2yo/8.4f winner; yard's 2yo strike-rate is modest.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7324733.
+
+🐎 15 | Lady Of Honour⬆🏇 Lady Of Honour id 7324724🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 2 years old  filly, colo(u)r: b, carrying 128 lbs today.
+🦄 Sire: Bungle Inthejungle 125/1230 (10.0%)
+🌿 Dam: Society Guest 0/4 (0.0%)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 67.0 (Rank: 15.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🎲 Head to head performance: Score: nan (Rank: nan). Prev. raced against: nan horses.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: John Guest Racing Ltd
+🏠 Owner: Eco-Power Racing 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Seb Spencer (0 previous trainer(s)) last 14d WinRate (1.0/5.0 runs) (Rank: 3.0) RTF: 40.0 (OVR: 13%)
+🏇 Jockey: Gianluca Sanna (14d rank: 17.0) ⚠️ No race history available for this horse.(0.0/ 0.0 runs) RTF: N/A (OVR: 8%) 5Y: 6/87 (7.000000000000001)
+🗞️ **PRESS OPINION**
+💬 Comment: April foal; 3,000gns yearling; by Bungle Inthejungle; stable is only 1-32 with 2yos
+🔦 Spotlight: April foal; 1,000gns foal, 3,000gns yearling; by Bungle Inthejungle; dam 6f AW winner (RPR 75), half-sister to 7f/7.4f 2yo winner Uncs; stable is only 1-32 with 2yos.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+⚠️ No race history found for horse_id 7324724.
