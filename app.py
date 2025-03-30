@@ -55,15 +55,9 @@ def index():
 @app.route("/download", methods=["POST"])
 def download_txt():
     race_id = request.form.get("race_id", "").strip()
-    entered_hash = request.form.get("hash_code", "").strip()
 
-    if not race_id or race_id not in hash_codes:
+    if not race_id:
         return "Invalid race ID.", 400
-
-    correct_hash = hash_codes.get(race_id)
-
-    if entered_hash != correct_hash:
-        return "❌ ERROR: Incorrect hash code. Access denied.", 403
 
     txt_file_path = os.path.join(RACE_TXT_DIR, f"{race_id}.txt")
 
