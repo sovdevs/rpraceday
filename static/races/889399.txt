@@ -1,0 +1,384 @@
+⏰ Off Time: 2025-03-30 15:20
+📍 Venue: Ascot (right-handed, galloping, testing track)
+🏁 Race ID: 889399 - 🏆 Name: LK Bennett Handicap Chase (GBB Race)
+🏆 Type: Chase
+📏 Distance: 17.0 furlongs
+🏇 Class/Grade: Class 3
+🎂 Age Band: 5yo+
+💰 Prize money: 💰 18K
+☀️ Weather: Sunny
+🌱 Going: Good
+5 runners declared
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Speed Performance for Race ID 889399 (Filter: AND_notAW_handicap_notAmateur)
+===========================================================================
+horse_id         horse_name AND_notAW_handicap_notAmateur_bestSpeedPerM AND_notAW_handicap_notAmateur_worstSpeedPerM AND_notAW_handicap_notAmateur_avgSpeedPerM AND_notAW_handicap_notAmateur_noRaces AND_notAW_handicap_notAmateur_bestSpeedPerM_rank AND_notAW_handicap_notAmateur_avgSpeedPerM_rank
+ 3223907 Coastguard Station                                       12.91                                        13.73                                      13.41                                   8.0                                              2.0                                             1.0
+ 3216237     Light N Strike                                       13.37                                        13.37                                      13.37                                   2.0                                              1.0                                             2.0
+ 2480220   Third Time Lucki                                       12.88                                        13.46                                      13.16                                   5.0                                              3.0                                             3.0
+ 3966640            Kotmask                                       12.75                                        13.91                                       13.1                                  11.0                                              4.0                                             4.0
+ 3789345          Hypotenus                                       12.31                                        12.85                                      12.57                                   5.0                                              5.0                                             5.0
+No head-to-head data found for any of this race's horses
+Performance Table
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2        | Kotmask                   | 3966640  | 2.0      | 2.0      | 2.0      | 1.0      | 3.0      | 1        | 3        | 5.0      | 1.0      | 2.0      | 3.0      | 2.0      | 3.0      | 2.0      | 5.0      | 4.0      | 4.0      | 4.0      | 3.0      | 5.0      | 4.0      | 5.0      | 2.0      | 1.0      | 4.0      | 4.0      | 1.0      | 1.0      | 3.0      | 1.0      | 1.0      | 3.0     
+5        | Hypotenus                 | 3789345  | 3.0      | 5.0      | 4.0      | 5.0      | 3.0      | 4        | 5        | 3.0      | 3.0      | 3.0      | 2.0      | 1.0      | 2.0      | 5.0      | 3.0      | 2.0      | 3.0      | 3.0      | 4.0      | 3.0      | 5.0      | 3.0      | 4.0      | N/A      | 5.0      | 4.0      | 2.0      | 2.0      | 5.0      | 2.0      | 3.0      | 1.0     
+4        | Coastguard Station        | 3223907  | 5.0      | 3.0      | 5.0      | 4.0      | 2.0      | 2        | 2        | 2.0      | 4.0      | 5.0      | 1.0      | 3.0      | 1.0      | 4.0      | 4.0      | 5.0      | 5.0      | 5.0      | 4.0      | 4.0      | 1.0      | 1.0      | 3.0      | 2.0      | 2.0      | 2.0      | 3.0      | 4.0      | 4.0      | N/A      | 2.0      | 5.0     
+3        | Third Time Lucki          | 2480220  | 4.0      | 1.0      | 3.0      | 3.0      | 1.0      | 5        | 4        | 1.0      | 2.0      | 1.0      | 3.0      | 4.0      | 4.0      | 3.0      | 1.0      | 1.0      | 1.0      | 2.0      | 2.0      | 1.0      | 2.0      | 1.0      | 5.0      | 2.0      | 1.0      | 3.0      | 3.0      | 5.0      | 1.0      | 2.0      | 4.0      | 2.0     
+1        | Light N Strike            | 3216237  | 1.0      | 4.0      | 1.0      | 2.0      | 4.0      | 3        | 1        | 4.0      | 5.0      | 4.0      | 3.0      | N/A      | N/A      | 1.0      | 2.0      | 3.0      | 2.0      | 1.0      | 1.0      | 2.0      | 2.0      | 4.0      | 1.0      | N/A      | 3.0      | 1.0      | 5.0      | 3.0      | 2.0      | N/A      | N/A      | 4.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 2 | Kotmask⬆🏇 Kotmask id 3966640🌟 is a TOP Ranked horse in at least one speed or OPR!
+🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 is a 7 years old  gelding, colo(u)r: ch, carrying 164 lbs today.
+🦄 Sire: Masked Marvel 45/196 (23.0%)
+🌿 Dam: Kotkiline 4/18 (22.0%)
+⏱️ Speed record - Runs: 16 | Best: 6.96 sec (Rank 1), Worst: 7.94 sec (Rank 3), Avg: 7.58 sec (Rank 3)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 2.62 (Rank: 1.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: S C P Haras Des Coudraies
+🏠 Owner: Aura Racing 20/122 (16.0) - (No previous owner(s))
+👤 Trainer: Gary & Josh Moore (0 previous trainer(s)) last 14d WinRate (4.0/30.0 runs) (Rank: 3.0) RTF: 50.0 (OVR: 11%)
+🏇 Jockey: Caoilin Quinn (14d rank: 5.0) 🏇 Today's Jock winSR: 33.0% (No better alternative found.)(0.0/ 13.0 runs) RTF: N/A (OVR: 10%) 5Y: 20/161 (12.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Soundly beaten at Newbury recently but a 🔥 big player if judged on this season's course form
+🔦 Spotlight: Placed twice over C&D (good) in November before winning here (2m3f, good to soft) the following month; needs to rebound from 31l defeat at Newbury four weeks ago but is sure to be suited by today's return to Ascot, and his current mark is workable.
+📊 **STATS**
+📉 OFR: 131.0 (Rank: 2)
+📈 RPR: 141.0 (Rank: 2)
+📉 TS: 123.0 (Rank: 3)
+🏟️ Course Wins/Runs: 1/6 | Ratio: 0.17
+📏 Distance Wins/Runs: 3/6 | Ratio: 0.50
+🌱 Going Wins/Runs: 0/10 | Ratio: 0.00
+📊 Form: -32160 → Score: 0.11 (Rank: 2)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-01 15:45:00
+🥇 Result: 11 / 🏇 14 runners. Expected: 1
+💰 Odds: 17.0 📉
+📝 Comment: 🔄 midfield, headway 4 out, ❄️ weakened after 2 out
+🏆 RaceName: BetVictor Greatwood Gold Cup Handicap Chase (Premier Handicap) (GBB Race)
+🏆 Race Description: 1HcChG3 -- Grade 3 Handicap - H
+📋 Race Type: 1HcChG3
+🎽 Jockey: C Quinn- (⚖️ Weight: 148.0 lbs (67.3 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Newbury (left-handed, galloping track with stiff fences)
+📏 Distance: 20.0 furlongs (🔼 vs 17.0 today)
+🌱 Going: S
+👜 Prize: 💰 57K
+⏳ Time between runs: 28  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-18 14:15:00
+🥇 Result: 6 / 🏇 10 runners. Expected: 1
+💰 Odds: 5.0 🔥
+📝 Comment: 🔄 held up in rear, ⚠️ hampered 1st, headway when mistake 11th, in touch with leaders 4 out, edged right after 3 out, ❄️ weakened after 2 out
+🏆 RaceName: bet365 Handicap Chase (GBB Race)
+🏆 Race Description: 2HcCh -- Handicap - H
+📋 Race Type: 2HcCh
+🎽 Jockey: C Quinn- (⚖️ Weight: 145.0 lbs (65.9 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Ascot (right-handed, galloping, testing track with stiff fences)
+📏 Distance: 21.0 furlongs (🔼 vs 17.0 today)
+🌱 Going: G
+👜 Prize: 💰 52K
+⏳ Time between runs: 42  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-21 13:15:00
+🥇 Result: 1 🥇 / 🏇 7 runners. Expected: 1
+💰 Odds: 2.625 🔥
+📝 Comment: 🎯 prominent, mistake 9th, joined leader 4 out, 🎯 led 3 out, pushed along after 2 out, hit last, ridden out run-in
+🏆 RaceName: Howden Handicap Chase (GBB Race)
+🏆 Race Description: 2HcCh -- Handicap - H
+📋 Race Type: 2HcCh
+🎽 Jockey: C Quinn- (⚖️ Weight: 153.0 lbs (69.5 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Ascot (right-handed, galloping, testing track with stiff fences)
+📏 Distance: 19.0 furlongs (🔼 vs 17.0 today)
+🌱 Going: GS
+👜 Prize: 💰 18K
+⏳ Time between runs: 28  days ago
+---------------------------------------------------------------------------
+🐎 5 | Hypotenus⬆🏇 Hypotenus id 3789345🌟 is a TOP Ranked horse in at least one speed or OPR!
+🐎 is a 6 years old  gelding, colo(u)r: ch, carrying 149 lbs today.
+🦄 Sire: Lope De Vega 193/1376 (14.000000000000002%)
+🌿 Dam: Mathematicienne 1/15 (7.000000000000001%)
+⏱️ Speed record - Runs: 14 | Best: 7.23 sec (Rank 4), Worst: 8.13 sec (Rank 5), Avg: 7.66 sec (Rank 5)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 3.75 (Rank: 2.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Wertheimer Et Frere
+🏠 Owner: David Roseby 0/8 (0.0) - (No previous owner(s))
+👤 Trainer: Joe Tickle (0 previous trainer(s)) last 14d WinRate (0.0/2.0 runs) (Rank: 4.0) RTF: 100.0 (OVR: -)
+🏇 Jockey: Richie Mclernon (14d rank: 3.0) 🏇 Jockey 83698 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 88732 (1/4 - 25.0%)(2.0/ 15.0 runs) RTF: N/A (OVR: 12%) 5Y: 53/317 (17.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Front-runner; below form last time but started off for this stable with two good efforts
+🔦 Spotlight: Ex-Irish front-runner who started off for Joe Tickle with two pretty good efforts at Sandown (1m7f, soft/good to soft) this year; not in same form when well-held third at Hereford (2m, good) three weeks ago but has slipped to a tempting mark.
+📊 **STATS**
+📉 OFR: 116.0 (Rank: 5)
+📈 RPR: 142.0 (Rank: 1)
+📉 TS: 128.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 1/12 | Ratio: 0.08
+🌱 Going Wins/Runs: 0/3 | Ratio: 0.00
+📊 Form: 287333 → Score: 0.05 (Rank: 4)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-08 14:05:00
+🥇 Result: 3 🥉 / 🏇 5 runners. Expected: 1
+💰 Odds: 4.333 🔥
+📝 Comment: 🎯 led, 6 lengths ahead 3 out, headed after 2 out, lost second and ❄️ weakened home turn
+🏆 RaceName: DragonBet Backing Our Opinion At Cheltenham Handicap Chase (GBB Race)
+🏆 Race Description: 3HcCh -- Handicap - H
+📋 Race Type: 3HcCh
+🎽 Jockey: T Fisher- (⚖️ Weight: 157.0 lbs (71.4 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Hereford (right-handed, sharpish and generally flat. Suits nippy types.)
+📏 Distance: 16.0 furlongs (🔽 vs 17.0 today)
+🌱 Going: G
+👜 Prize: 💰 8K
+⏳ Time between runs: 21  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-13 13:55:00
+🥇 Result: 3 🥉 / 🏇 4 runners. Expected: 1
+💰 Odds: 4.5 🔥
+📝 Comment: 🎯 led, headed last, no extra and lost second run-in
+🏆 RaceName: Boxxe 'Ubique' Handicap Chase (GBB Race)
+🏆 Race Description: 3HcCh -- Handicap - H
+📋 Race Type: 3HcCh
+🎽 Jockey: T Fisher- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Sandown (right-handed, galloping, testing track)
+📏 Distance: 15.5 furlongs (🔽 vs 17.0 today)
+🌱 Going: GS
+👜 Prize: 💰 9K
+⏳ Time between runs: 23  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2025-01-24 14:25:00
+🥇 Result: 3 🥉 / 🏇 7 runners. Expected: 1
+💰 Odds: 51.0 ❄️❄️
+📝 Comment: 🎯 led, clear before 3rd, reduced lead before 3 out, headed just before 2 out, ❄️ weakened gradually run-in
+🏆 RaceName: Arthur Gregory Centenary Celebration Novices' Limited Handicap Chase (GBB Race)
+🏆 Race Description: 3NvHcCh -- Handicap - H
+📋 Race Type: 3NvHcCh
+🎽 Jockey: T Fisher- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Sandown (right-handed, galloping, testing track)
+📏 Distance: 15.5 furlongs (🔽 vs 17.0 today)
+🌱 Going: S
+👜 Prize: 💰 9K
+⏳ Time between runs: 19  days ago
+---------------------------------------------------------------------------
+🐎 4 | Coastguard Station🐎 is a 9 years old  gelding, colo(u)r: ch, carrying 156 lbs today.
+🦄 Sire: Dylan Thomas 32/301 (11.0%)
+🌿 Dam: Shuruwaat 3/17 (18.0%)
+⏱️ Speed record - Runs: 16 | Best: 7.07 sec (Rank 2), Worst: 8.07 sec (Rank 4), Avg: 7.48 sec (Rank 2)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 6.0 (Rank: 3.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Michael O'Sullivan
+🏠 Owner: Catchtwentytwo,Andyfreight Holdingsltd 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Henry Oliver (0 previous trainer(s)) last 14d WinRate (0.0/4.0 runs) (Rank: 4.0) RTF: 50.0 (OVR: 33%)
+🏇 Jockey: David Noonan (14d rank: 4.0) 🏇 Jockey 91533 Today's Jock winSR: 22.0% | 🏆 Not H&J as Best Alternative Jockey: 74810 (1/1 - 100.0%)(2.0/ 20.0 runs) RTF: N/A (OVR: 0%) 5Y: 20/284 (7.000000000000001)
+🗞️ **PRESS OPINION**
+💬 Comment: Absent since poor hurdle run in November and resumes on fairly tough chase mark
+🔦 Spotlight: Looked as good as ever when winning from off the pace at Uttoxeter (2m, good to soft) last summer but we haven't seen him since a disappointing hurdle run in November and he'll need to be back in prime form to pose a threat off current mark.
+📊 **STATS**
+📉 OFR: 123.0 (Rank: 4)
+📈 RPR: 140.0 (Rank: 3)
+📉 TS: 133.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 4/20 | Ratio: 0.20
+🌱 Going Wins/Runs: 3/18 | Ratio: 0.17
+📊 Form: 215446 → Score: 0.05 (Rank: 3)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2024-11-30 14:02:00
+🥇 Result: 6 / 🏇 7 runners. Expected: 1
+💰 Odds: 4.5 🔥
+📝 Comment: 🔄 held up in rear, outpaced and struggling before 3 out, tailed off from 2 out
+🏆 RaceName: Free Tips Daily On attheraces.com Handicap Hurdle
+🏆 Race Description: 4HcH -- Handicap - H
+📋 Race Type: 4HcH
+🎽 Jockey: C Pritchard- (⚖️ Weight: 149.0 lbs (67.7 kg) carried -- Allowance: 7.0) 
+🏟️ Course: Doncaster (left-handed, galloping, flat track)
+📏 Distance: 16.5 furlongs (🔽 vs 17.0 today)
+🌱 Going: G
+👜 Prize: 💰 4K
+⏳ Time between runs: 119  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2024-11-09 14:05:00
+🥇 Result: 4 / 🏇 8 runners. Expected: 1
+💰 Odds: 5.5 🔥
+📝 Comment: 🔄 held up in rear, outpaced 4 out, hung left but stayed on before 2 out, kept on approaching last, not reach leaders
+🏆 RaceName: BoyleSports Choose Wisely Handicap Chase
+🏆 Race Description: 3HcCh -- Handicap - H
+📋 Race Type: 3HcCh
+🎽 Jockey: D Noonan- (⚖️ Weight: 165.0 lbs (75.0 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Aintree (left-handed, flat track; Mildmay sharp; National galloping, stiff fences)
+📏 Distance: 16.0 furlongs (🔽 vs 17.0 today)
+🌱 Going: G
+👜 Prize: 💰 13K
+⏳ Time between runs: 20  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-10-25 13:25:00
+🥇 Result: 4 / 🏇 8 runners. Expected: 1
+💰 Odds: 15.0 📉
+📝 Comment: 🔄 held up in rear, headway 3 out, soon went fourth, ❄️ weakened inside final 110yds
+🏆 RaceName: squareintheair.com Handicap Chase (GBB Race)
+🏆 Race Description: 2HcCh -- Handicap - H
+📋 Race Type: 2HcCh
+🎽 Jockey: D Noonan- (⚖️ Weight: 142.0 lbs (64.5 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Cheltenham (left-handed, galloping, undulating and testing track with stiff fences)
+📏 Distance: 16.0 furlongs (🔽 vs 17.0 today)
+🌱 Going: G
+👜 Prize: 💰 52K
+⏳ Time between runs: 15  days ago
+---------------------------------------------------------------------------
+🐎 3 | Third Time Lucki🐎 is a 10 years old  gelding, colo(u)r: br, carrying 162 lbs today.
+🦄 Sire: Arcadio 12/187 (6.0%)
+🌿 Dam: Definite Valley 0/8 (0.0%)
+⏱️ Speed record - Runs: 10 | Best: 7.3 sec (Rank 5), Worst: 7.81 sec (Rank 2), Avg: 7.62 sec (Rank 4)
+🛠️ Gear: t
+🩺 Medical History: 📅 2022-11-23: Wind Surgery | 📅 2021-07-02: Wind Surgery
+🎲 Early market: 6.0 (Rank: 3.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: G Delaney
+🏠 Owner: The Craze Family 0/9 (0.0) - (No previous owner(s))
+👤 Trainer: Fergal Obrien (0 previous trainer(s)) last 14d WinRate (12.0/38.0 runs) (Rank: 2.0) RTF: 58.0 (OVR: 15%)
+🏇 Jockey: Jonathan Burke (14d rank: 1.0) 🏇 Jockey 91759 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 85218 (8/19 - 42.0%)(9.0/ 23.0 runs) RTF: N/A (OVR: 21%) 5Y: 68/459 (15.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Very well handicapped on old form but yet to click for new stable this season
+🔦 Spotlight: Very well handicapped on old form but, following a long absence, has not really fired on any of four starts for new stable this season; will find this race easier than Grand Annual at Cheltenham this month but still has quite a bit to prove.
+📊 **STATS**
+📉 OFR: 129.0 (Rank: 3)
+📈 RPR: 139.0 (Rank: 4)
+📉 TS: 79.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 6/20 | Ratio: 0.30
+🌱 Going Wins/Runs: 3/7 | Ratio: 0.43
+📊 Form: 9/2650 → Score: 0.05 (Rank: 5)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-12 16:40:00
+🥇 Result: 18 / 🏇 20 runners. Expected: 1
+💰 Odds: 29.0 ❄️
+📝 Comment: always behind
+🏆 RaceName: Debenhams Johnny Henderson Grand Annual Challenge Cup Handicap Chase (Premier Handicap) (GBB Race)
+🏆 Race Description: 1HcChG3 -- Grade 3 Handicap - H
+📋 Race Type: 1HcChG3
+🎽 Jockey: J J Burke- (⚖️ Weight: 146.0 lbs (66.4 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Cheltenham (left-handed, galloping, undulating and testing track with stiff fences)
+📏 Distance: 16.0 furlongs (🔽 vs 17.0 today)
+🌱 Going: GS
+👜 Prize: 💰 84K
+⏳ Time between runs: 17  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-01-25 13:30:00
+🥇 Result: 5 / 🏇 7 runners. Expected: 1
+💰 Odds: 15.0 📉
+📝 Comment: disputed lead early, 🎯 led after 1st, not fluent 3rd, headed 4th, 🎯 led again 6th, joined 5 out, headed 4 out, ❄️ weakened 3 out
+🏆 RaceName: Virgin Bet Every Saturday Money Back Handicap Chase (GBB Race)
+🏆 Race Description: 2HcCh -- Handicap - H
+📋 Race Type: 2HcCh
+🎽 Jockey: J Hogan- (⚖️ Weight: 151.0 lbs (68.6 kg) carried -- Allowance: 3.0) 
+🏟️ Course: Doncaster (left-handed, galloping, flat track)
+📏 Distance: 16.5 furlongs (🔽 vs 17.0 today)
+🌱 Going: G
+👜 Prize: 💰 26K
+⏳ Time between runs: 46  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-14 14:25:00
+🥇 Result: 6 / 🏇 6 runners. Expected: 1
+💰 Odds: 17.0 📉
+📝 Comment: in touch with leaders, ❄️ weakened after 2 out
+🏆 RaceName: BetMGM Handicap Chase (GBB Race)
+🏆 Race Description: 2HcCh -- Handicap - H
+📋 Race Type: 2HcCh
+🎽 Jockey: J J Burke- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Cheltenham (left-handed, galloping, undulating and testing track with stiff fences)
+📏 Distance: 16.5 furlongs (🔽 vs 17.0 today)
+🌱 Going: GS
+👜 Prize: 💰 21K
+⏳ Time between runs: 41  days ago
+---------------------------------------------------------------------------
+🐎 1 | Light N Strike🐎 is a 9 years old  gelding, colo(u)r: b, carrying 168 lbs today.
+🦄 Sire: Leading Light 30/266 (11.0%)
+🌿 Dam: One Rose 0/0 (0.0%)
+⏱️ Speed record - Runs: 7 | Best: 7.09 sec (Rank 3), Worst: 7.76 sec (Rank 1), Avg: 7.33 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: 📅 2021-07-12: Wind Surgery
+🎲 Early market: 7.0 (Rank: 5.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Charles Persse
+🏠 Owner: Salvo & Alex Giannini, N Farrell 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Emma Lavelle (0 previous trainer(s)) last 14d WinRate (4.0/10.0 runs) (Rank: 1.0) RTF: 64.0 (OVR: 15%)
+🏇 Jockey: Ben Jones (14d rank: 2.0) 🏇 Jockey 96449 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 89945 (3/8 - 38.0%)(5.0/ 24.0 runs) RTF: N/A (OVR: 17%) 5Y: 10/87 (11.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Back on his last winning mark and sure to be suited by today's return to good ground
+🔦 Spotlight: In career-best form last spring, notably when winning by 6l off today's mark at Warwick (2m, good to firm); well beaten three consecutive times (twice over hurdles) on soft ground since December but will be much better suited by the underfoot conditions here; must be considered.
+📊 **STATS**
+📉 OFR: 135.0 (Rank: 1)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 4/11 | Ratio: 0.36
+🌱 Going Wins/Runs: 4/14 | Ratio: 0.29
+📊 Form: 12-P6P → Score: 0.14 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace#: 1 on 📅 2025-03-01 15:45:00
+🥇 Result: nan / 🏇 14 runners. Expected: 1
+💰 Odds: 101.0 ❄️❄️
+📝 Comment: raced wide, always behind, pulled up 3 out
+🏆 RaceName: BetVictor Greatwood Gold Cup Handicap Chase (Premier Handicap) (GBB Race)
+🏆 Race Description: 1HcChG3 -- Grade 3 Handicap - H
+📋 Race Type: 1HcChG3
+🎽 Jockey: J Tudor- (⚖️ Weight: 155.0 lbs (70.5 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Newbury (left-handed, galloping track with stiff fences)
+📏 Distance: 20.0 furlongs (🔼 vs 17.0 today)
+🌱 Going: S
+👜 Prize: 💰 57K
+⏳ Time between runs: 28  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 2 on 📅 2025-02-08 15:48:00
+🥇 Result: 6 / 🏇 6 runners. Expected: 1
+💰 Odds: 29.0 ❄️
+📝 Comment: 🔄 held up in last but in touch with leaders, outpaced before 2 out
+🏆 RaceName: eventmasters.co.uk 40th Anniversary Handicap Hurdle (GBB Race)
+🏆 Race Description: 2HcH -- Handicap - H
+📋 Race Type: 2HcH
+🎽 Jockey: J Tudor- (⚖️ Weight: 157.0 lbs (71.4 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Warwick (left-handed, sharp track)
+📏 Distance: 21.0 furlongs (🔼 vs 17.0 today)
+🌱 Going: S
+👜 Prize: 💰 16K
+⏳ Time between runs: 20  days ago
+---------------------------------------------------------------------------
+🏁 PastRace#: 3 on 📅 2024-12-08 14:25:00
+🥇 Result: nan / 🏇 6 runners. Expected: 1
+💰 Odds: 34.0 ❄️
+📝 Comment: 🔄 held up in rear, not fluent 3rd, mistake 5 out, pulled up home turn
+🏆 RaceName: Trustatrader You Can Trust Our Traders Handicap Hurdle (Challenger Two Mile Hurdle Series Qualifier)
+🏆 Race Description: 3HcH -- Handicap - H
+📋 Race Type: 3HcH
+🎽 Jockey: H Cobden- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Huntingdon (right-handed, flat, fast track)
+📏 Distance: 16.0 furlongs (🔽 vs 17.0 today)
+🌱 Going: S
+👜 Prize: 💰 8K
+⏳ Time between runs: 62  days ago
+---------------------------------------------------------------------------
