@@ -4,9 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="added race-specific speed performance table.">
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="Do not ask for hash code when downloading txt file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hash_codes.json" beforeDir="false" afterPath="$PROJECT_DIR$/hash_codes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889291.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889292.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889293.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889294.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889295.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889296.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889297.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889397.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889398.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889399.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889401.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889402.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889403.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/891388.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/891389.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/891390.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/891391.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/891392.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/891393.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/891394.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/891403.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/891404.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/891405.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/891406.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/891407.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/891408.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/891409.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/891985.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,15 +127,7 @@
       <workItem from="1741863775138" duration="663000" />
       <workItem from="1741940196379" duration="8291000" />
       <workItem from="1742374057464" duration="3376000" />
-      <workItem from="1742548206711" duration="16063000" />
-    </task>
-    <task id="LOCAL-00033" summary="changes to index html">
-      <option name="closed" value="true" />
-      <created>1739447709398</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1739447709398</updated>
+      <workItem from="1742548206711" duration="16875000" />
     </task>
     <task id="LOCAL-00034" summary="new data. fixes on trainer Jockey SRs, added race_number, medical, gear..">
       <option name="closed" value="true" />
@@ -491,14 +513,21 @@
       <option name="project" value="LOCAL" />
       <updated>1743326679530</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Do not ask for hash code when downloading txt file">
+      <option name="closed" value="true" />
+      <created>1743334137657</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1743334137657</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="todays data update" />
     <MESSAGE value="added cheat code for all of today's races." />
     <MESSAGE value="Extra stats (ranks, speed all race by date), course comment for todays race." />
     <MESSAGE value="Only display ranks when not No Rank" />
@@ -523,6 +552,7 @@
     <MESSAGE value="new data. no major changes till v 1.0" />
     <MESSAGE value="h2h and repeatPerformance in-horse stats and new h2h table." />
     <MESSAGE value="added race-specific speed performance table." />
-    <option name="LAST_COMMIT_MESSAGE" value="added race-specific speed performance table." />
+    <MESSAGE value="Do not ask for hash code when downloading txt file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Do not ask for hash code when downloading txt file" />
   </component>
 </project>

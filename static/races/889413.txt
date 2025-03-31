@@ -1,0 +1,548 @@
+⏰ Off Time: 2025-03-31 16:45
+📍 Venue: Wincanton (right-handed, galloping track)
+🏁 Race ID: 889413 - 🏆 Name: Perfect Family Day Out Handicap Chase
+🏆 Type: Chase
+📏 Distance: 20.0 furlongs
+🏇 Class/Grade: Class 5
+🎂 Age Band: 5yo+
+💰 Prize money: 💰 4K
+⛅ Weather: Partly cloudy
+🌱 Going: Good
+7 runners declared
+
+
+Speed Performance for Race ID 889413 (Filter: AND_notAW_handicap_notAmateur)
+===========================================================================
+horse_id       horse_name AND_notAW_handicap_notAmateur_bestSpeedPerM AND_notAW_handicap_notAmateur_worstSpeedPerM AND_notAW_handicap_notAmateur_avgSpeedPerM AND_notAW_handicap_notAmateur_noRaces AND_notAW_handicap_notAmateur_bestSpeedPerM_rank AND_notAW_handicap_notAmateur_avgSpeedPerM_rank
+ 3902250      Birdman Bob                                        11.9                                        13.71                                      13.11                                  12.0                                              6.0                                             1.0
+ 4728103 Dunstall Rambler                                       12.69                                         13.5                                      13.08                                   9.0                                              2.0                                             2.0
+ 3921813       Abingworth                                       12.46                                        13.88                                      12.88                                  12.0                                              3.0                                             3.0
+ 3232207      My Rockstar                                       12.36                                        13.22                                      12.88                                   9.0                                              4.0                                             3.0
+ 4936818    Another Folly                                       12.34                                        13.54                                      12.83                                   5.0                                              5.0                                             5.0
+ 3970596        Gladiatus                                       12.78                                         12.8                                      12.79                                   2.0                                              1.0                                             6.0
+ 4129108     Shillanavogy                                       11.79                                        13.14                                       12.5                                   7.0                                              7.0                                             7.0
+No head-to-head data found for any of this race's horses
+Performance Table
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3        | Dunstall Rambler          | 4728103  | 5.0      | 3.0      | 3.0      | 3.0      | 2.0      | 1        | 1        | 4.0      | 1.0      | 6.0      | 1.0      | 7.0      | 1.0      | 2.0      | 1.0      | 1.0      | 6.0      | 6.0      | 4.0      | 4.0      | 5.0      | 4.0      | 2.0      | 3.0      | 4.0      | 3.0      | 1.0      | 3.0      | 5.0      | 5.0      | 2.0      | 3.0     
+1        | Another Folly             | 4936818  | 2.0      | 6.0      | 1.0      | 3.0      | 4.0      | 5        | 3        | 2.0      | 4.0      | 1.0      | 1.0      | 1.0      | 5.0      | 1.0      | 3.0      | 4.0      | 2.0      | 7.0      | 1.0      | 2.0      | 4.0      | 7.0      | 3.0      | 4.0      | 4.0      | 3.0      | 2.0      | 1.0      | 2.0      | 6.0      | 4.0      | 6.0     
+2        | Shillanavogy              | 4129108  | 3.0      | 1.0      | 4.0      | 1.0      | 1.0      | 3        | 7        | 3.0      | 4.0      | 7.0      | 1.0      | 2.0      | 6.0      | 2.0      | 2.0      | 2.0      | 4.0      | 5.0      | 2.0      | 6.0      | 1.0      | 6.0      | 5.0      | 4.0      | 2.0      | N/A      | 3.0      | 4.0      | 3.0      | 1.0      | 1.0      | 2.0     
+4        | Abingworth                | 3921813  | 6.0      | 2.0      | 5.0      | 1.0      | 3.0      | 2        | 5        | 1.0      | 2.0      | 3.0      | 1.0      | 4.0      | 1.0      | 4.0      | 5.0      | 7.0      | 3.0      | 1.0      | 3.0      | 7.0      | 6.0      | 5.0      | 6.0      | 1.0      | 1.0      | 1.0      | 3.0      | 7.0      | 4.0      | 3.0      | N/A      | 4.0     
+5        | Birdman Bob               | 3902250  | 7.0      | 5.0      | 7.0      | 2.0      | 4.0      | 4        | 2        | 5.0      | 4.0      | 2.0      | 1.0      | 3.0      | 3.0      | 5.0      | 4.0      | 6.0      | 4.0      | 4.0      | 4.0      | 3.0      | 6.0      | 3.0      | 7.0      | N/A      | 4.0      | 3.0      | 3.0      | 5.0      | 6.0      | 4.0      | 5.0      | 1.0     
+6        | My Rockstar               | 3232207  | 1.0      | 4.0      | 6.0      | 3.0      | 3.0      | 6        | 4        | 7.0      | 3.0      | 4.0      | 1.0      | 6.0      | 3.0      | 6.0      | 5.0      | 3.0      | 1.0      | 2.0      | 7.0      | 1.0      | 3.0      | 2.0      | 1.0      | 1.0      | 2.0      | 2.0      | 6.0      | 2.0      | 1.0      | 2.0      | 3.0      | 5.0     
+7        | Gladiatus                 | 3970596  | 4.0      | 6.0      | 2.0      | 3.0      | 4.0      | 7        | 6        | 6.0      | 4.0      | 5.0      | 1.0      | 5.0      | 7.0      | 7.0      | 5.0      | 5.0      | 7.0      | 3.0      | 4.0      | 5.0      | 2.0      | 1.0      | 3.0      | N/A      | 4.0      | 3.0      | 7.0      | 6.0      | 7.0      | 6.0      | 6.0      | 7.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 3 | Dunstall Rambler⚠️ Owner's record is weaker (SR: 5.88%, 34 runs). (Rank: 5)
+🐎 is a 7 years old  gelding, colo(u)r: b, carrying 166 lbs today.
+🦄 Sire: Walk In The Park 225/1357 (17.0%)
+🌿 Dam: Toungara 2/21 (10.0%)
+⏱️ Speed record - Runs: 13 | Best: 7.16 sec (Rank 1), Worst: 7.99 sec (Rank 1), Avg: 7.63 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 3.0 (Rank: 1.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Simon W Clarke
+🏠 Owner: Simon W Clarke 2/34 (6.0) - (No previous owner(s))
+👤 Trainer: Tom George (0 previous trainer(s)) last 14d WinRate (0/3 runs) (Rank: 4.0) RTF: 33.0 (OVR: 10%)
+🏇 Jockey: Jonathan Burke (14d rank: 1.0) 🏇 Today's Jock winSR: 18.0% (No better alternative found.)(8/ 22 runs) RTF: N/A (OVR: 11%) 5Y: 159/1103 (14.000000000000002)
+🗞️ **PRESS OPINION**
+💬 Comment: In great form at about 2m of late; likely player provided he stays this new trip
+🔦 Spotlight: All of his chase form is at about 2m; good second at Wincanton most recently, when bidding for a hat-trick of wins in novice handicaps; likely player provided he stays this new trip.
+📊 **STATS**
+📉 OFR: 101.0 (Rank: 2)
+📈 RPR: 104.0 (Rank: 7)
+📉 TS: 99.0 (Rank: 1)
+🏟️ Course Wins/Runs: 1/3 | Ratio: 0.33
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/7 | Ratio: 0.00
+📊 Form: U35112 → Score: 0.12 (Rank: 2)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace #: 1 on 📅 2025-03-06 15:20:00
+🥇 Result: 2 🥈 / 🏇 5 runners. Expected: 1
+📭 No result data for race 887279
+💰 Odds: 2.5 🔥
+📝 Comment: raced in second, lost second 5 out, went second again 4 out, hit 3 out, soon recovered, kept on well towards finish, just held
+🏆 RaceName: Julia's House Hospice Novices' Handicap Chase (GBB Race)
+🏆 Race Description: 4NvHcCh -- Handicap - H
+📋 Race Type: 4NvHcCh
+🎽 Jockey: J J Burke- (⚖️ Weight: 158.0 lbs (71.8 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Wincanton (right-handed, galloping track)
+📏 Distance: 15.5 furlongs (🔽 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 6K
+⏳ Time between runs: 24  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-19 16:43:00
+🥇 Result: 1 🥇 / 🏇 7 runners. Expected: 1
+📭 No result data for race 886254
+💰 Odds: 4.5 🔥
+📝 Comment: 🔄 held up in rear, niggled along and some headway 8th, rapid headway before 4 out, 🎯 led narrowly 3 out, going easily when not fluent 2 out, soon ridden, kept on well run-in, just did enough
+🏆 RaceName: Join Racing TV Now Novices' Handicap Chase
+🏆 Race Description: 5NvHcCh -- Handicap - H
+📋 Race Type: 5NvHcCh
+🎽 Jockey: J J Burke- (⚖️ Weight: 165.0 lbs (75.0 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Ludlow (right-handed, sharp track)
+📏 Distance: 16.0 furlongs (🔽 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+⏳ Time between runs: 14  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-12-17 13:15:00
+🥇 Result: 1 🥇 / 🏇 8 runners. Expected: 1
+📭 No result data for race 882350
+💰 Odds: 7.5 📉
+📝 Comment: took keen hold, 🔄 midfield, headway when not fluent 4 out, soon pushed along, mistake 3 out, rallied after 2 out, ridden approaching last, kept on well and 🎯 led towards finish
+🏆 RaceName: TrustATrader Approved And Reviewed Trades People Novices' Handicap Chase
+🏆 Race Description: 5NvHcCh -- Handicap - H
+📋 Race Type: 5NvHcCh
+🎽 Jockey: J J Burke- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Wincanton (right-handed, galloping track)
+📏 Distance: 15.5 furlongs (🔽 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+⏳ Time between runs: 64  days ago
+---------------------------------------------------------------------------
+🐎 1 | Another Folly🐎 is a 6 years old  gelding, colo(u)r: ch, carrying 168 lbs today.
+🦄 Sire: Castle Du Berlais 13/60 (22.0%)
+🌿 Dam: Eau Tenebreuse 1/17 (6.0%)
+⏱️ Speed record - Runs: 6 | Best: 7.38 sec (Rank 5), Worst: 8.1 sec (Rank 3), Avg: 7.76 sec (Rank 3)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 5.0 (Rank: 2.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: E A R L Ecurie D'Ossau Et Al
+🏠 Owner: Crest Racing 11 0/4 (0.0) - (No previous owner(s))
+👤 Trainer: Jane Williams (0 previous trainer(s)) last 14d WinRate (2/7 runs) (Rank: 1.0) RTF: 43.0 (OVR: 13%)
+🏇 Jockey: David Noonan (14d rank: 3.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(3/ 20 runs) RTF: N/A (OVR: 4%) 5Y: 84/1007 (8.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Still a maiden but posted a solid effort over C&D on penultimate start; possibilities
+🔦 Spotlight: Still a maiden but has some encouraging form since switched to chasing, notably a solid effort (second to subsequent winner) over C&D on penultimate start; possibilities back here.
+📊 **STATS**
+📉 OFR: 103.0 (Rank: 1)
+📈 RPR: 111.0 (Rank: 1)
+📉 TS: 88.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 3-3224 → Score: 0.11 (Rank: 3)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace #: 1 on 📅 2025-01-15 15:23:00
+🥇 Result: 4 / 🏇 7 runners. Expected: 1
+📭 No result data for race 885927
+💰 Odds: 3.0 🔥
+📝 Comment: 🎯 led, headed and pressed winner 3rd, lost second after 4 out, ❄️ weakened 3 out
+🏆 RaceName: Dragonbet Real People, Real Bookmakers Handicap Chase
+🏆 Race Description: 4HcCh -- Handicap - H
+📋 Race Type: 4HcCh
+🎽 Jockey: D Noonan- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Hereford (right-handed, sharpish and generally flat. Suits nippy types.)
+📏 Distance: 19.0 furlongs (🔽 vs 20.0 today)
+🌱 Going: S
+👜 Prize: 💰 5K
+⏳ Time between runs: 74  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-12-17 14:45:00
+🥇 Result: 2 🥈 / 🏇 9 runners. Expected: 1
+📭 No result data for race 882346
+💰 Odds: 7.5 📉
+📝 Comment: 🎯 led, headed 2 out, no extra run-in
+🏆 RaceName: TrustATrader Handicap Chase
+🏆 Race Description: 4HcCh -- Handicap - H
+📋 Race Type: 4HcCh
+🎽 Jockey: C Gethings- (⚖️ Weight: 157.0 lbs (71.4 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Wincanton (right-handed, galloping track)
+📏 Distance: 20.0 furlongs (➡️ vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 6K
+⏳ Time between runs: 29  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-11-18 13:30:00
+🥇 Result: 2 🥈 / 🏇 3 runners. Expected: 1
+📭 No result data for race 880041
+💰 Odds: 2.0 🔥🔥
+📝 Comment: raced in second throughout, outpaced before 4 out, ❄️ weakened gradually from 2 out
+🏆 RaceName: DragonBet Best Odds Guaranteed Novices' Limited Handicap Chase (GBB Race)
+🏆 Race Description: 3NvHcCh -- Handicap - H
+📋 Race Type: 3NvHcCh
+🎽 Jockey: D Noonan- (⚖️ Weight: 153.0 lbs (69.5 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Exeter (right-handed, very undulating, testing track)
+📏 Distance: 24.5 furlongs (🔼 vs 20.0 today)
+🌱 Going: G
+👜 Prize: 💰 8K
+⏳ Time between runs: 29  days ago
+---------------------------------------------------------------------------
+🐎 2 | Shillanavogy🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 is a 7 years old  gelding, colo(u)r: b, carrying 166 lbs today.
+🦄 Sire: Soldier Of Fortune 147/988 (15.0%)
+🌿 Dam: Lady Azamour 5/23 (22.0%)
+⏱️ Speed record - Runs: 11 | Best: 7.27 sec (Rank 3), Worst: 8.48 sec (Rank 7), Avg: 7.99 sec (Rank 7)
+🛠️ No gear today
+🩺 Medical History: 📅 2024-02-05: Wind Surgery
+🎲 Early market: 6.5 (Rank: 3.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Edmond & Mark Coleman
+🏠 Owner: Both Ways Partnership 3/17 (18.0) - (No previous owner(s))
+👤 Trainer: Warren Greatrex (0 previous trainer(s)) last 14d WinRate (2/12 runs) (Rank: 2.0) RTF: 58.0 (OVR: 7%)
+🏇 Jockey: James Bowen (14d rank: 2.0) 🏇 Today's Jock winSR: 33.0% (No better alternative found.)(6/ 23 runs) RTF: N/A (OVR: 13%) 5Y: 154/1008 (15.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Novice chaser who has lacked consistency but is again capable of being involved
+🔦 Spotlight: Novice chaser who won at Fontwell (2m5f) in December and ran creditably at Southwell (3m) most recently; has lacked consistency but is again capable of being involved.
+📊 **STATS**
+📉 OFR: 101.0 (Rank: 2)
+📈 RPR: 110.0 (Rank: 2)
+📉 TS: 77.0 (Rank: 6)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 1/5 | Ratio: 0.20
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 42P143 → Score: 0.09 (Rank: 5)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace #: 1 on 📅 2025-03-03 14:03:00
+🥇 Result: 3 🥉 / 🏇 7 runners. Expected: 1
+📭 No result data for race 887254
+💰 Odds: 4.5 🔥
+📝 Comment: 🎯 prominent, lost position 10th, not fluent 11th, rallied 4 out, went second after 3 out, not fluent 2 out, 7 lengths down last, lost second and no extra run-in
+🏆 RaceName: Grace And Dotty Fedora's And Feathers Handicap Chase (GBB Race)
+🏆 Race Description: 4HcCh -- Handicap - H
+📋 Race Type: 4HcCh
+🎽 Jockey: J Bowen- (⚖️ Weight: 153.0 lbs (69.5 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Southwell (left-handed, sharp, flat track)
+📏 Distance: 24.5 furlongs (🔼 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 5K
+⏳ Time between runs: 27  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-01-30 13:25:00
+🥇 Result: 4 / 🏇 6 runners. Expected: 1
+📭 No result data for race 885252
+💰 Odds: 4.5 🔥
+📝 Comment: in rear but in touch with leaders, headway 10th, went third before 3 out, ❄️ weakened before 2 out, lost position last
+🏆 RaceName: Visit Irish Bloodstock Sales With ITM Novices' Handicap Chase (GBB Race)
+🏆 Race Description: 4NvHcCh -- Handicap - H
+📋 Race Type: 4NvHcCh
+🎽 Jockey: J Bowen- (⚖️ Weight: 160.0 lbs (72.7 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Wincanton (right-handed, galloping track)
+📏 Distance: 20.0 furlongs (➡️ vs 20.0 today)
+🌱 Going: HY
+👜 Prize: 💰 5K
+⏳ Time between runs: 32  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-12-10 14:30:00
+🥇 Result: 1 🥇 / 🏇 9 runners. Expected: 1
+📭 No result data for race 881310
+💰 Odds: 6.0 📉
+📝 Comment: 🎯 prominent early, in touch with leaders after 1st, dropped to 🔄 midfield 3rd, headway before 4 out, went second before 3 out, going best when 🎯 led before 2 out, ridden before last, reduced lead final strides, always doing enough
+🏆 RaceName: BetGoodwin Online Betting Site Handicap Chase (Fontwell Chase Series Qualifier)
+🏆 Race Description: 5HcCh -- Handicap - H
+📋 Race Type: 5HcCh
+🎽 Jockey: J Bowen- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Fontwell (left-handed, fairly sharp hurdles track; fig. 8, undulating, chase track)
+📏 Distance: 21.5 furlongs (🔼 vs 20.0 today)
+🌱 Going: S
+👜 Prize: 💰 3K
+⏳ Time between runs: 50  days ago
+---------------------------------------------------------------------------
+🐎 4 | Abingworth📈 Owner has a strong record (SR: 15.22%, 92 runs). (Rank: 3)
+🐎 is a 7 years old  gelding, colo(u)r: b, carrying 163 lbs today.
+🦄 Sire: Kapgarde 78/597 (13.0%)
+🌿 Dam: Flute Bowl 0/0 (0.0%)
+⏱️ Speed record - Runs: 15 | Best: 7.2 sec (Rank 2), Worst: 8.23 sec (Rank 5), Avg: 7.8 sec (Rank 5)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 6.5 (Rank: 3.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: C E Stedman
+🏠 Owner: Chris Stedman 14/92 (15.0) - (No previous owner(s))
+👤 Trainer: Gary & Josh Moore (0 previous trainer(s)) last 14d WinRate (4/33 runs) (Rank: 3.0) RTF: 53.0 (OVR: 0%)
+🏇 Jockey: Caoilin Quinn (14d rank: 5.0) 🏇 Jockey 99249 Today's Jock winSR: 11.0% | 🏆 Not H&J as Best Alternative Jockey: 91533 (2/2 - 100.0%)(0/ 15 runs) RTF: N/A (OVR: 21%) 5Y: 73/597 (12.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Defied a 9lb higher mark in this corresponding event last year; interesting back here
+🔦 Spotlight: Inconsistent this term but ran one of his better races last time; defied a 9lb higher mark in this corresponding event (when it was a Class 4) last year and is interesting back here.
+📊 **STATS**
+📉 OFR: 98.0 (Rank: 4)
+📈 RPR: 108.0 (Rank: 4)
+📉 TS: 99.0 (Rank: 1)
+🏟️ Course Wins/Runs: 1/2 | Ratio: 0.50
+📏 Distance Wins/Runs: 2/12 | Ratio: 0.17
+🌱 Going Wins/Runs: 2/11 | Ratio: 0.18
+📊 Form: -U46P3 → Score: 0.09 (Rank: 6)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace #: 1 on 📅 2025-03-10 16:40:00
+🥇 Result: 3 🥉 / 🏇 8 runners. Expected: 1
+📭 No result data for race 888196
+💰 Odds: 7.5 📉
+📝 Comment: 🔄 towards rear, not fluent 3rd, mistake 8th, headway on turn before 3 out, pressed leaders before 2 out, ridden and ❄️ weakened approaching last
+🏆 RaceName: DragonBet Born From The Betting Ring Handicap Chase
+🏆 Race Description: 5HcCh -- Handicap - H
+📋 Race Type: 5HcCh
+🎽 Jockey: D Noonan- (⚖️ Weight: 163.0 lbs (74.1 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Taunton (right-handed, sharp track)
+📏 Distance: 16.0 furlongs (🔽 vs 20.0 today)
+🌱 Going: G
+👜 Prize: 💰 6K
+⏳ Time between runs: 20  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-15 14:15:00
+🥇 Result: nan / 🏇 6 runners. Expected: 1
+📭 No result data for race 886210
+💰 Odds: 4.5 🔥
+📝 Comment: in touch with leaders, ❄️ weakened before 3 out, pulled up before last (vet said gelding lost his left-fore shoe)
+🏆 RaceName: No One's As Vegas As BetMGM Handicap Chase (GBB Race)
+🏆 Race Description: 4HcCh -- Handicap - H
+📋 Race Type: 4HcCh
+🎽 Jockey: N Houlihan- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Wincanton (right-handed, galloping track)
+📏 Distance: 20.0 furlongs (➡️ vs 20.0 today)
+🌱 Going: S
+👜 Prize: 💰 6K
+⏳ Time between runs: 23  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-12-15 15:05:00
+🥇 Result: 6 / 🏇 9 runners. Expected: 1
+📭 No result data for race 881402
+💰 Odds: 7.5 📉
+📝 Comment: 🔄 towards rear, headway and 🎯 prominent when mistake 9th, no impression when jumped left 2 out, soon ❄️ weakened
+🏆 RaceName: Fitzdares Telephone Betting Handicap Chase
+🏆 Race Description: 4HcCh -- Handicap - H
+📋 Race Type: 4HcCh
+🎽 Jockey: C Quinn- (⚖️ Weight: 157.0 lbs (71.4 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Windsor (left hand; fairly sharp track)
+📏 Distance: 20.0 furlongs (➡️ vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 7K
+⏳ Time between runs: 61  days ago
+---------------------------------------------------------------------------
+🐎 5 | Birdman Bob⚠️ Owner's record is weaker (SR: 6.67%, 15 runs). (Rank: 4)
+🐎 is a 8 years old  gelding, colo(u)r: ch, carrying 151 lbs today.
+🦄 Sire: Flemensfirth 136/917 (15.0%)
+🌿 Dam: Brijomi Queen 1/23 (4.0%)
+⏱️ Speed record - Runs: 15 | Best: 7.29 sec (Rank 4), Worst: 8.42 sec (Rank 6), Avg: 7.7 sec (Rank 2)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 6.5 (Rank: 3.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Apple Tree Farm Ltd
+🏠 Owner: Surefire Racing 1/15 (7.000000000000001) - (No previous owner(s))
+👤 Trainer: Andy Irvine (0 previous trainer(s)) last 14d WinRate (0/2 runs) (Rank: 4.0) RTF: 100.0 (OVR: 0%)
+🏇 Jockey: Ben Jones (14d rank: 4.0) 🏇 Jockey 96449 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 97769 (1/8 - 12.0%)(3/ 23 runs) RTF: N/A (OVR: 13%) 5Y: 152/927 (16.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Has shown best form at Plumpton; something to prove at this contrasting venue
+🔦 Spotlight: On a workable mark but has shown best form at Plumpton, notably sole hurdles win and a second-place finish over fences last time; something to prove at this contrasting course.
+📊 **STATS**
+📉 OFR: 86.0 (Rank: 5)
+📈 RPR: 109.0 (Rank: 3)
+📉 TS: 98.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/10 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/3 | Ratio: 0.00
+📊 Form: -84352 → Score: 0.05 (Rank: 7)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace #: 1 on 📅 2025-03-10 15:00:00
+🥇 Result: 2 🥈 / 🏇 10 runners. Expected: 1
+🏆 1st: Did Not Run, 2nd: Did Not Run, 3rd: Did Not Run | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 3.333 🔥
+📝 Comment: 🔄 towards rear, headway 8th, in touch with leaders 5 out, went second 2 out, soon ridden and no extra, slow jump last, no match for winner
+🏆 RaceName: Celebrating Sussex Novices' Handicap Chase
+🏆 Race Description: 5NvHcCh -- Handicap - H
+📋 Race Type: 5NvHcCh
+🎽 Jockey: Ben Jones- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Plumpton (left-handed, sharp, undulating track)
+📏 Distance: 20.0 furlongs (➡️ vs 20.0 today)
+🌱 Going: G
+👜 Prize: 💰 4K
+⏳ Time between runs: 20  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-10 14:45:00
+🥇 Result: 5 / 🏇 7 runners. Expected: 1
+📭 No result data for race 886129
+💰 Odds: 11.0 📉
+📝 Comment: in touch with leaders, steady headway 4 out, mistake 2 out, soon ❄️ weakened
+🏆 RaceName: Howden Insurance Brokers Novices' Handicap Chase (GBB Race)
+🏆 Race Description: 4NvHcCh -- Handicap - H
+📋 Race Type: 4NvHcCh
+🎽 Jockey: P Armson- (⚖️ Weight: 140.0 lbs (63.6 kg) carried -- Allowance: 3.0) 
+🏟️ Course: Plumpton (left-handed, sharp, undulating track)
+📏 Distance: 20.0 furlongs (➡️ vs 20.0 today)
+🌱 Going: S
+👜 Prize: 💰 6K
+⏳ Time between runs: 28  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2025-01-01 14:00:00
+🥇 Result: 3 🥉 / 🏇 6 runners. Expected: 1
+📭 No result data for race 883319
+💰 Odds: 7.0 📉
+📝 Comment: in touch with leaders, headway and pressed leader before 4 out, disputed lead 3 out, headed and no extra before last
+🏆 RaceName: Racing TV Novices' Handicap Chase
+🏆 Race Description: 5NvHcCh -- Handicap - H
+📋 Race Type: 5NvHcCh
+🎽 Jockey: P Armson- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 3.0) 
+🏟️ Course: Fakenham (left-handed, sharp, undulating track)
+📏 Distance: 21.0 furlongs (🔼 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 8K
+⏳ Time between runs: 40  days ago
+---------------------------------------------------------------------------
+🐎 6 | My Rockstar📈 Owner has a strong record (SR: 16.67%, 12 runs). (Rank: 2)
+🐎 is a 9 years old  gelding, colo(u)r: b, carrying 146 lbs today.
+🦄 Sire: Valirann 31/180 (17.0%)
+🌿 Dam: All Notoriety 2/23 (9.0%)
+⏱️ Speed record - Runs: 9 | Best: 7.56 sec (Rank 6), Worst: 8.09 sec (Rank 2), Avg: 7.77 sec (Rank 4)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 8.0 (Rank: 6.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Butlersgrove Stud
+🏠 Owner: Mrs H E Rees 2/12 (17.0) - (No previous owner(s))
+👤 Trainer: Helen Rees (0 previous trainer(s)) last 14d WinRate (0/0 runs) (Rank: 7.0) RTF: N/A (OVR: 17%)
+🏇 Jockey: Ben Godfrey (14d rank: 5.0) 🏇 Jockey 96166 Today's Jock winSR: 29.0% | 🏆 Not H&J as Best Alternative Jockey: 96166 (2/7 - 29.0%)(0/ 7 runs) RTF: N/A (OVR: 7%) 5Y: 44/381 (12.0)
+🗞️ **PRESS OPINION**
+💬 Comment: May be more interesting when back down the weights; both wins off 7lb lower
+🔦 Spotlight: Remains in form but has his limitations and may be more interesting when back down the weights, having gained both wins off 7lb lower; others seem better treated.
+📊 **STATS**
+📉 OFR: 81.0 (Rank: 6)
+📈 RPR: 105.0 (Rank: 6)
+📉 TS: 98.0 (Rank: 3)
+🏟️ Course Wins/Runs: 1/5 | Ratio: 0.20
+📏 Distance Wins/Runs: 1/5 | Ratio: 0.20
+🌱 Going Wins/Runs: 1/9 | Ratio: 0.11
+📊 Form: -31P24 → Score: 0.15 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace #: 1 on 📅 2025-03-10 16:40:00
+🥇 Result: 4 / 🏇 8 runners. Expected: 1
+📭 No result data for race 888196
+💰 Odds: 5.0 🔥
+📝 Comment: raced wide, 🎯 prominent, pressed leaders after 6th, pushed along before 3 out, ridden and ❄️ weakened approaching last
+🏆 RaceName: DragonBet Born From The Betting Ring Handicap Chase
+🏆 Race Description: 5HcCh -- Handicap - H
+📋 Race Type: 5HcCh
+🎽 Jockey: B Godfrey- (⚖️ Weight: 146.0 lbs (66.4 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Taunton (right-handed, sharp track)
+📏 Distance: 16.0 furlongs (🔽 vs 20.0 today)
+🌱 Going: G
+👜 Prize: 💰 6K
+⏳ Time between runs: 20  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-01-18 14:40:00
+🥇 Result: 2 🥈 / 🏇 6 runners. Expected: 1
+📭 No result data for race 884346
+💰 Odds: 3.5 🔥
+📝 Comment: 🎯 led, headed just before 3 out, soon rallied, lost ground approaching last, not fluent last, ❄️ weakened run-in
+🏆 RaceName: Samaritans Of Taunton And Somerset Handicap Chase (GBB Race)
+🏆 Race Description: 4HcCh -- Handicap - H
+📋 Race Type: 4HcCh
+🎽 Jockey: B Godfrey- (⚖️ Weight: 142.0 lbs (64.5 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Taunton (right-handed, sharp track)
+📏 Distance: 16.0 furlongs (🔽 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 6K
+⏳ Time between runs: 51  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-12-19 15:05:00
+🥇 Result: nan / 🏇 15 runners. Expected: 1
+📭 No result data for race 882378
+💰 Odds: 9.0 📉
+📝 Comment: 🎯 prominent, disputed lead omitted 8th, headed on turn before 4 out, soon lost position and ❄️ weakened, pulled up after 2 out
+🏆 RaceName: Southwest Rail Solutions Handicap Chase
+🏆 Race Description: 5HcCh -- Handicap - H
+📋 Race Type: 5HcCh
+🎽 Jockey: B Godfrey- (⚖️ Weight: 144.0 lbs (65.5 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Exeter (right-handed, very undulating, testing track)
+📏 Distance: 19.0 furlongs (🔽 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+⏳ Time between runs: 29  days ago
+---------------------------------------------------------------------------
+🐎 7 | Gladiatus🐎 is a 9 years old  gelding, colo(u)r: b, carrying 145 lbs today.
+🦄 Sire: No Risk At All 50/374 (13.0%)
+🌿 Dam: Pic Pus 0/7 (0.0%)
+⏱️ Speed record - Runs: 5 | Best: 7.57 sec (Rank 7), Worst: 8.18 sec (Rank 4), Avg: 7.83 sec (Rank 6)
+🛠️ No gear today
+🩺 Medical History: 📅 2023-01-24: Wind Surgery
+🎲 Early market: 17.0 (Rank: 7.0)
+🎲 Repeat performance: Won before: False Placed 2 or 3rd False times.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Eric Vagne &  Olivier Richard
+🏠 Owner: Scott Parnell Limited 0/8 (0.0) - (No previous owner(s))
+👤 Trainer: Richard Rowe (0 previous trainer(s)) last 14d WinRate (0/5 runs) (Rank: 4.0) RTF: 20.0 (OVR: 29%)
+🏇 Jockey: Tabitha Worsley(3) (14d rank: 5.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0/ 12 runs) RTF: N/A (OVR: 0%) 5Y: 18/580 (3.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Lightly raced 9yo who needs improvement to get off the mark
+🔦 Spotlight: Lightly raced 9yo; only a modest fourth at Huntingdon (second chase attempt) most recently and needs improvement to get off the mark.
+📊 **STATS**
+📉 OFR: 80.0 (Rank: 7)
+📈 RPR: 107.0 (Rank: 5)
+📉 TS: 68.0 (Rank: 7)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/6 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/3 | Ratio: 0.00
+📊 Form: P/5-P4 → Score: 0.11 (Rank: 3)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs (excluding NR)
+🏁 PastRace #: 1 on 📅 2025-03-12 15:38:00
+🥇 Result: 4 / 🏇 7 runners. Expected: 1
+📭 No result data for race 888210
+💰 Odds: 33.0 ❄️
+📝 Comment: didn't always jump with fluency, raced in second, briefly 🎯 led 3 out, jumped left and ❄️ weakened 2 out
+🏆 RaceName: 2025 Season Tickets On Sale Now Handicap Chase
+🏆 Race Description: 5HcCh -- Handicap - H
+📋 Race Type: 5HcCh
+🎽 Jockey: Tabitha Worsley- (⚖️ Weight: 141.0 lbs (64.1 kg) carried -- Allowance: 3.0) 
+🏟️ Course: Huntingdon (right-handed, flat, fast track)
+📏 Distance: 20.0 furlongs (➡️ vs 20.0 today)
+🌱 Going: G
+👜 Prize: 💰 4K
+⏳ Time between runs: 18  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-07 14:50:00
+🥇 Result: nan / 🏇 13 runners. Expected: 1
+📭 No result data for race 885366
+💰 Odds: 66.0 ❄️❄️
+📝 Comment: 🔄 midfield, hit 4th, ❄️ weakened after 7th, mistake 3 out, pulled up before 2 out
+🏆 RaceName: TrustATrader You Can Trust Our Traders Handicap Hurdle
+🏆 Race Description: 4HcH -- Handicap - H
+📋 Race Type: 4HcH
+🎽 Jockey: N Houlihan- (⚖️ Weight: 145.0 lbs (65.9 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Kempton (right-handed, sharpish, flat track)
+📏 Distance: 21.0 furlongs (🔼 vs 20.0 today)
+🌱 Going: GS
+👜 Prize: 💰 5K
+⏳ Time between runs: 33  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2023-11-14 14:40:00
+🥇 Result: 5 / 🏇 8 runners. Expected: 1
+📭 No result data for race 851877
+💰 Odds: 14.0 📉
+📝 Comment: 🎯 prominent, not fluent 6th, ❄️ weakened before 2 out
+🏆 RaceName: RhinoBet Novices' Handicap Chase
+🏆 Race Description: 5NvHcCh -- Handicap - H
+📋 Race Type: 5NvHcCh
+🎽 Jockey: J Tudor- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Huntingdon (right-handed, flat, fast track)
+📏 Distance: 20.0 furlongs (➡️ vs 20.0 today)
+🌱 Going: G
+👜 Prize: 💰 4K
+⏳ Time between runs: 451  days ago
+---------------------------------------------------------------------------
