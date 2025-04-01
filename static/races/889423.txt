@@ -1,0 +1,577 @@
+⏰ Off Time: 2025-04-01 16:55
+📍 Venue: Fakenham (left-handed, sharp, undulating track)
+🏁 Race ID: 889423 - 🏆 Name: Turner Trophy 'Grassroots' Maiden Hunters' Chase (For The Turner Trophy)
+🏆 Type: Chase
+📏 Distance: 24.0 furlongs
+🏇 Class/Grade: Class 5
+🎂 Age Band: 5yo+
+💰 Prize money: 💰 3K
+☀️ Weather: Sunny
+🌱 Going: Good
+6 runners declared
+Speed Performance for Race ID 889423 (Filter: AND_notAW_maiden)
+===========================================================================
+horse_id       horse_name AND_notAW_maiden_bestSpeedPerM AND_notAW_maiden_worstSpeedPerM AND_notAW_maiden_avgSpeedPerM AND_notAW_maiden_noRaces AND_notAW_maiden_bestSpeedPerM_rank AND_notAW_maiden_avgSpeedPerM_rank
+ 5441335 Bride Rovers Abu                            NaN                             NaN                           NaN                      NaN                                 NaN                                NaN
+ 3035723          Get Bye                            NaN                             NaN                           NaN                      NaN                                 NaN                                NaN
+ 3918381      Good Source                            NaN                             NaN                           NaN                      NaN                                 NaN                                NaN
+ 5457591 Jersey Fromentin                            NaN                             NaN                           NaN                      NaN                                 NaN                                NaN
+ 4936826        Red Delta                            NaN                             NaN                           NaN                      NaN                                 NaN                                NaN
+ 2641747       Kostantina                            NaN                             NaN                           NaN                      NaN                                 NaN                                NaN
+No head-to-head data found for any of this race's horses
+Performance Table
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5        | Red Delta                 | 4936826  | 5.0      | 2.0      | 3.0      | 1.0      | 2.0      | 1        | 1        | 5.0      | 5.0      | 1.0      | 1.0      | N/A      | N/A      | N/A      | 3.0      | 2.0      | 5.0      | 2.0      | 2.0      | 6.0      | 5.0      | 3.0      | 2.0      | N/A      | N/A      | N/A      | 1.0      | 2.0      | 3.0      | 2.0      | 2.0      | 2.0     
+1        | Bride Rovers Abu          | 5441335  | 2.0      | 1.0      | 2.0      | 1.0      | 1.0      | 1        | 1        | 2.0      | 1.0      | 4.0      | 1.0      | N/A      | N/A      | N/A      | 3.0      | 2.0      | 2.0      | 6.0      | 3.0      | 2.0      | 3.0      | 6.0      | 5.0      | N/A      | N/A      | N/A      | 2.0      | 1.0      | 5.0      | 3.0      | N/A      | 5.0     
+4        | Jersey Fromentin          | 5457591  | 1.0      | 4.0      | 1.0      | 1.0      | 4.0      | 1        | 1        | 3.0      | 2.0      | 4.0      | 1.0      | N/A      | N/A      | N/A      | 2.0      | 6.0      | 2.0      | 4.0      | 3.0      | 2.0      | 2.0      | 2.0      | 4.0      | N/A      | N/A      | N/A      | 3.0      | 6.0      | 2.0      | N/A      | N/A      | 3.0     
+3        | Good Source               | 3918381  | 3.0      | 3.0      | 4.0      | 1.0      | 3.0      | 1        | 1        | 4.0      | 3.0      | 4.0      | 1.0      | N/A      | N/A      | N/A      | 3.0      | 2.0      | 1.0      | 1.0      | 3.0      | 2.0      | 1.0      | 1.0      | 1.0      | N/A      | N/A      | N/A      | 3.0      | 3.0      | 1.0      | 1.0      | 2.0      | 1.0     
+2        | Get Bye                   | 3035723  | 4.0      | 5.0      | 5.0      | 1.0      | 5.0      | 1        | 1        | 1.0      | 5.0      | 3.0      | 1.0      | 1.0      | 1.0      | 1.0      | 1.0      | 1.0      | 2.0      | 5.0      | 1.0      | 1.0      | 3.0      | 5.0      | 3.0      | N/A      | 1.0      | 1.0      | 5.0      | 4.0      | 4.0      | N/A      | 2.0      | 4.0     
+6        | Kostantina                | 2641747  | 6.0      | 6.0      | 6.0      | 1.0      | 6.0      | 1        | 1        | 6.0      | 4.0      | 2.0      | 1.0      | N/A      | N/A      | N/A      | 3.0      | 2.0      | 5.0      | 2.0      | 3.0      | 2.0      | 5.0      | 3.0      | 6.0      | N/A      | N/A      | 1.0      | 6.0      | 5.0      | N/A      | N/A      | 1.0      | N/A     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 5 | Red Delta📈 Owner has a strong record (SR: 36.36%, 11 runs). (Rank: 2)
+🐎 6 years old  gelding, colo(u)r: ch, carrying 168 lbs today.
+🦄 Sire: Ocovango 79/630 (13.0% Rank: 2)
+🌿 Dam: Red Card 0/1 (0.0% Rank: 2)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 2.62 (Rank: 1.0)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: 3-9 in points, winning at Charm Park latest (3m, good; Mens Open); has to be of interest.
+🔦 Spotlight: 3-9 in points, winning at Charm Park latest (3m, good; Mens Open) for the second year in succession; pulled up at Leicester on sole start under rules but this is much easier, so this stablemate of the 2024 Cheltenham Festival Hunter Chase winner Sine Nomine has to be of significant interest.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Liam Forster
+🏠 Owner: R Tate 4/11 (36.0) - (No previous owner(s))
+👤 Trainer: Fiona Needham (0 previous trainer(s)) last 14d WinRate (0.0/1.0 runs) (Rank: 2.0) RTF: 100.0 (OVR: -)
+🏇 Jockey: Mr John Dawson (14d rank: 3.0) 🏇 Jockey 87255 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 85549 (1/6 - 17.0%)(0.0/ 0.0 runs) RTF: N/A (OVR: -) 5Y: 4/11 (36.0)
+🗞️ **PRESS OPINION**
+💬 Comment: 3-9 in points, winning at Charm Park latest (3m, good; Mens Open); has to be of interest.
+🔦 Spotlight: 3-9 in points, winning at Charm Park latest (3m, good; Mens Open) for the second year in succession; pulled up at Leicester on sole start under rules but this is much easier, so this stablemate of the 2024 Cheltenham Festival Hunter Chase winner Sine Nomine has to be of significant interest.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 3-23P1 → Score: 0.23 (Rank: 2)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs with non-runs
+🏁 PastRace #: 1 on 📅 2025-03-02 14:15:00
+🥇 Result: 1 🥇 / 🏇 6 runners. Expected: 1
+📭 No result data for race 889902
+💰 Odds: 4.5 🔥
+📝 Comment: stdy hdwy 11; outpcd 3 out; rallied nxt; stayed on to ld final 50yds
+🏆 RaceName: Mens Open 5yo+
+🏆 Race Description: OpenPTP -- N/A
+📋 Race Type: OpenPTP
+🎽 Jockey: J Dawson- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Charm Park (LH, flat, fair course; races nearer 3m1f than 3m)
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: G
+👜 Prize: 💰 0K
+⏳ Time between runs: 29  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-13 16:19:00
+🥇 Result: nan / 🏇 10 runners. Expected: 1
+📭 No result data for race 886166
+💰 Odds: 12.0 📉
+📝 Comment: always behind, mistake 10th, pulled up before 2 out
+🏆 RaceName: Pointing Pointers Dick Saunders Novices' Hunters' Chase
+🏆 Race Description: 5NvHntCh -- Unknown - 0
+📋 Race Type: 5NvHntCh
+🎽 Jockey: Mr J Dawson- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Leicester (right-handed, galloping, testing track)
+📏 Distance: 22.5 furlongs (🔽 vs 24.0 today)
+🌱 Going: S
+👜 Prize: 💰 3K
+⏳ Time between runs: 16  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-12-15 13:00:00
+🥇 Result: 3 🥉 / 🏇 10 runners. Expected: 1
+📭 No result data for race 884237
+💰 Odds: 2.0 🔥🔥
+📝 Comment: hdwy 14; one pce 3 out
+🏆 RaceName: Restricted
+🏆 Race Description: ResPTP -- N/A
+📋 Race Type: ResPTP
+🎽 Jockey: J Dawson- (⚖️ Weight: 173.0 lbs (78.6 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Alnwick (LH, undulating, fairly sharp)
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: GS
+👜 Prize: 💰 0K
+⏳ Time between runs: 60  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 4 on 📅 2024-05-06 14:25:00
+🥇 Result: 2 🥈 / 🏇 7 runners. Expected: 1
+📭 No result data for race 868594
+💰 Odds: 1.5 🔥🔥
+📝 Comment: prsd ldr til 🎯 led 4 out; hdd 2 out; rallied & wandered last; held final 50yds
+🏆 RaceName: Restricted
+🏆 Race Description: ResPTP -- N/A
+📋 Race Type: ResPTP
+🎽 Jockey: J Dawson- (⚖️ Weight: 173.0 lbs (78.6 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Witton Castle (RH, flat, galloping)
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: G
+👜 Prize: 💰 0K
+⏳ Time between runs: 222  days ago
+---------------------------------------------------------------------------
+🐎 1 | Bride Rovers Abu🐎 6 years old  gelding, colo(u)r: b, carrying 168 lbs today.
+🦄 Sire: Gatewood 2/11 (18.0% Rank: 1)
+🌿 Dam: Gortnahorna Lass 0/0 (0.0% Rank: 1)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 4.0 (Rank: 2.0)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Won two points, the latest of which was for K. Morgan at Alnwick (3m, gd/sft) in December.
+🔦 Spotlight: Won two points, the latest of which was for this trainer at Alnwick (3m, good to soft; 2-1 joint-favourite) in December; set to make rules debut just over three weeks after finishing third of four (beaten 10l) in an Intermediate at Guilsborough.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: J McKeigue
+🏠 Owner: Km Racing Club 0/3 (0.0) - (No previous owner(s))
+👤 Trainer: Kelly Morgan (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 3.0) RTF: N/A (OVR: 0%)
+🏇 Jockey: Miss Ellie Callwood(7) (14d rank: 3.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0.0/ 0.0 runs) RTF: N/A (OVR: 0%) 5Y: 0/9 (0.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Won two points, the latest of which was for K. Morgan at Alnwick (3m, gd/sft) in December.
+🔦 Spotlight: Won two points, the latest of which was for this trainer at Alnwick (3m, good to soft; 2-1 joint-favourite) in December; set to make rules debut just over three weeks after finishing third of four (beaten 10l) in an Intermediate at Guilsborough.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 61-1F3 → Score: 0.12 (Rank: 5)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs with non-runs
+🏁 PastRace #: 1 on 📅 2025-03-09 14:10:00
+🥇 Result: 3 🥉 / 🏇 4 runners. Expected: 1
+📭 No result data for race 890252
+💰 Odds: 3.0 🔥
+📝 Comment: chsd ldr til outpcd 3 out
+🏆 RaceName: Intermediate
+🏆 Race Description: IntPTP -- N/A
+📋 Race Type: IntPTP
+🎽 Jockey: Miss E Callwood- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Guilsborough (LH, flat, galloping; two long straights)
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: GS
+👜 Prize: 💰 0K
+⏳ Time between runs: 22  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-08 14:20:00
+🥇 Result: nan / 🏇 8 runners. Expected: 1
+📭 No result data for race 888108
+💰 Odds: 2.5 🔥
+📝 Comment: a.p; 🎯 led 13 til fell 15
+🏆 RaceName: Restricted
+🏆 Race Description: ResPTP -- N/A
+📋 Race Type: ResPTP
+🎽 Jockey: Miss E Callwood- (⚖️ Weight: 173.0 lbs (78.6 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Brocklesby Park (LH, flat; fair course; form reliable; outstanding fences)
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: G
+👜 Prize: 💰 0K
+⏳ Time between runs: 28  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-12-15 13:00:00
+🥇 Result: 1 🥇 / 🏇 10 runners. Expected: 1
+📭 No result data for race 884237
+💰 Odds: 2.0 🔥🔥
+📝 Comment: stdy hdwy 14; 🎯 led 3 out til hdd last; rallied to ld post
+🏆 RaceName: Restricted
+🏆 Race Description: ResPTP -- N/A
+📋 Race Type: ResPTP
+🎽 Jockey: Joe Wright- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Alnwick (LH, undulating, fairly sharp)
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: GS
+👜 Prize: 💰 0K
+⏳ Time between runs: 55  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 4 on 📅 2024-03-03 13:30:00
+🥇 Result: 1 🥇 / 🏇 11 runners. Expected: 1
+📭 No result data for race 862683
+💰 Odds: 12.0 📉
+📝 Comment: mid-div, sl mstk 7th, 8th 1/2way, gd prog aftr 3out & rdn in 3rd bef next, sn left 2nd, ld bef last & kow run-in
+🏆 RaceName: Capital Stud 5yo Geldings Maiden
+🏆 Race Description: MdPTP -- N/A
+📋 Race Type: MdPTP
+🎽 Jockey: F P Murphy- (⚖️ Weight: 160.0 lbs (72.7 kg) carried -- Allowance: 5.0) 
+🏟️ Course: Borris House (LH, flat)
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: SH
+👜 Prize: 💰 0K
+⏳ Time between runs: 286  days ago
+---------------------------------------------------------------------------
+🐎 4 | Jersey Fromentin🐎 6 years old  gelding, colo(u)r: b, carrying 168 lbs today.
+🦄 Sire: Racinger 3/30 (10.0% Rank: 6)
+🌿 Dam: Madame Adelaide 0/0 (0.0% Rank: 6)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 5.0 (Rank: 3.0)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Won three-runner point at Ampton (3m, with Good Source behind) last month; noteworthy.
+🔦 Spotlight: Successful in two of his last three points, winning here (3m, good) last April and, more recently, in a three-runner affair at Ampton (3m, good; with today's rival Good Source a beaten odds-on favourite); time to see what he's capable of now switched to rules for the first time.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Adrien Delaroque
+🏠 Owner: Mrs Ruth Pennock 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: A Pennock (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 3.0) RTF: N/A (OVR: 100%)
+🏇 Jockey: Mr Paddy Barlow(3) (14d rank: 2.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0.0/ 2.0 runs) RTF: N/A (OVR: 0%) 5Y: 1/10 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Won three-runner point at Ampton (3m, with Good Source behind) last month; noteworthy.
+🔦 Spotlight: Successful in two of his last three points, winning here (3m, good) last April and, more recently, in a three-runner affair at Ampton (3m, good; with today's rival Good Source a beaten odds-on favourite); time to see what he's capable of now switched to rules for the first time.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 4U1-P1 → Score: 0.22 (Rank: 4)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs with non-runs
+🏁 PastRace #: 1 on 📅 2025-03-02 16:30:00
+🥇 Result: 1 🥇 / 🏇 3 runners. Expected: 1
+📭 No result data for race 889898
+💰 Odds: 3.0 🔥
+📝 Comment: 🔄 held up; eff 15; chall 2 out; 🎯 led last; drvn out
+🏆 RaceName: Conditions (Level 3)
+🏆 Race Description: PTP -- N/A
+📋 Race Type: PTP
+🎽 Jockey: Edward Vaughan- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Ampton (RH, undulating, compact, stiff uphill finish)
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: G
+👜 Prize: 💰 0K
+⏳ Time between runs: 29  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-01-26 12:35:00
+🥇 Result: nan / 🏇 5 runners. Expected: 1
+📭 No result data for race 887114
+💰 Odds: 4.5 🔥
+📝 Comment: prom til wknd 13; t.o & pu 3 out
+🏆 RaceName: Restricted
+🏆 Race Description: ResPTP -- N/A
+📋 Race Type: ResPTP
+🎽 Jockey: Edward Vaughan- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Horseheath (RH, undulating, galloping; uphill finish)
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: G
+👜 Prize: 💰 0K
+⏳ Time between runs: 35  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-04-21 15:55:00
+🥇 Result: 1 🥇 / 🏇 6 runners. Expected: 1
+📭 No result data for race 867060
+💰 Odds: 25.0 ❄️
+📝 Comment: trckd ldrs; 🎯 led aft 2 out; drvn out
+🏆 RaceName: Maiden
+🏆 Race Description: PTP -- N/A
+📋 Race Type: PTP
+🎽 Jockey: D Peters- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Fakenham P-T-P Course (LH, portable fences on actual NH course)
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: G
+👜 Prize: 💰 0K
+⏳ Time between runs: 279  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 4 on 📅 2024-04-01 13:05:00
+🥇 Result: nan / 🏇 6 runners. Expected: 1
+📭 No result data for race 865301
+💰 Odds: 4.0 🔥
+📝 Comment: ur 4
+🏆 RaceName: Goffs Maiden 4&5yo
+🏆 Race Description: MdPTP -- N/A
+📋 Race Type: MdPTP
+🎽 Jockey: D Peters- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Thorpe Lodge (LH, flat, very fair)
+📏 Distance: 20.0 furlongs (🔽 vs 24.0 today)
+🌱 Going: S
+👜 Prize: 💰 0K
+⏳ Time between runs: 20  days ago
+---------------------------------------------------------------------------
+🐎 3 | Good Source🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 8 years old  gelding, colo(u)r: b, carrying 168 lbs today.
+🦄 Sire: Shirocco 79/642 (12.0% Rank: 3)
+🌿 Dam: Shamble Street 0/3 (0.0% Rank: 3)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 5.0 (Rank: 3.0)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Runner-up in a point here last week; is likely to have a positive role to play.
+🔦 Spotlight: 3-18 in points, his most recent win coming in a Members event at Higham (3m, good) last March; slow to get going this season but on the way back now, only headed after the last in a 3m point here (good; second, 5-2) last week; likely to have a positive role to play.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Mount Eaton Stud Ltd
+🏠 Owner: B Turner 2/3 (67.0) - (No previous owner(s))
+👤 Trainer: E Turner (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 3.0) RTF: N/A (OVR: 67%)
+🏇 Jockey: Mr Rupert Stearn(5) (14d rank: 3.0) 🏇 Jockey 81064 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 100970 (1/1 - 100.0%)(0.0/ 0.0 runs) RTF: N/A (OVR: 50%) 5Y: 2/2 (100.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Runner-up in a point here last week; is likely to have a positive role to play.
+🔦 Spotlight: 3-18 in points, his most recent win coming in a Members event at Higham (3m, good) last March; slow to get going this season but on the way back now, only headed after the last in a 3m point here (good; second, 5-2) last week; likely to have a positive role to play.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 2-PP32 → Score: 0.29 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs with non-runs
+🏁 PastRace #: 1 on 📅 2025-03-23 13:35:00
+🥇 Result: 2 🥈 / 🏇 5 runners. Expected: 1
+📭 No result data for race 891382
+💰 Odds: 2.5 🔥
+📝 Comment: 🎯 led to 3 & 8 til hdd last; no ex flat
+🏆 RaceName: PPORA Conditions (Level 3)
+🏆 Race Description: PTP -- N/A
+📋 Race Type: PTP
+🎽 Jockey: R Stearn- (⚖️ Weight: 171.0 lbs (77.7 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Fakenham P-T-P Course (LH, portable fences on actual NH course)
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: G
+👜 Prize: 💰 0K
+⏳ Time between runs: 8  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-03-02 16:30:00
+🥇 Result: 3 🥉 / 🏇 3 runners. Expected: 1
+📭 No result data for race 889898
+💰 Odds: 0.667 🔥🔥
+📝 Comment: trckd ldr; 🎯 led 2 out til hdd last; no ex cl home
+🏆 RaceName: Conditions (Level 3)
+🏆 Race Description: PTP -- N/A
+📋 Race Type: PTP
+🎽 Jockey: R Stearn- (⚖️ Weight: 171.0 lbs (77.7 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Ampton (RH, undulating, compact, stiff uphill finish)
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: G
+👜 Prize: 💰 0K
+⏳ Time between runs: 20  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2025-02-09 12:35:00
+🥇 Result: nan / 🏇 5 runners. Expected: 1
+📭 No result data for race 888126
+💰 Odds: 6.0 📉
+📝 Comment: in tch til wknd 15; wl bhnd when pu 2 out
+🏆 RaceName: PPORA Conditions (Level 2)
+🏆 Race Description: PTP -- N/A
+📋 Race Type: PTP
+🎽 Jockey: R Stearn- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Higham (LH, flat, sharp)
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: G
+👜 Prize: 💰 0K
+⏳ Time between runs: 21  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 4 on 📅 2025-01-26 14:55:00
+🥇 Result: nan / 🏇 7 runners. Expected: 1
+📭 No result data for race 887118
+💰 Odds: 6.0 📉
+📝 Comment: a bhnd; t.o & pu 11
+🏆 RaceName: Conditions (Level 2)
+🏆 Race Description: PTP -- N/A
+📋 Race Type: PTP
+🎽 Jockey: R Stearn- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Horseheath (RH, undulating, galloping; uphill finish)
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: G
+👜 Prize: 💰 0K
+⏳ Time between runs: 13  days ago
+---------------------------------------------------------------------------
+🐎 2 | Get Bye🐎 10 years old  gelding, colo(u)r: b, carrying 168 lbs today.
+🦄 Sire: Getaway 133/1083 (12.0% Rank: 4)
+🌿 Dam: Cappa Or 0/1 (0.0% Rank: 4)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ Gear: tv
+🩺 Medical History: No records
+🎲 Early market: 13.0 (Rank: 5.0)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Third in a novice hunter at Stratford (2m5f; 100-1, beaten 25l) 22 days ago; vulnerable.
+🔦 Spotlight: Point winner (3m maiden, good; made all) in February 2023; runner-up four times since, also making the frame in a novice hunter at Stratford (2m5f, good to soft; 100-1, beaten 25l) 22 days ago; vulnerable to one or two of his younger rivals.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Thomas O'Connor
+🏠 Owner: Miss Amber Jackson-Fennell 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Miss Amber Jackson-Fennell (0 previous trainer(s)) last 14d WinRate (1.0/1.0 runs) (Rank: 1.0) RTF: 100.0 (OVR: 0%)
+🏇 Jockey: Miss Amber Jackson-Fennell(7) (14d rank: 1.0) 🏇 Jockey 100698 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 99937 (1/8 - 12.0%)(1.0/ 1.0 runs) RTF: N/A (OVR: 0%) 5Y: 1/14 (7.000000000000001)
+🗞️ **PRESS OPINION**
+💬 Comment: Third in a novice hunter at Stratford (2m5f; 100-1, beaten 25l) 22 days ago; vulnerable.
+🔦 Spotlight: Point winner (3m maiden, good; made all) in February 2023; runner-up four times since, also making the frame in a novice hunter at Stratford (2m5f, good to soft; 100-1, beaten 25l) 22 days ago; vulnerable to one or two of his younger rivals.
+📊 **STATS**
+📉 OFR: 92.0 (Rank: 1)
+📈 RPR: 91.0 (Rank: 1)
+📉 TS: 76.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: 22-P23 → Score: 0.22 (Rank: 3)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs with non-runs
+🏁 PastRace #: 1 on 📅 2025-03-10 16:50:00
+🥇 Result: 3 🥉 / 🏇 8 runners. Expected: 1
+📭 No result data for race 888192
+💰 Odds: 100.0 ❄️❄️
+📝 Comment: in touch with leaders, 🎯 prominent before 4th, raced in third when ❄️ weakened on turn 2 out
+🏆 RaceName: DragonBet Proud Sponsors Of Stratford Raceday Novices' Hunters' Chase
+🏆 Race Description: 5NvHntCh -- Unknown - 0
+📋 Race Type: 5NvHntCh
+🎽 Jockey: Miss Amber Jackson-Fennell- (⚖️ Weight: 152.0 lbs (69.1 kg) carried -- Allowance: 7.0) 
+🏟️ Course: Stratford (left-handed, sharp, flat track)
+📏 Distance: 21.0 furlongs (🔽 vs 24.0 today)
+🌱 Going: GS
+👜 Prize: 💰 2K
+⏳ Time between runs: 21  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-01-26 12:35:00
+🥇 Result: 2 🥈 / 🏇 9 runners. Expected: 1
+📭 No result data for race 887120
+💰 Odds: 9.0 📉
+📝 Comment: 🎯 led til hdd aft 16; wknd qckly 3 out
+🏆 RaceName: Restricted
+🏆 Race Description: ResPTP -- N/A
+📋 Race Type: ResPTP
+🎽 Jockey: Miss A Jackson-Fennell- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Cocklebarrow (LH, flat, essentially fair course)
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: G
+👜 Prize: 💰 0K
+⏳ Time between runs: 43  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2025-01-20 15:50:00
+🥇 Result: nan / 🏇 9 runners. Expected: 1
+🏆 1st: Did Not Run, 2nd: Did Not Run, 3rd: Did Not Run | 📊 1-3: 0W/0P/0U | 🐴 Also: 1W/0P/0U
+💰 Odds: 150.0 ❄️❄️
+📝 Comment: 🎯 led, pressed leader when mistake and headed 7th, ❄️ weakened 4 out, tailed off when pulled up before 2 out
+🏆 RaceName: Willoughby De Broke Open Hunters' Chase
+🏆 Race Description: 6HntCh -- Unknown - 0
+📋 Race Type: 6HntCh
+🎽 Jockey: Miss Amber Jackson-Fennell- (⚖️ Weight: 152.0 lbs (69.1 kg) carried -- Allowance: 7.0) 
+🏟️ Course: Warwick (left-handed, sharp track)
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: GS
+👜 Prize: 💰 2K
+⏳ Time between runs: 5  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 4 on 📅 2024-01-21 12:35:00
+🥇 Result: 2 🥈 / 🏇 17 runners. Expected: 1
+📭 No result data for race 859669
+💰 Odds: 8.0 📉
+📝 Comment: 🎯 led til hdd 2 out; no ex final 75yds
+🏆 RaceName: Restricted
+🏆 Race Description: ResPTP -- N/A
+📋 Race Type: ResPTP
+🎽 Jockey: Miss A Jackson-Fennell- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Cocklebarrow (LH, flat, essentially fair course)
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: G
+👜 Prize: 💰 0K
+⏳ Time between runs: 365  days ago
+---------------------------------------------------------------------------
+🐎 6 | Kostantina🐎 9 years old  mare, colo(u)r: b, carrying 161 lbs today.
+🦄 Sire: Oasis Dream 89/828 (11.0% Rank: 5)
+🌿 Dam: Missy O Gwaun 5/13 (38.0% Rank: 5)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 26.0 (Rank: 6.0)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Pulled up here (3m point; 14-1) last week; sole win came back in April 2022; least likely
+🔦 Spotlight: Pulled up in three of her last eight starts, including when always behind in a 3m point here (good; 14-1) last week; sole win came back in April 2022 when making all in a mares' maiden at Dingley (2m4f, good); the least likely in this field.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Saleh Al Homaizi & Imad Al Sagar
+🏠 Owner: Phil Lutman 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Phil Lutman (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 3.0) RTF: N/A (OVR: -)
+🏇 Jockey: Miss Clara Brewitt(7) (14d rank: 3.0) 🏇 Jockey 102892 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 100892 (1/6 - 17.0%)(0.0/ 0.0 runs) RTF: N/A (OVR: -) 5Y: 0/0 (0.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Pulled up here (3m point; 14-1) last week; sole win came back in April 2022; least likely
+🔦 Spotlight: Pulled up in three of her last eight starts, including when always behind in a 3m point here (good; 14-1) last week; sole win came back in April 2022 when making all in a mares' maiden at Dingley (2m4f, good); the least likely in this field.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: /4-82P → Score: 0.08 (Rank: 6)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs with non-runs
+🏁 PastRace #: 1 on 📅 2025-03-23 14:10:00
+🥇 Result: nan / 🏇 7 runners. Expected: 1
+📭 No result data for race 891383
+💰 Odds: 14.0 📉
+📝 Comment: a bhnd; t.o & pu 15
+🏆 RaceName: Restricted
+🏆 Race Description: ResPTP -- N/A
+📋 Race Type: ResPTP
+🎽 Jockey: Miss C Brewitt- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Fakenham P-T-P Course (LH, portable fences on actual NH course)
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: G
+👜 Prize: 💰 0K
+⏳ Time between runs: 8  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-08 12:00:00
+🥇 Result: 2 🥈 / 🏇 3 runners. Expected: 1
+📭 No result data for race 888104
+💰 Odds: 4.0 🔥
+📝 Comment: hdwy 9; outpcd 12; wknd 3 out
+🏆 RaceName: Hunt Members
+🏆 Race Description: PTP -- N/A
+📋 Race Type: PTP
+🎽 Jockey: Miss C Brewitt- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Brocklesby Park (LH, flat; fair course; form reliable; outstanding fences)
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: G
+👜 Prize: 💰 0K
+⏳ Time between runs: 43  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2025-01-18 12:00:00
+🥇 Result: 8 / 🏇 8 runners. Expected: 1
+📭 No result data for race 886725
+💰 Odds: 16.0 📉
+📝 Comment: drpd rr 12; t.o
+🏆 RaceName: Conditions (Level 3) For Grass Roots Riders
+🏆 Race Description: PTP -- N/A
+📋 Race Type: PTP
+🎽 Jockey: Miss C Brewitt- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Revesby Park (LH since 07/11/21; sharp, undulating)
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: G
+👜 Prize: 💰 0K
+⏳ Time between runs: 21  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 4 on 📅 2023-04-30 14:45:00
+🥇 Result: 4 / 🏇 5 runners. Expected: 1
+📭 No result data for race 840245
+💰 Odds: 12.0 📉
+📝 Comment: chsd ldr 2-9; drpd rr 11; wknd 15; t.o
+🏆 RaceName: Restricted
+🏆 Race Description: ResPTP -- N/A
+📋 Race Type: ResPTP
+🎽 Jockey: Miss C Brewitt- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Dingley (RH, undulating, narrow)
+📏 Distance: 24.0 furlongs (➡️ vs 24.0 today)
+🌱 Going: G
+👜 Prize: 💰 0K
+⏳ Time between runs: 628  days ago
+---------------------------------------------------------------------------

@@ -1,0 +1,855 @@
+⏰ Off Time: 2025-04-01 14:02
+📍 Venue: Lingfield (AW) (Polytrack: left-handed, sharp)
+🏁 Race ID: 889591 - 🏆 Name: Free Bets With BetUK Bet Club Apprentice Handicap
+🏇 Type: Flat
+📏 Distance: 6.0 furlongs
+🏇 Class/Grade: Class 5
+🎂 Age Band: 4yo+
+💰 Prize money: 💰 4K
+⛅ Weather: Partly cloudy
+⚙️ Going: Standard
+9 runners declared
+Speed Performance for Race ID 889591 (Filter: AND_AW_handicap_notAmateur)
+===========================================================================
+horse_id        horse_name AND_AW_handicap_notAmateur_bestSpeedPerM AND_AW_handicap_notAmateur_worstSpeedPerM AND_AW_handicap_notAmateur_avgSpeedPerM AND_AW_handicap_notAmateur_noRaces AND_AW_handicap_notAmateur_bestSpeedPerM_rank AND_AW_handicap_notAmateur_avgSpeedPerM_rank
+ 3205779  Twilight Madness                                     16.3                                     17.39                                   17.01                               14.0                                           2.0                                          1.0
+ 5021316  Invincible Speed                                    15.99                                      17.5                                   16.76                               10.0                                           5.0                                          2.0
+ 2859500         Tyger Bay                                    16.23                                     17.23                                   16.71                               35.0                                           3.0                                          3.0
+ 3678015   Profit And Loss                                    16.38                                     16.86                                   16.62                                5.0                                           1.0                                          4.0
+ 4076451        Northcliff                                    15.86                                     17.06                                    16.5                               12.0                                           6.0                                          5.0
+ 2932881      Brunel Charm                                    15.79                                     17.09                                   16.48                               21.0                                           8.0                                          6.0
+ 5079225     Charlie Mason                                    16.16                                     16.73                                   16.43                               15.0                                           4.0                                          7.0
+ 3366624    One More Dream                                    15.33                                     17.17                                   16.29                               36.0                                           9.0                                          8.0
+ 5181948 Get Jiggy With It                                    15.86                                     16.12                                   15.99                                2.0                                           6.0                                          9.0
+No head-to-head data found for any of this race's horses
+Performance Table
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4        | Brunel Charm              | 2932881  | 1.0      | 8.0      | 7.0      | 8.0      | 6.0      | 1        | 6        | 1.0      | 7.0      | 6.0      | 1.0      | 1.0      | 4.0      | 3.0      | 4.0      | 6.0      | 6.0      | 1.0      | 4.0      | 2.0      | 1.0      | 7.0      | 1.0      | 2.0      | 7.0      | 3.0      | 1.0      | 8.0      | 9.0      | 4.0      | N/A      | 1.0     
+8        | Profit And Loss           | 3678015  | 6.0      | 3.0      | 5.0      | 6.0      | 1.0      | 9        | 3        | 7.0      | 8.0      | 7.0      | 1.0      | 2.0      | 7.0      | 6.0      | 4.0      | 9.0      | 5.0      | 3.0      | 2.0      | 1.0      | 5.0      | 5.0      | 4.0      | 3.0      | 2.0      | 8.0      | 1.0      | 1.0      | 3.0      | N/A      | 3.0      | 4.0     
+7        | Charlie Mason             | 5079225  | 2.0      | 6.0      | 3.0      | 9.0      | 2.0      | 6        | 8        | 5.0      | 6.0      | 3.0      | 1.0      | 7.0      | 5.0      | 6.0      | 3.0      | 8.0      | 8.0      | 8.0      | 1.0      | 9.0      | 9.0      | 9.0      | 3.0      | 5.0      | 5.0      | 7.0      | 1.0      | 3.0      | 6.0      | 2.0      | N/A      | 2.0     
+9        | One More Dream            | 3366624  | 8.0      | 2.0      | 8.0      | 1.0      | 7.0      | 5        | 7        | 4.0      | 3.0      | 4.0      | 1.0      | 4.0      | 2.0      | 9.0      | 1.0      | 1.0      | 4.0      | 2.0      | 4.0      | 6.0      | 8.0      | 3.0      | 6.0      | 5.0      | 3.0      | 1.0      | 4.0      | 6.0      | 5.0      | 1.0      | N/A      | 8.0     
+5        | Northcliff                | 4076451  | 5.0      | 7.0      | 6.0      | 7.0      | 5.0      | 6        | 4        | 9.0      | 4.0      | 8.0      | 1.0      | 6.0      | 3.0      | 5.0      | 4.0      | 2.0      | 2.0      | 5.0      | 4.0      | 7.0      | 2.0      | 2.0      | 8.0      | 5.0      | 6.0      | 5.0      | 5.0      | 9.0      | 7.0      | N/A      | N/A      | 3.0     
+6        | Tyger Bay                 | 2859500  | 7.0      | 5.0      | 9.0      | 4.0      | 4.0      | 4        | 4        | 8.0      | 5.0      | 2.0      | 1.0      | 2.0      | 1.0      | 6.0      | 2.0      | 2.0      | 6.0      | 7.0      | 4.0      | 3.0      | 3.0      | 1.0      | 7.0      | 1.0      | 1.0      | 2.0      | 5.0      | 4.0      | 4.0      | N/A      | N/A      | 5.0     
+3        | Get Jiggy With It         | 5181948  | 4.0      | 9.0      | 1.0      | 5.0      | 7.0      | 8        | 9        | 2.0      | 8.0      | 9.0      | 1.0      | 8.0      | 8.0      | 3.0      | 4.0      | 4.0      | 9.0      | 3.0      | 3.0      | 3.0      | 4.0      | 8.0      | 5.0      | 5.0      | N/A      | 9.0      | 7.0      | 7.0      | 1.0      | 3.0      | 4.0      | 9.0     
+2        | Invincible Speed          | 5021316  | 9.0      | 4.0      | 2.0      | 2.0      | 7.0      | 2        | 2        | 6.0      | 2.0      | 5.0      | 1.0      | 9.0      | 6.0      | 1.0      | 4.0      | 6.0      | 1.0      | 9.0      | 4.0      | 8.0      | 5.0      | 4.0      | 9.0      | 5.0      | 8.0      | 4.0      | 8.0      | 5.0      | 2.0      | 5.0      | 1.0      | 7.0     
+1        | Twilight Madness          | 3205779  | 3.0      | 1.0      | 4.0      | 3.0      | 3.0      | 3        | 1        | 3.0      | 1.0      | 1.0      | 1.0      | 4.0      | N/A      | 1.0      | 4.0      | 4.0      | 2.0      | 6.0      | 4.0      | 3.0      | 5.0      | 6.0      | 2.0      | 4.0      | 4.0      | 6.0      | 9.0      | 2.0      | 8.0      | N/A      | 2.0      | 6.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 4 | Brunel Charm⚠️ Owner's record is weaker (SR: 4.85%, 103 runs). (Rank: 4)
+🐎 8 years old  gelding, colo(u)r: b, carrying 136 lbs today.
+🦄 Sire: Charm Spirit 19/246 (8.0% Rank: 8)
+🌿 Dam: Manyara 0/0 (0.0% Rank: 8)
+⏱️ Speed record - Runs: 24 | Best: 5.7 sec (Rank 1), Worst: 6.74 sec (Rank 8), Avg: 6.09 sec (Rank 6)
+🛠️ No gear today
+🩺 Medical History: 📅 2024-10-10: Wind Surgery
+🎲 Early market: 5.0 (Rank: 1.0)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Up 9lb for exploiting a soft lead last time but Jack Dace's claim takes care of 7lb
+🔦 Spotlight: Not many 6f handicaps are won by more than 5l but that was the case at Chelmsford where he made the most of a soft lead; this might not pan out so favourably but he's on his game right now and Jack Dace's claim assists with the 9lb rise.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Jupiter Bloodstock Ltd
+🏠 Owner: John Joseph Smith 5/103 (5.0) - (No previous owner(s))
+👤 Trainer: Charlie Wallis (0 previous trainer(s)) last 14d WinRate (0.0/2.0 runs) (Rank: 4.0) RTF: 50.0 (OVR: 3%)
+🏇 Jockey: Jack Dace(7) (14d rank: 4.0) 🏇 Jockey 103833 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 95388 (1/1 - 100.0%)(0.0/ 6.0 runs) RTF: N/A (OVR: 13%) 5Y: 8/53 (15.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Up 9lb for exploiting a soft lead last time but Jack Dace's claim takes care of 7lb
+🔦 Spotlight: Not many 6f handicaps are won by more than 5l but that was the case at Chelmsford where he made the most of a soft lead; this might not pan out so favourably but he's on his game right now and Jack Dace's claim assists with the 9lb rise.
+📊 **STATS**
+📉 OFR: 73.0 (Rank: 3)
+📈 RPR: 87.0 (Rank: 1)
+📉 TS: 72.0 (Rank: 4)
+🏟️ Course Wins/Runs: 2/13 | Ratio: 0.15
+📏 Distance Wins/Runs: 2/10 | Ratio: 0.20
+🌱 Going Wins/Runs: 3/24 | Ratio: 0.12
+📊 Form: 3-1231 → Score: 0.22 (Rank: 1)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs with non-runs
+🏁 PastRace #: 1 on 📅 2025-03-13 18:15:00
+🥇 Result: 1 🥇 / 🏇 6 runners. Expected: 1
+📭 No result data for race 888426
+💰 Odds: 5.5 🔥
+📝 Comment: 🎯 made all, drifted right from 2f out, ⏳ ran on well from over 1f out, went clear inside final furlong, comfortably
+🏆 RaceName: Bet Boost At bet365 Handicap
+🏆 Race Description: 6Hc -- Handicap - H
+📋 Race Type: 6Hc
+🎽 Jockey: Saffie Osborne- (⚖️ Weight: 134.0 lbs (60.9 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Chelmsford (AW) (Polytrack. Left-handed, flat track, circuit 8.5f)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+⏳ Time between runs: 18  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-22 18:45:00
+🥇 Result: 3 🥉 / 🏇 9 runners. Expected: 1
+📭 No result data for race 886442
+💰 Odds: 4.5 🔥
+📝 Comment: in touch with leaders on inner, headway to lead over 1f out, faced challenge inside final furlong, headed inside final 110yds, no extra and lost second towards finish
+🏆 RaceName: Download The bet365 App Handicap
+🏆 Race Description: 5Hc -- Handicap - H
+📋 Race Type: 5Hc
+🎽 Jockey: Saffie Osborne- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Chelmsford (AW) (Polytrack. Left-handed, flat track, circuit 8.5f)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SS
+👜 Prize: 💰 5K
+⏳ Time between runs: 18  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2025-02-07 16:05:00
+🥇 Result: 2 🥈 / 🏇 11 runners. Expected: 1
+📭 No result data for race 885517
+💰 Odds: 2.0 🔥🔥
+📝 Comment: 🎯 prominent, 🎯 led over 2f out, headed over 1f out, no match for winner
+🏆 RaceName: Extra Winnings With BetUK Acca Club Handicap
+🏆 Race Description: 6Hc -- Handicap - H
+📋 Race Type: 6Hc
+🎽 Jockey: M Ghiani- (⚖️ Weight: 134.0 lbs (60.9 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Lingfield (AW) (Polytrack: left-handed, sharp)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 3K
+⏳ Time between runs: 15  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 4 on 📅 2025-01-20 16:15:00
+🥇 Result: 1 🥇 / 🏇 9 runners. Expected: 1
+📭 No result data for race 884536
+💰 Odds: 6.0 📉
+📝 Comment: awkward start, soon 🎯 prominent, 🎯 led after 1f, increased tempo 2f out, ridden and kept on well final furlong
+🏆 RaceName: Free Bet With Unibet's Betbuilder Rebound Handicap (Div I)
+🏆 Race Description: 6Hc -- Handicap - H
+📋 Race Type: 6Hc
+🎽 Jockey: M Ghiani- (⚖️ Weight: 132.0 lbs (60.0 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Kempton (AW) (Polytrack. Right-handed)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SS
+👜 Prize: 💰 3K
+⏳ Time between runs: 17  days ago
+---------------------------------------------------------------------------
+🐎 8 | Profit And Loss🐎 6 years old  gelding, colo(u)r: b, carrying 131 lbs today.
+🦄 Sire: Profitable 75/590 (13.0% Rank: 1)
+🌿 Dam: Narva 1/6 (17.0% Rank: 1)
+⏱️ Speed record - Runs: 6 | Best: 5.91 sec (Rank 9), Worst: 6.11 sec (Rank 1), Avg: 6.0 sec (Rank 3)
+🛠️ Gear: t
+🩺 Medical History: 📅 2024-01-24: Wind Surgery
+🎲 Early market: 5.0 (Rank: 1.0)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Defied a wide trip to beat four rivals here a month ago; only 3lb higher
+🔦 Spotlight: Multiple winner in Jersey and, on his second run back for previous trainer George Baker, he defied a wide trip to beat four rivals here a month ago; only 3lb higher.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: M Sundstrom, Anglia Bloodstock Et Al
+🏠 Owner: Simon Harrison-White 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: George Baker (0 previous trainer(s)) last 14d WinRate (2.0/5.0 runs) (Rank: 2.0) RTF: 60.0 (OVR: 11%)
+🏇 Jockey: Sean D Bowen (14d rank: 4.0) 🏇 Jockey 101300 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 96434 (2/4 - 50.0%)(0.0/ 12.0 runs) RTF: N/A (OVR: 14%) 5Y: 57/496 (11.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Defied a wide trip to beat four rivals here a month ago; only 3lb higher
+🔦 Spotlight: Multiple winner in Jersey and, on his second run back for previous trainer George Baker, he defied a wide trip to beat four rivals here a month ago; only 3lb higher.
+📊 **STATS**
+📉 OFR: 68.0 (Rank: 6)
+📈 RPR: 86.0 (Rank: 2)
+📉 TS: 60.0 (Rank: 7)
+🏟️ Course Wins/Runs: 1/2 | Ratio: 0.50
+📏 Distance Wins/Runs: 6/19 | Ratio: 0.32
+🌱 Going Wins/Runs: 1/7 | Ratio: 0.14
+📊 Form: 143-61 → Score: 0.08 (Rank: 4)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs with non-runs
+🏁 PastRace #: 1 on 📅 2025-03-05 15:12:00
+🥇 Result: 1 🥇 / 🏇 5 runners. Expected: 1
+📭 No result data for race 887445
+💰 Odds: 6.5 📉
+📝 Comment: raced wide, 🎯 prominent, pushed along over 2f out, ⏳ ran on well inside final furlong, 🎯 led inside final 110yds, kept on
+🏆 RaceName: £30 In Free Bets With BetUK Handicap
+🏆 Race Description: 5Hc -- Handicap - H
+📋 Race Type: 5Hc
+🎽 Jockey: T Marquand- (⚖️ Weight: 132.0 lbs (60.0 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Lingfield (AW) (Polytrack: left-handed, sharp)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+⏳ Time between runs: 26  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-22 18:45:00
+🥇 Result: 6 / 🏇 9 runners. Expected: 1
+📭 No result data for race 886442
+💰 Odds: 20.0 ❄️
+📝 Comment: 🚧 bumped rival start, switched left soon after start, in rear, raced wide home turn, some headway inside final furlong, never on terms
+🏆 RaceName: Download The bet365 App Handicap
+🏆 Race Description: 5Hc -- Handicap - H
+📋 Race Type: 5Hc
+🎽 Jockey: N Callan- (⚖️ Weight: 134.0 lbs (60.9 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Chelmsford (AW) (Polytrack. Left-handed, flat track, circuit 8.5f)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SS
+👜 Prize: 💰 5K
+⏳ Time between runs: 10  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-09-08 14:05:00
+🥇 Result: 3 🥉 / 🏇 4 runners. Expected: 1
+📭 No result data for race 876500
+💰 Odds: 0.5 🔥🔥
+📝 Comment: 🔄 midfield, challenged up the inner 2f out, just failed to get up for second in tight finish
+🏆 RaceName: Polygon Collective 2024 Jersey Bullet (Conditions Race) (Turf)
+🏆 Race Description: nan -- Unknown - 0
+📋 Race Type: nan
+🎽 Jockey: Miss V Malzard- (⚖️ Weight: 141.0 lbs (64.1 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Les Landes (nan)
+📏 Distance: 5.0 furlongs (🔽 vs 6.0 today)
+🌱 Going: GS
+👜 Prize: 💰 3K
+⏳ Time between runs: 167  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 4 on 📅 2024-08-26 14:05:00
+🥇 Result: 4 / 🏇 7 runners. Expected: 1
+📭 No result data for race 875570
+💰 Odds: 1.5 🔥🔥
+📝 Comment: 🎯 chased leader, dropped back 4f out, stayed on final furlong, not pace to challenge
+🏆 RaceName: La Verte Rue Associates Handicap (Turf)
+🏆 Race Description: Hc -- Handicap - H
+📋 Race Type: Hc
+🎽 Jockey: Miss V Malzard- (⚖️ Weight: 152.0 lbs (69.1 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Les Landes (nan)
+📏 Distance: 7.0 furlongs (🔼 vs 6.0 today)
+🌱 Going: G
+👜 Prize: 💰 2K
+⏳ Time between runs: 13  days ago
+---------------------------------------------------------------------------
+🐎 7 | Charlie Mason📈 Owner has a strong record (SR: 14.81%, 81 runs). (Rank: 2)
+🐎 4 years old  gelding, colo(u)r: b, carrying 131 lbs today.
+🦄 Sire: Mayson 61/542 (11.0% Rank: 3)
+🌿 Dam: Aubrietia 0/0 (0.0% Rank: 3)
+⏱️ Speed record - Runs: 30 | Best: 5.85 sec (Rank 6), Worst: 6.63 sec (Rank 5), Avg: 6.19 sec (Rank 8)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 5.0 (Rank: 1.0)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: On a tough mark but he's a consistent gelding who should run well again
+🔦 Spotlight: On a tough mark but he's a consistent gelding who ran another sound race at Southwell three weeks ago (6f); 0-5 here but has placed form and should go well.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: J Babb
+🏠 Owner: Shropshire Wolves 12/81 (15.0) - (No previous owner(s))
+👤 Trainer: Tony Carroll (0 previous trainer(s)) last 14d WinRate (3.0/45.0 runs) (Rank: 1.0) RTF: 40.0 (OVR: 10%)
+🏇 Jockey: Jack Doughty (14d rank: 3.0) 🏇 Jockey 103198 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 92728 (1/1 - 100.0%)(2.0/ 19.0 runs) RTF: N/A (OVR: 11%) 5Y: 63/442 (14.000000000000002)
+🗞️ **PRESS OPINION**
+💬 Comment: On a tough mark but he's a consistent gelding who should run well again
+🔦 Spotlight: On a tough mark but he's a consistent gelding who ran another sound race at Southwell three weeks ago (6f); 0-5 here but has placed form and should go well.
+📊 **STATS**
+📉 OFR: 68.0 (Rank: 6)
+📈 RPR: 83.0 (Rank: 7)
+📉 TS: 71.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/5 | Ratio: 0.00
+📏 Distance Wins/Runs: 3/16 | Ratio: 0.19
+🌱 Going Wins/Runs: 1/9 | Ratio: 0.11
+📊 Form: -24132 → Score: 0.13 (Rank: 3)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs with non-runs
+🏁 PastRace #: 1 on 📅 2025-03-11 17:40:00
+🥇 Result: 2 🥈 / 🏇 10 runners. Expected: 1
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 2.25 🔥
+📝 Comment: in touch with leaders, headway from over 2f out, went second inside final furlong, kept on
+🏆 RaceName: Free Bets With BetUK Bet Club Handicap
+🏆 Race Description: 5Hc -- Handicap - H
+📋 Race Type: 5Hc
+🎽 Jockey: C Rodriguez- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+⏳ Time between runs: 20  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-17 20:30:00
+🥇 Result: 3 🥉 / 🏇 8 runners. Expected: 1
+📭 No result data for race 888672
+💰 Odds: 3.333 🔥
+📝 Comment: in touch with leaders, headway to lead over 1f out, headed and ❄️ weakened gradually inside final furlong
+🏆 RaceName: Extra Winnings With BetUK Acca Club Handicap (Rider Restricted Race) (Div II)
+🏆 Race Description: 5Hc -- Handicap - H
+📋 Race Type: 5Hc
+🎽 Jockey: W A Carson- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+⏳ Time between runs: 21  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2025-01-27 19:00:00
+🥇 Result: 1 🥇 / 🏇 11 runners. Expected: 1
+📭 No result data for race 885407
+💰 Odds: 4.0 🔥
+📝 Comment: 🎯 prominent, 🔄 ridden to lead 1f out, kept on well final furlong
+🏆 RaceName: Extra Winnings With BetUK Acca Club Handicap
+🏆 Race Description: 5Hc -- Handicap - H
+📋 Race Type: 5Hc
+🎽 Jockey: R Ryan- (⚖️ Weight: 130.0 lbs (59.1 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+⏳ Time between runs: 21  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 4 on 📅 2025-01-18 10:45:00
+🥇 Result: 4 / 🏇 11 runners. Expected: 1
+📭 No result data for race 884523
+💰 Odds: 3.333 🔥
+📝 Comment: 🎯 prominent early, 🔄 midfield after 1f, headway over 2f out, pressed leaders inside final furlong, no extra inside final 110yds
+🏆 RaceName: Win £1M With BetMGM's Golden Goals Handicap
+🏆 Race Description: 5Hc -- Handicap - H
+📋 Race Type: 5Hc
+🎽 Jockey: Kaiya Fraser- (⚖️ Weight: 126.0 lbs (57.3 kg) carried -- Allowance: 3.0) 
+🏟️ Course: Lingfield (AW) (Polytrack: left-handed, sharp)
+📏 Distance: 7.0 furlongs (🔼 vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 7K
+⏳ Time between runs: 9  days ago
+---------------------------------------------------------------------------
+🐎 9 | One More Dream🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 6 years old  gelding, colo(u)r: br, carrying 130 lbs today.
+🦄 Sire: Bated Breath 41/496 (8.0% Rank: 6)
+🌿 Dam: Gracefilly 0/0 (0.0% Rank: 6)
+⏱️ Speed record - Runs: 50 | Best: 5.82 sec (Rank 5), Worst: 6.7 sec (Rank 7), Avg: 6.16 sec (Rank 7)
+🛠️ Gear: b
+🩺 Medical History: 📅 2022-09-22: Wind Surgery
+🎲 Early market: 7.5 (Rank: 4.0)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Responded well to the new blinkers when beaten 2l at Southwell four days ago
+🔦 Spotlight: Not in the same form as he was 12 months ago but he did win at Wolverhampton in February and responded well to the new blinkers when beaten 2l at Southwell four days ago; not ruled out.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Simon Wood
+🏠 Owner: Ryedale Racing 14/89 (16.0) - (No previous owner(s))
+👤 Trainer: John & Sean Quinn (0 previous trainer(s)) last 14d WinRate (0.0/6.0 runs) (Rank: 4.0) RTF: 57.0 (OVR: 100%)
+🏇 Jockey: Brandon Wilkie (14d rank: 1.0) 🏇 Jockey 101525 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 101759 (2/5 - 40.0%)(2.0/ 6.0 runs) RTF: N/A (OVR: 20%) 5Y: 2/79 (3.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Responded well to the new blinkers when beaten 2l at Southwell four days ago
+🔦 Spotlight: Not in the same form as he was 12 months ago but he did win at Wolverhampton in February and responded well to the new blinkers when beaten 2l at Southwell four days ago; not ruled out.
+📊 **STATS**
+📉 OFR: 67.0 (Rank: 9)
+📈 RPR: 85.0 (Rank: 4)
+📉 TS: 78.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/2 | Ratio: 0.00
+📏 Distance Wins/Runs: 6/24 | Ratio: 0.25
+🌱 Going Wins/Runs: 7/32 | Ratio: 0.22
+📊 Form: 316443 → Score: 0.06 (Rank: 6)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs with non-runs
+🏁 PastRace #: 1 on 📅 2025-03-28 20:15:00
+🥇 Result: 3 🥉 / 🏇 8 runners. Expected: 1
+📭 No result data for race 889542
+💰 Odds: 6.5 📉
+📝 Comment: took keen hold, 🎯 prominent, disputed lead over 1f out, carried left inside final furlong, ❄️ weakened inside final 110yds, lost second final stride
+🏆 RaceName: Gamble Responsibly At BetUK Handicap
+🏆 Race Description: 5Hc -- Handicap - H
+📋 Race Type: 5Hc
+🎽 Jockey: J Hart- (⚖️ Weight: 127.0 lbs (57.7 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+⏳ Time between runs: 3  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-03-15 19:15:00
+🥇 Result: 4 / 🏇 9 runners. Expected: 1
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+💰 Odds: 4.0 🔥
+📝 Comment: 🎯 prominent, no extra final furlong
+🏆 RaceName: Free Bets With BetUK Bet Club Handicap
+🏆 Race Description: 5Hc -- Handicap - H
+📋 Race Type: 5Hc
+🎽 Jockey: J Hart- (⚖️ Weight: 135.0 lbs (61.4 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+⏳ Time between runs: 13  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2025-03-11 20:15:00
+🥇 Result: 4 / 🏇 9 runners. Expected: 1
+🏆 1st: Did Not Run, 2nd: Did Not Run, 3rd: Did Not Run | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 4.0 🔥
+📝 Comment: took keen hold, 🎯 led, faced challenge from 3f out, headed over 1f out, ❄️ weakened final furlong
+🏆 RaceName: Best Odds Guaranteed At BetMGM Handicap
+🏆 Race Description: 5Hc -- Handicap - H
+📋 Race Type: 5Hc
+🎽 Jockey: J Hart- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📏 Distance: 7.0 furlongs (🔼 vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+⏳ Time between runs: 3  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 4 on 📅 2025-03-04 18:00:00
+🥇 Result: 6 / 🏇 12 runners. Expected: 1
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+💰 Odds: 7.0 📉
+📝 Comment: raced wide, took keen hold, in touch with leaders early, 🔄 midfield after 2f, no impression over 1f out, kept on inside final furlong
+🏆 RaceName: Win £1M With BetMGM's Golden Goals Handicap
+🏆 Race Description: 5Hc -- Handicap - H
+📋 Race Type: 5Hc
+🎽 Jockey: J Hart- (⚖️ Weight: 135.0 lbs (61.4 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📏 Distance: 7.0 furlongs (🔼 vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+⏳ Time between runs: 7  days ago
+---------------------------------------------------------------------------
+🐎 5 | Northcliff🐎 5 years old  gelding, colo(u)r: ch, carrying 132 lbs today.
+🦄 Sire: Dandy Man 74/1027 (7.000000000000001% Rank: 9)
+🌿 Dam: Colgin 0/0 (0.0% Rank: 9)
+⏱️ Speed record - Runs: 33 | Best: 5.85 sec (Rank 6), Worst: 6.6 sec (Rank 4), Avg: 6.07 sec (Rank 4)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 8.0 (Rank: 5.0)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: In decent form as he found some trouble when fourth last time at Wolverhampton
+🔦 Spotlight: Has dipped beneath his last winning mark (at Ascot last May) and comes here in decent form as he found some trouble when fourth last time at Wolverhampton; considered.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Gce Farm Ltd
+🏠 Owner: Peter & Dee Airey 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Michael Keady (0 previous trainer(s)) last 14d WinRate (0.0/10.0 runs) (Rank: 4.0) RTF: 50.0 (OVR: 20%)
+🏇 Jockey: Alice Bond(7) (14d rank: 4.0) 🏇 Jockey 97993 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 98097 (2/4 - 50.0%)(0.0/ 2.0 runs) RTF: N/A (OVR: 7%) 5Y: 1/8 (12.0)
+🗞️ **PRESS OPINION**
+💬 Comment: In decent form as he found some trouble when fourth last time at Wolverhampton
+🔦 Spotlight: Has dipped beneath his last winning mark (at Ascot last May) and comes here in decent form as he found some trouble when fourth last time at Wolverhampton; considered.
+📊 **STATS**
+📉 OFR: 69.0 (Rank: 5)
+📈 RPR: 84.0 (Rank: 6)
+📉 TS: 76.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/2 | Ratio: 0.00
+📏 Distance Wins/Runs: 2/23 | Ratio: 0.09
+🌱 Going Wins/Runs: 2/11 | Ratio: 0.18
+📊 Form: 7-2454 → Score: 0.05 (Rank: 8)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs with non-runs
+🏁 PastRace #: 1 on 📅 2025-03-11 18:00:00
+🥇 Result: 4 / 🏇 8 runners. Expected: 1
+📭 No result data for race 888392
+💰 Odds: 4.0 🔥
+📝 Comment: dwelt start, took keen hold, in touch with leaders on outer, ⚠️ hampered inside final furlong, kept on (jockey said gelding suffered interference inside final furlong)
+🏆 RaceName: BetUK: It's Where The UK Bets Handicap
+🏆 Race Description: 5Hc -- Handicap - H
+📋 Race Type: 5Hc
+🎽 Jockey: B Loughnane- (⚖️ Weight: 130.0 lbs (59.1 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+⏳ Time between runs: 20  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-28 16:40:00
+🥇 Result: 5 / 🏇 9 runners. Expected: 1
+📭 No result data for race 887396
+💰 Odds: 7.5 📉
+📝 Comment: took keen hold, 🔄 towards rear, switched right over 2f out, soon steady headway, stayed on inside final furlong
+🏆 RaceName: Extra Winnings With BetUK Acca Club Handicap
+🏆 Race Description: 4Hc -- Handicap - H
+📋 Race Type: 4Hc
+🎽 Jockey: K Shoemark- (⚖️ Weight: 128.0 lbs (58.2 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+⏳ Time between runs: 11  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2025-02-12 14:05:00
+🥇 Result: 4 / 🏇 9 runners. Expected: 1
+📭 No result data for race 886348
+💰 Odds: 2.75 🔥
+📝 Comment: 🎯 led, headed over 1f out, soon rallied, keeping on when 🚧 bumped inside final furlong, bit short of room towards finish (jockey said gelding suffered interference approximately 1f from line)
+🏆 RaceName: Weekly £5 Free Bet With BetUK Handicap (Div I)
+🏆 Race Description: 5Hc -- Handicap - H
+📋 Race Type: 5Hc
+🎽 Jockey: B Loughnane- (⚖️ Weight: 134.0 lbs (60.9 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+⏳ Time between runs: 16  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 4 on 📅 2025-01-25 19:05:00
+🥇 Result: 2 🥈 / 🏇 10 runners. Expected: 1
+🏆 1st: Did Not Run, 2nd: Did Not Run, 3rd: Did Not Run | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 5.0 🔥
+📝 Comment: ⚠️ hampered start, in touch with leaders, headway from over 1f out, kept on but no impression inside final furlong
+🏆 RaceName: Gamble Responsibly At BetUK Handicap
+🏆 Race Description: 5Hc -- Handicap - H
+📋 Race Type: 5Hc
+🎽 Jockey: B Loughnane- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+⏳ Time between runs: 17  days ago
+---------------------------------------------------------------------------
+🐎 6 | Tyger Bay🐎 8 years old  gelding, colo(u)r: b, carrying 131 lbs today.
+🦄 Sire: Cable Bay 36/357 (10.0% Rank: 4)
+🌿 Dam: Ribbon Royale 0/0 (0.0% Rank: 4)
+⏱️ Speed record - Runs: 45 | Best: 5.78 sec (Rank 4), Worst: 6.68 sec (Rank 6), Avg: 6.07 sec (Rank 4)
+🛠️ Gear: tb
+🩺 Medical History: 📅 2020-07-09: Wind Surgery
+🎲 Early market: 8.0 (Rank: 5.0)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ✅ Yes
+🗞️ **PRESS OPINION**
+💬 Comment: Stall 1 might not be ideal for one who does have a tendency to miss the break
+🔦 Spotlight: Exposed 8yo but remains very capable and a slow start was no help when behind Charlie Mason last time at Southwell (6f); does have a tendency to miss the kick (though not always) and that would spell danger from stall one; 6lb higher when a close third in this last year.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Fernham Farm Ltd
+🏠 Owner: Middleham Park Racing Xxxvii & Partners 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Conrad Allen (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 4.0) RTF: 33.0 (OVR: 18%)
+🏇 Jockey: Joe Leavy (14d rank: 2.0) 🏇 Jockey 101259 Today's Jock winSR: 20.0% | 🏆 Not H&J as Best Alternative Jockey: 84636 (1/1 - 100.0%)(3.0/ 12.0 runs) RTF: N/A (OVR: 13%) 5Y: 16/157 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Stall 1 might not be ideal for one who does have a tendency to miss the break
+🔦 Spotlight: Exposed 8yo but remains very capable and a slow start was no help when behind Charlie Mason last time at Southwell (6f); does have a tendency to miss the kick (though not always) and that would spell danger from stall one; 6lb higher when a close third in this last year.
+📊 **STATS**
+📉 OFR: 68.0 (Rank: 6)
+📈 RPR: 86.0 (Rank: 2)
+📉 TS: 80.0 (Rank: 1)
+🏟️ Course Wins/Runs: 3/15 | Ratio: 0.20
+📏 Distance Wins/Runs: 10/61 | Ratio: 0.16
+🌱 Going Wins/Runs: 4/26 | Ratio: 0.15
+📊 Form: 3-6264 → Score: 0.05 (Rank: 7)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs with non-runs
+🏁 PastRace #: 1 on 📅 2025-03-11 17:40:00
+🥇 Result: 4 / 🏇 10 runners. Expected: 1
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 10.0 📉
+📝 Comment: in rear, steady headway from 2f out, kept on well inside final furlong (jockey said gelding was 🐢 slowly away)
+🏆 RaceName: Free Bets With BetUK Bet Club Handicap
+🏆 Race Description: 5Hc -- Handicap - H
+📋 Race Type: 5Hc
+🎽 Jockey: C Planas- (⚖️ Weight: 129.0 lbs (58.6 kg) carried -- Allowance: 3.0) 
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+⏳ Time between runs: 20  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-05 19:00:00
+🥇 Result: 6 / 🏇 8 runners. Expected: 1
+📭 No result data for race 885493
+💰 Odds: 8.0 📉
+📝 Comment: in touch with leaders but raced wide early, hung left and ❄️ weakened from over 2f out (jockey said gelding hung left-handed in home straight)
+🏆 RaceName: Unibet More Extra Place Races Handicap
+🏆 Race Description: 5Hc -- Handicap - H
+📋 Race Type: 5Hc
+🎽 Jockey: C Planas- (⚖️ Weight: 129.0 lbs (58.6 kg) carried -- Allowance: 3.0) 
+🏟️ Course: Kempton (AW) (Polytrack. Right-handed)
+📏 Distance: 7.0 furlongs (🔼 vs 6.0 today)
+🌱 Going: SS
+👜 Prize: 💰 4K
+⏳ Time between runs: 33  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2025-01-22 14:55:00
+🥇 Result: 2 🥈 / 🏇 7 runners. Expected: 1
+📭 No result data for race 884561
+💰 Odds: 3.5 🔥
+📝 Comment: 🎯 led, headed and no extra final 110yds, lost second final strides, finished 3rd, placed 2nd
+🏆 RaceName: Free Bets With BetUK Bet Club Handicap
+🏆 Race Description: 5Hc -- Handicap - H
+📋 Race Type: 5Hc
+🎽 Jockey: C Planas- (⚖️ Weight: 129.0 lbs (58.6 kg) carried -- Allowance: 3.0) 
+🏟️ Course: Lingfield (AW) (Polytrack: left-handed, sharp)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+⏳ Time between runs: 14  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 4 on 📅 2025-01-08 18:30:00
+🥇 Result: 6 / 🏇 11 runners. Expected: 1
+📭 No result data for race 883565
+💰 Odds: 5.5 🔥
+📝 Comment: in touch with leaders, raced wide from 3f out, outpaced over 2f out, kept on but no impression from over 1f out
+🏆 RaceName: Free Bet With Unibet's Betbuilder Rebound Handicap (London Sprint Series Qualifier)
+🏆 Race Description: 5Hc -- Handicap - H
+📋 Race Type: 5Hc
+🎽 Jockey: G Wood- (⚖️ Weight: 135.0 lbs (61.4 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Kempton (AW) (Polytrack. Right-handed)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SS
+👜 Prize: 💰 4K
+⏳ Time between runs: 13  days ago
+---------------------------------------------------------------------------
+🐎 3 | Get Jiggy With It⚠️ Owner's record is weaker (SR: 6.56%, 61 runs). (Rank: 3)
+🐎 4 years old  filly, colo(u)r: b, carrying 136 lbs today.
+🦄 Sire: Highland Reel 28/346 (8.0% Rank: 7)
+🌿 Dam: Suvenna 0/1 (0.0% Rank: 7)
+⏱️ Speed record - Runs: 15 | Best: 5.87 sec (Rank 8), Worst: 6.84 sec (Rank 9), Avg: 6.27 sec (Rank 9)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 8.5 (Rank: 7.0)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Made a quiet debut for her 🆕 new yard, albeit in a Class 4 (first-time tongue-tie)
+🔦 Spotlight: Won only once for Charles Hills and became expensive to follow; picked up for 50,000gns and made a quiet debut for her 🆕 new yard, albeit in a Class 4 (first-time tongue-tie).
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Kildaragh Stud
+🏠 Owner: Mrs Emma Kennedy 4/61 (7.000000000000001) - (No previous owner(s))
+👤 Trainer: George Boughey (0 previous trainer(s)) last 14d WinRate (3.0/16.0 runs) (Rank: 3.0) RTF: 56.0 (OVR: 14%)
+🏇 Jockey: Jack Callan(7) (14d rank: 4.0) 🏇 Jockey 102526 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 90868 (1/1 - 100.0%)(0.0/ 3.0 runs) RTF: N/A (OVR: 0%) 5Y: 0/13 (0.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Made a quiet debut for her 🆕 new yard, albeit in a Class 4 (first-time tongue-tie)
+🔦 Spotlight: Won only once for Charles Hills and became expensive to follow; picked up for 50,000gns and made a quiet debut for her 🆕 new yard, albeit in a Class 4 (first-time tongue-tie).
+📊 **STATS**
+📉 OFR: 73.0 (Rank: 3)
+📈 RPR: 81.0 (Rank: 8)
+📉 TS: 46.0 (Rank: 8)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/3 | Ratio: 0.00
+📊 Form: 1206-5 → Score: 0.08 (Rank: 5)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs with non-runs
+🏁 PastRace #: 1 on 📅 2025-03-17 16:27:00
+🥇 Result: 5 / 🏇 10 runners. Expected: 1
+📭 No result data for race 888456
+💰 Odds: 14.0 📉
+📝 Comment: 🔄 midfield, headway from 2f out, ❄️ weakened inside final furlong
+🏆 RaceName: Best Odds Guaranteed At BetMGM Handicap
+🏆 Race Description: 4Hc -- Handicap - H
+📋 Race Type: 4Hc
+🎽 Jockey: B Loughnane- (⚖️ Weight: 132.0 lbs (60.0 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📏 Distance: 8.5 furlongs (🔼 vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+⏳ Time between runs: 14  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-11-13 17:00:00
+🥇 Result: 6 / 🏇 9 runners. Expected: 1
+📭 No result data for race 879240
+💰 Odds: 11.0 📉
+📝 Comment: 🎯 prominent on outer, went second after 3f, pressed leader from 2f out, no extra from 1f out, ❄️ weakened inside final furlong
+🏆 RaceName: Weekly Free Bets With BetMGM Extra Fillies' Handicap
+🏆 Race Description: 4HcF -- Handicap - H
+📋 Race Type: 4HcF
+🎽 Jockey: S D Bowen- (⚖️ Weight: 122.0 lbs (55.5 kg) carried -- Allowance: 3.0) 
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📏 Distance: 7.0 furlongs (🔼 vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+⏳ Time between runs: 123  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-09-21 13:10:00
+🥇 Result: 11 / 🏇 12 runners. Expected: 1
+📭 No result data for race 874943
+💰 Odds: 12.0 📉
+📝 Comment: towards far side, disputed lead and 🎯 led group, 🎯 led overall when groups merged over 4f out, headed over 2f out, soon bit short of room and ❄️ weakened
+🏆 RaceName: Turners Fillies' Handicap
+🏆 Race Description: 4HcF -- Handicap - H
+📋 Race Type: 4HcF
+🎽 Jockey: J P Spencer- (⚖️ Weight: 128.0 lbs (58.2 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Newmarket (right-handed, galloping track)
+📏 Distance: 8.0 furlongs (🔼 vs 6.0 today)
+🌱 Going: GF
+👜 Prize: 💰 7K
+⏳ Time between runs: 53  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 4 on 📅 2024-09-07 15:25:00
+🥇 Result: 2 🥈 / 🏇 7 runners. Expected: 1
+📭 No result data for race 873955
+💰 Odds: 6.0 📉
+📝 Comment: started quickly, 🎯 led, switched to centre 3f out, going best over 2f out, faced challenge from over 1f out, edged left when sustained duel with winner inside final furlong, headed and no extra final 110yds
+🏆 RaceName: British Stallion Studs EBF Fillies' Handicap
+🏆 Race Description: 3HcF -- Handicap - H
+📋 Race Type: 3HcF
+🎽 Jockey: C Beasley- (⚖️ Weight: 122.0 lbs (55.5 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Thirsk (left-handed, fairly sharp track)
+📏 Distance: 7.0 furlongs (🔼 vs 6.0 today)
+🌱 Going: G
+👜 Prize: 💰 10K
+⏳ Time between runs: 13  days ago
+---------------------------------------------------------------------------
+🐎 2 | Invincible Speed🐎 4 years old  gelding, colo(u)r: b, carrying 138 lbs today.
+🦄 Sire: Invincible Spirit 79/810 (10.0% Rank: 5)
+🌿 Dam: Making Memories 3/14 (21.0% Rank: 5)
+⏱️ Speed record - Runs: 13 | Best: 5.72 sec (Rank 2), Worst: 6.25 sec (Rank 2), Avg: 5.99 sec (Rank 2)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 15.0 (Rank: 8.0)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Takes a drop in class here but has not yet fired for his current yard
+🔦 Spotlight: Both wins have come at Wolverhampton; takes a drop in class here but has not yet fired for his current yard.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Rabbah Bloodstock Limited
+🏠 Owner: Melissa Cooke And Laurence Bellman 0/7 (0.0) - (No previous owner(s))
+👤 Trainer: Mark Loughnane (0 previous trainer(s)) last 14d WinRate (0.0/13.0 runs) (Rank: 4.0) RTF: 38.0 (OVR: 11%)
+🏇 Jockey: Grace Mcentee (14d rank: 4.0) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0.0/ 6.0 runs) RTF: N/A (OVR: 9%) 5Y: 31/330 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Takes a drop in class here but has not yet fired for his current yard
+🔦 Spotlight: Both wins have come at Wolverhampton; takes a drop in class here but has not yet fired for his current yard.
+📊 **STATS**
+📉 OFR: 75.0 (Rank: 1)
+📈 RPR: 79.0 (Rank: 9)
+📉 TS: 62.0 (Rank: 6)
+🏟️ Course Wins/Runs: 0/3 | Ratio: 0.00
+📏 Distance Wins/Runs: 1/8 | Ratio: 0.12
+🌱 Going Wins/Runs: 2/8 | Ratio: 0.25
+📊 Form: 78-776 → Score: 0.03 (Rank: 9)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs with non-runs
+🏁 PastRace #: 1 on 📅 2025-03-27 18:45:00
+🥇 Result: 6 / 🏇 8 runners. Expected: 1
+📭 No result data for race 889547
+💰 Odds: 28.0 ❄️
+📝 Comment: in rear, brief headway over 1f out, no extra inside final furlong
+🏆 RaceName: Gamble Responsibly At BetUK Handicap
+🏆 Race Description: 4Hc -- Handicap - H
+📋 Race Type: 4Hc
+🎽 Jockey: B Loughnane- (⚖️ Weight: 132.0 lbs (60.0 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📏 Distance: 5.0 furlongs (🔽 vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+⏳ Time between runs: 4  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-19 19:30:00
+🥇 Result: 7 / 🏇 8 runners. Expected: 1
+📭 No result data for race 886412
+💰 Odds: 28.0 ❄️
+📝 Comment: 🔄 midfield, ❄️ weakened from over 1f out
+🏆 RaceName: Try Unibet's New Improved Acca Boosts Handicap (London Sprint Series Qual') (Rider Restricted Race)
+🏆 Race Description: 4Hc -- Handicap - H
+📋 Race Type: 4Hc
+🎽 Jockey: J Peate- (⚖️ Weight: 135.0 lbs (61.4 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Kempton (AW) (Polytrack. Right-handed)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SS
+👜 Prize: 💰 6K
+⏳ Time between runs: 35  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2025-01-13 19:00:00
+🥇 Result: 7 / 🏇 7 runners. Expected: 1
+🏆 1st: Unplaced, 2nd: Did Not Run, 3rd: Did Not Run | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 16.0 📉
+📝 Comment: in touch with leaders early, headway and 🎯 prominent after 1f, ❄️ weakened from over 2f out (jockey said gelding ❄️ stopped quickly; vet examined the gelding post-race and had nothing to report)
+🏆 RaceName: BetUK: It's Where The UK Bets Handicap
+🏆 Race Description: 4Hc -- Handicap - H
+📋 Race Type: 4Hc
+🎽 Jockey: E Greatrex- (⚖️ Weight: 136.0 lbs (61.8 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+⏳ Time between runs: 37  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 4 on 📅 2024-10-12 17:50:00
+🥇 Result: 8 / 🏇 9 runners. Expected: 1
+📭 No result data for race 879333
+💰 Odds: 16.0 📉
+📝 Comment: 🔄 midfield, some headway against rail over 1f out, ridden inside final furlong, ❄️ weakened inside final 110yds
+🏆 RaceName: Betfair Exchange Beacons Handicap (Div II)
+🏆 Race Description: 4Hc -- Handicap - H
+📋 Race Type: 4Hc
+🎽 Jockey: R Hornby- (⚖️ Weight: 138.0 lbs (62.7 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Chelmsford (AW) (Polytrack. Left-handed, flat track, circuit 8.5f)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 6K
+⏳ Time between runs: 93  days ago
+---------------------------------------------------------------------------
+🐎 1 | Twilight Madness🐎 7 years old  horse, colo(u)r: ch, carrying 138 lbs today.
+🦄 Sire: Twilight Son 66/530 (12.0% Rank: 2)
+🌿 Dam: Rhal 4/23 (17.0% Rank: 2)
+⏱️ Speed record - Runs: 23 | Best: 5.75 sec (Rank 3), Worst: 6.51 sec (Rank 3), Avg: 5.96 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 21.0 (Rank: 9.0)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Potentially dangerous off this mark but has been out for a year
+🔦 Spotlight: Seven wins include a C&D success in late 2023, his final victory; potentially dangerous off this mark but has been out for a year.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Crossfields Bloodstock Ltd
+🏠 Owner: P R Hedger & P C F Racing Ltd 0/0 (0.0) - (No previous owner(s))
+👤 Trainer: Simon Hodgson (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 4.0) RTF: 33.0 (OVR: 11%)
+🏇 Jockey: Connor Planas (14d rank: 4.0) 🏇 Jockey 101770 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 93947 (1/1 - 100.0%)(0.0/ 3.0 runs) RTF: N/A (OVR: 7%) 5Y: 28/279 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Potentially dangerous off this mark but has been out for a year
+🔦 Spotlight: Seven wins include a C&D success in late 2023, his final victory; potentially dangerous off this mark but has been out for a year.
+📊 **STATS**
+📉 OFR: 75.0 (Rank: 1)
+📈 RPR: 85.0 (Rank: 4)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 1/3 | Ratio: 0.33
+📏 Distance Wins/Runs: 4/20 | Ratio: 0.20
+🌱 Going Wins/Runs: 2/14 | Ratio: 0.14
+📊 Form: /2420- → Score: 0.17 (Rank: 2)
+---------------------------------------------------------------------------
+-*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-
+Past runs with non-runs
+🏁 PastRace #: 1 on 📅 2024-04-01 15:05:00
+🥇 Result: 11 / 🏇 11 runners. Expected: 1
+📭 No result data for race 862388
+💰 Odds: 12.0 📉
+📝 Comment: raced wide, in touch with leaders, ❄️ weakened from 2f out
+🏆 RaceName: Virgin Bet Best Odds Daily Handicap (London Sprint Series Qualifier)
+🏆 Race Description: 4Hc -- Handicap - H
+📋 Race Type: 4Hc
+🎽 Jockey: W Carver- (⚖️ Weight: 123.0 lbs (55.9 kg) carried -- Allowance: 3.0) 
+🏟️ Course: Kempton (AW) (Polytrack. Right-handed)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SS
+👜 Prize: 💰 6K
+⏳ Time between runs: 364  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-02-29 17:30:00
+🥇 Result: 2 🥈 / 🏇 4 runners. Expected: 1
+📭 No result data for race 860308
+💰 Odds: 0.571 🔥🔥
+📝 Comment: 🎯 led, briefly headed over 3f out, ridden final furlong, soon faced challenge, carried left inside final 110yds, headed towards finish
+🏆 RaceName: bet365 Handicap
+🏆 Race Description: 4Hc -- Handicap - H
+📋 Race Type: 4Hc
+🎽 Jockey: J Hart- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Chelmsford (AW) (Polytrack. Left-handed, flat track, circuit 8.5f)
+📏 Distance: 5.0 furlongs (🔽 vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 6K
+⏳ Time between runs: 31  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-02-04 14:02:00
+🥇 Result: 4 / 🏇 7 runners. Expected: 1
+📭 No result data for race 858386
+💰 Odds: 3.0 🔥
+📝 Comment: soon raced in second, lost position over 1f out, no extra inside final 110yds
+🏆 RaceName: Build Your Acca With BetUK Handicap
+🏆 Race Description: 4Hc -- Handicap - H
+📋 Race Type: 4Hc
+🎽 Jockey: W Carver- (⚖️ Weight: 125.0 lbs (56.8 kg) carried -- Allowance: 3.0) 
+🏟️ Course: Lingfield (AW) (Polytrack: left-handed, sharp)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+⏳ Time between runs: 25  days ago
+---------------------------------------------------------------------------
+🏁 PastRace #: 4 on 📅 2024-02-01 19:30:00
+🥇 Result: 2 🥈 / 🏇 7 runners. Expected: 1
+📭 No result data for race 858341
+💰 Odds: 3.5 🔥
+📝 Comment: pressed leader, 🎯 led 2f out, headed inside final 110yds, kept on but no extra towards finish
+🏆 RaceName: Happy Birthday PC Handicap
+🏆 Race Description: 4Hc -- Handicap - H
+📋 Race Type: 4Hc
+🎽 Jockey: J Hart- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 
+🏟️ Course: Chelmsford (AW) (Polytrack. Left-handed, flat track, circuit 8.5f)
+📏 Distance: 5.0 furlongs (🔽 vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 7K
+⏳ Time between runs: 2  days ago
+---------------------------------------------------------------------------
