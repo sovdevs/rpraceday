@@ -1,0 +1,445 @@
+⏰ Off Time: 2025-04-03 15:05
+📍 Venue: Plumpton (left-handed, sharp, undulating track)
+🏁 Race ID: 889446 - 🏆 Name: Dine & Stay @ The Jolly Sportsman Handicap Hurdle
+⛷️ Type: Hurdle
+📏 Distance: 25.0 furlongs
+🏇 Class/Grade: Class 5
+🎂 Age Band: 4yo+
+💰 Prize money: 💰 4K
+⛅ Weather: Partly cloudy
+🌱 Going: Good
+6 runners declared
+Speed Performance for Race ID 889446 (Filter: AND_notAW_handicap_notAmateur)
+===========================================================================
+horse_id    horse_name AND_notAW_handicap_notAmateur_bestSpeedPerM AND_notAW_handicap_notAmateur_worstSpeedPerM AND_notAW_handicap_notAmateur_avgSpeedPerM AND_notAW_handicap_notAmateur_noRaces AND_notAW_handicap_notAmateur_bestSpeedPerM_rank AND_notAW_handicap_notAmateur_avgSpeedPerM_rank
+ 4191647  Pure Theatre                                        12.3                                        13.83                                      13.15                                  10.0                                              3.0                                             1.0
+ 5568460 Bella Cavalla                                       12.85                                        13.74                                      13.15                                   6.0                                              1.0                                             1.0
+ 4910541 Ballela Blaze                                       12.44                                        13.73                                      13.08                                   2.0                                              2.0                                             3.0
+ 3038232      Westtara                                       12.18                                        13.35                                      12.94                                   4.0                                              4.0                                             4.0
+ 3938005     Abbeyhill                                       11.33                                        13.06                                      12.24                                  10.0                                              5.0                                             5.0
+ 5884299        Stylia                                         NaN                                          NaN                                        NaN                                   NaN                                              NaN                                             NaN
+No head-to-head data found for any of this race's horses
+++++++++++Performance Table++++++++++
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1        | Pure Theatre              | 4191647  | 6.0      | 3.0      | 6.0      | 2.0      | 2.0      | 2        | 1        | 6.0      | 2.0      | 1.0      | 2.0      | 1.0      | 1.0      | 1.0      | 3.0      | 2.0      | 3.0      | 3.0      | 1.0      | 1.0      | 1.0      | 1.0      | 6.0      | 2.0      | 2.0      | 1.0      | 1.0      | 3.0      | 1.0      | 1.0      | N/A      | 3.0     
+2        | Stylia                    | 5884299  | 4.0      | 5.0      | 1.0      | 3.0      | 5.0      | 5        | 3        | 4.0      | 3.0      | 5.0      | 2.0      | 6.0      | 5.0      | 2.0      | 3.0      | 6.0      | 4.0      | 2.0      | 1.0      | 1.0      | 1.0      | 1.0      | 2.0      | N/A      | N/A      | N/A      | 2.0      | 1.0      | 1.0      | 3.0      | 1.0      | 2.0     
+6        | Bella Cavalla             | 5568460  | 1.0      | 5.0      | 3.0      | 3.0      | 5.0      | 3        | 4        | 3.0      | 3.0      | 3.0      | 2.0      | 1.0      | 3.0      | 6.0      | 3.0      | 1.0      | 6.0      | 4.0      | 3.0      | 5.0      | 3.0      | 5.0      | 1.0      | 2.0      | 2.0      | 2.0      | 2.0      | 5.0      | 2.0      | 2.0      | 1.0      | 1.0     
+5        | Abbeyhill                 | 3938005  | 3.0      | 1.0      | 4.0      | 1.0      | 3.0      | 6        | 6        | 2.0      | 1.0      | 4.0      | 1.0      | 4.0      | N/A      | 5.0      | 1.0      | 5.0      | 5.0      | 5.0      | 3.0      | 5.0      | 3.0      | 5.0      | 5.0      | 1.0      | 1.0      | 2.0      | 2.0      | 4.0      | 2.0      | N/A      | N/A      | 4.0     
+3        | Ballela Blaze             | 4910541  | 5.0      | 2.0      | 2.0      | 3.0      | 1.0      | 1        | 5        | 5.0      | 1.0      | 2.0      | 2.0      | 5.0      | 3.0      | 3.0      | 1.0      | 4.0      | 1.0      | 6.0      | 5.0      | 4.0      | 5.0      | 3.0      | 3.0      | N/A      | N/A      | 2.0      | 5.0      | 6.0      | 3.0      | 3.0      | 1.0      | 6.0     
+4        | Westtara                  | 3038232  | 2.0      | 4.0      | 5.0      | 3.0      | 4.0      | 4        | 2        | 1.0      | 3.0      | 6.0      | 2.0      | 3.0      | 2.0      | 4.0      | 3.0      | 3.0      | 2.0      | 1.0      | 6.0      | 3.0      | 5.0      | 4.0      | 4.0      | 2.0      | 2.0      | 2.0      | 6.0      | 2.0      | 4.0      | 3.0      | 1.0      | 5.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 1 | Pure Theatre🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 7 years old  mare, b,  168 lbs.
+🦄 Sire: Court Cave (13.0% Rank: 3)
+🌿 Dam: Faucon (0.0% Rank: ?)
+⏱️ Speed record - Runs: 15 | Best: 7.23 sec (Rank 2), Worst: 8.13 sec (Rank 2), Avg: 7.6 sec (Rank 1)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 3.75 (Rank: 1)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Seemed to run well in three-runner race on Monday but this season's record is unconvincing
+🔦 Spotlight: Seemed to run well when second to in-form rival in three-runner contest at Wincanton (3m, good) on Monday and remains well handicapped on older form but has not been firing on all cylinders this season and it's hard to predict whether she'll build on that recent effort.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: D E Cantillon
+🏠 Owner: Anthony Honeyball Racing Club 2/13 (15.00%) - (No previous owner(s))
+👤 Trainer: Anthony Honeyball (0 previous trainer(s)) last 14d WinRate (3.0/9.0 runs) (Rank: 1) RTF: 67.0 (OVR: 21%)
+🏇 Jockey: Chad Bament(7) (14d rank: 1) 🏇 Jockey 102459 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 101473 (1/2 - 50.0%)(0.0/ 3.0 runs) RTF: N/A (OVR: 25%) 5Y: 4/29 (14.000000000000002)
+🗞️ **PRESS OPINION**
+💬 Comment: Seemed to run well in three-runner race on Monday but this season's record is unconvincing
+🔦 Spotlight: Seemed to run well when second to in-form rival in three-runner contest at Wincanton (3m, good) on Monday and remains well handicapped on older form but has not been firing on all cylinders this season and it's hard to predict whether she'll build on that recent effort.
+📊 **STATS**
+📉 OFR: 97.0 (Rank: 1)
+📈 RPR: 103.0 (Rank: 1)
+📉 TS: 93.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/3 | Ratio: 0.00
+🌱 Going Wins/Runs: 2/8 | Ratio: 0.25
+📊 Form: 688652 → Score: 0.03 (Rank: 6)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-31 15:15:00 | ⏳ Time between runs: 2  days ago
+🥇 Result: 2 🥈 / 🏇 3 runners. Expected: 2.0 → Actual: 2 (0.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 1.5 🔥🔥
+📝 Comment: 🎯 led, not fluent 3 out, headed 2 out, no extra run-in
+🏆 RaceName: Wincanton Fireworks On Sale Now Mares' Handicap Hurdle (Challenger Mares' Hurdle Series Qualifier)
+📋 Race Type: 3HcHM
+🎽 Jockey: B Godfrey- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 🏇 Jockey: Chad Bament(7) (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: Jack Martin (1/2, SR 50.0%)
+🏟️ Course: Wincanton (right-handed, galloping track)
+📏 Distance: 24.5 furlongs (🔽 vs 25.0 today)
+🌱 Going: G
+👜 Prize: 💰 11K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-10 13:45:00 | ⏳ Time between runs: 49  days ago
+🥇 Result: 5 / 🏇 6 runners. Expected: 6.0 → Actual: 5 (+1.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: 1 🥇 | 📊 1-3: 1W/0P/0U | 🐴 Also: 0W/1P/0U
+💰 Odds: 8.0 📉
+📝 Comment: 🎯 prominent, outpaced and lost ground after 3 out, weakening when mistake last
+🏆 RaceName: Chris Simpson From Plumpton To Pontefract Conditional Jockeys' Handicap Hurdle
+📋 Race Type: 4HcH
+🎽 Jockey: C Bament- (⚖️ Weight: 140.0 lbs (63.6 kg) carried -- Allowance: 10.0) 🏇 Jockey: Chad Bament(7) (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: Jack Martin (1/2, SR 50.0%)
+🏟️ Course: Plumpton (left-handed, sharp, undulating track)
+📏 Distance: 25.0 furlongs (➡️ vs 25.0 today)
+🌱 Going: S
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-11-25 15:25:00 | ⏳ Time between runs: 76  days ago
+🥇 Result: 6 / 🏇 9 runners. Expected: 5.0 → Actual: 6 (-1.0 vs expected)
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 6.5 📉
+📝 Comment: raced in second, challenging before 3 out, ❄️ weakened from 2 out
+🏆 RaceName: Join RacingTV Now Handicap Hurdle
+📋 Race Type: 5HcH
+🎽 Jockey: C Bament- (⚖️ Weight: 147.0 lbs (66.8 kg) carried -- Allowance: 10.0) 🏇 Jockey: Chad Bament(7) (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: Jack Martin (1/2, SR 50.0%)
+🏟️ Course: Ludlow (right-handed, sharp track)
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🐎 2 | Stylia🐎 5 years old  mare, b,  160 lbs.
+🦄 Sire: No Risk At All (18.0% Rank: 1)
+🌿 Dam: Unknown Flower (0.0% Rank: 1)
+⏱️ Speed record - Runs: 4 | Best: 7.5 sec (Rank 5), Worst: 8.11 sec (Rank 1), Avg: 7.83 sec (Rank 3)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 4.5 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Well beaten in 2m maiden/novice hurdles; could be a completely different proposition here
+🔦 Spotlight: A well-beaten outsider in three novice/maiden hurdles at around 2m this winter (good to soft-heavy) but came second in a good-ground Irish point last spring and is open to significant improvement under rules now she's hiked up in trip and back on a sound surface for her handicap debut.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: E A R L Haras De La Croix Sonnet Et Al
+🏠 Owner: The Soldiers Of Fortune Iii 0/4 (0.00%) - (No previous owner(s))
+👤 Trainer: Anthony Honeyball (0 previous trainer(s)) last 14d WinRate (3.0/9.0 runs) (Rank: 1) RTF: 67.0 (OVR: 21%)
+🏇 Jockey: Ben Godfrey (14d rank: 2) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0.0/ 10.0 runs) RTF: N/A (OVR: 16%) 5Y: 26/165 (16.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Well beaten in 2m maiden/novice hurdles; could be a completely different proposition here
+🔦 Spotlight: A well-beaten outsider in three novice/maiden hurdles at around 2m this winter (good to soft-heavy) but came second in a good-ground Irish point last spring and is open to significant improvement under rules now she's hiked up in trip and back on a sound surface for her handicap debut.
+📊 **STATS**
+📉 OFR: 89.0 (Rank: 2)
+📈 RPR: 88.0 (Rank: 6)
+📉 TS: 62.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: F28044 → Score: 0.06 (Rank: 2)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-01-16 13:25:00 | ⏳ Time between runs: 76  days ago
+🥇 Result: 4 / 🏇 8 runners. Expected: 7.0 → Actual: 4 (+3.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 66.0 ❄️❄️
+📝 Comment: visibility reduced by fog, in rear, no impression
+🏆 RaceName: Cheese & Cider Race Night 16th April Maiden Hurdle (GBB Race)
+📋 Race Type: 4MdH
+🎽 Jockey: B Godfrey- (⚖️ Weight: 155.0 lbs (70.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Ben Godfrey (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: B O'Neill (0/1, SR 0.0%)
+🏟️ Course: Wincanton (right-handed, galloping track)
+📏 Distance: 15.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-12-19 13:32:00 | ⏳ Time between runs: 27  days ago
+🥇 Result: 4 / 🏇 7 runners. Expected: 6.0 → Actual: 4 (+2.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+💰 Odds: 66.0 ❄️❄️
+📝 Comment: in rear, went modest fourth after 4 out, ❄️ weakened from 3 out
+🏆 RaceName: Happy Birthday Amelia Johns Mares' Maiden Hurdle (GBB Race)
+📋 Race Type: 4MdHM
+🎽 Jockey: Ben Jones- (⚖️ Weight: 158.0 lbs (71.8 kg) carried -- Allowance: 0.0) 🏇 Jockey: Ben Godfrey (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: B O'Neill (0/1, SR 0.0%)
+🏟️ Course: Ffos Las (left-handed, flat, galloping)
+📏 Distance: 16.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: HY
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-12-06 13:35:00 | ⏳ Time between runs: 12  days ago
+🥇 Result: 11 / 🏇 13 runners. Expected: 8.0 → Actual: 11 (-3.0 vs expected)
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 125.0 ❄️❄️
+📝 Comment: always behind, tailed off
+🏆 RaceName: JCB Fastrac British Stallion Studs EBF "National Hunt" Novices' Hurdle (Qualifier) (GBB Race)
+📋 Race Type: 4NvH
+🎽 Jockey: R Dingle- (⚖️ Weight: 147.0 lbs (66.8 kg) carried -- Allowance: 0.0) 🏇 Jockey: Ben Godfrey (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: B O'Neill (0/1, SR 0.0%)
+🏟️ Course: Exeter (right-handed, very undulating, testing track)
+📏 Distance: 16.5 furlongs (🔽 vs 25.0 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🐎 6 | Bella Cavalla⚠️ Owner's record is weaker (SR: 6.52%, 46 runs). (Rank: 2)
+🐎 7 years old  mare, b,  147 lbs.
+🦄 Sire: Milan (13.0% Rank: 5)
+🌿 Dam: Beech Lodge (0.0% Rank: 1)
+⏱️ Speed record - Runs: 10 | Best: 7.28 sec (Rank 3), Worst: 8.44 sec (Rank 4), Avg: 7.88 sec (Rank 4)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 4.5 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ✅ Yes
+🗞️ **PRESS OPINION**
+💬 Comment: In good form when last seen in the autumn (including over C&D); player if fully tuned up
+🔦 Spotlight: 0-10 over hurdles but was in good form when last seen in the autumn, including when clear second over C&D (good to soft) two starts ago; now 1lb below that mark; major player if fully tuned up.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: James Neville
+🏠 Owner: Bg Racing Partnership 3/46 (7.00%) - (No previous owner(s))
+👤 Trainer: Neil Mulholland (0 previous trainer(s)) last 14d WinRate (4.0/18.0 runs) (Rank: 3) RTF: 68.0 (OVR: 14%)
+🏇 Jockey: Harriet Tucker(7) (14d rank: 2) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0.0/ 2.0 runs) RTF: N/A (OVR: 0%) 5Y: 2/9 (22.0)
+🗞️ **PRESS OPINION**
+💬 Comment: In good form when last seen in the autumn (including over C&D); player if fully tuned up
+🔦 Spotlight: 0-10 over hurdles but was in good form when last seen in the autumn, including when clear second over C&D (good to soft) two starts ago; now 1lb below that mark; major player if fully tuned up.
+📊 **STATS**
+📉 OFR: 76.0 (Rank: 6)
+📈 RPR: 103.0 (Rank: 1)
+📉 TS: 76.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/2 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/3 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/4 | Ratio: 0.00
+📊 Form: 354223 → Score: 0.07 (Rank: 1)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-11-18 15:20:00 | ⏳ Time between runs: 135  days ago
+🥇 Result: 3 🥉 / 🏇 4 runners. Expected: 2.0 → Actual: 3 (-1.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 1.875 🔥🔥
+📝 Comment: 🎯 led, jumped left and 🚧 bumped rival 6th, not fluent 8th, hung badly left and ⚠️ hampered rival 2 out, ridden approaching last, headed last, hung badly right and no extra run-in
+🏆 RaceName: Strong Flavours Handicap Hurdle
+📋 Race Type: 5HcH
+🎽 Jockey: H Cobden- (⚖️ Weight: 149.0 lbs (67.7 kg) carried -- Allowance: 0.0) 🏇 Jockey: Harriet Tucker(7) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: James Best (0/0, SR 0.0%)
+🏟️ Course: Plumpton (left-handed, sharp, undulating track)
+📏 Distance: 25.0 furlongs (➡️ vs 25.0 today)
+🌱 Going: G
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-10-21 16:30:00 | ⏳ Time between runs: 27  days ago
+🥇 Result: 2 🥈 / 🏇 9 runners. Expected: 2.0 → Actual: 2 (0.0 vs expected)
+🏆 1st: No runs since, 2nd: 3, 3rd: No runs since | 📊 1-3: 0W/1P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 3.2 🔥
+📝 Comment: 🔄 midfield, headway 4 out, outpaced before 3 out, rallied after 2 out, went second last, kept on but no chance with winner run-in
+🏆 RaceName: SIS & Josh Gifford Memorial Mares' Handicap Hurdle (For The Josh Gifford Memorial Trophy)
+📋 Race Type: 5HcHM
+🎽 Jockey: B Powell- (⚖️ Weight: 148.0 lbs (67.3 kg) carried -- Allowance: 0.0) 🏇 Jockey: Harriet Tucker(7) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: James Best (0/0, SR 0.0%)
+🏟️ Course: Plumpton (left-handed, sharp, undulating track)
+📏 Distance: 25.0 furlongs (➡️ vs 25.0 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-09-24 14:40:00 | ⏳ Time between runs: 27  days ago
+🥇 Result: 2 🥈 / 🏇 11 runners. Expected: 2.0 → Actual: 2 (0.0 vs expected)
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 4.5 🔥
+📝 Comment: 🔄 midfield, headway after 10th, 🎯 prominent when ⚠️ not clear run home turn, ridden after 2 out, went second run-in, kept on well final 110yds (jockey said mare hung left-handed and then right-handed after jumping final hurdle)
+🏆 RaceName: AK Bets Big Prices Big Limits Handicap Hurdle (Div II)
+📋 Race Type: 5HcH
+🎽 Jockey: B Powell- (⚖️ Weight: 142.0 lbs (64.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Harriet Tucker(7) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: James Best (0/0, SR 0.0%)
+🏟️ Course: Fontwell (left-handed, fairly sharp hurdles track; fig. 8, undulating, chase track)
+📏 Distance: 26.0 furlongs (🔼 vs 25.0 today)
+🌱 Going: GS
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🐎 5 | Abbeyhill🐎 8 years old  gelding, b,  153 lbs.
+🦄 Sire: Shirocco (13.0% Rank: 4)
+🌿 Dam: Tenable (0.0% Rank: ?)
+⏱️ Speed record - Runs: 14 | Best: 7.66 sec (Rank 6), Worst: 8.83 sec (Rank 6), Avg: 8.16 sec (Rank 6)
+🛠️ Gear: tb
+🩺 Medical History: No records
+🎲 Early market: 4.5 (Rank: 2)
+🎲 Repeat performance: Won before: ✅ Yes, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Largely disappointing over fences since November; back hurdling with a point to prove
+🔦 Spotlight: Dual hurdle winner last season (once over C&D) but was pulled up on reappearance outing in October and has largely been disappointing over fences since (five starts); seems very versatile regarding ground but reverts to hurdling with quite a bit to prove; swaps cheekpieces for first-time blinkers.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Miss A Lindsell
+🏠 Owner: Colony Stables , Bunch & Dicks (No previous owner data) - (No previous owner(s))
+👤 Trainer: Neil Mulholland (0 previous trainer(s)) last 14d WinRate (4.0/18.0 runs) (Rank: 3) RTF: 68.0 (OVR: 14%)
+🏇 Jockey: Conor Ofarrell (14d rank: 2) 🏇 Jockey 85846 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 99365 (1/1 - 100.0%)(3.0/ 19.0 runs) RTF: N/A (OVR: 13%) 5Y: 32/275 (12.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Largely disappointing over fences since November; back hurdling with a point to prove
+🔦 Spotlight: Dual hurdle winner last season (once over C&D) but was pulled up on reappearance outing in October and has largely been disappointing over fences since (five starts); seems very versatile regarding ground but reverts to hurdling with quite a bit to prove; swaps cheekpieces for first-time blinkers.
+📊 **STATS**
+📉 OFR: 82.0 (Rank: 5)
+📈 RPR: 97.0 (Rank: 4)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 1/1 | Ratio: 1.00
+📏 Distance Wins/Runs: 2/4 | Ratio: 0.50
+🌱 Going Wins/Runs: 0/5 | Ratio: 0.00
+📊 Form: P56344 → Score: 0.05 (Rank: 5)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-02-23 16:30:00 | ⏳ Time between runs: 38  days ago
+🥇 Result: 4 / 🏇 4 runners. Expected: 2.0 → Actual: 4 (-2.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 2.25 🔥
+📝 Comment: never going well, cajoled along soon after start, 🔄 towards rear, dropped to last 15th, slow jump and detached 4 out, ❄️ weakened 2 out (jockey said gelding never travelled)
+🏆 RaceName: John & Harold Hartwell Memorial Novices' Handicap Chase (For The Josh Gifford Cup)
+📋 Race Type: 5NvHcCh
+🎽 Jockey: C O'Farrell- (⚖️ Weight: 146.0 lbs (66.4 kg) carried -- Allowance: 0.0) 🏇 Jockey: Conor Ofarrell (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: Dylan Whelan (1/1, SR 100.0%)
+🏟️ Course: Fontwell (left-handed, fairly sharp hurdles track; fig. 8, undulating, chase track)
+📏 Distance: 26.0 furlongs (🔼 vs 25.0 today)
+🌱 Going: HY
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-06 15:05:00 | ⏳ Time between runs: 17  days ago
+🥇 Result: 4 / 🏇 13 runners. Expected: 6.0 → Actual: 4 (+2.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+💰 Odds: 11.0 📉
+📝 Comment: 🎯 prominent, challenging 3 out, ❄️ weakened from 2 out
+🏆 RaceName: 3A's Leisure Handicap Chase
+📋 Race Type: 5HcCh
+🎽 Jockey: R McLernon- (⚖️ Weight: 148.0 lbs (67.3 kg) carried -- Allowance: 0.0) 🏇 Jockey: Conor Ofarrell (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: Dylan Whelan (1/1, SR 100.0%)
+🏟️ Course: Ffos Las (left-handed, flat, galloping)
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: HY
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-12-26 12:40:00 | ⏳ Time between runs: 42  days ago
+🥇 Result: 3 🥉 / 🏇 8 runners. Expected: 2.0 → Actual: 3 (-1.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: 4 | 📊 1-3: 0W/0P/1U | 🐴 Also: 0W/0P/1U
+💰 Odds: 3.333 🔥
+📝 Comment: 🔄 held up in last, niggled along briefly after 3rd, some headway 8th, in touch with leaders 13th, went second after 4 out, lost second 3 out, no extra from 2 out, ❄️ weakened run-in
+🏆 RaceName: Rand Farm Park All Weather Attraction Novices' Handicap Chase
+📋 Race Type: 5NvHcCh
+🎽 Jockey: C O'Farrell- (⚖️ Weight: 155.0 lbs (70.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Conor Ofarrell (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: Dylan Whelan (1/1, SR 100.0%)
+🏟️ Course: Market Rasen (right-handed, sharp, undulating track with easy fences)
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🐎 3 | Ballela Blaze🐎 7 years old  gelding, b,  158 lbs.
+🦄 Sire: Conduit (10.0% Rank: 6)
+🌿 Dam: Ballela Girl (0.0% Rank: 1)
+⏱️ Speed record - Runs: 6 | Best: 6.97 sec (Rank 1), Worst: 8.77 sec (Rank 5), Avg: 7.9 sec (Rank 5)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 6.5 (Rank: 5)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Kept on for modest third at Sedgefield (2m4f) recently; tries a new trip today
+🔦 Spotlight: Won good-ground Irish point in 2023 but is 0-5 over hurdles this season; kept on for modest third in recent Sedgefield handicap (2m4f, good) and is open to improvement over today's longer trip but others appeal more.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Liam Cosgrave
+🏠 Owner: Burrishoole Boy Racing Club 0/6 (0.00%) - (No previous owner(s))
+👤 Trainer: Thomas Gallagher (0 previous trainer(s)) last 14d WinRate (0.0/1.0 runs) (Rank: 5) RTF: N/A (OVR: 0%)
+🏇 Jockey: David Noonan (14d rank: 5) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(4.0/ 25.0 runs) RTF: N/A (OVR: 9%) 5Y: 7/140 (5.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Kept on for modest third at Sedgefield (2m4f) recently; tries a new trip today
+🔦 Spotlight: Won good-ground Irish point in 2023 but is 0-5 over hurdles this season; kept on for modest third in recent Sedgefield handicap (2m4f, good) and is open to improvement over today's longer trip but others appeal more.
+📊 **STATS**
+📉 OFR: 87.0 (Rank: 3)
+📈 RPR: 95.0 (Rank: 5)
+📉 TS: 76.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: -05483 → Score: 0.05 (Rank: 3)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-20 14:35:00 | ⏳ Time between runs: 13  days ago
+🥇 Result: 3 🥉 / 🏇 9 runners. Expected: 3.0 → Actual: 3 (0.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 8.0 📉
+📝 Comment: 🔄 held up in rear, not fluent 5th, pushed along with one circuit to go, jumped badly right 6th, going okay and headway 7th, outpaced after 3 out, kept on from 2 out, no match for first two
+🏆 RaceName: Paxtons No1 CaseIH Dealer In UK&Ireland Novices' Handicap Hurdle
+📋 Race Type: 5NvHcH
+🎽 Jockey: S Bowen- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0) 🏇 Jockey: David Noonan (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: J C Barry (0/0, SR 0.0%)
+🏟️ Course: Sedgefield (left-handed, sharp, undulating, testing track with easy fences)
+📏 Distance: 20.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: G
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-20 15:45:00 | ⏳ Time between runs: 27  days ago
+🥇 Result: 8 / 🏇 13 runners. Expected: 11.0 → Actual: 8 (+3.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/1P/1U
+💰 Odds: 50.0 ❄️❄️
+📝 Comment: 🎯 prominent, hit 2nd, lost position 5th, struggling when jumped right 3 out, weakening when jumped right 2 out, no chance when jumped badly right last
+🏆 RaceName: Join The 20 Club At Huntingdon Novices' Limited Handicap Hurdle
+📋 Race Type: 5NvHcH
+🎽 Jockey: D Noonan- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: David Noonan (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: J C Barry (0/0, SR 0.0%)
+🏟️ Course: Huntingdon (right-handed, flat, fast track)
+📏 Distance: 16.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2025-02-01 12:50:00 | ⏳ Time between runs: 19  days ago
+🥇 Result: 4 / 🏇 4 runners. Expected: 4.0 → Actual: 4 (0.0 vs expected)
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 66.0 ❄️❄️
+📝 Comment: 🎯 led at slow pace, 🎯 prominent when headed 5th, outpaced after 2 out
+🏆 RaceName: Virgin Bet Daily Extra Places Novices' Hurdle (Novices' Championship Hurdle Series Qual') (GBB Race)
+📋 Race Type: 3NvH
+🎽 Jockey: P Armson- (⚖️ Weight: 150.0 lbs (68.2 kg) carried -- Allowance: 3.0) 🏇 Jockey: David Noonan (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: J C Barry (0/0, SR 0.0%)
+🏟️ Course: Sandown (right-handed, galloping, testing track)
+📏 Distance: 16.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: HY
+👜 Prize: 💰 9K
+---------------------------------------------------------------------------
+🐎 4 | Westtara🐎 10 years old  gelding, b,  157 lbs.
+🦄 Sire: Westerner (14.000000000000002% Rank: 2)
+🌿 Dam: Miltara (0.0% Rank: 1)
+⏱️ Speed record - Runs: 5 | Best: 7.49 sec (Rank 4), Worst: 8.21 sec (Rank 3), Avg: 7.71 sec (Rank 2)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 17.0 (Rank: 6)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Didn't run badly when last of five over 2m here last month; can do better over this trip
+🔦 Spotlight: 0-7 over hurdles but didn't run badly when last of five over 2m here (good) last month; will probably be better suited by today's much longer trip and has been given a good chance by the handicapper; worth a second look.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: A Cowing
+🏠 Owner: Cockerell Cowing Racing 0/7 (0.00%) - (No previous owner(s))
+👤 Trainer: Diana Grissell (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 6) RTF: N/A (OVR: 0%)
+🏇 Jockey: Marc Goldstein (14d rank: 6) 🏇 Jockey 80695 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 96312 (1/4 - 25.0%)(0.0/ 6.0 runs) RTF: N/A (OVR: 5%) 5Y: 22/223 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Didn't run badly when last of five over 2m here last month; can do better over this trip
+🔦 Spotlight: 0-7 over hurdles but didn't run badly when last of five over 2m here (good) last month; will probably be better suited by today's much longer trip and has been given a good chance by the handicapper; worth a second look.
+📊 **STATS**
+📉 OFR: 86.0 (Rank: 4)
+📈 RPR: 99.0 (Rank: 3)
+📉 TS: 78.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/4 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/6 | Ratio: 0.00
+📊 Form: 7-36P5 → Score: 0.05 (Rank: 4)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-10 15:30:00 | ⏳ Time between runs: 23  days ago
+🥇 Result: 5 / 🏇 5 runners. Expected: 5.0 → Actual: 5 (0.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/1P/0U
+💰 Odds: 22.0 ❄️
+📝 Comment: raced in second, 🎯 led before 2nd, headed before 2 out, soon ❄️ weakened
+🏆 RaceName: Horse PWR Novices' Limited Handicap Hurdle
+📋 Race Type: 5NvHcH
+🎽 Jockey: M Goldstein- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Marc Goldstein (SR 0.0%, 0/7) | 🏆 Not H&J — Best Alternative: K Kirkby (1/4, SR 25.0%)
+🏟️ Course: Plumpton (left-handed, sharp, undulating track)
+📏 Distance: 16.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: G
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-20 16:05:00 | ⏳ Time between runs: 17  days ago
+🥇 Result: nan / 🏇 9 runners. Expected: 7.0 → Actual: 10 (-3.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+💰 Odds: 22.0 ❄️
+📝 Comment: 🎯 prominent, lost ground but in touch with leaders before 4th, headway before 8th, not fluent 3 out, ❄️ weakened on turn before 2 out, tailed off and pulled up home straight
+🏆 RaceName: Sri Lanka Awaits You Handicap Hurdle
+📋 Race Type: 5HcH
+🎽 Jockey: M Goldstein- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Marc Goldstein (SR 0.0%, 0/7) | 🏆 Not H&J — Best Alternative: K Kirkby (1/4, SR 25.0%)
+🏟️ Course: Lingfield (left-handed, sharp, undulating track)
+📏 Distance: 23.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2025-01-26 14:20:00 | ⏳ Time between runs: 25  days ago
+🥇 Result: 6 / 🏇 10 runners. Expected: 9.0 → Actual: 6 (+3.0 vs expected)
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 33.0 ❄️
+📝 Comment: 🎯 led, clear 2nd, not fluent 7th, mistake 4 out, much reduced lead 3 out, headed just before 2 out, ❄️ weakened and lost three places from 2 out
+🏆 RaceName: Southern Cranes & Access Ltd Handicap Hurdle
+📋 Race Type: 5HcH
+🎽 Jockey: M Goldstein- (⚖️ Weight: 163.0 lbs (74.1 kg) carried -- Allowance: 0.0) 🏇 Jockey: Marc Goldstein (SR 0.0%, 0/7) | 🏆 Not H&J — Best Alternative: K Kirkby (1/4, SR 25.0%)
+🏟️ Course: Fontwell (left-handed, fairly sharp hurdles track; fig. 8, undulating, chase track)
+📏 Distance: 22.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: S
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------

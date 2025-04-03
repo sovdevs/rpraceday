@@ -1,0 +1,443 @@
+⏰ Off Time: 2025-04-03 15:40
+📍 Venue: Plumpton (left-handed, sharp, undulating track)
+🏁 Race ID: 889443 - 🏆 Name: BetGoodwin Supports Jamie's Farm Handicap Chase
+🏆 Type: Chase
+📏 Distance: 25.5 furlongs
+🏇 Class/Grade: Class 5
+🎂 Age Band: 5yo+
+💰 Prize money: 💰 4K
+⛅ Weather: Partly cloudy
+🌱 Going: Good
+6 runners declared
+Speed Performance for Race ID 889443 (Filter: AND_notAW_handicap_notAmateur)
+===========================================================================
+horse_id      horse_name AND_notAW_handicap_notAmateur_bestSpeedPerM AND_notAW_handicap_notAmateur_worstSpeedPerM AND_notAW_handicap_notAmateur_avgSpeedPerM AND_notAW_handicap_notAmateur_noRaces AND_notAW_handicap_notAmateur_bestSpeedPerM_rank AND_notAW_handicap_notAmateur_avgSpeedPerM_rank
+ 4197086           Kadex                                       12.02                                        13.71                                      12.81                                   8.0                                              1.0                                             1.0
+ 3980241     Dear Ralphy                                       11.39                                        13.51                                      12.59                                   8.0                                              4.0                                             2.0
+ 3232223   Leading Swoop                                       11.57                                        12.88                                      12.37                                  11.0                                              3.0                                             3.0
+ 2942419 Delgany Monarch                                       11.69                                        12.81                                      12.36                                  11.0                                              2.0                                             4.0
+ 3413903  Autumn Philtre                                         NaN                                          NaN                                        NaN                                   NaN                                              NaN                                             NaN
+ 1361673      Ballintara                                         NaN                                          NaN                                        NaN                                   NaN                                              NaN                                             NaN
+No head-to-head data found for any of this race's horses
+++++++++++Performance Table++++++++++
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1        | Leading Swoop             | 3232223  | 2.0      | 6.0      | 2.0      | 5.0      | 4.0      | 5        | 6        | 5.0      | 1.0      | 4.0      | 2.0      | 1.0      | 1.0      | 1.0      | 3.0      | 5.0      | 1.0      | 6.0      | 2.0      | 5.0      | 1.0      | 4.0      | 2.0      | N/A      | 1.0      | 2.0      | 1.0      | 4.0      | 2.0      | 4.0      | 3.0      | 1.0     
+2        | Dear Ralphy               | 3980241  | 1.0      | 2.0      | 3.0      | 1.0      | 4.0      | 4        | 4        | 2.0      | 1.0      | 3.0      | 2.0      | 4.0      | 4.0      | 1.0      | 1.0      | 1.0      | 5.0      | 2.0      | 1.0      | 1.0      | 4.0      | 2.0      | 3.0      | 3.0      | 4.0      | 1.0      | 2.0      | 2.0      | 1.0      | 2.0      | 1.0      | 2.0     
+3        | Kadex                     | 4197086  | 4.0      | 1.0      | 1.0      | 4.0      | 1.0      | 3        | 3        | 1.0      | 1.0      | 1.0      | 2.0      | 2.0      | 2.0      | 3.0      | 3.0      | 3.0      | 4.0      | 5.0      | 4.0      | 2.0      | 5.0      | 3.0      | 1.0      | 2.0      | 1.0      | 3.0      | 3.0      | 1.0      | 3.0      | 1.0      | 4.0      | 5.0     
+6        | Delgany Monarch           | 2942419  | 6.0      | 5.0      | 6.0      | 3.0      | 4.0      | 6        | 5        | 4.0      | 1.0      | 2.0      | 2.0      | 2.0      | 3.0      | 6.0      | 3.0      | 6.0      | 2.0      | 4.0      | 2.0      | 6.0      | 3.0      | 6.0      | 6.0      | 1.0      | 4.0      | 3.0      | 4.0      | 3.0      | 4.0      | 3.0      | 2.0      | 6.0     
+5        | Ballintara                | 1361673  | 3.0      | 3.0      | 5.0      | 2.0      | 2.0      | 1        | 1        | 6.0      | 1.0      | 6.0      | 2.0      | N/A      | N/A      | 5.0      | 3.0      | 3.0      | 2.0      | 1.0      | 4.0      | 2.0      | 5.0      | 5.0      | 4.0      | 3.0      | 1.0      | 3.0      | 5.0      | 5.0      | 6.0      | 5.0      | 4.0      | 4.0     
+4        | Autumn Philtre            | 3413903  | 5.0      | 4.0      | 4.0      | 5.0      | 3.0      | 1        | 1        | 3.0      | 1.0      | 5.0      | 1.0      | N/A      | N/A      | 4.0      | 2.0      | 2.0      | 6.0      | 3.0      | 4.0      | 2.0      | 2.0      | 1.0      | 5.0      | N/A      | N/A      | 3.0      | 6.0      | 6.0      | 5.0      | 5.0      | 4.0      | 3.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 1 | Leading Swoop⚠️ Owner's record is weaker (SR: 6.67%, 15 runs). (Rank: 4)
+🐎 9 years old  gelding, b,  168 lbs.
+🦄 Sire: Leading Light (12.0% Rank: 4)
+🌿 Dam: One Swoop (7.000000000000001% Rank: 3)
+⏱️ Speed record - Runs: 13 | Best: 7.76 sec (Rank 5), Worst: 8.64 sec (Rank 5), Avg: 8.12 sec (Rank 6)
+🛠️ Gear: b
+🩺 Medical History: No records
+🎲 Early market: 1.83 (Rank: 1)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Consistent this season and was a clearcut winner when back up to 3m2f at Fontwell recently
+🔦 Spotlight: Fontwell regular who has been consistent over fences this season and was evidently well suited by the move back up in trip when scoring by over 5l there (3m2f, good) last month; obvious contender in current form.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Miss Deirdre Motherway
+🏠 Owner: Gale Force One 1/15 (7.00%) - (No previous owner(s))
+👤 Trainer: Robert Walford (0 previous trainer(s)) last 14d WinRate (0.0/2.0 runs) (Rank: 2) RTF: N/A (OVR: 9%)
+🏇 Jockey: Harry Kimber (14d rank: 1) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0.0/ 7.0 runs) RTF: N/A (OVR: 7%) 5Y: 47/278 (17.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Consistent this season and was a clearcut winner when back up to 3m2f at Fontwell recently
+🔦 Spotlight: Fontwell regular who has been consistent over fences this season and was evidently well suited by the move back up in trip when scoring by over 5l there (3m2f, good) last month; obvious contender in current form.
+📊 **STATS**
+📉 OFR: 95.0 (Rank: 1)
+📈 RPR: 98.0 (Rank: 1)
+📉 TS: 82.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 1/3 | Ratio: 0.33
+🌱 Going Wins/Runs: 1/3 | Ratio: 0.33
+📊 Form: -32321 → Score: 0.19 (Rank: 2)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-17 16:20:00 | ⏳ Time between runs: 16  days ago
+🥇 Result: 1 🥇 / 🏇 7 runners. Expected: 1.0 → Actual: 1 (0.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 2.75 🔥
+📝 Comment: pressed leaders, 🎯 led 2nd, hit 15th, went clear 3 out, ridden before 2 out, kept on well
+🏆 RaceName: NJS Group Handicap Chase
+📋 Race Type: 5HcCh
+🎽 Jockey: H Kimber- (⚖️ Weight: 162.0 lbs (73.6 kg) carried -- Allowance: 0.0) 🏇 Jockey: Harry Kimber (SR 0.0%, 0/9) | 🏆 Not H&J — Best Alternative: Ben Godfrey (0/0, SR 0.0%)
+🏟️ Course: Fontwell (left-handed, fairly sharp hurdles track; fig. 8, undulating, chase track)
+📏 Distance: 26.0 furlongs (🔼 vs 25.5 today)
+🌱 Going: G
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-23 14:30:00 | ⏳ Time between runs: 22  days ago
+🥇 Result: 2 🥈 / 🏇 10 runners. Expected: 1.0 → Actual: 2 (-1.0 vs expected)
+🏆 1st: No runs since, 2nd: 1, 3rd: No runs since 🥇 | 📊 1-3: 1W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 4.0 🔥
+📝 Comment: 🎯 prominent, went second after 2 out, kept on
+🏆 RaceName: Download The Star Sports App Handicap Chase (Certain Justice Challenge Trophy) (Qualifier)
+📋 Race Type: 5HcCh
+🎽 Jockey: H Kimber- (⚖️ Weight: 157.0 lbs (71.4 kg) carried -- Allowance: 0.0) 🏇 Jockey: Harry Kimber (SR 0.0%, 0/9) | 🏆 Not H&J — Best Alternative: Ben Godfrey (0/0, SR 0.0%)
+🏟️ Course: Fontwell (left-handed, fairly sharp hurdles track; fig. 8, undulating, chase track)
+📏 Distance: 21.5 furlongs (🔽 vs 25.5 today)
+🌱 Going: HY
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2025-01-26 14:50:00 | ⏳ Time between runs: 27  days ago
+🥇 Result: 3 🥉 / 🏇 8 runners. Expected: 1.0 → Actual: 3 (-2.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: 1 🥇 | 📊 1-3: 1W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 2.125 🔥
+📝 Comment: 🎯 prominent, 🎯 led after 1st, headed 2nd, outpaced 4 out, went modest third run-in
+🏆 RaceName: BetGoodwin Download The App Handicap Chase (Fontwell Chase Series Qualifier)
+📋 Race Type: 5HcCh
+🎽 Jockey: H Kimber- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0) 🏇 Jockey: Harry Kimber (SR 0.0%, 0/9) | 🏆 Not H&J — Best Alternative: Ben Godfrey (0/0, SR 0.0%)
+🏟️ Course: Fontwell (left-handed, fairly sharp hurdles track; fig. 8, undulating, chase track)
+📏 Distance: 21.5 furlongs (🔽 vs 25.5 today)
+🌱 Going: HY
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🐎 2 | Dear Ralphy📈 Owner has a strong record (SR: 10.53%, 19 runs). (Rank: 2)
+🐎 9 years old  gelding, b,  168 lbs.
+🦄 Sire: Westerner (14.000000000000002% Rank: 2)
+🌿 Dam: Letterwoman (12.0% Rank: 1)
+⏱️ Speed record - Runs: 11 | Best: 7.38 sec (Rank 4), Worst: 8.78 sec (Rank 6), Avg: 7.87 sec (Rank 4)
+🛠️ Gear: tb
+🩺 Medical History: 📅 2023-07-28: Wind Surgery
+🎲 Early market: 3.0 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Ran quite well in February, after a layoff, and remains 🔍 unexposed over fences
+🔦 Spotlight: Won over hurdles at Fontwell (3m2f, good) in early part of this season and returned from 254-day absence with satisfactory chase run there (3m2f, heavy) in February, albeit he was tired and well held in the end; back on much better ground here and remains 🔍 unexposed over fences.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Patrick Mulcahy
+🏠 Owner: J Pike 2/19 (11.00%) - (No previous owner(s))
+👤 Trainer: Anthony Honeyball (0 previous trainer(s)) last 14d WinRate (3.0/9.0 runs) (Rank: 1) RTF: 67.0 (OVR: 21%)
+🏇 Jockey: Rex Dingle (14d rank: 2) 🏇 Jockey 95050 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 96166 (1/10 - 10.0%)(5.0/ 9.0 runs) RTF: N/A (OVR: 14%) 5Y: 59/487 (12.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Ran quite well in February, after a layoff, and remains 🔍 unexposed over fences
+🔦 Spotlight: Won over hurdles at Fontwell (3m2f, good) in early part of this season and returned from 254-day absence with satisfactory chase run there (3m2f, heavy) in February, albeit he was tired and well held in the end; back on much better ground here and remains 🔍 unexposed over fences.
+📊 **STATS**
+📉 OFR: 95.0 (Rank: 1)
+📈 RPR: 91.0 (Rank: 4)
+📉 TS: 7.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/3 | Ratio: 0.00
+📏 Distance Wins/Runs: 1/7 | Ratio: 0.14
+🌱 Going Wins/Runs: 1/5 | Ratio: 0.20
+📊 Form: 6-2123 → Score: 0.1 (Rank: 3)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-02-23 16:30:00 | ⏳ Time between runs: 38  days ago
+🥇 Result: 3 🥉 / 🏇 4 runners. Expected: 4.0 → Actual: 3 (+1.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 9.0 📉
+📝 Comment: chased clear leader, stumbled and lost ground 12th, outpaced and lost position 3 out, ❄️ weakened gradually run-in
+🏆 RaceName: John & Harold Hartwell Memorial Novices' Handicap Chase (For The Josh Gifford Cup)
+📋 Race Type: 5NvHcCh
+🎽 Jockey: R Dingle- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 🏇 Jockey: Rex Dingle (SR 0.0%, 0/3) | 🏆 Not H&J — Best Alternative: Ben Godfrey (1/10, SR 10.0%)
+🏟️ Course: Fontwell (left-handed, fairly sharp hurdles track; fig. 8, undulating, chase track)
+📏 Distance: 26.0 furlongs (🔼 vs 25.5 today)
+🌱 Going: HY
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-06-14 18:55:00 | ⏳ Time between runs: 253  days ago
+🥇 Result: 2 🥈 / 🏇 12 runners. Expected: 3.0 → Actual: 2 (+1.0 vs expected)
+🏆 1st: No runs since, 2nd: 3, 3rd: No runs since | 📊 1-3: 0W/1P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 6.0 📉
+📝 Comment: 🔄 midfield, headway from 9th, 🎯 led before 2 out, 1 length ahead when mistake last, soon headed, not recover
+🏆 RaceName: St Austell Brewery Handicap Hurdle
+📋 Race Type: 5HcH
+🎽 Jockey: B Bromley- (⚖️ Weight: 159.0 lbs (72.3 kg) carried -- Allowance: 5.0) 🏇 Jockey: Rex Dingle (SR 0.0%, 0/3) | 🏆 Not H&J — Best Alternative: Ben Godfrey (1/10, SR 10.0%)
+🏟️ Course: Newton Abbot (left-handed, sharp track)
+📏 Distance: 26.5 furlongs (🔼 vs 25.5 today)
+🌱 Going: G
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-06-12 14:43:00 | ⏳ Time between runs: 2  days ago
+🥇 Result: 1 🥇 / 🏇 10 runners. Expected: 3.0 → Actual: 1 (+2.0 vs expected)
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 4.5 🔥
+📝 Comment: 🔄 held up in rear, ⚠️ not clear run and switched sharply left before 2 out, pushed along and steady headway approaching last, went third but still plenty to do last, edged left but kept on well run-in, 🔄 ridden to lead against far rail towards finish
+🏆 RaceName: Weatherbys ePassport Handicap Hurdle
+📋 Race Type: 5HcH
+🎽 Jockey: H Cobden- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Rex Dingle (SR 0.0%, 0/3) | 🏆 Not H&J — Best Alternative: Ben Godfrey (1/10, SR 10.0%)
+🏟️ Course: Fontwell (left-handed, fairly sharp hurdles track; fig. 8, undulating, chase track)
+📏 Distance: 26.0 furlongs (🔼 vs 25.5 today)
+🌱 Going: G
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🐎 3 | Kadex🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 7 years old  gelding, b,  155 lbs.
+🦄 Sire: Saddex (16.0% Rank: 1)
+🌿 Dam: Califete Royale (0.0% Rank: 4)
+⏱️ Speed record - Runs: 8 | Best: 7.29 sec (Rank 3), Worst: 8.32 sec (Rank 3), Avg: 7.82 sec (Rank 3)
+🛠️ Gear: p
+🩺 Medical History: 📅 2024-07-11: Wind Surgery | 📅 2022-11-21: Wind Surgery
+🎲 Early market: 9.0 (Rank: 3)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Disappointing for Lucy Wadham last season and yet to revive for new stable this term
+🔦 Spotlight: C&D winner for Lucy Wadham in 2023 but became very disappointing for her last year and there has been no revival after three runs for Alan Jones (hurdling last time); lurks on a dangerous mark but considered only if lively in the betting; swaps blinkers for refitted cheekpieces.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Mme Jocelyne Ventrou & Mr Guy Cherel
+🏠 Owner: Ryan Kerins 1/4 (25.00%) - (No previous owner(s))
+👤 Trainer: Alan Jones (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 4) RTF: N/A (OVR: 0%)
+🏇 Jockey: Philip Armson(3) (14d rank: 3) 🏇 Jockey 97769 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 87503 (1/5 - 20.0%)(0.0/ 6.0 runs) RTF: N/A (OVR: 4%) 5Y: 9/211 (4.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Disappointing for Lucy Wadham last season and yet to revive for new stable this term
+🔦 Spotlight: C&D winner for Lucy Wadham in 2023 but became very disappointing for her last year and there has been no revival after three runs for Alan Jones (hurdling last time); lurks on a dangerous mark but considered only if lively in the betting; swaps blinkers for refitted cheekpieces.
+📊 **STATS**
+📉 OFR: 82.0 (Rank: 3)
+📈 RPR: 95.0 (Rank: 2)
+📉 TS: 74.0 (Rank: 2)
+🏟️ Course Wins/Runs: 1/3 | Ratio: 0.33
+📏 Distance Wins/Runs: 1/3 | Ratio: 0.33
+🌱 Going Wins/Runs: 0/8 | Ratio: 0.00
+📊 Form: F-PP5P → Score: 0.2 (Rank: 1)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-01-19 12:30:00 | ⏳ Time between runs: 73  days ago
+🥇 Result: nan / 🏇 7 runners. Expected: 7.0 → Actual: 8 (-1.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 22.0 ❄️
+📝 Comment: 🔄 held up in rear, not fluent 8th, some headway before 9th, hung left before 3 out, mistake 3 out, soon struggling, pulled up after 2 out (jockey said gelding hung left-handed throughout)
+🏆 RaceName: Sky Bet, For The Fans Handicap Hurdle
+📋 Race Type: 5HcH
+🎽 Jockey: J Best- (⚖️ Weight: 153.0 lbs (69.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Philip Armson(3) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Tom Cannon (1/5, SR 20.0%)
+🏟️ Course: Fakenham (left-handed, sharp, undulating track)
+📏 Distance: 23.5 furlongs (🔽 vs 25.5 today)
+🌱 Going: G
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-11-19 15:40:00 | ⏳ Time between runs: 60  days ago
+🥇 Result: 5 / 🏇 7 runners. Expected: 5.0 → Actual: 5 (0.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+💰 Odds: 10.0 📉
+📝 Comment: in touch with leaders, ❄️ weakened from 2 out, lost fourth last
+🏆 RaceName: Weatherbys & Birdie Calendars Conditional Jockeys' Handicap Chase
+📋 Race Type: 5HcCh
+🎽 Jockey: J Brace- (⚖️ Weight: 157.0 lbs (71.4 kg) carried -- Allowance: 3.0) 🏇 Jockey: Philip Armson(3) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Tom Cannon (1/5, SR 20.0%)
+🏟️ Course: Fakenham (left-handed, sharp, undulating track)
+📏 Distance: 24.0 furlongs (🔽 vs 25.5 today)
+🌱 Going: GS
+👜 Prize: 💰 8K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-10-13 16:05:00 | ⏳ Time between runs: 36  days ago
+🥇 Result: nan / 🏇 8 runners. Expected: 7.0 → Actual: 9 (-2.0 vs expected)
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 11.0 📉
+📝 Comment: 🔄 held up in rear, pecked on landing 1st, struggling from 7th, detached and flashed tail after 8th, tailed off from 9th, pulled up 3 out (jockey said gelding lost his action; vet had nothing to report)
+🏆 RaceName: DragonBet Supporting Welsh Racing Handicap Chase
+📋 Race Type: 5HcCh
+🎽 Jockey: James Turner- (⚖️ Weight: 150.0 lbs (68.2 kg) carried -- Allowance: 7.0) 🏇 Jockey: Philip Armson(3) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Tom Cannon (1/5, SR 20.0%)
+🏟️ Course: Ffos Las (left-handed, flat, galloping)
+📏 Distance: 16.0 furlongs (🔽 vs 25.5 today)
+🌱 Going: GS
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🐎 6 | Delgany Monarch⚠️ Owner's record is weaker (SR: 7.69%, 13 runs). (Rank: 3)
+🐎 10 years old  gelding, ch,  147 lbs.
+🦄 Sire: Imperial Monarch (13.0% Rank: 3)
+🌿 Dam: Naughty Marietta (8.0% Rank: 2)
+⏱️ Speed record - Runs: 11 | Best: 7.81 sec (Rank 6), Worst: 8.56 sec (Rank 4), Avg: 8.1 sec (Rank 5)
+🛠️ No gear today
+🩺 Medical History: 📅 2021-07-20: Wind Surgery
+🎲 Early market: 11.0 (Rank: 4)
+🎲 Repeat performance: Won before: ✅ Yes, Placed 2nd or 3rd before: ✅ Yes
+🗞️ **PRESS OPINION**
+💬 Comment: Regressive 10yo who struggled to get competitive on first three appearance this season
+🔦 Spotlight: Regressive 10yo who struggled to get seriously competitive on first three appearance this season, most recently when fitted with first-time cheekpieces in Fontwell race won by Leading Swoop 17 days ago; needs to prove some ability remains.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Michael Martin Sheehan
+🏠 Owner: Encore Partnership V11 1/13 (8.00%) - (No previous owner(s))
+👤 Trainer: Richard Rowe (0 previous trainer(s)) last 14d WinRate (0.0/5.0 runs) (Rank: 2) RTF: 20.0 (OVR: 5%)
+🏇 Jockey: Tabitha Worsley(3) (14d rank: 4) 🏇 Today's Jock winSR: 11.0% (No better alternative found.)(0.0/ 11.0 runs) RTF: N/A (OVR: 5%) 5Y: 2/72 (3.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Regressive 10yo who struggled to get competitive on first three appearance this season
+🔦 Spotlight: Regressive 10yo who struggled to get seriously competitive on first three appearance this season, most recently when fitted with first-time cheekpieces in Fontwell race won by Leading Swoop 17 days ago; needs to prove some ability remains.
+📊 **STATS**
+📉 OFR: 74.0 (Rank: 6)
+📈 RPR: 95.0 (Rank: 2)
+📉 TS: 48.0 (Rank: 3)
+🏟️ Course Wins/Runs: 1/4 | Ratio: 0.25
+📏 Distance Wins/Runs: 1/7 | Ratio: 0.14
+🌱 Going Wins/Runs: 0/5 | Ratio: 0.00
+📊 Form: 37-P96 → Score: 0.04 (Rank: 6)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-17 16:20:00 | ⏳ Time between runs: 16  days ago
+🥇 Result: 6 / 🏇 7 runners. Expected: 6.0 → Actual: 6 (0.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 20.0 ❄️
+📝 Comment: 🎯 prominent, lost position 11th, soon dropped to last, headway 4 out, soon went fourth, ❄️ weakened after 3 out
+🏆 RaceName: NJS Group Handicap Chase
+📋 Race Type: 5HcCh
+🎽 Jockey: N Houlihan- (⚖️ Weight: 151.0 lbs (68.6 kg) carried -- Allowance: 0.0) 🏇 Jockey: Tabitha Worsley(3) (SR 11.1%, 1/9) | 🏆 Not H&J — Best Alternative: Tabitha Worsley (1/9, SR 11.1%)
+🏟️ Course: Fontwell (left-handed, fairly sharp hurdles track; fig. 8, undulating, chase track)
+📏 Distance: 26.0 furlongs (🔼 vs 25.5 today)
+🌱 Going: G
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-12-09 14:30:00 | ⏳ Time between runs: 98  days ago
+🥇 Result: 9 / 🏇 11 runners. Expected: 11.0 → Actual: 9 (+2.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+💰 Odds: 40.0 ❄️❄️
+📝 Comment: in rear throughout, tailed off
+🏆 RaceName: Stay Safe Players At BetMGM Handicap Chase
+📋 Race Type: 5HcCh
+🎽 Jockey: Tabitha Worsley- (⚖️ Weight: 140.0 lbs (63.6 kg) carried -- Allowance: 3.0) 🏇 Jockey: Tabitha Worsley(3) (SR 11.1%, 1/9) | 🏆 Not H&J — Best Alternative: Tabitha Worsley (1/9, SR 11.1%)
+🏟️ Course: Lingfield (left-handed, sharp, undulating track)
+📏 Distance: 23.5 furlongs (🔽 vs 25.5 today)
+🌱 Going: S
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-11-08 15:10:00 | ⏳ Time between runs: 30  days ago
+🥇 Result: nan / 🏇 7 runners. Expected: 6.0 → Actual: 8 (-2.0 vs expected)
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 28.0 ❄️
+📝 Comment: jumped left on occasions, always behind, tailed off when pulled up 2 out
+🏆 RaceName: 30 Days For £1 At geegeez.co.uk Handicap Chase
+📋 Race Type: 5HcCh
+🎽 Jockey: N Houlihan- (⚖️ Weight: 158.0 lbs (71.8 kg) carried -- Allowance: 0.0) 🏇 Jockey: Tabitha Worsley(3) (SR 11.1%, 1/9) | 🏆 Not H&J — Best Alternative: Tabitha Worsley (1/9, SR 11.1%)
+🏟️ Course: Fontwell (left-handed, fairly sharp hurdles track; fig. 8, undulating, chase track)
+📏 Distance: 26.0 furlongs (🔼 vs 25.5 today)
+🌱 Going: G
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🐎 5 | Ballintara🐎 13 years old  gelding, b,  151 lbs.
+🦄 Sire: Getaway (12.0% Rank: 5)
+🌿 Dam: Miltara (0.0% Rank: 4)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ Gear: b
+🩺 Medical History: No records
+🎲 Early market: 26.0 (Rank: 5)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Teenager; pulled up with a circuit to go when back under rules in January
+🔦 Spotlight: Teenager who has a very uninspiring record in points in recent years and was competing for the first time under rules since 2021 when pulled up (albeit on heavy ground) with a circuit to go at Fontwell in January.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: A Cowing
+🏠 Owner: Cockerell Cowing Racing 0/7 (0.00%) - (No previous owner(s))
+👤 Trainer: Diana Grissell (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 4) RTF: N/A (OVR: 0%)
+🏇 Jockey: Marc Goldstein (14d rank: 5) 🏇 Jockey 80695 Today's Jock winSR: 9.0% | 🏆 Not H&J as Best Alternative Jockey: 90206 (1/2 - 50.0%)(0.0/ 6.0 runs) RTF: N/A (OVR: 5%) 5Y: 22/223 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Teenager; pulled up with a circuit to go when back under rules in January
+🔦 Spotlight: Teenager who has a very uninspiring record in points in recent years and was competing for the first time under rules since 2021 when pulled up (albeit on heavy ground) with a circuit to go at Fontwell in January.
+📊 **STATS**
+📉 OFR: 78.0 (Rank: 5)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/2 | Ratio: 0.00
+📏 Distance Wins/Runs: 1/3 | Ratio: 0.33
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 6O-O4P → Score: 0.1 (Rank: 4)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-01-26 14:50:00 | ⏳ Time between runs: 66  days ago
+🥇 Result: nan / 🏇 8 runners. Expected: 8.0 → Actual: 9 (-1.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: 1 🥇 | 📊 1-3: 1W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 125.0 ❄️❄️
+📝 Comment: in rear, slow jump 6th, lost touch and pulled up with one circuit to go
+🏆 RaceName: BetGoodwin Download The App Handicap Chase (Fontwell Chase Series Qualifier)
+📋 Race Type: 5HcCh
+🎽 Jockey: M Goldstein- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0) 🏇 Jockey: Marc Goldstein (SR 9.1%, 1/11) | 🏆 Not H&J — Best Alternative: O Wedmore (1/2, SR 50.0%)
+🏟️ Course: Fontwell (left-handed, fairly sharp hurdles track; fig. 8, undulating, chase track)
+📏 Distance: 21.5 furlongs (🔽 vs 25.5 today)
+🌱 Going: HY
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-05-18 15:55:00 | ⏳ Time between runs: 252  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+💰 Odds: 12.0 📉
+📝 Comment: chsd ldrs; one pce 3 out
+🏆 RaceName: Conditions (Level 2)
+📋 Race Type: PTP
+🎽 Jockey: S Mead- (⚖️ Weight: nan lbs (nan kg) carried -- Allowance: nan) 🏇 Jockey: Marc Goldstein (SR 9.1%, 1/11) | 🏆 Not H&J — Best Alternative: O Wedmore (1/2, SR 50.0%)
+🏟️ Course: Peper Harow (LH, flat, very sharp, form usually weak)
+📏 Distance: 24.0 furlongs (🔽 vs 25.5 today)
+🌱 Going: G
+👜 Prize: 💰 0K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-05-04 15:55:00 | ⏳ Time between runs: 14  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 8.0 📉
+📝 Comment: 🎯 led to 7; outpcd 15; 3rd & no ch when rn out last
+🏆 RaceName: Conditions (Level 1)
+📋 Race Type: PTP
+🎽 Jockey: D Andrews- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 🏇 Jockey: Marc Goldstein (SR 9.1%, 1/11) | 🏆 Not H&J — Best Alternative: O Wedmore (1/2, SR 50.0%)
+🏟️ Course: Godstone (RH, very undulating, sharp)
+📏 Distance: 24.0 furlongs (🔽 vs 25.5 today)
+🌱 Going: G
+👜 Prize: 💰 0K
+---------------------------------------------------------------------------
+🐎 4 | Autumn Philtre🐎 9 years old  gelding, b,  153 lbs.
+🦄 Sire: Kalanisi (11.0% Rank: 6)
+🌿 Dam: Shirleyrockstar (0.0% Rank: 4)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 34.0 (Rank: 6)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Ex-Irish 9yo; pulled-up outsider over hurdles on recent stable debut
+🔦 Spotlight: Ex-Irish pointer/hunter chaser; pulled up when 125-1 outsider for Fontwell handicap hurdle (2m5f, good) on recent stable debut;  huge leap of faith required to support him here.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: W & J Flood
+🏠 Owner: Mrs Elizabeth Anne Elliott 0/10 (0.00%) - (No previous owner(s))
+👤 Trainer: Paddy Butler (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 4) RTF: N/A (OVR: 6%)
+🏇 Jockey: Freddie Mitchell(5) (14d rank: 6) 🏇 Jockey 90091 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 95787 (1/4 - 25.0%)(3.0/ 10.0 runs) RTF: N/A (OVR: 0%) 5Y: 7/66 (11.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Ex-Irish 9yo; pulled-up outsider over hurdles on recent stable debut
+🔦 Spotlight: Ex-Irish pointer/hunter chaser; pulled up when 125-1 outsider for Fontwell handicap hurdle (2m5f, good) on recent stable debut;  huge leap of faith required to support him here.
+📊 **STATS**
+📉 OFR: 80.0 (Rank: 4)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 45P53P → Score: 0.06 (Rank: 5)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-17 15:47:00 | ⏳ Time between runs: 16  days ago
+🥇 Result: nan / 🏇 12 runners. Expected: 12.0 → Actual: 13 (-1.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 125.0 ❄️❄️
+📝 Comment: always behind, tailed off when pulled up after 3 out
+🏆 RaceName: BetGoodwin Best Odds Guaranteed Handicap Hurdle
+📋 Race Type: 5HcH
+🎽 Jockey: H Kimber- (⚖️ Weight: 153.0 lbs (69.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Freddie Mitchell(5) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: M J Sweeney (1/4, SR 25.0%)
+🏟️ Course: Fontwell (left-handed, fairly sharp hurdles track; fig. 8, undulating, chase track)
+📏 Distance: 22.0 furlongs (🔽 vs 25.5 today)
+🌱 Going: G
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-10-13 14:30:00 | ⏳ Time between runs: 155  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: - | 📊 1-3: 0W/0P/1U | 🐴 Also: 0W/0P/0U
+💰 Odds: 10.0 📉
+📝 Comment: ww twrds rr, 4th 1/2way, still 4th bef 3out, wknd & btn in 4th aftr 2out, ko bhnd to 3rd
+🏆 RaceName: Powerland Winner Of One
+📋 Race Type: PTP
+🎽 Jockey: B Dunleavy- (⚖️ Weight: 170.0 lbs (77.3 kg) carried -- Allowance: 0.0) 🏇 Jockey: Freddie Mitchell(5) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: M J Sweeney (1/4, SR 25.0%)
+🏟️ Course: Loughrea (RH, sharp)
+📏 Distance: 24.0 furlongs (🔽 vs 25.5 today)
+🌱 Going: Y
+👜 Prize: 💰 0K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-10-06 13:00:00 | ⏳ Time between runs: 7  days ago
+🏆 1st: 1, 2nd: Did Not Run, 3rd: Did Not Run 🥇 | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 10.0 📉
+📝 Comment: chsd ldr in 3rd til ld brfly bef 3out, cl 3rd from 3out, wknd in 4th bef 2out where mstk, drpd to mod 5th bef last
+🏆 RaceName: Charlestown Racing Winner Of Two
+📋 Race Type: PTP
+🎽 Jockey: B Dunleavy- (⚖️ Weight: 170.0 lbs (77.3 kg) carried -- Allowance: 0.0) 🏇 Jockey: Freddie Mitchell(5) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: M J Sweeney (1/4, SR 25.0%)
+🏟️ Course: Castletown-Geoghegan (LH, undulating, sharp, uphill finish)
+📏 Distance: 24.0 furlongs (🔽 vs 25.5 today)
+🌱 Going: Y
+👜 Prize: 💰 0K
+---------------------------------------------------------------------------

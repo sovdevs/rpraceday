@@ -1,0 +1,587 @@
+⏰ Off Time: 2025-04-03 14:55
+📍 Venue: Aintree (left-handed, flat track; Mildmay sharp; National galloping, stiff fences)
+🏁 Race ID: 889455 - 🏆 Name: Brooklands Golden Miller Chronograph Bowl Chase (Grade 1) (GBB Race)
+🏆 Type: Chase
+📏 Distance: 25.0 furlongs
+🏇 Class/Grade: Class 1 Grade 1
+🎂 Age Band: 5yo+
+💰 Prize money: 💰 140K
+☀️ Weather: Sunny
+🍃 Going: Good To Soft
+8 runners declared
+Speed Performance for Race ID 889455 (Filter: AND_notAW)
+===========================================================================
+horse_id       horse_name AND_notAW_bestSpeedPerM AND_notAW_worstSpeedPerM AND_notAW_avgSpeedPerM AND_notAW_noRaces AND_notAW_bestSpeedPerM_rank AND_notAW_avgSpeedPerM_rank
+ 4678772            Djelo                   12.37                    13.96                  13.08              16.0                          3.0                         1.0
+ 3833535 The Real Whacker                   12.41                    13.49                  13.07              10.0                          2.0                         2.0
+ 3246085       Stage Star                   12.44                    13.35                  13.01              11.0                          1.0                         3.0
+ 3978081     Grey Dawning                   12.08                    13.44                  12.99              12.0                          5.0                         4.0
+ 3525139   Gaelic Warrior                    12.0                    13.74                  12.98              10.0                          6.0                         5.0
+ 3063873       Ahoy Senor                    12.2                    13.25                  12.89              10.0                          4.0                         6.0
+ 4027323  Embassy Gardens                   11.75                    13.23                  12.51               9.0                          7.0                         7.0
+ 4219811  Spillanes Tower                   11.23                    13.51                  12.47              12.0                          8.0                         8.0
+No head-to-head data found for any of this race's horses
+++++++++++Performance Table++++++++++
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5        | Grey Dawning              | 3978081  | 5.0      | 1.0      | 1.0      | 1.0      | 2.0      | 5        | 4        | 8.0      | 4.0      | 5.0      | 5.0      | 4.0      | 2.0      | 6.0      | 7.0      | 7.0      | 5.0      | 1.0      | 5.0      | 7.0      | 4.0      | 3.0      | 2.0      | 3.0      | 3.0      | 3.0      | 1.0      | 5.0      | 3.0      | 3.0      | 3.0      | 4.0     
+6        | Spillanes Tower           | 4219811  | 3.0      | 6.0      | 3.0      | 7.0      | 3.0      | 3        | 8        | 6.0      | 6.0      | 8.0      | 3.0      | 6.0      | 4.0      | 2.0      | 2.0      | 3.0      | 2.0      | 2.0      | 6.0      | 5.0      | 8.0      | 2.0      | 4.0      | N/A      | 3.0      | N/A      | 2.0      | 1.0      | 7.0      | 5.0      | 2.0      | 5.0     
+1        | Ahoy Senor                | 3063873  | 2.0      | 8.0      | 7.0      | 6.0      | 6.0      | 7        | 6        | 4.0      | 3.0      | 1.0      | 5.0      | 2.0      | 8.0      | 2.0      | 7.0      | 5.0      | 6.0      | 3.0      | 3.0      | 1.0      | 2.0      | 1.0      | 1.0      | 1.0      | 1.0      | 1.0      | 3.0      | 8.0      | 5.0      | N/A      | 7.0      | 6.0     
+4        | Gaelic Warrior            | 3525139  | 4.0      | 3.0      | 2.0      | 5.0      | 1.0      | 2        | 5        | 7.0      | 1.0      | 3.0      | 2.0      | 1.0      | 3.0      | 4.0      | 3.0      | 6.0      | 7.0      | 5.0      | 1.0      | 2.0      | 5.0      | 7.0      | 3.0      | N/A      | N/A      | 5.0      | 4.0      | 3.0      | 1.0      | 2.0      | 1.0      | 2.0     
+7        | Stage Star                | 3246085  | 7.0      | 2.0      | 6.0      | 2.0      | 7.0      | 6        | 3        | 5.0      | 1.0      | 4.0      | 5.0      | 3.0      | 6.0      | 5.0      | 4.0      | 8.0      | 4.0      | 6.0      | 4.0      | 8.0      | 3.0      | 6.0      | 8.0      | 3.0      | 6.0      | 4.0      | 4.0      | 4.0      | 2.0      | 1.0      | N/A      | 3.0     
+3        | Embassy Gardens           | 4027323  | 1.0      | 4.0      | 3.0      | 5.0      | 2.0      | 8        | 7        | 2.0      | 5.0      | 7.0      | 4.0      | 7.0      | 7.0      | 7.0      | 1.0      | 4.0      | 3.0      | 4.0      | 1.0      | 2.0      | 5.0      | 7.0      | 4.0      | N/A      | 3.0      | N/A      | 6.0      | 2.0      | 1.0      | N/A      | 5.0      | 1.0     
+2        | Djelo                     | 4678772  | 3.0      | 5.0      | 5.0      | 3.0      | 4.0      | 1        | 1        | 3.0      | 2.0      | 6.0      | 5.0      | 4.0      | 5.0      | 1.0      | 6.0      | 2.0      | 1.0      | 8.0      | 6.0      | 4.0      | 1.0      | 5.0      | 6.0      | 2.0      | N/A      | 1.0      | 7.0      | 6.0      | 4.0      | 4.0      | 4.0      | 8.0     
+8        | The Real Whacker          | 3833535  | 6.0      | 7.0      | 4.0      | 4.0      | 5.0      | 4        | 2        | 1.0      | 6.0      | 2.0      | 1.0      | 8.0      | 1.0      | 8.0      | 5.0      | 1.0      | 8.0      | 7.0      | 6.0      | 5.0      | 7.0      | 4.0      | 7.0      | N/A      | 2.0      | 5.0      | 7.0      | 7.0      | 6.0      | N/A      | 6.0      | 7.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 5 | Grey Dawning📈 Owner has a strong record (SR: 24.10%, 83 runs). (Rank: 3)
+🐎 8 years old  gelding, gr,  164 lbs.
+🦄 Sire: Flemensfirth (14.000000000000002% Rank: 5)
+🌿 Dam: Lady Wagtail (28.999999999999996% Rank: 3)
+⏱️ Speed record - Runs: 12 | Best: 7.44 sec (Rank 5), Worst: 8.28 sec (Rank 5), Avg: 7.71 sec (Rank 4)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 3.0 (Rank: 1)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Confidence booster at Kelso was a positive performance with Aintree in mind; respected
+🔦 Spotlight: Very smart novice chaser last term, the highlight a Grade 1 win at Cheltenham, and ran well (clear second) in a gruelling Betfair Chase at Haydock on reappearance; unable to recover from a bad early mistake in the King George, then had a confidence booster at Kelso (good to soft) where he comfortably beat leading Grand National contender Iroko and delivered a positive performance with Aintree in mind; respected.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Grange Stud
+🏠 Owner: Robert Kirkland 20/83 (24.00%) - (No previous owner(s))
+👤 Trainer: Dan Skelton (0 previous trainer(s)) last 14d WinRate (3.0/25.0 runs) (Rank: 5) RTF: 56.0 (OVR: 15%)
+🏇 Jockey: Harry Skelton (14d rank: 1) 🏇 Today's Jock winSR: 53.0% (No better alternative found.)(2.0/ 13.0 runs) RTF: N/A (OVR: 17%) 5Y: 292/1403 (21.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Confidence booster at Kelso was a positive performance with Aintree in mind; respected
+🔦 Spotlight: Very smart novice chaser last term, the highlight a Grade 1 win at Cheltenham, and ran well (clear second) in a gruelling Betfair Chase at Haydock on reappearance; unable to recover from a bad early mistake in the King George, then had a confidence booster at Kelso (good to soft) where he comfortably beat leading Grand National contender Iroko and delivered a positive performance with Aintree in mind; respected.
+📊 **STATS**
+📉 OFR: 162.0 (Rank: 6)
+📈 RPR: 172.0 (Rank: 4)
+📉 TS: 153.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/3 | Ratio: 0.00
+📏 Distance Wins/Runs: 1/5 | Ratio: 0.20
+🌱 Going Wins/Runs: 2/4 | Ratio: 0.50
+📊 Form: 13-2P1 → Score: 0.32 (Rank: 2)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-01 13:45:00 | ⏳ Time between runs: 32  days ago
+🥇 Result: 1 🥇 / 🏇 4 runners. Expected: 1.0 → Actual: 1 (0.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 0.833 🔥🔥
+📝 Comment: 🎯 made all, shaken up and went clear last, nudged out run-in, comfortably
+🏆 RaceName: bet365 Premier Chase (Listed Race) (GBB Race)
+📋 Race Type: 1ChL
+🎽 Jockey: H Skelton- (⚖️ Weight: 159.0 lbs (72.3 kg) carried -- Allowance: 0.0) 🏇 Jockey: Harry Skelton (SR 53.3%, 8/15) | 🏆 Not H&J — Best Alternative: Harry Skelton (8/15, SR 53.3%)
+🏟️ Course: Kelso (left-handed, sharp track (hurdles very sharp))
+📏 Distance: 23.5 furlongs (🔽 vs 25.0 today)
+🌱 Going: GS
+👜 Prize: 💰 35K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-12-26 14:30:00 | ⏳ Time between runs: 64  days ago
+🥇 Result: nan / 🏇 11 runners. Expected: 3.0 → Actual: 12 (-9.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 1W/0P/1U
+💰 Odds: 6.5 📉
+📝 Comment: 🔄 towards rear, bad mistake 1st, some headway 5 out, ❄️ weakened quickly after 4 out, pulled up after 3 out (jockey said gelding made a bad mistake at the 1st and never travelled thereafter; vet had nothing to report)
+🏆 RaceName: Ladbrokes King George VI Chase (Grade 1) (GBB Race)
+📋 Race Type: 1ChG1
+🎽 Jockey: H Skelton- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Harry Skelton (SR 53.3%, 8/15) | 🏆 Not H&J — Best Alternative: Harry Skelton (8/15, SR 53.3%)
+🏟️ Course: Kempton (right-handed, sharpish, flat track)
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: G
+👜 Prize: 💰 148K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-11-23 15:05:00 | ⏳ Time between runs: 32  days ago
+🥇 Result: 2 🥈 / 🏇 7 runners. Expected: 1.0 → Actual: 2 (-1.0 vs expected)
+🏆 1st: Unplaced, 2nd: Did Not Run, 3rd: Did Not Run | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/1P/1U
+💰 Odds: 1.875 🔥🔥
+📝 Comment: travelled strongly, 🎯 prominent, went second going best 4 out, challenging from 2 out, 🎯 led when mistake last, headed run-in, no extra inside final 110yds
+🏆 RaceName: Betfair Chase (Grade 1) (Registered As The Lancashire Chase) (GBB Race)
+📋 Race Type: 1ChG1
+🎽 Jockey: H Skelton- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Harry Skelton (SR 53.3%, 8/15) | 🏆 Not H&J — Best Alternative: Harry Skelton (8/15, SR 53.3%)
+🏟️ Course: Haydock (left-handed, galloping chase track with stiff fences; sharp hurdles track)
+📏 Distance: 25.5 furlongs (🔼 vs 25.0 today)
+🌱 Going: S
+👜 Prize: 💰 117K
+---------------------------------------------------------------------------
+🐎 6 | Spillanes Tower📈 Owner has a strong record (SR: 14.39%, 3100 runs). (Rank: 5)
+🐎 7 years old  gelding, b,  164 lbs.
+🦄 Sire: Walk In The Park (17.0% Rank: 1)
+🌿 Dam: In The Habit (35.0% Rank: 2)
+⏱️ Speed record - Runs: 12 | Best: 7.4 sec (Rank 3), Worst: 8.9 sec (Rank 8), Avg: 8.05 sec (Rank 8)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 4.33 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: 📈 progressive in the main and his John Durkan form (split two stars) is very persuasive
+🔦 Spotlight: Finished only fifth when favourite for the King George (good) on last appearance; otherwise a 📈 progressive chaser and remains of strong interest with a rebound on the cards; completed a Grade 1 double (2m4f/3m1f) last spring before running very well in a cracking John Durkan at Punchestown (2m3f) where he split the Willie Mullins-trained stars Fact To File and Galopin Des Champs; that bare form is very persuasive.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Mrs Noreen McManus
+🏠 Owner: John P Mcmanus 446/3100 (14.00%) - (No previous owner(s))
+👤 Trainer: James Joseph Mangan (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 6) RTF: N/A (OVR: -)
+🏇 Jockey: Mark Walsh (14d rank: 2) 🏇 Jockey 81414 Today's Jock winSR: 50.0% | 🏆 Not H&J as Best Alternative Jockey: 92091 (1/1 - 100.0%)(3.0/ 7.0 runs) RTF: N/A (OVR: 35%) 5Y: 134/698 (19.0)
+🗞️ **PRESS OPINION**
+💬 Comment: 📈 progressive in the main and his John Durkan form (split two stars) is very persuasive
+🔦 Spotlight: Finished only fifth when favourite for the King George (good) on last appearance; otherwise a 📈 progressive chaser and remains of strong interest with a rebound on the cards; completed a Grade 1 double (2m4f/3m1f) last spring before running very well in a cracking John Durkan at Punchestown (2m3f) where he split the Willie Mullins-trained stars Fact To File and Galopin Des Champs; that bare form is very persuasive.
+📊 **STATS**
+📉 OFR: 165.0 (Rank: 2)
+📈 RPR: 170.0 (Rank: 6)
+📉 TS: 150.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 1/2 | Ratio: 0.50
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 21-125 → Score: 0.13 (Rank: 4)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-12-26 14:30:00 | ⏳ Time between runs: 97  days ago
+🥇 Result: 5 / 🏇 11 runners. Expected: 1.0 → Actual: 5 (-4.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 1W/0P/1U
+💰 Odds: 2.75 🔥
+📝 Comment: 🔄 towards rear, ⚠️ hampered 1st, some headway 3 out, went fourth before 2 out, not fluent last, no extra and lost fourth final strides
+🏆 RaceName: Ladbrokes King George VI Chase (Grade 1) (GBB Race)
+📋 Race Type: 1ChG1
+🎽 Jockey: M P Walsh- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Mark Walsh (SR 50.0%, 4/8) | 🏆 Not H&J — Best Alternative: L P Dempsey (1/1, SR 100.0%)
+🏟️ Course: Kempton (right-handed, sharpish, flat track)
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: G
+👜 Prize: 💰 148K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-11-24 14:25:00 | ⏳ Time between runs: 32  days ago
+🥇 Result: 2 🥈 / 🏇 8 runners. Expected: 6.0 → Actual: 2 (+4.0 vs expected)
+🏆 1st: No runs since, 2nd: 5, 3rd: No runs since | 📊 1-3: 0W/0P/1U | 🐴 Also: 0W/0P/0U
+💰 Odds: 18.0 📉
+📝 Comment: 🔄 held up in rear but in touch with leaders, headway 4 out, ridden and keeping on after 2 out, went second and challenging run-in, kept on well, just held
+🏆 RaceName: John Durkan Memorial Punchestown Chase (Grade 1)
+📋 Race Type: ChG1
+🎽 Jockey: J Kennedy- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Mark Walsh (SR 50.0%, 4/8) | 🏆 Not H&J — Best Alternative: L P Dempsey (1/1, SR 100.0%)
+🏟️ Course: Punchestown (right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses)
+📏 Distance: 19.5 furlongs (🔽 vs 25.0 today)
+🌱 Going: S
+👜 Prize: 💰 78K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-04-30 17:00:00 | ⏳ Time between runs: 207  days ago
+🥇 Result: 1 🥇 / 🏇 7 runners. Expected: 1.0 → Actual: 1 (0.0 vs expected)
+🏆 1st: Did Not Run, 2nd: Unplaced, 3rd: Did Not Run | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 2.5 🔥
+📝 Comment: 🔄 towards rear, in touch with leaders after 3 out, switched right before 2 out, pushed along to lead approaching last, ridden and ⏳ ran on well run-in
+🏆 RaceName: Dooley Insurance Group Champion Novice Chase (Grade 1)
+📋 Race Type: NvChG1
+🎽 Jockey: M P Walsh- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Mark Walsh (SR 50.0%, 4/8) | 🏆 Not H&J — Best Alternative: L P Dempsey (1/1, SR 100.0%)
+🏟️ Course: Punchestown (right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses)
+📏 Distance: 25.0 furlongs (➡️ vs 25.0 today)
+🌱 Going: Y
+👜 Prize: 💰 65K
+---------------------------------------------------------------------------
+🐎 1 | Ahoy Senor🐎 10 years old  gelding, b,  164 lbs.
+🦄 Sire: Dylan Thomas (12.0% Rank: 8)
+🌿 Dam: Dara Supreme (6.0% Rank: 7)
+⏱️ Speed record - Runs: 10 | Best: 7.55 sec (Rank 7), Worst: 8.2 sec (Rank 4), Avg: 7.76 sec (Rank 6)
+🛠️ No gear today
+🩺 Medical History: 📅 2025-01-23: Wind Surgery
+🎲 Early market: 7.0 (Rank: 3)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ✅ Yes
+🗞️ **PRESS OPINION**
+💬 Comment: Has performed well in this race for last two years, taking record at this meeting to 1122
+🔦 Spotlight: Comes with some risk having failed to complete in his last three starts (had wind surgery prior to latest); however, comes alive at Aintree and has performed well in this race for the last two years, taking form figures at this meeting to 1122 (gained the wins in Grade 1 novice events over hurdles/fences); 🔥 big player provided that pattern is sustained.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: D P Constable
+🏠 Owner: Mrs C Wymer & Pjs Russell (No previous owner data) - (No previous owner(s))
+👤 Trainer: Lucinda Russell (0 previous trainer(s)) last 14d WinRate (6.0/26.0 runs) (Rank: 3) RTF: 52.0 (OVR: 17%)
+🏇 Jockey: Patrick Wadge (14d rank: 3) 🏇 Jockey 100439 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 88471 (6/21 - 29.0%)(2.0/ 13.0 runs) RTF: N/A (OVR: 14%) 5Y: 76/404 (19.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Has performed well in this race for last two years, taking record at this meeting to 1122
+🔦 Spotlight: Comes with some risk having failed to complete in his last three starts (had wind surgery prior to latest); however, comes alive at Aintree and has performed well in this race for the last two years, taking form figures at this meeting to 1122 (gained the wins in Grade 1 novice events over hurdles/fences); 🔥 big player provided that pattern is sustained.
+📊 **STATS**
+📉 OFR: 165.0 (Rank: 2)
+📈 RPR: 174.0 (Rank: 2)
+📉 TS: 130.0 (Rank: 8)
+🏟️ Course Wins/Runs: 2/6 | Ratio: 0.33
+📏 Distance Wins/Runs: 4/14 | Ratio: 0.29
+🌱 Going Wins/Runs: 3/10 | Ratio: 0.30
+📊 Form: 2-3PPF → Score: 0.4 (Rank: 1)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-14 16:00:00 | ⏳ Time between runs: 19  days ago
+🥇 Result: nan / 🏇 9 runners. Expected: 6.0 → Actual: 10 (-4.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 28.0 ❄️
+📝 Comment: jumped right on occasions, 🎯 led, mistake 9th, fell 15th
+🏆 RaceName: Boodles Cheltenham Gold Cup Chase (Grade 1) (GBB Race)
+📋 Race Type: 1ChG1
+🎽 Jockey: D R Fox- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Patrick Wadge (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Derek Fox (6/21, SR 28.6%)
+🏟️ Course: Cheltenham (left-handed, galloping, undulating and testing track with stiff fences)
+📏 Distance: 26.5 furlongs (🔼 vs 25.0 today)
+🌱 Going: GS
+👜 Prize: 💰 364K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-01-19 15:05:00 | ⏳ Time between runs: 54  days ago
+🥇 Result: nan / 🏇 6 runners. Expected: 3.0 → Actual: 7 (-4.0 vs expected)
+🏆 1st: No runs since, 2nd: 7, 3rd: No runs since | 📊 1-3: 0W/0P/1U | 🐴 Also: 0W/0P/1U
+💰 Odds: 5.0 🔥
+📝 Comment: didn't jump with fluency, 🎯 prominent, chased clear leader 2nd, hit 9th, ❄️ weakened 10th, lost touch and pulled up 3 out (trainer could offer no explanation for the poor form shown other than confirming jockey's report that gelding ❄️ stopped quickly; vet examined gelding post-race and had nothing to report)
+🏆 RaceName: Fitzdares Fleur De Lys Chase (GBB Race)
+📋 Race Type: 2Ch
+🎽 Jockey: P Wadge- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 🏇 Jockey: Patrick Wadge (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Derek Fox (6/21, SR 28.6%)
+🏟️ Course: Windsor (left hand; fairly sharp track)
+📏 Distance: 22.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: S
+👜 Prize: 💰 86K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-11-23 15:05:00 | ⏳ Time between runs: 57  days ago
+🥇 Result: nan / 🏇 7 runners. Expected: 4.0 → Actual: 8 (-4.0 vs expected)
+🏆 1st: Unplaced, 2nd: Did Not Run, 3rd: Did Not Run | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/1P/1U
+💰 Odds: 8.0 📉
+📝 Comment: took keen hold, jumped right on occasions, 🔄 held up in rear, ❄️ weakened before 4 out, pulled up after 3 out (trainer said, regarding the poor form shown, that gelding was unsuited by running freely on the going, officially described as soft, which in her opinion was particularly testing on this occasion; vet had nothing to report)
+🏆 RaceName: Betfair Chase (Grade 1) (Registered As The Lancashire Chase) (GBB Race)
+📋 Race Type: 1ChG1
+🎽 Jockey: D R Fox- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Patrick Wadge (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Derek Fox (6/21, SR 28.6%)
+🏟️ Course: Haydock (left-handed, galloping chase track with stiff fences; sharp hurdles track)
+📏 Distance: 25.5 furlongs (🔼 vs 25.0 today)
+🌱 Going: S
+👜 Prize: 💰 117K
+---------------------------------------------------------------------------
+🐎 4 | Gaelic Warrior📈 Owner has a strong record (SR: 24.47%, 282 runs). (Rank: 2)
+🐎 7 years old  gelding, b,  164 lbs.
+🦄 Sire: Maxios (15.0% Rank: 3)
+🌿 Dam: Game Of Legs (64.0% Rank: 1)
+⏱️ Speed record - Runs: 10 | Best: 7.28 sec (Rank 2), Worst: 8.33 sec (Rank 6), Avg: 7.72 sec (Rank 5)
+🛠️ Gear: ht
+🩺 Medical History: No records
+🎲 Early market: 7.5 (Rank: 4)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: 2024 Arkle winner; sole attempt at about 3m resulted in his best hurdles performance
+🔦 Spotlight: Impressive in last season's Arkle but has failed to reproduce that form kept to about 2m since; has good form beyond that trip and his sole attempt at about 3m resulted in his peak hurdles performance, namely an emphatic success in Grade 1 novice at Punchestown (yielding) two years ago; has the ability to play a huge role, provided the belated return to this sort of distance prompts a revival.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: The Niarchos Family
+🏠 Owner: Mrs S Ricci 69/282 (24.00%) - (No previous owner(s))
+👤 Trainer: W P Mullins (0 previous trainer(s)) last 14d WinRate (7.0/11.0 runs) (Rank: 1) RTF: 82.0 (OVR: 13%)
+🏇 Jockey: Mr P W Mullins (14d rank: 4) 🏇 Jockey 85115 Today's Jock winSR: 50.0% | 🏆 Not H&J as Best Alternative Jockey: 86502 (6/9 - 67.0%)(2.0/ 6.0 runs) RTF: N/A (OVR: 13%) 5Y: 131/395 (33.0)
+🗞️ **PRESS OPINION**
+💬 Comment: 2024 Arkle winner; sole attempt at about 3m resulted in his best hurdles performance
+🔦 Spotlight: Impressive in last season's Arkle but has failed to reproduce that form kept to about 2m since; has good form beyond that trip and his sole attempt at about 3m resulted in his peak hurdles performance, namely an emphatic success in Grade 1 novice at Punchestown (yielding) two years ago; has the ability to play a huge role, provided the belated return to this sort of distance prompts a revival.
+📊 **STATS**
+📉 OFR: 164.0 (Rank: 4)
+📈 RPR: 176.0 (Rank: 1)
+📉 TS: 151.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: U1-223 → Score: 0.26 (Rank: 3)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-02-02 14:10:00 | ⏳ Time between runs: 59  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 1.5 🔥🔥
+📝 Comment: jumped right on occasions, in touch with leaders, 🔄 towards rear 5th, headway and went modest fourth before 3 out, went modest third last, no match for first two (vet reported gelding to have a small skin wound over lateral sesamoid left fore but to be otherwise post race normal)
+🏆 RaceName: Ladbrokes Dublin Chase (Grade 1)
+📋 Race Type: ChG1
+🎽 Jockey: P Townend- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Mr P W Mullins (SR 50.0%, 1/2) | 🏆 Not H&J — Best Alternative: Paul Townend (6/9, SR 66.7%)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📏 Distance: 17.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: Y
+👜 Prize: 💰 74K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-12-27 13:10:00 | ⏳ Time between runs: 37  days ago
+🥇 Result: 2 🥈 / 🏇 9 runners. Expected: 1.0 → Actual: 2 (-1.0 vs expected)
+🏆 1st: No runs since, 2nd: 3, 3rd: No runs since | 📊 1-3: 0W/1P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 1.625 🔥🔥
+📝 Comment: visibility reduced by fog, 🔄 midfield on outer, headway and briefly went second halfway, outpaced after 2 out, rallied and went second run-in, no match for winner
+🏆 RaceName: Paddy's Rewards Club Chase (Grade 1)
+📋 Race Type: ChG1
+🎽 Jockey: Mr P W Mullins- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Mr P W Mullins (SR 50.0%, 1/2) | 🏆 Not H&J — Best Alternative: Paul Townend (6/9, SR 66.7%)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📏 Distance: 17.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: GY
+👜 Prize: 💰 65K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-05-02 16:25:00 | ⏳ Time between runs: 238  days ago
+🥇 Result: 2 🥈 / 🏇 4 runners. Expected: 1.0 → Actual: 2 (-1.0 vs expected)
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 0.333 🔥🔥
+📝 Comment: jumped right on occasions, raced in second, joined leader after 3 out, 🎯 led narrowly when 🚧 bumped rival 2 out, headed when ridden towards far side after last, no match for winner
+🏆 RaceName: Barberstown Castle Novice Chase (Grade 1)
+📋 Race Type: NvChG1
+🎽 Jockey: P Townend- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Mr P W Mullins (SR 50.0%, 1/2) | 🏆 Not H&J — Best Alternative: Paul Townend (6/9, SR 66.7%)
+🏟️ Course: Punchestown (right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses)
+📏 Distance: 16.5 furlongs (🔽 vs 25.0 today)
+🌱 Going: Y
+👜 Prize: 💰 65K
+---------------------------------------------------------------------------
+🐎 7 | Stage Star🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 9 years old  gelding, b,  164 lbs.
+🦄 Sire: Fame And Glory (15.0% Rank: 4)
+🌿 Dam: Sparky May (0.0% Rank: ?)
+⏱️ Speed record - Runs: 11 | Best: 7.49 sec (Rank 6), Worst: 8.04 sec (Rank 1), Avg: 7.69 sec (Rank 3)
+🛠️ No gear today
+🩺 Medical History: 📅 2024-07-19: Wind Surgery | 📅 2022-07-05: Wind Surgery
+🎲 Early market: 7.5 (Rank: 4)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Very useful 2m4f chaser; put up a good fight when upped to 3m1f at Cheltenham last time
+🔦 Spotlight: Best known for his 2m4f exploits that include Grade 1 novice wins over hurdles/fences; however, put up a good fight against odds-on L'Homme Presse when upped to 3m1f in Grade 2 at Cheltenham (soft) most recently, emerging as the best horse at the weights; one of a few runners who remain 🔍 unexposed at this sort of trip.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Ruxley Holdings Ltd
+🏠 Owner: Owners Group 044 5/12 (42.00%) - (No previous owner(s))
+👤 Trainer: Paul Nicholls (0 previous trainer(s)) last 14d WinRate (5.0/30.0 runs) (Rank: 4) RTF: 57.0 (OVR: 16%)
+🏇 Jockey: Harry Cobden (14d rank: 4) 🏇 Today's Jock winSR: 47.0% (No better alternative found.)(6.0/ 30.0 runs) RTF: N/A (OVR: 18%) 5Y: 309/1249 (25.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Very useful 2m4f chaser; put up a good fight when upped to 3m1f at Cheltenham last time
+🔦 Spotlight: Best known for his 2m4f exploits that include Grade 1 novice wins over hurdles/fences; however, put up a good fight against odds-on L'Homme Presse when upped to 3m1f in Grade 2 at Cheltenham (soft) most recently, emerging as the best horse at the weights; one of a few runners who remain 🔍 unexposed at this sort of trip.
+📊 **STATS**
+📉 OFR: 163.0 (Rank: 5)
+📈 RPR: 173.0 (Rank: 3)
+📉 TS: 141.0 (Rank: 6)
+🏟️ Course Wins/Runs: 0/4 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 2/6 | Ratio: 0.33
+📊 Form: P5-472 → Score: 0.06 (Rank: 8)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-01-25 14:25:00 | ⏳ Time between runs: 67  days ago
+🥇 Result: 2 🥈 / 🏇 6 runners. Expected: 3.0 → Actual: 2 (+1.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 6.5 📉
+📝 Comment: raced in second, 🎯 led after 1st, faced challenge before 2 out, soon disputing lead, hung left run-in, no extra towards finish
+🏆 RaceName: Betfair Cotswold Chase (Grade 2) (GBB Race)
+📋 Race Type: 1ChG2
+🎽 Jockey: H Cobden- (⚖️ Weight: 162.0 lbs (73.6 kg) carried -- Allowance: 0.0) 🏇 Jockey: Harry Cobden (SR 47.1%, 8/17) | 🏆 Not H&J — Best Alternative: Harry Cobden (8/17, SR 47.1%)
+🏟️ Course: Cheltenham (left-handed, galloping, undulating and testing track with stiff fences)
+📏 Distance: 25.5 furlongs (🔼 vs 25.0 today)
+🌱 Going: S
+👜 Prize: 💰 70K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-12-14 13:50:00 | ⏳ Time between runs: 42  days ago
+🥇 Result: 7 / 🏇 11 runners. Expected: 6.0 → Actual: 7 (-1.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/1P/0U
+💰 Odds: 11.0 📉
+📝 Comment: 🎯 led, raced in second 4th, not fluent 8th, not fluent 4 out, lost position 3 out, ❄️ weakened from 2 out
+🏆 RaceName: Nyetimber December Gold Cup Handicap Chase (Premier Handicap) (GBB Race)
+📋 Race Type: 1HcChG3
+🎽 Jockey: H Cobden- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 🏇 Jockey: Harry Cobden (SR 47.1%, 8/17) | 🏆 Not H&J — Best Alternative: Harry Cobden (8/17, SR 47.1%)
+🏟️ Course: Cheltenham (left-handed, galloping, undulating and testing track with stiff fences)
+📏 Distance: 20.5 furlongs (🔽 vs 25.0 today)
+🌱 Going: GS
+👜 Prize: 💰 71K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-10-27 13:50:00 | ⏳ Time between runs: 48  days ago
+🥇 Result: 4 / 🏇 5 runners. Expected: 1.0 → Actual: 4 (-3.0 vs expected)
+🏆 1st: Did Not Run, 2nd: Did Not Run, 3rd: Unplaced | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 2.0 🔥🔥
+📝 Comment: took keen hold, raced in second, not fluent 1st, lost second approaching last, no extra and lost third towards finish
+🏆 RaceName: Virgin Bet Old Roan Limited Handicap Chase (Grade 2) (GBB Race)
+📋 Race Type: 1HcChG2
+🎽 Jockey: H Cobden- (⚖️ Weight: 160.0 lbs (72.7 kg) carried -- Allowance: 0.0) 🏇 Jockey: Harry Cobden (SR 47.1%, 8/17) | 🏆 Not H&J — Best Alternative: Harry Cobden (8/17, SR 47.1%)
+🏟️ Course: Aintree (left-handed, flat track; Mildmay sharp; National galloping, stiff fences)
+📏 Distance: 20.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: G
+👜 Prize: 💰 46K
+---------------------------------------------------------------------------
+🐎 3 | Embassy Gardens🐎 9 years old  gelding, b,  164 lbs.
+🦄 Sire: Shantou (15.0% Rank: 2)
+🌿 Dam: Adriana Des Mottes (27.0% Rank: 5)
+⏱️ Speed record - Runs: 9 | Best: 7.56 sec (Rank 8), Worst: 8.51 sec (Rank 7), Avg: 8.0 sec (Rank 7)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 9.0 (Rank: 6)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Came up short in the Irish Gold Cup, taking overall Grade 1 form figures to P6P6
+🔦 Spotlight: Stablemate of Gaelic Warrior; record of 3-6 over fences features a very useful performance at Tramore (2m7f, heavy) on New Year's Day; subsequently came up short in the Irish Gold Cup, taking overall Grade 1 form figures to P6P6; still has something to prove at this level.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: R T Crellin
+🏠 Owner: Sean & Bernardine Mulryan (No previous owner data) - (No previous owner(s))
+👤 Trainer: W P Mullins (0 previous trainer(s)) last 14d WinRate (7.0/11.0 runs) (Rank: 1) RTF: 82.0 (OVR: 13%)
+🏇 Jockey: Paul Townend (14d rank: 6) 🏇 Jockey 86502 Today's Jock winSR: 75.0% | 🏆 Not H&J as Best Alternative Jockey: 85115 (1/1 - 100.0%)(4.0/ 6.0 runs) RTF: N/A (OVR: 19%) 5Y: 328/870 (38.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Came up short in the Irish Gold Cup, taking overall Grade 1 form figures to P6P6
+🔦 Spotlight: Stablemate of Gaelic Warrior; record of 3-6 over fences features a very useful performance at Tramore (2m7f, heavy) on New Year's Day; subsequently came up short in the Irish Gold Cup, taking overall Grade 1 form figures to P6P6; still has something to prove at this level.
+📊 **STATS**
+📉 OFR: 160.0 (Rank: 7)
+📈 RPR: 167.0 (Rank: 7)
+📉 TS: 136.0 (Rank: 7)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 1/4 | Ratio: 0.25
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 12-P16 → Score: 0.13 (Rank: 4)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-02-01 15:30:00 | ⏳ Time between runs: 60  days ago
+🥇 Result: 6 / 🏇 10 runners. Expected: 4.0 → Actual: 6 (-2.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 16.0 📉
+📝 Comment: 🎯 led narrowly or disputed lead, 🎯 prominent 3rd, ❄️ weakened from last
+🏆 RaceName: Paddy Power Irish Gold Cup Chase (Grade 1)
+📋 Race Type: ChG1
+🎽 Jockey: M O'Sullivan- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Paul Townend (SR 75.0%, 3/4) | 🏆 Not H&J — Best Alternative: Mr P W Mullins (1/1, SR 100.0%)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📏 Distance: 24.5 furlongs (🔽 vs 25.0 today)
+🌱 Going: Y
+👜 Prize: 💰 118K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-01-01 14:15:00 | ⏳ Time between runs: 31  days ago
+🥇 Result: 1 🥇 / 🏇 7 runners. Expected: 4.0 → Actual: 1 (+3.0 vs expected)
+🏆 1st: 6, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/1U | 🐴 Also: 0W/0P/0U
+💰 Odds: 9.0 📉
+📝 Comment: made virtually all, 4 lengths ahead with one circuit to go, reduced lead 2 out, pushed along approaching last, ran on and went clear again run-in
+🏆 RaceName: O'Driscoll's Irish Whiskey New Year's Day Chase (Grade 3)
+📋 Race Type: ChG3
+🎽 Jockey: M O'Sullivan- (⚖️ Weight: 160.0 lbs (72.7 kg) carried -- Allowance: 0.0) 🏇 Jockey: Paul Townend (SR 75.0%, 3/4) | 🏆 Not H&J — Best Alternative: Mr P W Mullins (1/1, SR 100.0%)
+🏟️ Course: Tramore (right-handed, undulating, sharp track)
+📏 Distance: 23.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: HY
+👜 Prize: 💰 19K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-04-30 17:00:00 | ⏳ Time between runs: 245  days ago
+🥇 Result: nan / 🏇 7 runners. Expected: 3.0 → Actual: 8 (-5.0 vs expected)
+🏆 1st: Did Not Run, 2nd: Unplaced, 3rd: Did Not Run | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 3.5 🔥
+📝 Comment: 🎯 prominent, not fluent 5 out, ❄️ weakened before 2 out, pulled up approaching last
+🏆 RaceName: Dooley Insurance Group Champion Novice Chase (Grade 1)
+📋 Race Type: NvChG1
+🎽 Jockey: P Townend- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Paul Townend (SR 75.0%, 3/4) | 🏆 Not H&J — Best Alternative: Mr P W Mullins (1/1, SR 100.0%)
+🏟️ Course: Punchestown (right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses)
+📏 Distance: 25.0 furlongs (➡️ vs 25.0 today)
+🌱 Going: Y
+👜 Prize: 💰 65K
+---------------------------------------------------------------------------
+🐎 2 | Djelo📈 Owner has a strong record (SR: 17.14%, 175 runs). (Rank: 4)
+🐎 7 years old  gelding, b,  164 lbs.
+🦄 Sire: Montmartre (13.0% Rank: 6)
+🌿 Dam: Djeville (27.0% Rank: 4)
+⏱️ Speed record - Runs: 16 | Best: 7.17 sec (Rank 1), Worst: 8.09 sec (Rank 3), Avg: 7.65 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 21.0 (Rank: 7)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Well suited by 2m7f in the Denman Chase on penultimate run; 🔍 unexposed over staying trips
+🔦 Spotlight: Always behind and well beaten in the Ryanair but may benefit from this step back up in distance, having been well suited by 2m7f in the Denman Chase at Newbury (one of two soft-ground Grade 2 wins this term) the time before; largely 📈 progressive prior to latest start and 🔍 unexposed over staying trips.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Gildas Blain
+🏠 Owner: P Davies 30/175 (17.00%) - (No previous owner(s))
+👤 Trainer: Venetia Williams (0 previous trainer(s)) last 14d WinRate (0.0/2.0 runs) (Rank: 6) RTF: N/A (OVR: 6%)
+🏇 Jockey: Charlie Deutsch (14d rank: 7) 🏇 Today's Jock winSR: 40.0% (No better alternative found.)(2.0/ 12.0 runs) RTF: N/A (OVR: 8%) 5Y: 84/606 (14.000000000000002)
+🗞️ **PRESS OPINION**
+💬 Comment: Well suited by 2m7f in the Denman Chase on penultimate run; 🔍 unexposed over staying trips
+🔦 Spotlight: Always behind and well beaten in the Ryanair but may benefit from this step back up in distance, having been well suited by 2m7f in the Denman Chase at Newbury (one of two soft-ground Grade 2 wins this term) the time before; largely 📈 progressive prior to latest start and 🔍 unexposed over staying trips.
+📊 **STATS**
+📉 OFR: 166.0 (Rank: 1)
+📈 RPR: 172.0 (Rank: 4)
+📉 TS: 146.0 (Rank: 5)
+🏟️ Course Wins/Runs: 1/2 | Ratio: 0.50
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 3/6 | Ratio: 0.50
+📊 Form: -21217 → Score: 0.1 (Rank: 6)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-13 15:20:00 | ⏳ Time between runs: 20  days ago
+🥇 Result: 7 / 🏇 9 runners. Expected: 4.0 → Actual: 7 (-3.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 7.5 📉
+📝 Comment: always behind, 🔄 held up in rear, outpaced 7th, not fluent 10th, mistake 12th, lost touch before 2 out (jockey said gelding was outpaced; trainer had no explanation for the poor form shown; vet examined gelding post-race and had nothing to report)
+🏆 RaceName: Ryanair Chase (Registered As The Festival Trophy) (Grade 1) (GBB Race)
+📋 Race Type: 1ChG1
+🎽 Jockey: C Deutsch- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Charlie Deutsch (SR 40.0%, 6/15) | 🏆 Not H&J — Best Alternative: Charlie Deutsch (6/15, SR 40.0%)
+🏟️ Course: Cheltenham (left-handed, galloping, undulating and testing track with stiff fences)
+📏 Distance: 20.5 furlongs (🔽 vs 25.0 today)
+🌱 Going: GS
+👜 Prize: 💰 211K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-08 14:25:00 | ⏳ Time between runs: 33  days ago
+🥇 Result: 1 🥇 / 🏇 7 runners. Expected: 1.0 → Actual: 1 (0.0 vs expected)
+🏆 1st: 7, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/1U | 🐴 Also: 0W/0P/0U
+💰 Odds: 1.5 🔥🔥
+📝 Comment: took keen hold, in rear, detached early, good headway and 🎯 prominent 4 out, 🎯 led 3 out, went clear after 2 out, kept on well run-in, comfortably
+🏆 RaceName: William Hill Bet10 Get10 On Racing Denman Chase (Grade 2) (GBB Race)
+📋 Race Type: 1ChG2
+🎽 Jockey: C Deutsch- (⚖️ Weight: 162.0 lbs (73.6 kg) carried -- Allowance: 0.0) 🏇 Jockey: Charlie Deutsch (SR 40.0%, 6/15) | 🏆 Not H&J — Best Alternative: Charlie Deutsch (6/15, SR 40.0%)
+🏟️ Course: Newbury (left-handed, galloping track with stiff fences)
+📏 Distance: 23.5 furlongs (🔽 vs 25.0 today)
+🌱 Going: S
+👜 Prize: 💰 48K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2025-01-19 15:05:00 | ⏳ Time between runs: 19  days ago
+🥇 Result: 2 🥈 / 🏇 6 runners. Expected: 1.0 → Actual: 2 (-1.0 vs expected)
+🏆 1st: No runs since, 2nd: 7, 3rd: No runs since | 📊 1-3: 0W/0P/1U | 🐴 Also: 0W/0P/1U
+💰 Odds: 1.25 🔥🔥
+📝 Comment: jumped slightly right throughout, took keen hold, raced in second, not fluent and 🎯 prominent behind clear leader from 2nd, went second again 10th, ❄️ weakened from 3 out
+🏆 RaceName: Fitzdares Fleur De Lys Chase (GBB Race)
+📋 Race Type: 2Ch
+🎽 Jockey: C Deutsch- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Charlie Deutsch (SR 40.0%, 6/15) | 🏆 Not H&J — Best Alternative: Charlie Deutsch (6/15, SR 40.0%)
+🏟️ Course: Windsor (left hand; fairly sharp track)
+📏 Distance: 22.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: S
+👜 Prize: 💰 86K
+---------------------------------------------------------------------------
+🐎 8 | The Real Whacker🐎 9 years old  gelding, b,  164 lbs.
+🦄 Sire: Mahler (12.0% Rank: 7)
+🌿 Dam: Credit Box (21.0% Rank: 6)
+⏱️ Speed record - Runs: 10 | Best: 7.41 sec (Rank 4), Worst: 8.06 sec (Rank 2), Avg: 7.66 sec (Rank 2)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 21.0 (Rank: 7)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Still seeking a first Grade 1 success outside novice company; something to find
+🔦 Spotlight: Charlie Hall winner at Wetherby in November; creditable fourth in the last two runnings of the King George but hasn't fared so well in the last two Gold Cups and is still seeking a first Grade 1 success outside novice company; balance of form gives him something to find.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Mrs B Keane
+🏠 Owner: Neville, Mann, Duffus, Dennis-Price (No previous owner data) - (No previous owner(s))
+👤 Trainer: Patrick Neville (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 6) RTF: 33.0 (OVR: 0%)
+🏇 Jockey: Brian Hughes (14d rank: 7) 🏇 Today's Jock winSR: 100.0% (No better alternative found.)(6.0/ 34.0 runs) RTF: N/A (OVR: 12%) 5Y: 223/1387 (16.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Still seeking a first Grade 1 success outside novice company; something to find
+🔦 Spotlight: Charlie Hall winner at Wetherby in November; creditable fourth in the last two runnings of the King George but hasn't fared so well in the last two Gold Cups and is still seeking a first Grade 1 success outside novice company; balance of form gives him something to find.
+📊 **STATS**
+📉 OFR: 157.0 (Rank: 8)
+📈 RPR: 165.0 (Rank: 8)
+📉 TS: 155.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 4/8 | Ratio: 0.50
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 5-U145 → Score: 0.07 (Rank: 7)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-14 16:00:00 | ⏳ Time between runs: 19  days ago
+🥇 Result: 5 / 🏇 9 runners. Expected: 6.0 → Actual: 5 (+1.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 28.0 ❄️
+📝 Comment: in touch with leaders on inner, hit 1st, switched right and 🎯 prominent 2nd, left in second 15th, mistake 16th, lost position before 3 out, soon ❄️ weakened
+🏆 RaceName: Boodles Cheltenham Gold Cup Chase (Grade 1) (GBB Race)
+📋 Race Type: 1ChG1
+🎽 Jockey: B Hughes- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Brian Hughes (SR 100.0%, 1/1) | 🏆 Not H&J — Best Alternative: Brian Hughes (1/1, SR 100.0%)
+🏟️ Course: Cheltenham (left-handed, galloping, undulating and testing track with stiff fences)
+📏 Distance: 26.5 furlongs (🔼 vs 25.0 today)
+🌱 Going: GS
+👜 Prize: 💰 364K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-12-26 14:30:00 | ⏳ Time between runs: 78  days ago
+🥇 Result: 4 / 🏇 11 runners. Expected: 6.0 → Actual: 4 (+2.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 1W/0P/1U
+💰 Odds: 14.0 📉
+📝 Comment: raced in second on outer, chased clear leader 3rd, lost position 4 out, not fluent 2 out, rallied run-in, went fourth final strides
+🏆 RaceName: Ladbrokes King George VI Chase (Grade 1) (GBB Race)
+📋 Race Type: 1ChG1
+🎽 Jockey: G Sheehan- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Brian Hughes (SR 100.0%, 1/1) | 🏆 Not H&J — Best Alternative: Brian Hughes (1/1, SR 100.0%)
+🏟️ Course: Kempton (right-handed, sharpish, flat track)
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: G
+👜 Prize: 💰 148K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-11-02 14:58:00 | ⏳ Time between runs: 53  days ago
+🥇 Result: 1 🥇 / 🏇 6 runners. Expected: 3.0 → Actual: 1 (+2.0 vs expected)
+🏆 1st: Unplaced, 2nd: Did Not Run, 3rd: Did Not Run | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 5.0 🔥
+📝 Comment: took keen hold, pressed leader, 🎯 led 4th, ridden after 3 out, good jump 2 out, kept on well run-in
+🏆 RaceName: bet365 Charlie Hall Chase (Grade 2) (GBB Race)
+📋 Race Type: 1ChG2
+🎽 Jockey: B Hughes- (⚖️ Weight: 158.0 lbs (71.8 kg) carried -- Allowance: 0.0) 🏇 Jockey: Brian Hughes (SR 100.0%, 1/1) | 🏆 Not H&J — Best Alternative: Brian Hughes (1/1, SR 100.0%)
+🏟️ Course: Wetherby (left-handed, galloping track with stiff fences)
+📏 Distance: 24.0 furlongs (🔽 vs 25.0 today)
+🌱 Going: G
+👜 Prize: 💰 57K
+---------------------------------------------------------------------------

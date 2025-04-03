@@ -1,0 +1,377 @@
+⏰ Off Time: 2025-04-03 14:42
+📍 Venue: Sedgefield (left-handed, sharp, undulating, testing track with easy fences)
+🏁 Race ID: 889448 - 🏆 Name: betvickers.com Handicap Chase (GBB Race)
+🏆 Type: Chase
+📏 Distance: 21.0 furlongs
+🏇 Class/Grade: Class 4
+🎂 Age Band: 5yo+
+💰 Prize money: 💰 5K
+☀️ Weather: Sunny
+🌱 Going: Good
+5 runners declared
+Speed Performance for Race ID 889448 (Filter: AND_notAW_handicap_notAmateur)
+===========================================================================
+horse_id      horse_name AND_notAW_handicap_notAmateur_bestSpeedPerM AND_notAW_handicap_notAmateur_worstSpeedPerM AND_notAW_handicap_notAmateur_avgSpeedPerM AND_notAW_handicap_notAmateur_noRaces AND_notAW_handicap_notAmateur_bestSpeedPerM_rank AND_notAW_handicap_notAmateur_avgSpeedPerM_rank
+ 2564313 Carnet De Stage                                       11.01                                        13.44                                      12.77                                  11.0                                              4.0                                             1.0
+ 5367997    Jackpot Cash                                       11.78                                        13.43                                      12.65                                   5.0                                              1.0                                             2.0
+ 2961519       Tom Creen                                       11.11                                        13.18                                      12.53                                  19.0                                              3.0                                             3.0
+ 3982447   Beat The Edge                                       10.39                                        13.34                                      12.45                                  28.0                                              5.0                                             4.0
+ 1685795 Valence Daumont                                       11.61                                        13.08                                      12.35                                  10.0                                              2.0                                             5.0
+No head-to-head data found for any of this race's horses
+++++++++++Performance Table++++++++++
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1        | Tom Creen                 | 2961519  | 3.0      | 1.0      | 2.0      | 1.0      | 2.0      | 4        | 3        | 4.0      | 3.0      | 4.0      | 2.0      | 3.0      | 2.0      | 1.0      | 4.0      | 3.0      | 2.0      | 5.0      | 4.0      | 5.0      | 4.0      | 5.0      | 2.0      | 1.0      | 1.0      | 2.0      | 1.0      | 2.0      | 3.0      | N/A      | 1.0      | 5.0     
+2        | Jackpot Cash              | 5367997  | 1.0      | 3.0      | 1.0      | 3.0      | 3.0      | 1        | 1        | 5.0      | 2.0      | 2.0      | 2.0      | 5.0      | 5.0      | 2.0      | 1.0      | 5.0      | 3.0      | 1.0      | 3.0      | 4.0      | 2.0      | 4.0      | 3.0      | N/A      | 1.0      | 2.0      | 2.0      | 1.0      | 1.0      | 1.0      | 2.0      | 2.0     
+4        | Valence Daumont           | 1685795  | 5.0      | 2.0      | 4.0      | 2.0      | 1.0      | 5        | 5        | 2.0      | 1.0      | 5.0      | 2.0      | 1.0      | 4.0      | 4.0      | 2.0      | 1.0      | 5.0      | 2.0      | 2.0      | 2.0      | 3.0      | 3.0      | 5.0      | 2.0      | 3.0      | 1.0      | 3.0      | 4.0      | 2.0      | 3.0      | 2.0      | 1.0     
+5        | Beat The Edge             | 3982447  | 4.0      | 4.0      | 3.0      | 4.0      | 3.0      | 3        | 4        | 3.0      | 4.0      | 3.0      | 2.0      | 3.0      | 1.0      | 5.0      | 4.0      | 3.0      | 4.0      | 4.0      | 1.0      | 1.0      | 5.0      | 2.0      | 4.0      | 3.0      | 3.0      | 2.0      | 3.0      | 3.0      | 5.0      | 4.0      | N/A      | 4.0     
+3        | Carnet De Stage           | 2564313  | 2.0      | 5.0      | 5.0      | 5.0      | 3.0      | 2        | 2        | 1.0      | 4.0      | 1.0      | 1.0      | 2.0      | 3.0      | 3.0      | 3.0      | 2.0      | 1.0      | 3.0      | 5.0      | 3.0      | 1.0      | 1.0      | 1.0      | N/A      | 3.0      | 2.0      | 5.0      | 5.0      | 4.0      | 2.0      | 3.0      | 3.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 1 | Tom Creen🐎 10 years old  gelding, b,  168 lbs.
+🦄 Sire: Yeats (14.000000000000002% Rank: 2)
+🌿 Dam: Casiana (26.0% Rank: 1)
+⏱️ Speed record - Runs: 19 | Best: 7.59 sec (Rank 4), Worst: 9.0 sec (Rank 3), Avg: 7.99 sec (Rank 3)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 2.75 (Rank: 1)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Likes it here and ran well behind a 📈 progressive sort over C&D last time; big chance
+🔦 Spotlight: 5-12 at this venue and not far off best when chasing home in-form The Paddy Pie over C&D on a sound surface last time; likely to go well from 2lb higher.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Kildare Racing Syndicate
+🏠 Owner: Racing To Profit Syndicate & Partners (No previous owner data) - (No previous owner(s))
+👤 Trainer: Sam England (0 previous trainer(s)) last 14d WinRate (0.0/9.0 runs) (Rank: 4) RTF: 78.0 (OVR: 17%)
+🏇 Jockey: Tom Midgley(3) (14d rank: 1) 🏇 Today's Jock winSR: 50.0% (No better alternative found.)(0.0/ 4.0 runs) RTF: N/A (OVR: 7%) 5Y: 6/84 (7.000000000000001)
+🗞️ **PRESS OPINION**
+💬 Comment: Likes it here and ran well behind a 📈 progressive sort over C&D last time; big chance
+🔦 Spotlight: 5-12 at this venue and not far off best when chasing home in-form The Paddy Pie over C&D on a sound surface last time; likely to go well from 2lb higher.
+📊 **STATS**
+📉 OFR: 107.0 (Rank: 1)
+📈 RPR: 112.0 (Rank: 3)
+📉 TS: 99.0 (Rank: 2)
+🏟️ Course Wins/Runs: 5/12 | Ratio: 0.42
+📏 Distance Wins/Runs: 1/5 | Ratio: 0.20
+🌱 Going Wins/Runs: 0/7 | Ratio: 0.00
+📊 Form: 341352 → Score: 0.08 (Rank: 2)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-20 16:20:00 | ⏳ Time between runs: 13  days ago
+🥇 Result: 2 🥈 / 🏇 8 runners. Expected: 7.0 → Actual: 2 (+5.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: 3 | 📊 1-3: 0W/1P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 11.0 📉
+📝 Comment: 🎯 led, briefly headed 2 out, good jump last, went clear with winner run-in, headed inside final 110yds, no extra when ⚠️ hampered final strides
+🏆 RaceName: Fairlight Studio Handicap Chase
+📋 Race Type: 5HcCh
+🎽 Jockey: J England- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 🏇 Jockey: Tom Midgley(3) (SR 50.0%, 2/4) | 🏆 Not H&J — Best Alternative: Tom Midgley (2/4, SR 50.0%)
+🏟️ Course: Sedgefield (left-handed, sharp, undulating, testing track with easy fences)
+📏 Distance: 21.0 furlongs (➡️ vs 21.0 today)
+🌱 Going: G
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-26 15:18:00 | ⏳ Time between runs: 22  days ago
+🥇 Result: 5 / 🏇 9 runners. Expected: 7.0 → Actual: 5 (+2.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/1P/0U
+💰 Odds: 14.0 📉
+📝 Comment: 🎯 prominent, in touch with leaders before 8th, went second 11th, pressed leader 4 out, lost position before 3 out, ❄️ weakened quickly before 2 out
+🏆 RaceName: Entertain In Style At Wetherby Racecourse Handicap Chase (Go North Monet's Garden Qualifier) (GBB)
+📋 Race Type: 4HcCh
+🎽 Jockey: J England- (⚖️ Weight: 165.0 lbs (75.0 kg) carried -- Allowance: 0.0) 🏇 Jockey: Tom Midgley(3) (SR 50.0%, 2/4) | 🏆 Not H&J — Best Alternative: Tom Midgley (2/4, SR 50.0%)
+🏟️ Course: Wetherby (left-handed, galloping track with stiff fences)
+📏 Distance: 19.5 furlongs (🔽 vs 21.0 today)
+🌱 Going: S
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2025-02-05 14:35:00 | ⏳ Time between runs: 21  days ago
+🥇 Result: 3 🥉 / 🏇 5 runners. Expected: 2.0 → Actual: 3 (-1.0 vs expected)
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 2.0 🔥🔥
+📝 Comment: didn't always jump with fluency, disputed lead, raced in second after 2nd, challenging 2 out, ❄️ weakened from last
+🏆 RaceName: Vickers.Bet Handicap Chase (Go North One Man Series Qualifier) (GBB Race)
+📋 Race Type: 4HcCh
+🎽 Jockey: T Midgley- (⚖️ Weight: 160.0 lbs (72.7 kg) carried -- Allowance: 3.0) 🏇 Jockey: Tom Midgley(3) (SR 50.0%, 2/4) | 🏆 Not H&J — Best Alternative: Tom Midgley (2/4, SR 50.0%)
+🏟️ Course: Sedgefield (left-handed, sharp, undulating, testing track with easy fences)
+📏 Distance: 16.5 furlongs (🔽 vs 21.0 today)
+🌱 Going: GS
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🐎 2 | Jackpot Cash🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 6 years old  gelding, b,  156 lbs.
+🦄 Sire: Cokoriko (19.0% Rank: 1)
+🌿 Dam: Fresca Has (9.0% Rank: 2)
+⏱️ Speed record - Runs: 10 | Best: 7.13 sec (Rank 1), Worst: 8.49 sec (Rank 1), Avg: 7.79 sec (Rank 1)
+🛠️ Gear: h
+🩺 Medical History: No records
+🎲 Early market: 3.5 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Has shown ability over fences but he'll need to raise game if he's to win back in a chase
+🔦 Spotlight: Best effort over fences, despite beaten at odds-on, at Bangor in February and respectable effort behind a wide-margin winner over hurdles last time; improvement needed to win this, though.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: A Delaroque &  & Mrs C Theault
+🏠 Owner: Pontoon Racing 6/34 (18.00%) - (No previous owner(s))
+👤 Trainer: James Owen (0 previous trainer(s)) last 14d WinRate (2.0/9.0 runs) (Rank: 3) RTF: 61.0 (OVR: 22%)
+🏇 Jockey: Henry Brooke (14d rank: 2) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(2.0/ 23.0 runs) RTF: N/A (OVR: 18%) 5Y: 118/657 (18.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Has shown ability over fences but he'll need to raise game if he's to win back in a chase
+🔦 Spotlight: Best effort over fences, despite beaten at odds-on, at Bangor in February and respectable effort behind a wide-margin winner over hurdles last time; improvement needed to win this, though.
+📊 **STATS**
+📉 OFR: 95.0 (Rank: 2)
+📈 RPR: 107.0 (Rank: 5)
+📉 TS: 89.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 1/1 | Ratio: 1.00
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: 7F4123 → Score: 0.07 (Rank: 3)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-14 14:54:00 | ⏳ Time between runs: 19  days ago
+🥇 Result: 3 🥉 / 🏇 6 runners. Expected: 1.0 → Actual: 3 (-2.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 2.5 🔥
+📝 Comment: 🔄 held up in rear, smooth headway on outer and pressed leaders before 3 out, ridden before 2 out, ❄️ weakened after 2 out
+🏆 RaceName: Volt Low Alcohol Ipa @ Fakenham Racecourse Handicap Hurdle (For The Walter Wales Cup)
+📋 Race Type: 5HcH
+🎽 Jockey: C Gethings- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0) 🏇 Jockey: Henry Brooke (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: James Bowen (0/0, SR 0.0%)
+🏟️ Course: Fakenham (left-handed, sharp, undulating track)
+📏 Distance: 20.0 furlongs (🔽 vs 21.0 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-26 14:25:00 | ⏳ Time between runs: 16  days ago
+🥇 Result: 2 🥈 / 🏇 8 runners. Expected: 1.0 → Actual: 2 (-1.0 vs expected)
+🏆 1st: No runs since, 2nd: 3, 3rd: No runs since | 📊 1-3: 0W/1P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 0.8 🔥🔥
+📝 Comment: 🔄 held up in last, steady headway when ⚠️ hampered 4 out, not fluent 3 out, outpaced before 2 out, rallying when hit last, went second final 110yds, not pace to challenge
+🏆 RaceName: Weatherbys nhstallions.co.uk Novices' Handicap Chase
+📋 Race Type: 5NvHcCh
+🎽 Jockey: S Twiston-Davies- (⚖️ Weight: 160.0 lbs (72.7 kg) carried -- Allowance: 0.0) 🏇 Jockey: Henry Brooke (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: James Bowen (0/0, SR 0.0%)
+🏟️ Course: Bangor-on-Dee (left-handed, fairly sharp track)
+📏 Distance: 17.5 furlongs (🔽 vs 21.0 today)
+🌱 Going: HY
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2025-02-17 15:40:00 | ⏳ Time between runs: 8  days ago
+🥇 Result: 1 🥇 / 🏇 9 runners. Expected: 2.0 → Actual: 1 (+1.0 vs expected)
+🏆 1st: 2, 2nd: Did Not Run, 3rd: Did Not Run | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 3.0 🔥
+📝 Comment: 🔄 held up in rear, headway from 9th, went third home turn, soon switched left and pushed along, 🎯 led 2 out, mistake last, idled run-in, ridden out
+🏆 RaceName: Watch Unbridled On attheraces.com Handicap Hurdle
+📋 Race Type: 5HcH
+🎽 Jockey: Mr A Chadwick- (⚖️ Weight: 157.0 lbs (71.4 kg) carried -- Allowance: 5.0) 🏇 Jockey: Henry Brooke (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: James Bowen (0/0, SR 0.0%)
+🏟️ Course: Southwell (left-handed, sharp, flat track)
+📏 Distance: 20.5 furlongs (🔽 vs 21.0 today)
+🌱 Going: GS
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🐎 4 | Valence Daumont⚠️ Owner's record is weaker (SR: 6.25%, 16 runs). (Rank: 3)
+🐎 11 years old  gelding, b,  149 lbs.
+🦄 Sire: Sinndar (12.0% Rank: 4)
+🌿 Dam: Ice Ti (9.0% Rank: 2)
+⏱️ Speed record - Runs: 10 | Best: 7.65 sec (Rank 5), Worst: 8.61 sec (Rank 2), Avg: 8.11 sec (Rank 5)
+🛠️ No gear today
+🩺 Medical History: 📅 2019-11-04: Wind Surgery
+🎲 Early market: 5.5 (Rank: 3)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Broke losing run on penultimate start but isn't consistent and below that last time (bled)
+🔦 Spotlight: 6-24 over fences, though hasn't been too predictable in recent times; followed Catterick win with a poor run back on a sound surface at Doncaster (reportedly bled) and he has something to prove.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Mme & M Christian Chorier
+🏠 Owner: Mrs J Morgan 1/16 (6.00%) - (No previous owner(s))
+👤 Trainer: Joel Parkinson & Sue Smith (0 previous trainer(s)) last 14d WinRate (2.0/8.0 runs) (Rank: 2) RTF: 63.0 (OVR: 18%)
+🏇 Jockey: Jack Power(7) (14d rank: 3) 🏇 Jockey 101951 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 97855 (1/1 - 100.0%)(2.0/ 6.0 runs) RTF: N/A (OVR: 100%) 5Y: 11/52 (21.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Broke losing run on penultimate start but isn't consistent and below that last time (bled)
+🔦 Spotlight: 6-24 over fences, though hasn't been too predictable in recent times; followed Catterick win with a poor run back on a sound surface at Doncaster (reportedly bled) and he has something to prove.
+📊 **STATS**
+📉 OFR: 88.0 (Rank: 4)
+📈 RPR: 116.0 (Rank: 1)
+📉 TS: 90.0 (Rank: 4)
+🏟️ Course Wins/Runs: 1/2 | Ratio: 0.50
+📏 Distance Wins/Runs: 0/5 | Ratio: 0.00
+🌱 Going Wins/Runs: 3/9 | Ratio: 0.33
+📊 Form: 533615 → Score: 0.05 (Rank: 5)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-02-19 17:03:00 | ⏳ Time between runs: 42  days ago
+🥇 Result: 5 / 🏇 5 runners. Expected: 1.0 → Actual: 5 (-4.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 1.5 🔥🔥
+📝 Comment: 🔄 midfield, headway 4th, not fluent and lost position 9th, ❄️ weakened after 4 out (vet said gelding bled from the nose)
+🏆 RaceName: Livescore Bet Handicap Chase
+📋 Race Type: 5HcCh
+🎽 Jockey: D McMenamin- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 🏇 Jockey: Jack Power(7) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Danny McMenamin (1/1, SR 100.0%)
+🏟️ Course: Doncaster (left-handed, galloping, flat track)
+📏 Distance: 20.5 furlongs (🔽 vs 21.0 today)
+🌱 Going: G
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-01-31 13:35:00 | ⏳ Time between runs: 19  days ago
+🥇 Result: 1 🥇 / 🏇 7 runners. Expected: 2.0 → Actual: 1 (+1.0 vs expected)
+🏆 1st: 5, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/1U | 🐴 Also: 0W/0P/0U
+💰 Odds: 3.0 🔥
+📝 Comment: 🎯 prominent, disputed lead after 8th, 🎯 led 11th, ridden after 2 out, not fluent last, soon faced challenge, stayed on, all out
+🏆 RaceName: racingtv.com Handicap Chase (Go North Monet's Garden Series Qualifier)
+📋 Race Type: 5HcCh
+🎽 Jockey: D McMenamin- (⚖️ Weight: 149.0 lbs (67.7 kg) carried -- Allowance: 0.0) 🏇 Jockey: Jack Power(7) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Danny McMenamin (1/1, SR 100.0%)
+🏟️ Course: Catterick (left-handed, sharp, undulating track)
+📏 Distance: 19.0 furlongs (🔽 vs 21.0 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-12-16 11:52:00 | ⏳ Time between runs: 46  days ago
+🥇 Result: 6 / 🏇 7 runners. Expected: 5.0 → Actual: 6 (-1.0 vs expected)
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 8.5 📉
+📝 Comment: 🔄 midfield, not fluent 10th, in touch with leaders 14th, ❄️ weakened from 3 out
+🏆 RaceName: Golf And Gallop Package Handicap Chase
+📋 Race Type: 5HcCh
+🎽 Jockey: Sean Quinlan- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 🏇 Jockey: Jack Power(7) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Danny McMenamin (1/1, SR 100.0%)
+🏟️ Course: Southwell (left-handed, sharp, flat track)
+📏 Distance: 24.5 furlongs (🔼 vs 21.0 today)
+🌱 Going: GS
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🐎 5 | Beat The Edge⚠️ Owner's record is weaker (SR: 5.00%, 40 runs). (Rank: 4)
+🐎 8 years old  gelding, b,  146 lbs.
+🦄 Sire: Beat Hollow (12.0% Rank: 3)
+🌿 Dam: Darsi Ogrady (0.0% Rank: ?)
+⏱️ Speed record - Runs: 28 | Best: 7.49 sec (Rank 3), Worst: 9.62 sec (Rank 5), Avg: 8.05 sec (Rank 4)
+🛠️ Gear: b
+🩺 Medical History: No records
+🎲 Early market: 5.5 (Rank: 3)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Mainly consistent but not always straightforward and others appeal more
+🔦 Spotlight: Both chase wins were on a soft surface but handles quicker ground and was not far behind Tom Creen over C&D last month; respectable effort at Newcastle last time but not always straightforward and others appeal more.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Ms M Kavanagh
+🏠 Owner: Smartwater Utilities 2/40 (5.00%) - (No previous owner(s))
+👤 Trainer: Micky Hammond (0 previous trainer(s)) last 14d WinRate (1.0/15.0 runs) (Rank: 1) RTF: 25.0 (OVR: 12%)
+🏇 Jockey: Emma Smith-Chaston(3) (14d rank: 3) 🏇 Today's Jock winSR: 25.0% (No better alternative found.)(0.0/ 4.0 runs) RTF: N/A (OVR: 15%) 5Y: 26/287 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Mainly consistent but not always straightforward and others appeal more
+🔦 Spotlight: Both chase wins were on a soft surface but handles quicker ground and was not far behind Tom Creen over C&D last month; respectable effort at Newcastle last time but not always straightforward and others appeal more.
+📊 **STATS**
+📉 OFR: 85.0 (Rank: 5)
+📈 RPR: 112.0 (Rank: 3)
+📉 TS: 102.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/8 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/6 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/8 | Ratio: 0.00
+📊 Form: 152533 → Score: 0.07 (Rank: 4)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-31 15:30:00 | ⏳ Time between runs: 2  days ago
+🥇 Result: 3 🥉 / 🏇 7 runners. Expected: 4.0 → Actual: 3 (+1.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 5.5 🔥
+📝 Comment: pressed leader, not fluent 3 out, soon outpaced, not fluent and lost ground 2 out, ❄️ weakened gradually run-in
+🏆 RaceName: Golf Memberships At High Gosforth Park Handicap Chase
+📋 Race Type: 5HcCh
+🎽 Jockey: B Hughes- (⚖️ Weight: 158.0 lbs (71.8 kg) carried -- Allowance: 0.0) 🏇 Jockey: Emma Smith-Chaston(3) (SR 25.0%, 1/4) | 🏆 Not H&J — Best Alternative: Emma Smith-Chaston (1/4, SR 25.0%)
+🏟️ Course: Newcastle (left-handed, galloping, testing track with stiff fences)
+📏 Distance: 20.0 furlongs (🔽 vs 21.0 today)
+🌱 Going: G
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-03-20 16:20:00 | ⏳ Time between runs: 10  days ago
+🥇 Result: 3 🥉 / 🏇 8 runners. Expected: 6.0 → Actual: 3 (+3.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: 3 | 📊 1-3: 0W/1P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 10.0 📉
+📝 Comment: raced wide, travelled strongly, in touch with leaders, headway when 🚧 bumped 3 out, pressed leader going easily 2 out, outpaced run-in, no match for first two
+🏆 RaceName: Fairlight Studio Handicap Chase
+📋 Race Type: 5HcCh
+🎽 Jockey: B Hughes- (⚖️ Weight: 148.0 lbs (67.3 kg) carried -- Allowance: 0.0) 🏇 Jockey: Emma Smith-Chaston(3) (SR 25.0%, 1/4) | 🏆 Not H&J — Best Alternative: Emma Smith-Chaston (1/4, SR 25.0%)
+🏟️ Course: Sedgefield (left-handed, sharp, undulating, testing track with easy fences)
+📏 Distance: 21.0 furlongs (➡️ vs 21.0 today)
+🌱 Going: G
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2025-02-25 15:00:00 | ⏳ Time between runs: 23  days ago
+🥇 Result: 5 / 🏇 7 runners. Expected: 3.0 → Actual: 5 (-2.0 vs expected)
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 4.0 🔥
+📝 Comment: 🔄 held up in rear, not fluent 4th, headway 9th, slow jump 2 out, ❄️ weakened approaching last
+🏆 RaceName: BBC Make A Difference Awards Handicap Chase (Go North One Man Series Qualifier)
+📋 Race Type: 5HcCh
+🎽 Jockey: Emma Smith-Chaston- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 3.0) 🏇 Jockey: Emma Smith-Chaston(3) (SR 25.0%, 1/4) | 🏆 Not H&J — Best Alternative: Emma Smith-Chaston (1/4, SR 25.0%)
+🏟️ Course: Catterick (left-handed, sharp, undulating track)
+📏 Distance: 15.5 furlongs (🔽 vs 21.0 today)
+🌱 Going: GS
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🐎 3 | Carnet De Stage⚠️ Owner's record is weaker (SR: 9.09%, 110 runs). (Rank: 2)
+🐎 10 years old  gelding, b,  151 lbs.
+🦄 Sire: Scorpion (7.000000000000001% Rank: 5)
+🌿 Dam: Comeragh Girl (6.0% Rank: 3)
+⏱️ Speed record - Runs: 12 | Best: 7.44 sec (Rank 2), Worst: 9.08 sec (Rank 4), Avg: 7.84 sec (Rank 2)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 10.0 (Rank: 5)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Not won for a while but may appreciate return to fences and to this trip
+🔦 Spotlight: Hasn't won since 2022 but has slipped in the weights and may be suited by the return to fences and the step back up in distance; interesting to see if there's any money for him.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Mrs Hannah Crowley
+🏠 Owner: A B Hamilton 10/110 (9.00%) - (No previous owner(s))
+👤 Trainer: Andrew Hamilton (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 5) RTF: N/A (OVR: 50%)
+🏇 Jockey: Alan Doyle(3) (14d rank: 5) 🏇 Jockey 95186 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 96391 (1/2 - 50.0%)(3.0/ 14.0 runs) RTF: N/A (OVR: 8%) 5Y: 18/173 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Not won for a while but may appreciate return to fences and to this trip
+🔦 Spotlight: Hasn't won since 2022 but has slipped in the weights and may be suited by the return to fences and the step back up in distance; interesting to see if there's any money for him.
+📊 **STATS**
+📉 OFR: 90.0 (Rank: 3)
+📈 RPR: 114.0 (Rank: 2)
+📉 TS: 92.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/7 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/15 | Ratio: 0.00
+📊 Form: -425P0 → Score: 0.1 (Rank: 1)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-07 15:35:00 | ⏳ Time between runs: 26  days ago
+🥇 Result: 10 / 🏇 10 runners. Expected: 9.0 → Actual: 10 (-1.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 40.0 ❄️❄️
+📝 Comment: 🔄 held up in 🔄 midfield, ❄️ weakened after 4 out (vet said gelding lost his right fore shoe)
+🏆 RaceName: Weatherbys Scientific Handicap Hurdle (Go North Sea Pigeon Series Qualifier)
+📋 Race Type: 5HcH
+🎽 Jockey: A Doyle- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 3.0) 🏇 Jockey: Alan Doyle(3) (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Darragh O'Keeffe (1/2, SR 50.0%)
+🏟️ Course: Ayr (left-handed, fairly galloping track)
+📏 Distance: 16.0 furlongs (🔽 vs 21.0 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-11 13:10:00 | ⏳ Time between runs: 24  days ago
+🥇 Result: nan / 🏇 8 runners. Expected: 7.0 → Actual: 9 (-2.0 vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+💰 Odds: 28.0 ❄️
+📝 Comment: 🔄 towards rear, pushed along briefly after 7th, lost ground after 8th, lost touch from 4 out, tailed off when pulled up after 3 out
+🏆 RaceName: Livescore Bet Conditional Jockeys' Handicap Hurdle (Go North Cab On Target Qualifier) (Div I)
+📋 Race Type: 5HcH
+🎽 Jockey: C Rabbitt- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 🏇 Jockey: Alan Doyle(3) (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Darragh O'Keeffe (1/2, SR 50.0%)
+🏟️ Course: Ayr (left-handed, fairly galloping track)
+📏 Distance: 20.5 furlongs (🔽 vs 21.0 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🏁 PastRace #: 3 on 📅 2024-07-08 13:00:00 | ⏳ Time between runs: 218  days ago
+🥇 Result: 5 / 🏇 13 runners. Expected: 6.0 → Actual: 5 (+1.0 vs expected)
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 11.0 📉
+📝 Comment: raced in second, hit 5th, joined 6th, lost position 2 out, ❄️ weakened gradually and lost two places run-in
+🏆 RaceName: Download The Ak Bets App Handicap Chase
+📋 Race Type: 5HcCh
+🎽 Jockey: R McLernon- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 🏇 Jockey: Alan Doyle(3) (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Darragh O'Keeffe (1/2, SR 50.0%)
+🏟️ Course: Worcester (left-handed, galloping flat track)
+📏 Distance: 20.0 furlongs (🔽 vs 21.0 today)
+🌱 Going: G
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
