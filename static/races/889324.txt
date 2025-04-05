@@ -1,0 +1,577 @@
+⏰ Off Time: 2025-04-05 18:35
+📍 Venue: Yarmouth (left-handed, galloping track)
+🏁 Race ID: 889324 - 🏆 Name: QuinnBet Quarterback Handicap
+🏇 Type: Flat
+📏 Distance: 7.0 furlongs
+🏇 Class/Grade: Class 6
+🎂 Age Band: 4yo+
+💰 Prize money: 💰 4K
+☀️ Weather: Sunny
+🌱 Going: Good
+10 runners declared
+Speed Performance for Race ID 889324 (Filter: AND_notAW_handicap_notAmateur_Class6or7)
+===========================================================================
+horse_id    horse_name AND_notAW_handicap_notAmateur_Class6or7_bestSpeedPerM AND_notAW_handicap_notAmateur_Class6or7_worstSpeedPerM AND_notAW_handicap_notAmateur_Class6or7_avgSpeedPerM AND_notAW_handicap_notAmateur_Class6or7_noRaces AND_notAW_handicap_notAmateur_Class6or7_bestSpeedPerM_rank AND_notAW_handicap_notAmateur_Class6or7_avgSpeedPerM_rank
+ 5021442  Scarlet Lady                                                 16.28                                                  16.34                                                16.31                                             2.0                                                        1.0                                                       1.0
+ 4763551   Zina Colada                                                 15.47                                                  16.73                                                16.27                                             5.0                                                        2.0                                                       2.0
+ 1371912  Spanish Mane                                                 14.99                                                  17.32                                                16.14                                            10.0                                                        6.0                                                       3.0
+ 4400649 Primrose Maid                                                 15.42                                                   16.5                                                16.01                                            13.0                                                        3.0                                                       4.0
+ 3687276      Fast Flo                                                 15.36                                                   16.6                                                15.85                                             5.0                                                        4.0                                                       5.0
+ 5082937 Roman Emperor                                                 15.23                                                  15.23                                                15.23                                             1.0                                                        5.0                                                       6.0
+ 5089375      Perianth                                                   NaN                                                    NaN                                                  NaN                                             NaN                                                        NaN                                                       NaN
+ 5426855       Marmoga                                                   NaN                                                    NaN                                                  NaN                                             NaN                                                        NaN                                                       NaN
+ 6296581 Grovely Belle                                                   NaN                                                    NaN                                                  NaN                                             NaN                                                        NaN                                                       NaN
+ 6649592    Darlo Lady                                                   NaN                                                    NaN                                                  NaN                                             NaN                                                        NaN                                                       NaN
+No head-to-head data found for any of this race's horses
+++++++++++Performance Table++++++++++
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6        | Scarlet Lady              | 5021442  | 9.0      | 4.0      | 6.0      | 2.0      | 3.0      | 2        | 3        | 9.0      | 3.0      | 3.0      | 1.0      | 4.0      | 1.0      | 4.0      | 1.0      | 2.0      | 5.0      | 7.0      | 2.0      | 7.0      | 5.0      | 1.0      | 10.0     | 1.0      | 3.0      | 2.0      | 1.0      | 5.0      | 1.0      | 4.0      | N/A      | 1.0     
+2        | Marmoga                   | 5426855  | 5.0      | 7.0      | 1.0      | 6.0      | 3.0      | 9        | 6        | 5.0      | 3.0      | 2.0      | 1.0      | 4.0      | N/A      | 1.0      | 5.0      | 10.0     | 6.0      | 1.0      | 1.0      | 1.0      | 4.0      | 10.0     | 4.0      | N/A      | N/A      | N/A      | 2.0      | 3.0      | 5.0      | 3.0      | N/A      | 4.0     
+5        | Roman Emperor             | 5082937  | 6.0      | 5.0      | 7.0      | 3.0      | 3.0      | 3        | 1        | 7.0      | 2.0      | 10.0     | 1.0      | 1.0      | 7.0      | 4.0      | 5.0      | 6.0      | 3.0      | 5.0      | 10.0     | 2.0      | 9.0      | 2.0      | 7.0      | 4.0      | 4.0      | 2.0      | 2.0      | 10.0     | 4.0      | 5.0      | N/A      | 8.0     
+8        | Zina Colada               | 4763551  | 3.0      | 3.0      | 5.0      | 4.0      | 3.0      | 6        | 4        | 3.0      | 3.0      | 6.0      | 1.0      | 8.0      | 2.0      | 8.0      | 10.0     | 3.0      | 9.0      | 2.0      | 2.0      | 6.0      | 8.0      | 8.0      | 6.0      | 2.0      | 4.0      | 1.0      | 2.0      | 9.0      | 8.0      | 5.0      | N/A      | 9.0     
+4        | Spanish Mane              | 1371912  | 2.0      | 1.0      | 10.0     | 1.0      | 1.0      | 1        | 2        | 6.0      | 1.0      | 9.0      | 1.0      | 2.0      | 5.0      | 4.0      | 5.0      | 5.0      | 9.0      | 2.0      | 2.0      | 10.0     | 10.0     | 3.0      | 1.0      | 4.0      | 1.0      | 2.0      | 5.0      | 7.0      | 7.0      | 1.0      | N/A      | 9.0     
+7        | Darlo Lady                | 6649592  | 7.0      | 7.0      | 2.0      | 6.0      | 3.0      | 10       | 10       | 1.0      | 3.0      | 8.0      | 1.0      | 10.0     | N/A      | 7.0      | 5.0      | 6.0      | 7.0      | 4.0      | 2.0      | 3.0      | 1.0      | 6.0      | 5.0      | N/A      | 4.0      | N/A      | 5.0      | 6.0      | 6.0      | N/A      | N/A      | 3.0     
+9        | Fast Flo                  | 3687276  | 5.0      | 7.0      | 9.0      | 6.0      | 3.0      | 5        | 8        | 2.0      | 3.0      | 7.0      | 1.0      | 2.0      | 6.0      | 8.0      | 2.0      | 1.0      | 1.0      | 10.0     | 2.0      | 8.0      | 2.0      | 4.0      | 8.0      | 4.0      | 4.0      | 2.0      | 7.0      | 8.0      | 9.0      | 5.0      | N/A      | 5.0     
+1        | Perianth                  | 5089375  | 4.0      | 2.0      | 4.0      | 6.0      | 2.0      | 8        | 4        | 10.0     | 3.0      | 5.0      | 1.0      | 6.0      | 8.0      | 1.0      | 5.0      | 4.0      | 3.0      | 8.0      | 2.0      | 3.0      | 6.0      | 7.0      | 3.0      | N/A      | 4.0      | 2.0      | 8.0      | 1.0      | 2.0      | 2.0      | 1.0      | 7.0     
+3        | Grovely Belle             | 6296581  | 8.0      | 7.0      | 3.0      | 6.0      | 3.0      | 7        | 6        | 8.0      | 3.0      | 1.0      | 1.0      | 6.0      | 4.0      | 3.0      | 3.0      | 9.0      | 7.0      | 6.0      | 2.0      | 3.0      | 7.0      | 9.0      | 9.0      | N/A      | 4.0      | 2.0      | 9.0      | 4.0      | 3.0      | 5.0      | 2.0      | 2.0     
+10       | Primrose Maid             | 4400649  | 1.0      | 6.0      | 8.0      | 5.0      | 3.0      | 4        | 9        | 4.0      | 3.0      | 4.0      | 1.0      | 9.0      | 3.0      | 8.0      | 4.0      | 8.0      | 2.0      | 9.0      | 2.0      | 8.0      | 2.0      | 4.0      | 2.0      | 3.0      | 2.0      | 2.0      | 10.0     | 2.0      | 9.0      | 5.0      | N/A      | 6.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 6 | Scarlet Lady⚠️ Owner's record is weaker (SR: 6.25%, 16 runs). (Rank: 4)
+🐎 4 years old  filly, b,  131 lbs.
+🦄 Sire: Twilight Son (11.0% Rank: 5)
+🌿 Dam: Rouge Dancer (0.0% Rank: ?)
+⏱️ Speed record - Runs: 16 | Best: 5.79 sec (Rank 2), Worst: 6.62 sec (Rank 8), Avg: 6.15 sec (Rank 3)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 6.0 (Rank: 1)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Below par on both runs this year but this C&D winner has dropped to a dangerous mark
+🔦 Spotlight: Has a modest 1-16 strike-rate and she hasn't been at her best on AW on her two runs this year; however, she's now 4lb lower than when a commanding winner over C&D (good to firm) last August and she'll be a major player if rediscovering some form.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: J W Mitchell
+🏠 Owner: Scarlet Lady Partnership 1/16 (6.00%) - (No previous owner(s))
+👤 Trainer: Philip Mcbride (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 2) RTF: 33.0 (OVR: 22%)
+🏇 Jockey: Harry Davies (14d rank: 1) 🏇 Jockey 101508 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 102344 (1/1 - 100.0%)(5.0/ 14.0 runs) RTF: N/A (OVR: 18%) 5Y: 140/1150 (12.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Below par on both runs this year but this C&D winner has dropped to a dangerous mark
+🔦 Spotlight: Has a modest 1-16 strike-rate and she hasn't been at her best on AW on her two runs this year; however, she's now 4lb lower than when a commanding winner over C&D (good to firm) last August and she'll be a major player if rediscovering some form.
+📊 **STATS**
+📉 OFR: 58.0 (Rank: 4)
+📈 RPR: 73.0 (Rank: 4)
+📉 TS: 73.0 (Rank: 1)
+🏟️ Course Wins/Runs: 1/4 | Ratio: 0.25
+📏 Distance Wins/Runs: 1/8 | Ratio: 0.12
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 488-75 → Score: 0.03 (Rank: 10)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-02-06 17:30:00 | ⏳ Time between runs: 57  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 18.0 📉
+📝 Comment: in rear, on outer early, some headway over 1f out, never dangerous
+🏆 RaceName: BetMGM: It's Showtime Fillies' Handicap
+📋 Race Type: 5HcF
+🎽 Jockey: W Fentiman- (⚖️ Weight: 115.0 lbs (52.3 kg) carried -- Allowance: 7.0) 🏇 Jockey: Harry Davies (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Tommie Jakes (1/1, SR 100.0%)
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📏 Distance: 6.0 furlongs (🔽 vs 7.0 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-01-20 16:15:00 | ⏳ Time between runs: 17  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 14.0 📉
+📝 Comment: 🔄 towards rear, 🔄 midfield 4f out, outpaced when up the centre 2f out, soon ❄️ weakened
+🏆 RaceName: Free Bet With Unibet's Betbuilder Rebound Handicap (Div I)
+📋 Race Type: 6Hc
+🎽 Jockey: C Planas- (⚖️ Weight: 129.0 lbs (58.6 kg) carried -- Allowance: 3.0) 🏇 Jockey: Harry Davies (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Tommie Jakes (1/1, SR 100.0%)
+🏟️ Course: Kempton (AW) (Polytrack. Right-handed)
+📏 Distance: 6.0 furlongs (🔽 vs 7.0 today)
+🌱 Going: SS
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🐎 2 | Marmoga📈 Owner has a strong record (SR: 10.64%, 47 runs). (Rank: 3)
+🐎 4 years old  filly, b,  135 lbs.
+🦄 Sire: Havana Grey (13.0% Rank: 3)
+🌿 Dam: Exceed Loose (0.0% Rank: ?)
+⏱️ Speed record - Runs: 3 | Best: 6.16 sec (Rank 9), Worst: 6.31 sec (Rank 2), Avg: 6.22 sec (Rank 6)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 7.0 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Tailed off last time but encouraging run previously; could be a contender on h'cap debut
+🔦 Spotlight: Tailed off in Wolverhampton maiden (6f, AW) last month but she was an encouraging fifth in a 6f novice there in February when back from a long absence; on that evidence she could be a contender on handicap/turf debut.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: A Jutte
+🏠 Owner: Ahmad Bintouq 5/47 (11.00%) - (No previous owner(s))
+👤 Trainer: Ismail Mohammed (0 previous trainer(s)) last 14d WinRate (1.0/3.0 runs) (Rank: 1) RTF: 33.0 (OVR: 3%)
+🏇 Jockey: Paddy Bradley (14d rank: 2) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0.0/ 19.0 runs) RTF: N/A (OVR: 17%) 5Y: 74/845 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Tailed off last time but encouraging run previously; could be a contender on h'cap debut
+🔦 Spotlight: Tailed off in Wolverhampton maiden (6f, AW) last month but she was an encouraging fifth in a 6f novice there in February when back from a long absence; on that evidence she could be a contender on handicap/turf debut.
+📊 **STATS**
+📉 OFR: 62.0 (Rank: 1)
+📈 RPR: 73.0 (Rank: 4)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 8/58 → Score: 0.05 (Rank: 4)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-11 17:30:00 | ⏳ Time between runs: 24  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 66.0 ❄️❄️
+📝 Comment: dwelt start, always behind
+🏆 RaceName: £30 In Free Bets With BetUK Restricted Maiden Stakes (For horses In Bands B, C And D) (GBB Race)
+📋 Race Type: 5Md
+🎽 Jockey: R Da Silva- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Paddy Bradley (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Cam Hardie (0/0, SR 0.0%)
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📏 Distance: 6.0 furlongs (🔽 vs 7.0 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-18 16:20:00 | ⏳ Time between runs: 21  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 66.0 ❄️❄️
+📝 Comment: in touch with leaders, pushed along from 3f out, outpaced over 2f out, headway from over 1f out, weakening when short of room inside final furlong
+🏆 RaceName: Weekly £5 Free Bet With The BetUK Fillies' Novice Stakes (Rider Restricted Race) (GBB Race)
+📋 Race Type: 4NvF
+🎽 Jockey: R Da Silva- (⚖️ Weight: 142.0 lbs (64.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Paddy Bradley (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Cam Hardie (0/0, SR 0.0%)
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📏 Distance: 6.0 furlongs (🔽 vs 7.0 today)
+🌱 Going: SD
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🐎 5 | Roman Emperor🐎 4 years old  gelding, b,  131 lbs.
+🦄 Sire: Magna Grecia (6.0% Rank: 10)
+🌿 Dam: Alsaaden (0.0% Rank: ?)
+⏱️ Speed record - Runs: 19 | Best: 5.85 sec (Rank 3), Worst: 6.56 sec (Rank 6), Avg: 6.09 sec (Rank 1)
+🛠️ Gear: b
+🩺 Medical History: No records
+🎲 Early market: 7.0 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Made it 1-19 when well beaten last time but went close in February and is not discounted
+🔦 Spotlight: Made it 1-19 when well beaten at Chelmsford (6f, AW) last month and he's unproven at 7f; however, he went close at Kempton (6f, AW) in February and is not discounted in a weak race in a change of headgear.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Bb Thoroughbreds
+🏠 Owner: John Ryan Racing Partnership 0/18 (0.00%) - (No previous owner(s))
+👤 Trainer: John Ryan (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 10) RTF: N/A (OVR: 10%)
+🏇 Jockey: Christian Howarth(3) (14d rank: 2) 🏇 Jockey 100380 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 93343 (1/5 - 20.0%)(0.0/ 4.0 runs) RTF: N/A (OVR: 4%) 5Y: 36/563 (6.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Made it 1-19 when well beaten last time but went close in February and is not discounted
+🔦 Spotlight: Made it 1-19 when well beaten at Chelmsford (6f, AW) last month and he's unproven at 7f; however, he went close at Kempton (6f, AW) in February and is not discounted in a weak race in a change of headgear.
+📊 **STATS**
+📉 OFR: 58.0 (Rank: 4)
+📈 RPR: 76.0 (Rank: 1)
+📉 TS: 47.0 (Rank: 7)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/3 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: 68-266 → Score: 0.04 (Rank: 7)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-13 18:15:00 | ⏳ Time between runs: 22  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: 4 | 📊 1-3: 0W/0P/1U | 🐴 Also: 0W/0P/0U
+💰 Odds: 7.5 📉
+📝 Comment: in touch with leaders, ❄️ weakened from over 2f out
+🏆 RaceName: Bet Boost At bet365 Handicap
+📋 Race Type: 6Hc
+🎽 Jockey: C Shepherd- (⚖️ Weight: 130.0 lbs (59.1 kg) carried -- Allowance: 0.0) 🏇 Jockey: Christian Howarth(3) (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: Callum Shepherd (1/5, SR 20.0%)
+🏟️ Course: Chelmsford (AW) (Polytrack. Left-handed, flat track, circuit 8.5f)
+📏 Distance: 6.0 furlongs (🔽 vs 7.0 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-03-03 20:00:00 | ⏳ Time between runs: 9  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 5.0 🔥
+📝 Comment: ducked sharply right start, 🔄 midfield, some headway from over 1f out, ❄️ weakened final 110yds
+🏆 RaceName: BetUK. It's Where The UK Bets Handicap
+📋 Race Type: 6Hc
+🎽 Jockey: Laura Pearson- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Christian Howarth(3) (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: Callum Shepherd (1/5, SR 20.0%)
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📏 Distance: 6.0 furlongs (🔽 vs 7.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🐎 8 | Zina Colada🐎 5 years old  mare, br,  119 lbs.
+🦄 Sire: Brazen Beau (9.0% Rank: 9)
+🌿 Dam: Coconut Shy (0.0% Rank: ?)
+⏱️ Speed record - Runs: 15 | Best: 5.96 sec (Rank 6), Worst: 6.46 sec (Rank 3), Avg: 6.17 sec (Rank 4)
+🛠️ No gear today
+🩺 Medical History: 📅 2024-09-12: Wind Surgery
+🎲 Early market: 7.0 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: A return to form is needed but Yarmouth brings out the best in her; dangerous mark
+🔦 Spotlight: Inconsistent 5yo who has modest strike-rate and has been soundly beaten on AW on her two runs in the winter; however, Yarmouth has been the venue for her best form (and sole win) and she's down to a dangerous mark.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: F Butler
+🏠 Owner: The Bean Club 0/7 (0.00%) - (No previous owner(s))
+👤 Trainer: George Margarson (0 previous trainer(s)) last 14d WinRate (0.0/2.0 runs) (Rank: 2) RTF: 100.0 (OVR: 12%)
+🏇 Jockey: Lillie Dingle(7) (14d rank: 2) 🏇 Jockey 104206 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 100640 (1/4 - 25.0%)(0.0/ 0.0 runs) RTF: N/A (OVR: -) 5Y: 0/3 (0.0)
+🗞️ **PRESS OPINION**
+💬 Comment: A return to form is needed but Yarmouth brings out the best in her; dangerous mark
+🔦 Spotlight: Inconsistent 5yo who has modest strike-rate and has been soundly beaten on AW on her two runs in the winter; however, Yarmouth has been the venue for her best form (and sole win) and she's down to a dangerous mark.
+📊 **STATS**
+📉 OFR: 46.0 (Rank: 8)
+📈 RPR: 71.0 (Rank: 8)
+📉 TS: 65.0 (Rank: 2)
+🏟️ Course Wins/Runs: 1/8 | Ratio: 0.12
+📏 Distance Wins/Runs: 0/5 | Ratio: 0.00
+🌱 Going Wins/Runs: 1/4 | Ratio: 0.25
+📊 Form: 7460-8 → Score: 0.04 (Rank: 6)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-01-09 17:30:00 | ⏳ Time between runs: 85  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 12.0 📉
+📝 Comment: slowly into stride, raced wide, 🔄 towards rear, hung left but some headway over 1f out, ❄️ weakened inside final furlong
+🏆 RaceName: Bet Boost At bet365 "Hands And Heels" Apprentice Handicap (All-Weather Hands And Heels Series)
+📋 Race Type: 6Hc
+🎽 Jockey: Lillie Dingle- (⚖️ Weight: 117.0 lbs (53.2 kg) carried -- Allowance: 7.0) 🏇 Jockey: Lillie Dingle(7) (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Benoit De La Sayette (1/4, SR 25.0%)
+🏟️ Course: Chelmsford (AW) (Polytrack. Left-handed, flat track, circuit 8.5f)
+📏 Distance: 6.0 furlongs (🔽 vs 7.0 today)
+🌱 Going: SS
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-12-19 20:10:00 | ⏳ Time between runs: 20  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 14.0 📉
+📝 Comment: raced awkwardly soon after start, always behind
+🏆 RaceName: Sky Bet Request A Bet Handicap
+📋 Race Type: 6Hc
+🎽 Jockey: B De La Sayette- (⚖️ Weight: 127.0 lbs (57.7 kg) carried -- Allowance: 0.0) 🏇 Jockey: Lillie Dingle(7) (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Benoit De La Sayette (1/4, SR 25.0%)
+🏟️ Course: Chelmsford (AW) (Polytrack. Left-handed, flat track, circuit 8.5f)
+📏 Distance: 6.0 furlongs (🔽 vs 7.0 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🐎 4 | Spanish Mane🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 10 years old  mare, b,  131 lbs.
+🦄 Sire: Havana Gold (10.0% Rank: 7)
+🌿 Dam: Kiva (0.0% Rank: ?)
+⏱️ Speed record - Runs: 18 | Best: 5.77 sec (Rank 1), Worst: 6.67 sec (Rank 9), Avg: 6.12 sec (Rank 2)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 8.0 (Rank: 5)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Won at Lingfield last July but likes it there and she may need this reappearance run
+🔦 Spotlight: 10yo who is just 1lb higher than for her last win, at Lingfield (7f, good to firm) last July; however, her last three wins have come at that venue and her reappearance form figures read 8356659 so she may need this run.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Ringfort Stud
+🏠 Owner: Stowstowquickquickstow Partnership 3/18 (17.00%) - (No previous owner(s))
+👤 Trainer: Julia & Shelley Birkett (0 previous trainer(s)) last 14d WinRate (0.0/8.0 runs) (Rank: 2) RTF: 50.0 (OVR: -)
+🏇 Jockey: Chloe Lyons(7) (14d rank: 5) 🏇 Jockey 102043 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 100350 (1/2 - 50.0%)(0.0/ 2.0 runs) RTF: N/A (OVR: -) 5Y: 0/22 (0.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Won at Lingfield last July but likes it there and she may need this reappearance run
+🔦 Spotlight: 10yo who is just 1lb higher than for her last win, at Lingfield (7f, good to firm) last July; however, her last three wins have come at that venue and her reappearance form figures read 8356659 so she may need this run.
+📊 **STATS**
+📉 OFR: 58.0 (Rank: 4)
+📈 RPR: 75.0 (Rank: 2)
+📉 TS: 55.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/15 | Ratio: 0.00
+📏 Distance Wins/Runs: 5/22 | Ratio: 0.23
+🌱 Going Wins/Runs: 0/4 | Ratio: 0.00
+📊 Form: 04164- → Score: 0.07 (Rank: 1)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-09-09 13:20:00 | ⏳ Time between runs: 207  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 18.0 📉
+📝 Comment: took keen hold, 🎯 prominent on inner, ❄️ weakened from over 1f out
+🏆 RaceName: AceOdds Bonus Codes Apprentice Handicap
+📋 Race Type: 6Hc
+🎽 Jockey: Laura Coughlan- (⚖️ Weight: 138.0 lbs (62.7 kg) carried -- Allowance: 0.0) 🏇 Jockey: Chloe Lyons(7) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Saffie Osborne (1/2, SR 50.0%)
+🏟️ Course: Brighton (left-handed sharp track)
+📏 Distance: 8.0 furlongs (🔼 vs 7.0 today)
+🌱 Going: S
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-08-14 13:30:00 | ⏳ Time between runs: 25  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 6.5 📉
+📝 Comment: 🎯 led at steady pace, headed and raced in second after 1f, lost position gradually halfway, switched left and ⚠️ hampered rival 2f out, bit short of room and ❄️ weakened 1f out
+🏆 RaceName: Al Basti Equiworld, Dubai Apprentice Handicap (Whips To Be Carried, But Not Used) (RE Series)
+📋 Race Type: 6Hc
+🎽 Jockey: Anna Gibson- (⚖️ Weight: 142.0 lbs (64.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Chloe Lyons(7) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Saffie Osborne (1/2, SR 50.0%)
+🏟️ Course: Salisbury (right-handed, galloping, testing track)
+📏 Distance: 7.0 furlongs (➡️ vs 7.0 today)
+🌱 Going: GF
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🐎 7 | Darlo Lady🐎 4 years old  filly, gr,  120 lbs.
+🦄 Sire: Outstrip (11.0% Rank: 6)
+🌿 Dam: Doric Lady (0.0% Rank: ?)
+⏱️ Speed record - Runs: 3 | Best: 6.39 sec (Rank 10), Worst: 6.53 sec (Rank 5), Avg: 6.44 sec (Rank 10)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 8.0 (Rank: 5)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Goes handicapping off lowly mark and is from a family her trainer has enjoyed success with
+🔦 Spotlight: Down the field at big odds on all three starts; however, she goes handicapping off a lowly mark and she's from a family her trainer has enjoyed success with; interesting, especially if attracting market support.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Clive Dennett
+🏠 Owner: Blue Star Syndicate (No previous owner data) - (No previous owner(s))
+👤 Trainer: Anthony Carson (0 previous trainer(s)) last 14d WinRate (0.0/1.0 runs) (Rank: 2) RTF: N/A (OVR: 6%)
+🏇 Jockey: Ethan Jones(5) (14d rank: 5) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0.0/ 4.0 runs) RTF: N/A (OVR: 0%) 5Y: 25/282 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Goes handicapping off lowly mark and is from a family her trainer has enjoyed success with
+🔦 Spotlight: Down the field at big odds on all three starts; however, she goes handicapping off a lowly mark and she's from a family her trainer has enjoyed success with; interesting, especially if attracting market support.
+📊 **STATS**
+📉 OFR: 47.0 (Rank: 7)
+📈 RPR: 67.0 (Rank: 10)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 79-7 → Score: 0.04 (Rank: 5)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-01-04 17:50:00 | ⏳ Time between runs: 90  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 250.0 ❄️❄️
+📝 Comment: 🔄 towards rear throughout
+🏆 RaceName: Extra Winnings With BetUK Acca Club Maiden Stakes (GBB Race)
+📋 Race Type: 5Md
+🎽 Jockey: W A Carson- (⚖️ Weight: 137.0 lbs (62.3 kg) carried -- Allowance: 0.0) 🏇 Jockey: Ethan Jones(5) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Dylan Hogan (0/0, SR 0.0%)
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📏 Distance: 5.0 furlongs (🔽 vs 7.0 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-12-20 14:52:00 | ⏳ Time between runs: 15  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 200.0 ❄️❄️
+📝 Comment: always behind
+🏆 RaceName: Best Odds Guaranteed At BetMGM Novice Stakes (GBB Race)
+📋 Race Type: 5Nv
+🎽 Jockey: D Hogan- (⚖️ Weight: 128.0 lbs (58.2 kg) carried -- Allowance: 0.0) 🏇 Jockey: Ethan Jones(5) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Dylan Hogan (0/0, SR 0.0%)
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📏 Distance: 7.0 furlongs (➡️ vs 7.0 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🐎 9 | Fast Flo🐎 6 years old  mare, b,  119 lbs.
+🦄 Sire: Garswood (9.0% Rank: 8)
+🌿 Dam: College Doll (0.0% Rank: ?)
+⏱️ Speed record - Runs: 31 | Best: 5.92 sec (Rank 5), Worst: 6.79 sec (Rank 10), Avg: 6.25 sec (Rank 8)
+🛠️ Gear: eb
+🩺 Medical History: No records
+🎲 Early market: 8.5 (Rank: 7)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: 0-34 but has twice gone close this year and has run well over C&D; not ruled out
+🔦 Spotlight: 34-race maiden whose form is up and down and she was well beaten at Newcastle in February last time; however, she's gone close in two 6f AW classified races this year and has run well over C&D in the past; not ruled out.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Mrs Christine Dunnett
+🏠 Owner: Mrs Christine Dunnett 0/44 (0.00%) - (No previous owner(s))
+👤 Trainer: Christine Dunnett (0 previous trainer(s)) last 14d WinRate (0.0/4.0 runs) (Rank: 2) RTF: 25.0 (OVR: 5%)
+🏇 Jockey: Kieran Oneill (14d rank: 7) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(6.0/ 32.0 runs) RTF: N/A (OVR: 7%) 5Y: 176/2032 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: 0-34 but has twice gone close this year and has run well over C&D; not ruled out
+🔦 Spotlight: 34-race maiden whose form is up and down and she was well beaten at Newcastle in February last time; however, she's gone close in two 6f AW classified races this year and has run well over C&D in the past; not ruled out.
+📊 **STATS**
+📉 OFR: 46.0 (Rank: 8)
+📈 RPR: 75.0 (Rank: 2)
+📉 TS: 49.0 (Rank: 6)
+🏟️ Course Wins/Runs: 0/6 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/10 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 524829 → Score: 0.04 (Rank: 8)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-02-27 17:00:00 | ⏳ Time between runs: 36  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 12.0 📉
+📝 Comment: raced wide, 🔄 towards rear throughout
+🏆 RaceName: BetUK: It's Where The UK Bets Classified Stakes (Div II)
+📋 Race Type: 6
+🎽 Jockey: S Wallace- (⚖️ Weight: 121.0 lbs (55.0 kg) carried -- Allowance: 7.0) 🏇 Jockey: Kieran Oneill (SR 0.0%, 0/15) | 🏆 Not H&J — Best Alternative: Eoin Walsh (0/0, SR 0.0%)
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📏 Distance: 6.0 furlongs (🔽 vs 7.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-14 15:30:00 | ⏳ Time between runs: 13  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 66.0 ❄️❄️
+📝 Comment: 🔄 midfield, lost ground home turn, headway from over 2f out, challenging 1f out, soon edged right, kept on inside final furlong
+🏆 RaceName: Extra Winnings With BetUK Acca Club Classified Stakes
+📋 Race Type: 6
+🎽 Jockey: K O'Neill- (⚖️ Weight: 135.0 lbs (61.4 kg) carried -- Allowance: 0.0) 🏇 Jockey: Kieran Oneill (SR 0.0%, 0/15) | 🏆 Not H&J — Best Alternative: Eoin Walsh (0/0, SR 0.0%)
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📏 Distance: 6.0 furlongs (🔽 vs 7.0 today)
+🌱 Going: SD
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🐎 1 | Perianth📈 Owner has a strong record (SR: 14.29%, 7 runs). (Rank: 2)
+🐎 4 years old  filly, b,  135 lbs.
+🦄 Sire: Calyx (16.0% Rank: 1)
+🌿 Dam: We Are Ninety (10.0% Rank: 1)
+⏱️ Speed record - Runs: 7 | Best: 6.09 sec (Rank 8), Worst: 6.28 sec (Rank 1), Avg: 6.17 sec (Rank 4)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 9.0 (Rank: 8)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Below par last summer when last seen but reappears with yard among the winners over jumps
+🔦 Spotlight: Failed to threaten on final three starts last summer and her handicap debut win at Leicester last May came on heavy ground (6f); however, she showed some promise on good going in 2023 and this lightly raced 4yo reappears off a winning mark and with her trainer among the winners with her jumpers.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Fullbury Ltd
+🏠 Owner: Thorney Racing Partners 1/7 (14.00%) - (No previous owner(s))
+👤 Trainer: Pam Sly (0 previous trainer(s)) last 14d WinRate (0.0/1.0 runs) (Rank: 2) RTF: 100.0 (OVR: 16%)
+🏇 Jockey: Shane Kelly (14d rank: 8) 🏇 Today's Jock winSR: 17.0% (No better alternative found.)(0.0/ 1.0 runs) RTF: N/A (OVR: 4%) 5Y: 23/308 (7.000000000000001)
+🗞️ **PRESS OPINION**
+💬 Comment: Below par last summer when last seen but reappears with yard among the winners over jumps
+🔦 Spotlight: Failed to threaten on final three starts last summer and her handicap debut win at Leicester last May came on heavy ground (6f); however, she showed some promise on good going in 2023 and this lightly raced 4yo reappears off a winning mark and with her trainer among the winners with her jumpers.
+📊 **STATS**
+📉 OFR: 62.0 (Rank: 1)
+📈 RPR: 72.0 (Rank: 6)
+📉 TS: 46.0 (Rank: 8)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 61660- → Score: 0.05 (Rank: 3)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-08-11 14:00:00 | ⏳ Time between runs: 236  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 50.0 ❄️❄️
+📝 Comment: 🔄 midfield, ridden and ❄️ weakened over 1f out
+🏆 RaceName: Leicester Racecourse Ideal Self-Hire Wedding Venue Handicap
+📋 Race Type: 5Hc
+🎽 Jockey: S W Kelly- (⚖️ Weight: 130.0 lbs (59.1 kg) carried -- Allowance: 0.0) 🏇 Jockey: Shane Kelly (SR 16.7%, 1/6) | 🏆 Not H&J — Best Alternative: Shane Kelly (1/6, SR 16.7%)
+🏟️ Course: Leicester (right-handed, galloping, testing track)
+📏 Distance: 6.0 furlongs (🔽 vs 7.0 today)
+🌱 Going: GF
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-07-06 17:25:00 | ⏳ Time between runs: 35  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 9.0 📉
+📝 Comment: in touch with leaders on outer, lost ground over 2f out, ❄️ weakened over 1f out
+🏆 RaceName: HAC Plumbing Supplies Fillies' Handicap
+📋 Race Type: 5HcF
+🎽 Jockey: S W Kelly- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Shane Kelly (SR 16.7%, 1/6) | 🏆 Not H&J — Best Alternative: Shane Kelly (1/6, SR 16.7%)
+🏟️ Course: Leicester (right-handed, galloping, testing track)
+📏 Distance: 6.0 furlongs (🔽 vs 7.0 today)
+🌱 Going: G
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🐎 3 | Grovely Belle🐎 4 years old  filly, b,  133 lbs.
+🦄 Sire: Churchill (11.0% Rank: 4)
+🌿 Dam: Sutton Veny (0.0% Rank: 2)
+⏱️ Speed record - Runs: 5 | Best: 5.97 sec (Rank 7), Worst: 6.48 sec (Rank 4), Avg: 6.22 sec (Rank 6)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 12.0 (Rank: 9)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Down the field in both handicaps but showed ability previously and is not written off
+🔦 Spotlight: Down the field late last year in her first two handicaps (1m/7f, good/AW) but before those she was a fair third in a 7f novice at Redcar (good) and is not written off on this return from a break.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Camas Park
+🏠 Owner: Mrs M Hebbard 0/8 (0.00%) - (No previous owner(s))
+👤 Trainer: Mrs Ilka Gansera-Leveque (0 previous trainer(s)) last 14d WinRate (0.0/1.0 runs) (Rank: 2) RTF: N/A (OVR: 13%)
+🏇 Jockey: Sean Levey (14d rank: 9) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(3.0/ 28.0 runs) RTF: N/A (OVR: 0%) 5Y: 148/1326 (11.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Down the field in both handicaps but showed ability previously and is not written off
+🔦 Spotlight: Down the field late last year in her first two handicaps (1m/7f, good/AW) but before those she was a fair third in a 7f novice at Redcar (good) and is not written off on this return from a break.
+📊 **STATS**
+📉 OFR: 60.0 (Rank: 3)
+📈 RPR: 72.0 (Rank: 6)
+📉 TS: 60.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/3 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 47399- → Score: 0.03 (Rank: 9)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-12-18 17:10:00 | ⏳ Time between runs: 107  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 18.0 📉
+📝 Comment: 🎯 prominent early, in touch with leaders after 2f, ❄️ weakened from over 1f out, short of room final 110yds
+🏆 RaceName: Unibet Zero% Mission Handicap
+📋 Race Type: 6Hc
+🎽 Jockey: B De La Sayette- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Sean Levey (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Hollie Doyle (0/0, SR 0.0%)
+🏟️ Course: Kempton (AW) (Polytrack. Right-handed)
+📏 Distance: 7.0 furlongs (➡️ vs 7.0 today)
+🌱 Going: SS
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-11-01 14:52:00 | ⏳ Time between runs: 47  days ago
+🏆 1st: Did Not Run, 2nd: Did Not Run, 3rd: Did Not Run | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 12.0 📉
+📝 Comment: never better than 🔄 midfield
+🏆 RaceName: Munich's Allianz-Grosser Preis Von Bayern Handicap
+📋 Race Type: 5Hc
+🎽 Jockey: B De La Sayette- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Sean Levey (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Hollie Doyle (0/0, SR 0.0%)
+🏟️ Course: Newmarket (right-handed, galloping track)
+📏 Distance: 8.0 furlongs (🔼 vs 7.0 today)
+🌱 Going: G
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🐎 10 | Primrose Maid🐎 5 years old  mare, b,  119 lbs.
+🦄 Sire: Harry Angel (13.0% Rank: 2)
+🌿 Dam: Cat O Nine Tails (0.0% Rank: ?)
+⏱️ Speed record - Runs: 24 | Best: 5.86 sec (Rank 4), Worst: 6.6 sec (Rank 7), Avg: 6.27 sec (Rank 9)
+🛠️ Gear: hp
+🩺 Medical History: No records
+🎲 Early market: 17.0 (Rank: 10)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: C&D winner but has poor 1-27 strike-rate and good runs were scarce last year
+🔦 Spotlight: C&D winner who was a fair fourth here last October and has an each-way shout on that form; however, good runs were scarce last year and she's won just one of her 27 starts.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Aston Mullins Stud
+🏠 Owner: Mrs Christine Dunnett 0/44 (0.00%) - (No previous owner(s))
+👤 Trainer: Christine Dunnett (0 previous trainer(s)) last 14d WinRate (0.0/4.0 runs) (Rank: 2) RTF: 25.0 (OVR: 5%)
+🏇 Jockey: Joey Haynes (14d rank: 10) 🏇 Jockey 91653 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 13641 (1/12 - 8.0%)(1.0/ 10.0 runs) RTF: N/A (OVR: 6%) 5Y: 64/806 (8.0)
+🗞️ **PRESS OPINION**
+💬 Comment: C&D winner but has poor 1-27 strike-rate and good runs were scarce last year
+🔦 Spotlight: C&D winner who was a fair fourth here last October and has an each-way shout on that form; however, good runs were scarce last year and she's won just one of her 27 starts.
+📊 **STATS**
+📉 OFR: 46.0 (Rank: 8)
+📈 RPR: 68.0 (Rank: 9)
+📉 TS: 61.0 (Rank: 3)
+🏟️ Course Wins/Runs: 1/19 | Ratio: 0.05
+📏 Distance Wins/Runs: 1/17 | Ratio: 0.06
+🌱 Going Wins/Runs: 0/5 | Ratio: 0.00
+📊 Form: 85400- → Score: 0.06 (Rank: 2)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-12-05 20:10:00 | ⏳ Time between runs: 120  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 100.0 ❄️❄️
+📝 Comment: 🎯 prominent, ❄️ weakened over 2f out
+🏆 RaceName: Sky Bet Extra Places Every Day Handicap (Div II)
+📋 Race Type: 6Hc
+🎽 Jockey: K O'Neill- (⚖️ Weight: 122.0 lbs (55.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Joey Haynes (SR 0.0%, 0/3) | 🏆 Not H&J — Best Alternative: Royston Ffrench (1/12, SR 8.3%)
+🏟️ Course: Chelmsford (AW) (Polytrack. Left-handed, flat track, circuit 8.5f)
+📏 Distance: 8.0 furlongs (🔼 vs 7.0 today)
+🌱 Going: SS
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-11-09 17:30:00 | ⏳ Time between runs: 26  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 33.0 ❄️
+📝 Comment: 🔄 midfield, hung right and ridden under 2f out, ❄️ weakened over 1f out
+🏆 RaceName: Betfair Safer Gambling Tools Handicap (Div II)
+📋 Race Type: 6Hc
+🎽 Jockey: K O'Neill- (⚖️ Weight: 129.0 lbs (58.6 kg) carried -- Allowance: 0.0) 🏇 Jockey: Joey Haynes (SR 0.0%, 0/3) | 🏆 Not H&J — Best Alternative: Royston Ffrench (1/12, SR 8.3%)
+🏟️ Course: Chelmsford (AW) (Polytrack. Left-handed, flat track, circuit 8.5f)
+📏 Distance: 7.0 furlongs (➡️ vs 7.0 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------

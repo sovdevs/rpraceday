@@ -1,0 +1,302 @@
+⏰ Off Time: 2025-04-05 14:15
+📍 Venue: Chepstow (left-handed, essentially galloping track, despite pronounced undulations)
+🏁 Race ID: 889475 - 🏆 Name: DragonBet The Independent Bookmaker Handicap Chase (GBB Race)
+🏆 Type: Chase
+📏 Distance: 23.5 furlongs
+🏇 Class/Grade: Class 4
+🎂 Age Band: 5yo+
+💰 Prize money: 💰 5K
+☀️ Weather: Sunny
+🌱 Going: Good
+5 runners declared
+Speed Performance for Race ID 889475 (Filter: AND_notAW_handicap_notAmateur)
+===========================================================================
+horse_id      horse_name AND_notAW_handicap_notAmateur_bestSpeedPerM AND_notAW_handicap_notAmateur_worstSpeedPerM AND_notAW_handicap_notAmateur_avgSpeedPerM AND_notAW_handicap_notAmateur_noRaces AND_notAW_handicap_notAmateur_bestSpeedPerM_rank AND_notAW_handicap_notAmateur_avgSpeedPerM_rank
+ 3265163  The Boola Boss                                       12.43                                        13.85                                      13.12                                   8.0                                              1.0                                             1.0
+ 2877678   Nothin To Ask                                       12.31                                        13.58                                      13.06                                  11.0                                              3.0                                             2.0
+ 4922472 Olivers Travels                                       12.37                                        13.74                                      12.98                                   9.0                                              2.0                                             3.0
+ 3897013      Awaythelad                                       12.11                                        13.45                                      12.96                                   7.0                                              4.0                                             4.0
+ 2297806  Thor De Cerisy                                       11.44                                        13.12                                      12.57                                  14.0                                              5.0                                             5.0
+No head-to-head data found for any of this race's horses
+++++++++++Performance Table++++++++++
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2        | Awaythelad                | 3897013  | 2.0      | 5.0      | 3.0      | 5.0      | 1.0      | 4        | 4        | 4.0      | 2.0      | 1.0      | 1.0      | 1.0      | 4.0      | 2.0      | 3.0      | 5.0      | 3.0      | 4.0      | 5.0      | 5.0      | 5.0      | 4.0      | 2.0      | N/A      | 3.0      | 4.0      | 1.0      | 5.0      | 1.0      | 2.0      | 3.0      | 4.0     
+5        | The Boola Boss            | 3265163  | 1.0      | 2.0      | 2.0      | 2.0      | 2.0      | 2        | 2        | 5.0      | 2.0      | 4.0      | 1.0      | 4.0      | 2.0      | 5.0      | 1.0      | 1.0      | 4.0      | 3.0      | 1.0      | 2.0      | 2.0      | 1.0      | 1.0      | 3.0      | 2.0      | 2.0      | 2.0      | 1.0      | 5.0      | N/A      | 1.0      | 1.0     
+3        | Nothin To Ask             | 2877678  | 5.0      | 4.0      | 4.0      | 4.0      | 2.0      | 3        | 2        | 3.0      | 2.0      | 2.0      | 1.0      | 5.0      | 3.0      | 3.0      | 4.0      | 2.0      | 2.0      | 5.0      | 2.0      | 1.0      | 4.0      | 5.0      | 5.0      | 2.0      | 4.0      | 3.0      | 3.0      | 3.0      | 2.0      | 4.0      | 5.0      | 3.0     
+1        | Olivers Travels           | 4922472  | 4.0      | 1.0      | 1.0      | 1.0      | 2.0      | 1        | 1        | 1.0      | 1.0      | 3.0      | 1.0      | 2.0      | 1.0      | 1.0      | 5.0      | 4.0      | 4.0      | 2.0      | 4.0      | 3.0      | 1.0      | 2.0      | 3.0      | N/A      | 1.0      | 1.0      | 4.0      | 4.0      | 3.0      | 1.0      | 2.0      | 5.0     
+4        | Thor De Cerisy            | 2297806  | 3.0      | 3.0      | 5.0      | 3.0      | 2.0      | 5        | 5        | 2.0      | 2.0      | 5.0      | 1.0      | 2.0      | 5.0      | 4.0      | 2.0      | 3.0      | 1.0      | 1.0      | 3.0      | 4.0      | 3.0      | 3.0      | 4.0      | 1.0      | N/A      | N/A      | 5.0      | 2.0      | 4.0      | 3.0      | 4.0      | 2.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 2 | Awaythelad📈 Owner has a strong record (SR: 20.00%, 15 runs). (Rank: 2)
+🐎 8 years old  gelding, b,  164 lbs.
+🦄 Sire: Getaway (13.0% Rank: 5)
+🌿 Dam: Jennys Joy (20.0% Rank: 3)
+⏱️ Speed record - Runs: 12 | Best: 7.4 sec (Rank 4), Worst: 8.26 sec (Rank 4), Avg: 7.74 sec (Rank 4)
+🛠️ Gear: b
+🩺 Medical History: No records
+🎲 Early market: 2.5 (Rank: 1)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Won with a bit to spare when upped to 3m at Southwell last month and commands respect here
+🔦 Spotlight: Came good over fences at fifth attempt, when upped to 3m at Southwell (good to soft; second run in blinkers) last month; did that with a fair bit more in hand than winning margin might suggest and a subsequent 5lb rise is offset by Callum Pritchard's useful 5lb claim here; leading contender.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Padraig Pierce
+🏠 Owner: Geri And The Pacemakers 3/15 (20.00%) - (No previous owner(s))
+👤 Trainer: Ben Pauling (0 previous trainer(s)) last 14d WinRate (2.0/18.0 runs) (Rank: 5) RTF: 33.0 (OVR: 0%)
+🏇 Jockey: Callum Pritchard(5) (14d rank: 1) 🏇 Jockey 102437 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 88884 (1/5 - 20.0%)(2.0/ 16.0 runs) RTF: N/A (OVR: 11%) 5Y: 26/246 (11.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Won with a bit to spare when upped to 3m at Southwell last month and commands respect here
+🔦 Spotlight: Came good over fences at fifth attempt, when upped to 3m at Southwell (good to soft; second run in blinkers) last month; did that with a fair bit more in hand than winning margin might suggest and a subsequent 5lb rise is offset by Callum Pritchard's useful 5lb claim here; leading contender.
+📊 **STATS**
+📉 OFR: 120.0 (Rank: 2)
+📈 RPR: 134.0 (Rank: 1)
+📉 TS: 91.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 1/1 | Ratio: 1.00
+🌱 Going Wins/Runs: 0/3 | Ratio: 0.00
+📊 Form: -34P21 → Score: 0.15 (Rank: 2)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-03 14:03:00 | ⏳ Time between runs: 32  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 4.5 🔥
+📝 Comment: raced in second, disputed lead 8th, 🎯 led clearly 9th, headed 11th, 🎯 led again 3 out, pushed along 2 out, 7 lengths ahead last, idled and ridden out run-in
+🏆 RaceName: Grace And Dotty Fedora's And Feathers Handicap Chase (GBB Race)
+📋 Race Type: 4HcCh
+🎽 Jockey: Ben Jones- (⚖️ Weight: 167.0 lbs (75.9 kg) carried -- Allowance: 0.0) 🏇 Jockey: Callum Pritchard(5) (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Kielan Woods (1/5, SR 20.0%)
+🏟️ Course: Southwell (left-handed, sharp, flat track)
+📏 Distance: 24.5 furlongs (🔼 vs 23.5 today)
+🌱 Going: GS
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-01-24 12:55:00 | ⏳ Time between runs: 38  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 12.0 📉
+📝 Comment: 🎯 led, pressed leader before 2nd, not fluent 6th, 🎯 led again before 11th, headed 2 out, soon rallied, no extra inside final 110yds
+🏆 RaceName: Livescore Bet Best Odds Daily Novices' Handicap Chase (GBB Race)
+📋 Race Type: 4NvHcCh
+🎽 Jockey: Ben Jones- (⚖️ Weight: 165.0 lbs (75.0 kg) carried -- Allowance: 0.0) 🏇 Jockey: Callum Pritchard(5) (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Kielan Woods (1/5, SR 20.0%)
+🏟️ Course: Doncaster (left-handed, galloping, flat track)
+📏 Distance: 19.0 furlongs (🔽 vs 23.5 today)
+🌱 Going: GS
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🐎 5 | The Boola Boss🐎 9 years old  gelding, ch,  156 lbs.
+🦄 Sire: Quest For Peace (16.0% Rank: 1)
+🌿 Dam: Hy Kate (28.999999999999996% Rank: 1)
+⏱️ Speed record - Runs: 9 | Best: 7.22 sec (Rank 2), Worst: 8.04 sec (Rank 1), Avg: 7.67 sec (Rank 2)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 3.75 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Back in prime form when making all at Newbury last month; can give this a good shot too
+🔦 Spotlight: Not always one to rely upon but was back in prime form when making all at Newbury (2m6f, good to soft) last month; 4lb higher here but good 5lb claimer Jamie Brace is enlisted; will be suited by the forecast good ground; no surprise if he gives this a good shot.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Harry Curtis
+🏠 Owner: Hyde, Frobisher, Waters & Hyde (No previous owner data) - (No previous owner(s))
+👤 Trainer: Rebecca Curtis (0 previous trainer(s)) last 14d WinRate (1.0/2.0 runs) (Rank: 1) RTF: 50.0 (OVR: 16%)
+🏇 Jockey: Jamie Brace(5) (14d rank: 2) 🏇 Jockey 97940 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 92112 (1/2 - 50.0%)(1.0/ 2.0 runs) RTF: N/A (OVR: 0%) 5Y: 20/132 (15.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Back in prime form when making all at Newbury last month; can give this a good shot too
+🔦 Spotlight: Not always one to rely upon but was back in prime form when making all at Newbury (2m6f, good to soft) last month; 4lb higher here but good 5lb claimer Jamie Brace is enlisted; will be suited by the forecast good ground; no surprise if he gives this a good shot.
+📊 **STATS**
+📉 OFR: 112.0 (Rank: 5)
+📈 RPR: 130.0 (Rank: 4)
+📉 TS: 115.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/2 | Ratio: 0.00
+📏 Distance Wins/Runs: 2/3 | Ratio: 0.67
+🌱 Going Wins/Runs: 3/9 | Ratio: 0.33
+📊 Form: 130P31 → Score: 0.28 (Rank: 1)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-21 16:02:00 | ⏳ Time between runs: 14  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 4.0 🔥
+📝 Comment: jumped slightly left on occasions, 🎯 made all, ridden run-in, kept on
+🏆 RaceName: BetVictor A Run For Your Money At Handicap Chase (GBB Race)
+📋 Race Type: 4HcCh
+🎽 Jockey: S Bowen- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 🏇 Jockey: Jamie Brace(5) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Paul O'Brien (1/2, SR 50.0%)
+🏟️ Course: Newbury (left-handed, galloping track with stiff fences)
+📏 Distance: 22.5 furlongs (🔽 vs 23.5 today)
+🌱 Going: GS
+👜 Prize: 💰 7K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-27 15:00:00 | ⏳ Time between runs: 22  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 11.0 📉
+📝 Comment: 🔄 towards rear, 🚧 bumped 1st, went third with one circuit to go, hit 11th, outpaced before 3 out, just held third
+🏆 RaceName: Richard Williams Memorial Handicap Chase (GBB Race)
+📋 Race Type: 4HcCh
+🎽 Jockey: Ben Jones- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 🏇 Jockey: Jamie Brace(5) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Paul O'Brien (1/2, SR 50.0%)
+🏟️ Course: Taunton (right-handed, sharp track)
+📏 Distance: 21.5 furlongs (🔽 vs 23.5 today)
+🌱 Going: S
+👜 Prize: 💰 7K
+---------------------------------------------------------------------------
+🐎 3 | Nothin To Ask📈 Owner has a strong record (SR: 14.29%, 14 runs). (Rank: 4)
+🐎 10 years old  gelding, b,  160 lbs.
+🦄 Sire: Ask (14.000000000000002% Rank: 3)
+🌿 Dam: Nothin To Say (13.0% Rank: 5)
+⏱️ Speed record - Runs: 11 | Best: 7.37 sec (Rank 3), Worst: 8.12 sec (Rank 3), Avg: 7.67 sec (Rank 2)
+🛠️ Gear: t
+🩺 Medical History: 📅 2024-12-17: Wind Surgery | 📅 2024-01-19: Wind Surgery
+🎲 Early market: 6.0 (Rank: 3)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Has fitness to prove but ran well in defeat on latest outing in December
+🔦 Spotlight: 2-11 over fences; no longer the force of old and has fitness to prove after 112-day absence but ran well in defeat behind 📈 progressive rival at Newcastle (2m7f, good to soft) on latest outing and was given another wind op (his second) during his break.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: P & D Kavanagh
+🏠 Owner: The Fob Racing Partnership 11 2/14 (14.00%) - (No previous owner(s))
+👤 Trainer: Fergal Obrien (0 previous trainer(s)) last 14d WinRate (8.0/36.0 runs) (Rank: 2) RTF: 54.0 (OVR: 12%)
+🏇 Jockey: Liam Harrison (14d rank: 3) 🏇 Jockey 98445 Today's Jock winSR: 11.0% | 🏆 Not H&J as Best Alternative Jockey: 76635 (2/8 - 25.0%)(1.0/ 9.0 runs) RTF: N/A (OVR: 2%) 5Y: 56/490 (11.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Has fitness to prove but ran well in defeat on latest outing in December
+🔦 Spotlight: 2-11 over fences; no longer the force of old and has fitness to prove after 112-day absence but ran well in defeat behind 📈 progressive rival at Newcastle (2m7f, good to soft) on latest outing and was given another wind op (his second) during his break.
+📊 **STATS**
+📉 OFR: 116.0 (Rank: 3)
+📈 RPR: 128.0 (Rank: 5)
+📉 TS: 109.0 (Rank: 3)
+🏟️ Course Wins/Runs: 2/5 | Ratio: 0.40
+📏 Distance Wins/Runs: 0/3 | Ratio: 0.00
+🌱 Going Wins/Runs: 2/6 | Ratio: 0.33
+📊 Form: -68732 → Score: 0.04 (Rank: 5)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-12-14 13:22:00 | ⏳ Time between runs: 111  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 3.0 🔥
+📝 Comment: raced in third, slightly ⚠️ hampered but left in second 8th, went clear with winner 12th, not fluent 5 out, no chance with winner when jumped slightly left 2 out, awkward jump last, kept on
+🏆 RaceName: ACS Tyres Services Handicap Chase (Go North Red Rum Series Qualifier)
+📋 Race Type: 4HcCh
+🎽 Jockey: L Harrison- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Liam Harrison (SR 11.1%, 1/9) | 🏆 Not H&J — Best Alternative: Paddy Brennan (2/8, SR 25.0%)
+🏟️ Course: Newcastle (left-handed, galloping, testing track with stiff fences)
+📏 Distance: 23.5 furlongs (➡️ vs 23.5 today)
+🌱 Going: GS
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-11-18 14:10:00 | ⏳ Time between runs: 25  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 2.75 🔥
+📝 Comment: in touch with leaders on outer, steady headway before 4 out, mistake and ❄️ weakened last
+🏆 RaceName: Racecourse Live Streams On Racing TV Extra Handicap Chase
+📋 Race Type: 4HcCh
+🎽 Jockey: L Harrison- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Liam Harrison (SR 11.1%, 1/9) | 🏆 Not H&J — Best Alternative: Paddy Brennan (2/8, SR 25.0%)
+🏟️ Course: Leicester (right-handed, galloping, testing track)
+📏 Distance: 22.5 furlongs (🔽 vs 23.5 today)
+🌱 Going: GF
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🐎 1 | Olivers Travels🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 7 years old  gelding, ch,  166 lbs.
+🦄 Sire: Sea Moon (14.000000000000002% Rank: 4)
+🌿 Dam: Cognitive (24.0% Rank: 2)
+⏱️ Speed record - Runs: 14 | Best: 6.99 sec (Rank 1), Worst: 8.08 sec (Rank 2), Avg: 7.55 sec (Rank 1)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 7.0 (Rank: 4)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Dual winner last summer but absent since some below-par runs in the autumn
+🔦 Spotlight: Won consecutive races at Worcester (2m7f, good) when cheekpieces were added last summer but had gone off the boil when last seen in the autumn and needs to have been refreshed by 133-day break.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Mrs Mary Roche
+🏠 Owner: K I T Partnership 6/16 (38.00%) - (No previous owner(s))
+👤 Trainer: Peter & Michael Bowen (0 previous trainer(s)) last 14d WinRate (1.0/8.0 runs) (Rank: 4) RTF: 25.0 (OVR: 7%)
+🏇 Jockey: Shane Fenelon(5) (14d rank: 4) 🏇 Jockey 99195 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 93186 (4/8 - 50.0%)(0.0/ 4.0 runs) RTF: N/A (OVR: 0%) 5Y: 15/350 (4.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Dual winner last summer but absent since some below-par runs in the autumn
+🔦 Spotlight: Won consecutive races at Worcester (2m7f, good) when cheekpieces were added last summer but had gone off the boil when last seen in the autumn and needs to have been refreshed by 133-day break.
+📊 **STATS**
+📉 OFR: 122.0 (Rank: 1)
+📈 RPR: 131.0 (Rank: 2)
+📉 TS: 122.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 3/7 | Ratio: 0.43
+🌱 Going Wins/Runs: 5/12 | Ratio: 0.42
+📊 Form: 11254P → Score: 0.09 (Rank: 3)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-11-23 14:05:00 | ⏳ Time between runs: 132  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 9.0 📉
+📝 Comment: jumped left on occasions, in rear, lost touch and mistake 17th, mistake 3 out, pulled up before 2 out (jockey said gelding was never travelling)
+🏆 RaceName: 1st Class Logistics Berkshire National Handicap Chase (GBB Race)
+📋 Race Type: 2HcCh
+🎽 Jockey: J Bowen- (⚖️ Weight: 149.0 lbs (67.7 kg) carried -- Allowance: 0.0) 🏇 Jockey: Shane Fenelon(5) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Sean Bowen (4/8, SR 50.0%)
+🏟️ Course: Ascot (right-handed, galloping, testing track with stiff fences)
+📏 Distance: 29.5 furlongs (🔼 vs 23.5 today)
+🌱 Going: G
+👜 Prize: 💰 39K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-11-07 13:40:00 | ⏳ Time between runs: 16  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 8.5 📉
+📝 Comment: in touch with leaders, dropped to rear with one circuit to go, not fluent 9th, not fluent 13th, ❄️ weakened gradually from 3 out
+🏆 RaceName: BetVictor's Weekend Winners Novices' Limited Handicap Chase (GBB Race)
+📋 Race Type: 3NvHcCh
+🎽 Jockey: S Bowen- (⚖️ Weight: 155.0 lbs (70.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Shane Fenelon(5) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Sean Bowen (4/8, SR 50.0%)
+🏟️ Course: Newbury (left-handed, galloping track with stiff fences)
+📏 Distance: 23.5 furlongs (➡️ vs 23.5 today)
+🌱 Going: G
+👜 Prize: 💰 11K
+---------------------------------------------------------------------------
+🐎 4 | Thor De Cerisy📈 Owner has a strong record (SR: 16.48%, 182 runs). (Rank: 3)
+🐎 11 years old  gelding, b,  157 lbs.
+🦄 Sire: Enrique (14.000000000000002% Rank: 2)
+🌿 Dam: Midalisy (17.0% Rank: 4)
+⏱️ Speed record - Runs: 14 | Best: 7.62 sec (Rank 5), Worst: 8.74 sec (Rank 5), Avg: 7.97 sec (Rank 5)
+🛠️ Gear: tp
+🩺 Medical History: 📅 2020-12-16: Wind Surgery | 📅 2020-01-15: Wind Surgery
+🎲 Early market: 8.0 (Rank: 5)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Lurks on a good mark but all his best form was on soft or heavy ground
+🔦 Spotlight: Only fifth of six in recent Newbury race won by The Boola Boss but was not beaten far and would almost certainly have been better suited by a stronger gallop; lurks on a good mark but all his best form was on soft or heavy ground, and he has never raced on anything quicker than good to soft.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: O Varin,  Y Varin &  S Varin
+🏠 Owner: Mrs L Maclennan 30/182 (16.00%) - (No previous owner(s))
+👤 Trainer: Neil Mulholland (0 previous trainer(s)) last 14d WinRate (3.0/18.0 runs) (Rank: 3) RTF: 62.0 (OVR: 13%)
+🏇 Jockey: Dylan Johnston(3) (14d rank: 5) 🏇 Jockey 98887 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 96830 (2/3 - 67.0%)(1.0/ 7.0 runs) RTF: N/A (OVR: 21%) 5Y: 52/413 (13.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Lurks on a good mark but all his best form was on soft or heavy ground
+🔦 Spotlight: Only fifth of six in recent Newbury race won by The Boola Boss but was not beaten far and would almost certainly have been better suited by a stronger gallop; lurks on a good mark but all his best form was on soft or heavy ground, and he has never raced on anything quicker than good to soft.
+📊 **STATS**
+📉 OFR: 113.0 (Rank: 4)
+📈 RPR: 131.0 (Rank: 2)
+📉 TS: 82.0 (Rank: 5)
+🏟️ Course Wins/Runs: 2/3 | Ratio: 0.67
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: -025P5 → Score: 0.09 (Rank: 4)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-21 16:02:00 | ⏳ Time between runs: 14  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 22.0 ❄️
+📝 Comment: 🔄 held up in last, steady headway going easily and in touch with leaders 4 out, pushed along and found little before last
+🏆 RaceName: BetVictor A Run For Your Money At Handicap Chase (GBB Race)
+📋 Race Type: 4HcCh
+🎽 Jockey: R McLernon- (⚖️ Weight: 163.0 lbs (74.1 kg) carried -- Allowance: 0.0) 🏇 Jockey: Dylan Johnston(3) (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: James Bowen (2/3, SR 66.7%)
+🏟️ Course: Newbury (left-handed, galloping track with stiff fences)
+📏 Distance: 22.5 furlongs (🔽 vs 23.5 today)
+🌱 Going: GS
+👜 Prize: 💰 7K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-11 16:02:00 | ⏳ Time between runs: 38  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 2.5 🔥
+📝 Comment: 🔄 held up in rear, slow jump and pushed along 6th, lost touch 7th, pulled up before 2 out (usual 3 out) (trainer's rep could offer no explanation for the poor form shown other than jockey said gelding was never travelling)
+🏆 RaceName: Sky Sports Racing Virgin 535 Handicap Chase (GBB Race)
+📋 Race Type: 4HcCh
+🎽 Jockey: J Bowen- (⚖️ Weight: 158.0 lbs (71.8 kg) carried -- Allowance: 0.0) 🏇 Jockey: Dylan Johnston(3) (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: James Bowen (2/3, SR 66.7%)
+🏟️ Course: Lingfield (left-handed, sharp, undulating track)
+📏 Distance: 20.0 furlongs (🔽 vs 23.5 today)
+🌱 Going: HY
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------

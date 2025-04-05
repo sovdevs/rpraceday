@@ -239,8 +239,12 @@
         <!-- ✅ Special News Banner -->
     <div class="container mt-3">
         <div class="banner">
-            <p> Today's update </p>
-            <p> 🏇 Expecterd and actual values. Work on previous races. </p>
+            <p> Grand national Day!! </p>
+            <p> 🏇 Changes: </p>
+            <ul>
+                <li> Has the horse run this kind of race before? 🎲 Repeat performance: Won before: ✅ Yes, Placed 2nd or 3rd before: ❌ No </li>
+                <li> Was it a strong race? 🏆 1st: Did Not Run, 2nd: Did Not Run, 3rd: Did Not Run | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U  </li>
+            </ul>
         </div>
 
     </div>
@@ -250,6 +254,8 @@
                 <div class="container">
                     <h1>🏇 RP Raceday Demo</h1>
                     <!-- ✅ Live Time Display -->
+                    <img src="{{ url_for('static', filename='DALLEhorse33pc.jpg') }}" alt="Winking horse" width="400">
+
                     <div class="time-container">
                         <p>Today's extended UK racing cards</p>
                         ⏳ Current Time in the UK (GMT/BST):** <span id="london-time">Loading...</span><br>
@@ -272,17 +278,19 @@
                     {% endif %}
 
 
-                    <div class="random-hash-container">
-                        <h2>🔑 34 races under consideration today. Here is a selection:</h2>
-                        <ul>
-                    <li><strong>ID:</strong> 891961 - <strong>Hash:</strong> 48f38322</li>
-            <li><strong>ID:</strong> 889455 - <strong>Hash:</strong> 027f6d48</li>
-            <li><strong>ID:</strong> 889604 - <strong>Hash:</strong> c8cfefb1</li>
-            <li><strong>ID:</strong> 889608 - <strong>Hash:</strong> bd00cbd7</li>
-            <li><strong>ID:</strong> 889447 - <strong>Hash:</strong> 4c8cab71</li>
+        <div class="random-hash-container">
+            <h2>🔑 46 races under consideration today. Here is a selection:</h2>
+            <p> The Grand National has ID 885406 </p>
+            <ul>
+        <li>
+            <strong>ID:</strong> 885406 - <strong>Hash:</strong> de58e270</li>
+            <li><strong>ID:</strong> 889620 - <strong>Hash:</strong> dc8d182b</li>
+            <li><strong>ID:</strong> 892281 - <strong>Hash:</strong> 18bfb162</li>
+            <li><strong>ID:</strong> 889468 - <strong>Hash:</strong> c0f44212</li>
+            <li><strong>ID:</strong> 889478 - <strong>Hash:</strong> b1cde2fe</li>
+            </ul>
+        </div>
 
-                        </ul>
-                    </div>
 
 
                     {% if race_data %}

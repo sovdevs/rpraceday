@@ -1,0 +1,557 @@
+⏰ Off Time: 2025-04-05 17:05
+📍 Venue: Newcastle (left-handed, galloping, testing track with stiff fences)
+🏁 Race ID: 889487 - 🏆 Name: Acorn Catering Equipment Open National Hunt Flat Race (Category 2 Elimination) (GBB Race)
+🏇🌿 Type: NH Flat
+📏 Distance: 17.0 furlongs
+🏇 Class/Grade: Class 5
+🎂 Age Band: 4-6yo
+💰 Prize money: 💰 2K
+⛅ Weather: Partly cloudy
+🌱 Going: Good
+12 runners declared
+Speed Performance for Race ID 889487 (Filter: AND_notAW)
+===========================================================================
+horse_id        horse_name AND_notAW_bestSpeedPerM AND_notAW_worstSpeedPerM AND_notAW_avgSpeedPerM AND_notAW_noRaces AND_notAW_bestSpeedPerM_rank AND_notAW_avgSpeedPerM_rank
+ 6894194       Brooklynese                   13.69                    13.69                  13.69               1.0                          1.0                         1.0
+ 5007763        Milan Park                   13.34                    13.96                  13.65               2.0                          2.0                         2.0
+ 7121493           Japetus                   12.54                    12.79                  12.66               2.0                          3.0                         3.0
+ 5867537    Littletown Lad                   12.26                    12.26                  12.26               1.0                          4.0                         4.0
+ 6568889       Walk On Son                   11.74                    12.22                  11.98               2.0                          5.0                         5.0
+ 7360543        Coffee Boy                     NaN                      NaN                    NaN               NaN                          NaN                         NaN
+ 5845773      Escortkheops                     NaN                      NaN                    NaN               NaN                          NaN                         NaN
+ 7360540        I Am Simba                     NaN                      NaN                    NaN               NaN                          NaN                         NaN
+ 7360541   Its Miss Marple                     NaN                      NaN                    NaN               NaN                          NaN                         NaN
+ 7360542          Ben Reid                     NaN                      NaN                    NaN               NaN                          NaN                         NaN
+ 7258521 Freddie Steady Go                     NaN                      NaN                    NaN               NaN                          NaN                         NaN
+ 7227184      Queen Marcia                     NaN                      NaN                    NaN               NaN                          NaN                         NaN
+No head-to-head data found for any of this race's horses
+++++++++++Performance Table++++++++++
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7        | Japetus                   | 7121493  | 1.0      | 1.0      | 1.0      | 1.0      | 1.0      | 10       | 10       | 1.0      | 1.0      | 2.0      | 1.0      | 1.0      | N/A      | N/A      | 7.0      | 10.0     | 8.0      | 7.0      | 6.0      | 10.0     | 9.0      | 11.0     | 1.0      | 1.0      | 1.0      | N/A      | 1.0      | 9.0      | 1.0      | 4.0      | N/A      | 4.0     
+1        | Coffee Boy                | 7360543  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 8.0      | 11.0     | 2.0      | 10.0     | 2.0      | 12.0     | 6.0      | 3.0      | 7.0      | N/A      | N/A      | N/A      | 2.0      | 4.0      | 3.0      | 5.0      | 1.0      | 10.0    
+3        | I Am Simba                | 7360540  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 6.0      | 12.0     | 11.0     | 12.0     | 3.0      | 4.0      | 7.0      | 2.0      | 7.0      | N/A      | N/A      | N/A      | 3.0      | 5.0      | 4.0      | 8.0      | N/A      | 1.0     
+10       | Ben Reid                  | 7360542  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 8.0      | 4.0      | 3.0      | 9.0      | 5.0      | 1.0      | 1.0      | 8.0      | 7.0      | N/A      | N/A      | N/A      | 4.0      | 12.0     | 5.0      | 8.0      | N/A      | 6.0     
+2        | Escortkheops              | 5845773  | 5.0      | 1.0      | 5.0      | 1.0      | 1.0      | 1        | 1        | 4.0      | 1.0      | 3.0      | 1.0      | N/A      | N/A      | N/A      | 5.0      | 9.0      | 5.0      | 5.0      | 6.0      | 7.0      | 10.0     | 4.0      | 2.0      | N/A      | N/A      | N/A      | 5.0      | 6.0      | 10.0     | 8.0      | N/A      | 11.0    
+11       | Freddie Steady Go         | 7258521  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 2.0      | 2.0      | 7.0      | 2.0      | 1.0      | 2.0      | 1.0      | 1.0      | 7.0      | N/A      | N/A      | N/A      | 6.0      | 1.0      | 6.0      | 8.0      | N/A      | 9.0     
+12       | Queen Marcia              | 7227184  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 1.0      | 1.0      | 9.0      | 1.0      | 6.0      | 11.0     | 10.0     | 7.0      | 7.0      | N/A      | N/A      | N/A      | 6.0      | 8.0      | 11.0     | 6.0      | N/A      | 5.0     
+8        | Brooklynese               | 6894194  | 4.0      | 1.0      | 4.0      | 1.0      | 1.0      | 9        | 8        | 5.0      | 1.0      | 3.0      | 1.0      | 2.0      | N/A      | N/A      | 3.0      | 7.0      | 10.0     | 3.0      | 6.0      | 5.0      | 4.0      | 9.0      | 5.0      | N/A      | 2.0      | 1.0      | 8.0      | 11.0     | 7.0      | 2.0      | N/A      | 7.0     
+4        | Littletown Lad            | 5867537  | 2.0      | 1.0      | 2.0      | 1.0      | 1.0      | 11       | 11       | 3.0      | 1.0      | 3.0      | 1.0      | 4.0      | N/A      | N/A      | 8.0      | 4.0      | 3.0      | 11.0     | 6.0      | 6.0      | 5.0      | 10.0     | 4.0      | N/A      | 2.0      | N/A      | 9.0      | 10.0     | 8.0      | 1.0      | 1.0      | 3.0     
+6        | Walk On Son               | 6568889  | 5.0      | 1.0      | 5.0      | 1.0      | 1.0      | 12       | 12       | 2.0      | 1.0      | 1.0      | 1.0      | 5.0      | 1.0      | N/A      | 8.0      | 4.0      | 6.0      | 4.0      | 4.0      | 9.0      | 8.0      | 6.0      | 6.0      | N/A      | 2.0      | N/A      | 10.0     | 2.0      | 2.0      | 3.0      | 1.0      | 2.0     
+5        | Milan Park                | 5007763  | 3.0      | 1.0      | 3.0      | 1.0      | 1.0      | 8        | 9        | 1.0      | 1.0      | 2.0      | 1.0      | 2.0      | 2.0      | N/A      | 3.0      | 8.0      | 1.0      | 8.0      | 6.0      | 7.0      | 1.0      | 12.0     | 3.0      | 2.0      | 2.0      | 1.0      | 10.0     | 7.0      | 9.0      | 8.0      | N/A      | 8.0     
+9        | Its Miss Marple           | 7360541  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 12.0     | 3.0      | 12.0     | 6.0      | 12.0     | 3.0      | 10.0     | 4.0      | 7.0      | N/A      | N/A      | N/A      | 10.0     | 3.0      | 12.0     | 7.0      | N/A      | 12.0    
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 7 | Japetus⚠️ Owner's record is weaker (SR: 10.00%, 90 runs). (Rank: 4)
+🐎 4 years old  gelding, b,  156 lbs.
+🦄 Sire: Sea The Moon (11.0% Rank: 9)
+🌿 Dam: Zaminast (0.0% Rank: ?)
+⏱️ Speed record - Runs: 2 | Best: 7.82 sec (Rank 10), Worst: 7.97 sec (Rank 10), Avg: 7.89 sec (Rank 10)
+🛠️ No gear today
+🩺 Medical History: 📅 2025-01-07: Wind Surgery
+🎲 Early market: 2.5 (Rank: 1)
+🎲 Repeat performance: Won before: ✅ Yes, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Quickened well to score here three weeks ago; penalised but holds leading claims
+🔦 Spotlight: Has a useful Juddmonte Flat pedigree; built on debut promise when winning five-runner race over C&D (good to soft; evens) three weeks ago with more in hand than the margin suggests (quickened well); more rivals to contend with here and has a penalty, but still holds leading claims.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Juddmonte Farms Ltd
+🏠 Owner: Mrs P Sloan 9/90 (10.00%) - (No previous owner(s))
+👤 Trainer: Nicky Richards (0 previous trainer(s)) last 14d WinRate (0.0/5.0 runs) (Rank: 6) RTF: 40.0 (OVR: 13%)
+🏇 Jockey: Sean Quinlan (14d rank: 1) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(2.0/ 19.0 runs) RTF: N/A (OVR: 14%) 5Y: 162/1316 (12.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Quickened well to score here three weeks ago; penalised but holds leading claims
+🔦 Spotlight: Has a useful Juddmonte Flat pedigree; built on debut promise when winning five-runner race over C&D (good to soft; evens) three weeks ago with more in hand than the margin suggests (quickened well); more rivals to contend with here and has a penalty, but still holds leading claims.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 102.0 (Rank: 1)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 1/1 | Ratio: 1.00
+📏 Distance Wins/Runs: 1/2 | Ratio: 0.50
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 21 → Score: 0.77 (Rank: 1)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-15 16:57:00 | ⏳ Time between runs: 20  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 1.0 🔥🔥
+📝 Comment: took keen hold, 🔄 held up in last, switched right 3f out, went second towards near side 2f out, 🎯 led inside final furlong, soon ridden, won going away
+🏆 RaceName: Pimm's At Ramside Open National Hunt Flat Race (Go North Jodami Series Qualifier) (GBB Race)
+📋 Race Type: 5NHF
+🎽 Jockey: D McMenamin- (⚖️ Weight: 146.0 lbs (66.4 kg) carried -- Allowance: 0.0) 🏇 Jockey: Sean Quinlan (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Danny McMenamin (0/1, SR 0.0%)
+🏟️ Course: Newcastle (left-handed, galloping, testing track with stiff fences)
+📏 Distance: 17.0 furlongs (➡️ vs 17.0 today)
+🌱 Going: GS
+👜 Prize: 💰 2K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-14 16:50:00 | ⏳ Time between runs: 29  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 6.0 📉
+📝 Comment: 🔄 towards rear, smooth headway and went third over 3f out, went second and going easily over 2f out, challenging against near rail over 1f out, no extra inside final furlong, no match for winner
+🏆 RaceName: Racing TV Open Maiden National Hunt Flat Race (Go North Jodami Series Qualifier) (GBB Race)
+📋 Race Type: 4MdNHF
+🎽 Jockey: D McMenamin- (⚖️ Weight: 149.0 lbs (67.7 kg) carried -- Allowance: 0.0) 🏇 Jockey: Sean Quinlan (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Danny McMenamin (0/1, SR 0.0%)
+🏟️ Course: Kelso (left-handed, sharp track (hurdles very sharp))
+📏 Distance: 16.0 furlongs (🔽 vs 17.0 today)
+🌱 Going: S
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🐎 1 | Coffee Boy⚠️ Owner's record is weaker (SR: 7.32%, 41 runs). (Rank: 5)
+🐎 5 years old  gelding, b,  157 lbs.
+🦄 Sire: Myboycharlie (15.0% Rank: 4)
+🌿 Dam: Cafe Blum (0.0% Rank: 1)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ Gear: h
+🩺 Medical History: No records
+🎲 Early market: 5.0 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: From leading northern yard with 16% strike-rate in bumpers; interesting newcomer
+🔦 Spotlight: 28,000euros 3yo; half-brother to French 2m1f-2m6f hurdle/chase winner No Risk For You; dam French maiden Flat/jumps, half-sister to French 2m6f Grade 1 chase winner Top Of The Sky; from leading northern yard with 16% strike-rate in bumpers; wears hood; interesting newcomer.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Jacques Seror
+🏠 Owner: Jon Glews 3/41 (7.00%) - (No previous owner(s))
+👤 Trainer: Donald Mccain (0 previous trainer(s)) last 14d WinRate (1.0/23.0 runs) (Rank: 2) RTF: 30.0 (OVR: 19%)
+🏇 Jockey: Theo Gillard (14d rank: 2) ⚠️ No race history available for this horse.(0.0/ 10.0 runs) RTF: N/A (OVR: 7%) 5Y: 42/532 (8.0)
+🗞️ **PRESS OPINION**
+💬 Comment: From leading northern yard with 16% strike-rate in bumpers; interesting newcomer
+🔦 Spotlight: 28,000euros 3yo; half-brother to French 2m1f-2m6f hurdle/chase winner No Risk For You; dam French maiden Flat/jumps, half-sister to French 2m6f Grade 1 chase winner Top Of The Sky; from leading northern yard with 16% strike-rate in bumpers; wears hood; interesting newcomer.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 7)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+No race history found for horse_id 7360543.
+
+🐎 3 | I Am Simba🐎 5 years old  gelding, b,  157 lbs.
+🦄 Sire: Roaring Lion (14.000000000000002% Rank: 5)
+🌿 Dam: Sea Chorus (0.0% Rank: ?)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: 📅 2023-09-19: Wind Surgery
+🎲 Early market: 6.0 (Rank: 3)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: 21,000gns yearling; has a useful Flat pedigree and in-form yard wins its share of bumpers
+🔦 Spotlight: 21,000gns yearling; Roaring Lion half-brother to five winners including Captain Chorus (Norwegian 7f-1m6f including Listed; RPR 108), Seaside Song (Norwegian/Swedish 1m Listed; 95) and Tavener (5f-7f; 86); dam 1m4f winner (79), closely related to 1m2f Group 1 winner; has a useful Flat pedigree, and in-form yard wins its share of bumpers; has had wind surgery.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: The Sea Chorus Partnership
+🏠 Owner: Sharpe Bloodstock Limited 0/9 (0.00%) - (No previous owner(s))
+👤 Trainer: Rebecca Menzies (0 previous trainer(s)) last 14d WinRate (3.0/16.0 runs) (Rank: 3) RTF: 63.0 (OVR: 17%)
+🏇 Jockey: Henry Brooke (14d rank: 3) ⚠️ No race history available for this horse.(3.0/ 25.0 runs) RTF: N/A (OVR: 10%) 5Y: 157/1009 (16.0)
+🗞️ **PRESS OPINION**
+💬 Comment: 21,000gns yearling; has a useful Flat pedigree and in-form yard wins its share of bumpers
+🔦 Spotlight: 21,000gns yearling; Roaring Lion half-brother to five winners including Captain Chorus (Norwegian 7f-1m6f including Listed; RPR 108), Seaside Song (Norwegian/Swedish 1m Listed; 95) and Tavener (5f-7f; 86); dam 1m4f winner (79), closely related to 1m2f Group 1 winner; has a useful Flat pedigree, and in-form yard wins its share of bumpers; has had wind surgery.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 7)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+No race history found for horse_id 7360540.
+
+🐎 10 | Ben Reid🐎 4 years old  gelding, b,  149 lbs.
+🦄 Sire: Sogann (7.000000000000001% Rank: 12)
+🌿 Dam: Chocolate Tiffin (0.0% Rank: ?)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 8.0 (Rank: 4)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Bred along similar lines to a recent winning bumper debutant from this yard; interesting
+🔦 Spotlight: Bred along similar lines to his stable's recent winning bumper debutant On To The Rouge, out of an unraced half-sister to bumper winner Simply Rouge and from the family of smart dual-purpose performer Clever Cookie; commands plenty of respect, especially if strong in the market.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Mrs J A Niven
+🏠 Owner: Clova Farms And P D Niven 0/11 (0.00%) - (No previous owner(s))
+👤 Trainer: Peter Niven (0 previous trainer(s)) last 14d WinRate (1.0/1.0 runs) (Rank: 5) RTF: 100.0 (OVR: 9%)
+🏇 Jockey: Conor Rabbitt(3) (14d rank: 4) ⚠️ No race history available for this horse.(0.0/ 2.0 runs) RTF: N/A (OVR: 6%) 5Y: 38/364 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Bred along similar lines to a recent winning bumper debutant from this yard; interesting
+🔦 Spotlight: Bred along similar lines to his stable's recent winning bumper debutant On To The Rouge, out of an unraced half-sister to bumper winner Simply Rouge and from the family of smart dual-purpose performer Clever Cookie; commands plenty of respect, especially if strong in the market.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 7)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+No race history found for horse_id 7360542.
+
+🐎 2 | Escortkheops🐎 5 years old  gelding, b,  157 lbs.
+🦄 Sire: Masterstroke (13.0% Rank: 6)
+🌿 Dam: Escortwoman (0.0% Rank: ?)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 11.0 (Rank: 5)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: In frame in three Irish points, including on good ground; cannot be dismissed
+🔦 Spotlight: Made the frame on all his completed outings in Irish points, including on good ground; new stable has had two bumper winners (from 35 attempts) in last five seasons; has plenty of experience and cannot be dismissed.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Pascale Souverain
+🏠 Owner: Miss Laura Horsfall 0/6 (0.00%) - (No previous owner(s))
+👤 Trainer: Laura Horsfall (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 6) RTF: 67.0 (OVR: 0%)
+🏇 Jockey: Kevin Brogan (14d rank: 5) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(1.0/ 7.0 runs) RTF: N/A (OVR: 33%) 5Y: 38/559 (7.000000000000001)
+🗞️ **PRESS OPINION**
+💬 Comment: In frame in three Irish points, including on good ground; cannot be dismissed
+🔦 Spotlight: Made the frame on all his completed outings in Irish points, including on good ground; new stable has had two bumper winners (from 35 attempts) in last five seasons; has plenty of experience and cannot be dismissed.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: U442 → Score: 0.11 (Rank: 2)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-01-19 13:00:00 | ⏳ Time between runs: 75  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 3.5 🔥
+📝 Comment: chsd ldrs, went 2nd by 3rd, 2l 2nd 1/2way, jnd ldr 4out, wo with 1l ld 3out, redcd adv appr last, hdd early run-in, no ex
+🏆 RaceName: Tattersalls Cheltenham January Sale, MSK Silversands Ltd & Screws & More Ltd 5yo Geldings Maiden
+📋 Race Type: MdPTP
+🎽 Jockey: O McGill- (⚖️ Weight: 170.0 lbs (77.3 kg) carried -- Allowance: 0.0) 🏇 Jockey: Kevin Brogan (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: O McGill (0/3, SR 0.0%)
+🏟️ Course: Ballycrystal (LH, slightly undulating)
+📏 Distance: 24.0 furlongs (🔼 vs 17.0 today)
+🌱 Going: Y
+👜 Prize: 💰 0K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-11-16 12:30:00 | ⏳ Time between runs: 64  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 3.0 🔥
+📝 Comment: ww, prog to 6th 1/2way, mstk 4out, prog to 4th bef 2out, rdn aftr 2out, ko
+🏆 RaceName: Dennison Commercials Ltd 4yo Maiden
+📋 Race Type: 4yMdPTP
+🎽 Jockey: O McGill- (⚖️ Weight: 165.0 lbs (75.0 kg) carried -- Allowance: 0.0) 🏇 Jockey: Kevin Brogan (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: O McGill (0/3, SR 0.0%)
+🏟️ Course: Kirkistown (LH, flat, galloping)
+📏 Distance: 24.0 furlongs (🔼 vs 17.0 today)
+🌱 Going: G
+👜 Prize: 💰 0K
+---------------------------------------------------------------------------
+🐎 11 | Freddie Steady Go🐎 4 years old  gelding, b,  149 lbs.
+🦄 Sire: Frontiersman (17.0% Rank: 1)
+🌿 Dam: Bahrikate (0.0% Rank: ?)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 17.0 (Rank: 6)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Out of a 2m hurdle winner; stable just 4% in bumpers in last five seasons
+🔦 Spotlight: By high-class middle-distance stayer Frontiersman, out of 2m hurdle winner; stable just 4% in bumpers in last five seasons.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: L P Richards & Susan Corbett
+🏠 Owner: Mrs Susan Corbett 0/2 (0.00%) - (No previous owner(s))
+👤 Trainer: Susan Corbett (0 previous trainer(s)) last 14d WinRate (2.0/5.0 runs) (Rank: 1) RTF: 57.0 (OVR: 9%)
+🏇 Jockey: Nathan Moscrop (14d rank: 6) ⚠️ No race history available for this horse.(4.0/ 13.0 runs) RTF: N/A (OVR: 16%) 5Y: 46/487 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Out of a 2m hurdle winner; stable just 4% in bumpers in last five seasons
+🔦 Spotlight: By high-class middle-distance stayer Frontiersman, out of 2m hurdle winner; stable just 4% in bumpers in last five seasons.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 7)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+No race history found for horse_id 7258521.
+
+🐎 12 | Queen Marcia⚠️ Owner's record is weaker (SR: 5.95%, 84 runs). (Rank: 6)
+🐎 4 years old  filly, b,  142 lbs.
+🦄 Sire: Nathaniel (12.0% Rank: 8)
+🌿 Dam: Dark Quest (0.0% Rank: ?)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 17.0 (Rank: 6)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Nathaniel half-sister to two winners; yard's record in bumpers (0-32) is off-putting
+🔦 Spotlight: Nathaniel half-sister to winners Majestic Ace (German 7.5f) and Gerolamo Cardano (2m/2m4f hurdle); dam maiden (stayed 1m4f; RPR 71), half-sister to 10.5f Group 3 winner Goncharova; yard's record in bumpers (0-32 last five seasons) is off-putting.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Mark E Smith
+🏠 Owner: Mark E Smith 5/84 (6.00%) - (No previous owner(s))
+👤 Trainer: D J Jeffreys (0 previous trainer(s)) last 14d WinRate (0.0/6.0 runs) (Rank: 6) RTF: 29.0 (OVR: 0%)
+🏇 Jockey: Lewis Stones(3) (14d rank: 6) ⚠️ No race history available for this horse.(2.0/ 4.0 runs) RTF: N/A (OVR: 13%) 5Y: 37/313 (12.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Nathaniel half-sister to two winners; yard's record in bumpers (0-32) is off-putting
+🔦 Spotlight: Nathaniel half-sister to winners Majestic Ace (German 7.5f) and Gerolamo Cardano (2m/2m4f hurdle); dam maiden (stayed 1m4f; RPR 71), half-sister to 10.5f Group 3 winner Goncharova; yard's record in bumpers (0-32 last five seasons) is off-putting.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 7)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+No race history found for horse_id 7227184.
+
+🐎 8 | Brooklynese📈 Owner has a strong record (SR: 27.27%, 11 runs). (Rank: 2)
+🐎 6 years old  mare, b,  150 lbs.
+🦄 Sire: Scorpion (8.0% Rank: 11)
+🌿 Dam: Miss Sassypants (0.0% Rank: ?)
+⏱️ Speed record - Runs: 1 | Best: 7.3 sec (Rank 9), Worst: 7.3 sec (Rank 8), Avg: 7.3 sec (Rank 8)
+🛠️ Gear: h
+🩺 Medical History: No records
+🎲 Early market: 21.0 (Rank: 8)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Last of seven on rules debut at Doncaster three weeks ago; much more needed
+🔦 Spotlight: Some promise in point bumpers over the winter but was last of seven on rules debut at Doncaster (good; 20-1) three weeks ago; much more needed in a first-time hood.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: J T Brown
+🏠 Owner: J T Brown 3/11 (27.00%) - (No previous owner(s))
+👤 Trainer: Michael & David Easterby (0 previous trainer(s)) last 14d WinRate (0.0/1.0 runs) (Rank: 6) RTF: 67.0 (OVR: 8%)
+🏇 Jockey: Jamie Hamilton (14d rank: 8) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(3.0/ 18.0 runs) RTF: N/A (OVR: 11%) 5Y: 81/821 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Last of seven on rules debut at Doncaster three weeks ago; much more needed
+🔦 Spotlight: Some promise in point bumpers over the winter but was last of seven on rules debut at Doncaster (good; 20-1) three weeks ago; much more needed in a first-time hood.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 96.0 (Rank: 2)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: 257 → Score: 0.08 (Rank: 5)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-14 17:00:00 | ⏳ Time between runs: 21  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 20.0 ❄️
+📝 Comment: took keen hold, 🔄 towards rear, headway from over 3f out, outpaced when 🎯 prominent over 2f out, soon ❄️ weakened
+🏆 RaceName: Livescore Bet Open Maiden National Hunt Flat Race (Category 3 Elimination) (GBB Race)
+📋 Race Type: 4MdNHF
+🎽 Jockey: J Hamilton- (⚖️ Weight: 152.0 lbs (69.1 kg) carried -- Allowance: 0.0) 🏇 Jockey: Jamie Hamilton (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Paddy Barlow (0/1, SR 0.0%)
+🏟️ Course: Doncaster (left-handed, galloping, flat track)
+📏 Distance: 16.5 furlongs (🔽 vs 17.0 today)
+🌱 Going: G
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-16 16:25:00 | ⏳ Time between runs: 26  days ago
+🏆 1st: Did Not Run, 2nd: Did Not Run, 3rd: Did Not Run | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 1.375 🔥🔥
+📝 Comment: hdwy to ld 5f out; hdd 31/2f out; wknd 1f out
+🏆 RaceName: Flat Race 45&6yo
+📋 Race Type: PTP
+🎽 Jockey: P Barlow- (⚖️ Weight: 159.0 lbs (72.3 kg) carried -- Allowance: 0.0) 🏇 Jockey: Jamie Hamilton (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Paddy Barlow (0/1, SR 0.0%)
+🏟️ Course: Duncombe Park (RH, undulating, galloping; uphill finish)
+📏 Distance: 16.0 furlongs (🔽 vs 17.0 today)
+🌱 Going: GS
+👜 Prize: 💰 0K
+---------------------------------------------------------------------------
+🐎 4 | Littletown Lad🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 5 years old  gelding, b,  157 lbs.
+🦄 Sire: Casamento (10.0% Rank: 10)
+🌿 Dam: Littletown Lass (0.0% Rank: 1)
+⏱️ Speed record - Runs: 1 | Best: 8.16 sec (Rank 11), Worst: 8.16 sec (Rank 11), Avg: 8.16 sec (Rank 11)
+🛠️ Gear: h
+🩺 Medical History: No records
+🎲 Early market: 26.0 (Rank: 9)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Well beaten at Ayr in January; needs to improve markedly for these less testing conditions
+🔦 Spotlight: Third in a point bumper, then well beaten on rules debut at Ayr (soft; 20-1) in January; needs to improve markedly for today's less testing conditions and the fitting of a hood.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Valentine Cross
+🏠 Owner: R Bewley 1/2 (50.00%) - (No previous owner(s))
+👤 Trainer: Daragh Bourke (0 previous trainer(s)) last 14d WinRate (0.0/2.0 runs) (Rank: 6) RTF: 50.0 (OVR: 4%)
+🏇 Jockey: Jonathan England (14d rank: 9) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0.0/ 2.0 runs) RTF: N/A (OVR: 6%) 5Y: 55/431 (13.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Well beaten at Ayr in January; needs to improve markedly for these less testing conditions
+🔦 Spotlight: Third in a point bumper, then well beaten on rules debut at Ayr (soft; 20-1) in January; needs to improve markedly for today's less testing conditions and the fitting of a hood.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 83.0 (Rank: 4)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 3-9 → Score: 0.1 (Rank: 4)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-01-21 16:13:00 | ⏳ Time between runs: 73  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 20.0 ❄️
+📝 Comment: took keen hold, 🔄 midfield, short of room under 3f out, soon ❄️ weakened
+🏆 RaceName: Start Your Racing TV Free Trial Open National Hunt Flat Race (Go North Jodami Series Qual') (GBB)
+📋 Race Type: 5NHF
+🎽 Jockey: J England- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0) 🏇 Jockey: Jonathan England (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Jack Andrews (0/0, SR 0.0%)
+🏟️ Course: Ayr (left-handed, fairly galloping track)
+📏 Distance: 16.0 furlongs (🔽 vs 17.0 today)
+🌱 Going: S
+👜 Prize: 💰 2K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-04-20 17:05:00 | ⏳ Time between runs: 275  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 1.25 🔥🔥
+📝 Comment: a.p; 🎯 led 2f out til hdd & hung bad lft final 100yds
+🏆 RaceName: Flat Race (Div 2) 4&5yo
+📋 Race Type: PTP
+🎽 Jockey: Jack Andrews- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0) 🏇 Jockey: Jonathan England (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Jack Andrews (0/0, SR 0.0%)
+🏟️ Course: Garthorpe (RH, some undulations but basically fair; good fences)
+📏 Distance: 16.0 furlongs (🔽 vs 17.0 today)
+🌱 Going: GS
+👜 Prize: 💰 0K
+---------------------------------------------------------------------------
+🐎 6 | Walk On Son📈 Owner has a strong record (SR: 12.90%, 31 runs). (Rank: 3)
+🐎 5 years old  gelding, b,  157 lbs.
+🦄 Sire: Walk In The Park (17.0% Rank: 2)
+🌿 Dam: Walkyrie (0.0% Rank: 1)
+⏱️ Speed record - Runs: 2 | Best: 8.18 sec (Rank 12), Worst: 8.52 sec (Rank 12), Avg: 8.35 sec (Rank 12)
+🛠️ Gear: t
+🩺 Medical History: 📅 2024-10-16: Wind Surgery
+🎲 Early market: 34.0 (Rank: 10)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Tailed off in two events of this type, tongue-tied on latest start; needs a transformation
+🔦 Spotlight: Tailed off in two events of this type, with a tongue-strap added on latest start; needs a transformation.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Peter Kavanagh
+🏠 Owner: John R Adam 4/31 (13.00%) - (No previous owner(s))
+👤 Trainer: Lucinda Russell (0 previous trainer(s)) last 14d WinRate (3.0/23.0 runs) (Rank: 4) RTF: 42.0 (OVR: 16%)
+🏇 Jockey: Conner Mccann(7) (14d rank: 10) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0.0/ 2.0 runs) RTF: N/A (OVR: 30%) 5Y: 9/61 (15.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Tailed off in two events of this type, tongue-tied on latest start; needs a transformation
+🔦 Spotlight: Tailed off in two events of this type, with a tongue-strap added on latest start; needs a transformation.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 70.0 (Rank: 5)
+📉 TS: 29.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 88 → Score: 0.06 (Rank: 6)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-08 17:10:00 | ⏳ Time between runs: 27  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 40.0 ❄️❄️
+📝 Comment: 🔄 midfield, clipped heels and nearly lost jockey after 2f, 🔄 towards rear after 5f, struggling over 3f out, tailed off from 2f out
+🏆 RaceName: Virgin Bet Open National Hunt Flat Race (Go North Jodami Series Qualifier) (GBB Race)
+📋 Race Type: 5NHF
+🎽 Jockey: C McCann- (⚖️ Weight: 144.0 lbs (65.5 kg) carried -- Allowance: 7.0) 🏇 Jockey: Conner Mccann(7) (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: Conner McCann (0/1, SR 0.0%)
+🏟️ Course: Ayr (left-handed, fairly galloping track)
+📏 Distance: 16.0 furlongs (🔽 vs 17.0 today)
+🌱 Going: S
+👜 Prize: 💰 2K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-10-12 16:25:00 | ⏳ Time between runs: 147  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 10.0 📉
+📝 Comment: 🔄 held up in rear, some headway halfway, ❄️ weakened quickly from 4f out, tailed off
+🏆 RaceName: Falcons Events Dream Team Open National Hunt Flat Race (Go North Jodami Series Qualifier) (GBB Race)
+📋 Race Type: 4NHF
+🎽 Jockey: C McCann- (⚖️ Weight: 141.0 lbs (64.1 kg) carried -- Allowance: 7.0) 🏇 Jockey: Conner Mccann(7) (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: Conner McCann (0/1, SR 0.0%)
+🏟️ Course: Hexham (left-handed, undulating, testing track with easy fences)
+📏 Distance: 16.0 furlongs (🔽 vs 17.0 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🐎 5 | Milan Park🐎 6 years old  gelding, b,  157 lbs.
+🦄 Sire: Milan (12.0% Rank: 7)
+🌿 Dam: Helen Wood (0.0% Rank: ?)
+⏱️ Speed record - Runs: 2 | Best: 7.16 sec (Rank 8), Worst: 7.5 sec (Rank 9), Avg: 7.33 sec (Rank 9)
+🛠️ Gear: t
+🩺 Medical History: 📅 2024-10-01: Wind Surgery
+🎲 Early market: 34.0 (Rank: 10)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Fifth twice in good-ground bumpers; now tongue-tied; needs to raise his game significantly
+🔦 Spotlight: Fifth twice in good-ground bumpers, with wind surgery and a long absence in between; now tongue-tied; needs to raise his game significantly.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Philip Kirby
+🏠 Owner: Garry Kevin Thexton 0/2 (0.00%) - (No previous owner(s))
+👤 Trainer: Chris Grant (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 6) RTF: N/A (OVR: 9%)
+🏇 Jockey: Ross Chapman (14d rank: 10) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(1.0/ 6.0 runs) RTF: N/A (OVR: 9%) 5Y: 55/578 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Fifth twice in good-ground bumpers; now tongue-tied; needs to raise his game significantly
+🔦 Spotlight: Fifth twice in good-ground bumpers, with wind surgery and a long absence in between; now tongue-tied; needs to raise his game significantly.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 96.0 (Rank: 2)
+📉 TS: 26.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 5/5 → Score: 0.1 (Rank: 3)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-03 17:00:00 | ⏳ Time between runs: 32  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 22.0 ❄️
+📝 Comment: in touch with leaders, edged left and ❄️ weakened over 2f out
+🏆 RaceName: Cheltenham Live At Fleet Street Newcastle Open Maiden NH Flat Race (Go North Jodami Qualifier) (GBB)
+📋 Race Type: 5MdNHF
+🎽 Jockey: R Chapman- (⚖️ Weight: 159.0 lbs (72.3 kg) carried -- Allowance: 0.0) 🏇 Jockey: Ross Chapman (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Thomas Dowson (0/0, SR 0.0%)
+🏟️ Course: Newcastle (left-handed, galloping, testing track with stiff fences)
+📏 Distance: 17.0 furlongs (➡️ vs 17.0 today)
+🌱 Going: G
+👜 Prize: 💰 2K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2023-04-17 16:05:00 | ⏳ Time between runs: 686  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 28.0 ❄️
+📝 Comment: 🔄 held up in rear, headway into 🔄 midfield 3f out, pushed along 2f out, ridden and edged right over 1f out, kept on inside final furlong, not pace to challenge
+🏆 RaceName: 200 Years Of Racing Open National Hunt Flat Race (Category 1 Elimination) (GBB Race) (Div I)
+📋 Race Type: 4NHF
+🎽 Jockey: T Dowson- (⚖️ Weight: 149.0 lbs (67.7 kg) carried -- Allowance: 0.0) 🏇 Jockey: Ross Chapman (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Thomas Dowson (0/0, SR 0.0%)
+🏟️ Course: Kelso (left-handed, sharp track (hurdles very sharp))
+📏 Distance: 16.0 furlongs (🔽 vs 17.0 today)
+🌱 Going: G
+👜 Prize: 💰 3K
+---------------------------------------------------------------------------
+🐎 9 | Its Miss Marple⚠️ Owner's record is weaker (SR: 3.12%, 32 runs). (Rank: 7)
+🐎 5 years old  mare, b,  150 lbs.
+🦄 Sire: Pethers Moon (15.0% Rank: 3)
+🌿 Dam: Newgate Queen (0.0% Rank: ?)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 34.0 (Rank: 10)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: By Pether's Moon; dam 1m4f winner; others appeal more on paper
+🔦 Spotlight: By Pether's Moon; dam 1m4f winner (RPR 64), sister to 2m hurdle winners Arctic Reach and Gin And Tonic; others appeal more on paper.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Alison Johnson
+🏠 Owner: Alison Johnson 1/32 (3.00%) - (No previous owner(s))
+👤 Trainer: Brian Rothwell (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 12) RTF: N/A (OVR: 0%)
+🏇 Jockey: Miss Pippa Brown(7) (14d rank: 10) ⚠️ No race history available for this horse.(0.0/ 0.0 runs) RTF: N/A (OVR: 0%) 5Y: 4/62 (6.0)
+🗞️ **PRESS OPINION**
+💬 Comment: By Pether's Moon; dam 1m4f winner; others appeal more on paper
+🔦 Spotlight: By Pether's Moon; dam 1m4f winner (RPR 64), sister to 2m hurdle winners Arctic Reach and Gin And Tonic; others appeal more on paper.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 7)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+No race history found for horse_id 7360541.

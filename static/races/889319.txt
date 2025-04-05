@@ -1,0 +1,412 @@
+⏰ Off Time: 2025-04-05 18:05
+📍 Venue: Yarmouth (left-handed, galloping track)
+🏁 Race ID: 889319 - 🏆 Name: QuinnBet Best Odds Guaranteed Handicap
+🏇 Type: Flat
+📏 Distance: 6.0 furlongs
+🏇 Class/Grade: Class 4
+🎂 Age Band: 4yo+
+💰 Prize money: 💰 6K
+☀️ Weather: Sunny
+🌱 Going: Good
+7 runners declared
+Speed Performance for Race ID 889319 (Filter: AND_notAW_handicap_notAmateur)
+===========================================================================
+horse_id       horse_name AND_notAW_handicap_notAmateur_bestSpeedPerM AND_notAW_handicap_notAmateur_worstSpeedPerM AND_notAW_handicap_notAmateur_avgSpeedPerM AND_notAW_handicap_notAmateur_noRaces AND_notAW_handicap_notAmateur_bestSpeedPerM_rank AND_notAW_handicap_notAmateur_avgSpeedPerM_rank
+ 5216449      Dorney Lake                                       16.37                                        17.58                                      16.74                                   4.0                                              1.0                                             1.0
+ 4839354    Dashing Harry                                       16.16                                        17.51                                      16.58                                   4.0                                              2.0                                             2.0
+ 4546195 Rhythmic Acclaim                                       15.88                                         17.2                                      16.47                                  12.0                                              3.0                                             3.0
+ 5274484 Fletchers Flight                                       15.78                                        16.92                                      16.32                                   7.0                                              5.0                                             4.0
+ 5123486       North View                                       15.55                                        16.59                                      16.29                                   5.0                                              6.0                                             5.0
+ 5368094        Harry Did                                       15.86                                        15.86                                      15.86                                   1.0                                              4.0                                             6.0
+ 5021382   World Of Darcy                                       14.96                                        16.47                                      15.75                                   8.0                                              7.0                                             7.0
+No head-to-head data found for any of this race's horses
+++++++++++Performance Table++++++++++
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2        | North View                | 5123486  | 4.0      | 4.0      | 1.0      | 1.0      | 6.0      | 7        | 6        | 7.0      | 4.0      | 7.0      | 1.0      | 2.0      | 3.0      | 2.0      | 4.0      | 3.0      | 1.0      | 7.0      | 2.0      | 7.0      | 6.0      | 6.0      | 2.0      | N/A      | 7.0      | 6.0      | 1.0      | 5.0      | 1.0      | N/A      | N/A      | 5.0     
+3        | Harry Did                 | 5368094  | 2.0      | 5.0      | 3.0      | 5.0      | 3.0      | 6        | 4        | 4.0      | 4.0      | 1.0      | 1.0      | 3.0      | 7.0      | 3.0      | 5.0      | 7.0      | 2.0      | 6.0      | 3.0      | 6.0      | 1.0      | 7.0      | 4.0      | N/A      | 3.0      | 2.0      | 2.0      | 2.0      | 4.0      | 4.0      | 5.0      | 1.0     
+1        | Dorney Lake               | 5216449  | 7.0      | 2.0      | 4.0      | 2.0      | 6.0      | 1        | 1        | 1.0      | 4.0      | 5.0      | 1.0      | 5.0      | 1.0      | 1.0      | 2.0      | 2.0      | 6.0      | 5.0      | 1.0      | 2.0      | 5.0      | 5.0      | 7.0      | 3.0      | 3.0      | 2.0      | 3.0      | 6.0      | 3.0      | N/A      | 6.0      | 2.0     
+7        | Rhythmic Acclaim          | 4546195  | 5.0      | 7.0      | 6.0      | 6.0      | 2.0      | 3        | 3        | 5.0      | 4.0      | 3.0      | 1.0      | 7.0      | 1.0      | 7.0      | 1.0      | 1.0      | 3.0      | 4.0      | 4.0      | 3.0      | 3.0      | 1.0      | 6.0      | 1.0      | 2.0      | 2.0      | 3.0      | 7.0      | 2.0      | 1.0      | 4.0      | 4.0     
+6        | World Of Darcy            | 5021382  | 3.0      | 3.0      | 5.0      | 4.0      | 5.0      | 4        | 7        | 2.0      | 2.0      | 6.0      | 1.0      | 1.0      | 4.0      | 5.0      | 5.0      | 4.0      | 5.0      | 2.0      | 7.0      | 1.0      | 7.0      | 3.0      | 3.0      | 3.0      | 1.0      | 2.0      | 5.0      | 4.0      | 5.0      | 2.0      | 2.0      | 7.0     
+4        | Fletchers Flight          | 5274484  | 1.0      | 1.0      | 2.0      | 3.0      | 1.0      | 5        | 5        | 3.0      | 1.0      | 4.0      | 1.0      | 3.0      | 4.0      | 4.0      | 5.0      | 6.0      | 3.0      | 1.0      | 4.0      | 3.0      | 3.0      | 1.0      | 1.0      | 1.0      | 5.0      | 1.0      | 6.0      | 3.0      | 2.0      | 3.0      | 1.0      | 6.0     
+5        | Dashing Harry             | 4839354  | 6.0      | 6.0      | 7.0      | 5.0      | 4.0      | 2        | 2        | 6.0      | 3.0      | 2.0      | 1.0      | 5.0      | 6.0      | 5.0      | 3.0      | 5.0      | 7.0      | 3.0      | 4.0      | 5.0      | 1.0      | 4.0      | 5.0      | N/A      | 6.0      | 6.0      | 7.0      | 1.0      | 6.0      | N/A      | 3.0      | 3.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 2 | North View🐎 4 years old  gelding, b,  135 lbs.
+🦄 Sire: Expert Eye (10.0% Rank: 5)
+🌿 Dam: Fallen From Grace (0.0% Rank: ?)
+⏱️ Speed record - Runs: 10 | Best: 6.03 sec (Rank 7), Worst: 6.49 sec (Rank 4), Avg: 6.16 sec (Rank 6)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 2.62 (Rank: 1)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Ended 2024 with improved efforts; still has untapped potential; major player for 🆕 new yard
+🔦 Spotlight: Cosy winner in a big field at Newbury last August, and again performed well when second of 12 at Kempton (also 7f) the following month on final start for Peter Chapple-Hyam; subsequently sold for 95,000gns and ✂️ gelded; returns to the fray with untapped potential, and the way he travels suggests this drop back in distance will be in his favour; major player.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Normandie Stud Ltd
+🏠 Owner: Simon Munir, Isaac Souede & Partner (No previous owner data) - (No previous owner(s))
+👤 Trainer: George Boughey (0 previous trainer(s)) last 14d WinRate (3.0/20.0 runs) (Rank: 2) RTF: 60.0 (OVR: 16%)
+🏇 Jockey: Pat Cosgrave (14d rank: 1) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(1.0/ 7.0 runs) RTF: N/A (OVR: 7%) 5Y: 63/521 (12.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Ended 2024 with improved efforts; still has untapped potential; major player for 🆕 new yard
+🔦 Spotlight: Cosy winner in a big field at Newbury last August, and again performed well when second of 12 at Kempton (also 7f) the following month on final start for Peter Chapple-Hyam; subsequently sold for 95,000gns and ✂️ gelded; returns to the fray with untapped potential, and the way he travels suggests this drop back in distance will be in his favour; major player.
+📊 **STATS**
+📉 OFR: 80.0 (Rank: 2)
+📈 RPR: 94.0 (Rank: 2)
+📉 TS: 85.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/3 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/4 | Ratio: 0.00
+📊 Form: 25412- → Score: 0.09 (Rank: 2)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-09-25 18:30:00 | ⏳ Time between runs: 191  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 9.0 📉
+📝 Comment: 🔄 held up in rear, good headway from over 2f out, 🎯 led inside final furlong, headed towards finish, eyecatcher
+🏆 RaceName: Try Unibet's New Acca Boosts Handicap
+📋 Race Type: 4Hc
+🎽 Jockey: R Kingscote- (⚖️ Weight: 135.0 lbs (61.4 kg) carried -- Allowance: 0.0) 🏇 Jockey: Pat Cosgrave (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: J F Egan (0/0, SR 0.0%)
+🏟️ Course: Kempton (AW) (Polytrack. Right-handed)
+📏 Distance: 7.0 furlongs (🔼 vs 6.0 today)
+🌱 Going: SS
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-08-29 16:55:00 | ⏳ Time between runs: 27  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 7.5 📉
+📝 Comment: raced in last, steady headway from over 2f out, short of room over 1f out, in the clear and pushed along inside final furlong, kept on well and 🎯 led towards finish, comfortably
+🏆 RaceName: Play The BetVictor Predictor Now Handicap
+📋 Race Type: 43yHc
+🎽 Jockey: W Buick- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Pat Cosgrave (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: J F Egan (0/0, SR 0.0%)
+🏟️ Course: Newbury (left-handed, galloping track)
+📏 Distance: 7.0 furlongs (🔼 vs 6.0 today)
+🌱 Going: GF
+👜 Prize: 💰 7K
+---------------------------------------------------------------------------
+🐎 3 | Harry Did📈 Owner has a strong record (SR: 18.18%, 11 runs). (Rank: 4)
+🐎 4 years old  gelding, b,  131 lbs.
+🦄 Sire: Exceed And Excel (11.0% Rank: 2)
+🌿 Dam: Shaaqaaf (8.0% Rank: 5)
+⏱️ Speed record - Runs: 11 | Best: 5.93 sec (Rank 6), Worst: 6.31 sec (Rank 3), Avg: 6.09 sec (Rank 4)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 6.5 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Made all under Kaiya Fraser at Newcastle and ridden less positively next time; chance
+🔦 Spotlight: Comes here fit from an AW campaign, posting a career best when making all under Kaiya Fraser at Newcastle (6f) in March; ridden less positively when only fifth of 12 at Kempton next time; just as effective on grass and may well bounce back.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Shadwell Estate Company Limited
+🏠 Owner: Park Lodge Stables Ltd 2/11 (18.00%) - (No previous owner(s))
+👤 Trainer: Harry Eustace (0 previous trainer(s)) last 14d WinRate (1.0/7.0 runs) (Rank: 3) RTF: 71.0 (OVR: 9%)
+🏇 Jockey: Kaiya Fraser(3) (14d rank: 2) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0.0/ 11.0 runs) RTF: N/A (OVR: 5%) 5Y: 77/550 (14.000000000000002)
+🗞️ **PRESS OPINION**
+💬 Comment: Made all under Kaiya Fraser at Newcastle and ridden less positively next time; chance
+🔦 Spotlight: Comes here fit from an AW campaign, posting a career best when making all under Kaiya Fraser at Newcastle (6f) in March; ridden less positively when only fifth of 12 at Kempton next time; just as effective on grass and may well bounce back.
+📊 **STATS**
+📉 OFR: 76.0 (Rank: 3)
+📈 RPR: 93.0 (Rank: 3)
+📉 TS: 58.0 (Rank: 7)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 2/8 | Ratio: 0.25
+🌱 Going Wins/Runs: 1/2 | Ratio: 0.50
+📊 Form: 7-3415 → Score: 0.06 (Rank: 4)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-29 17:00:00 | ⏳ Time between runs: 6  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 9.0 📉
+📝 Comment: 🔄 midfield, headway from 2f out, kept on but no extra inside final furlong
+🏆 RaceName: Virgin Bet Fives Handicap (London Sprint Series Qualifier)
+📋 Race Type: 3Hc
+🎽 Jockey: P-L Jamin- (⚖️ Weight: 121.0 lbs (55.0 kg) carried -- Allowance: 0.0) 🏇 Jockey: Kaiya Fraser(3) (SR 0.0%, 0/2) | 🏆 Not H&J — Best Alternative: Hayley Turner (0/0, SR 0.0%)
+🏟️ Course: Kempton (AW) (Polytrack. Right-handed)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SS
+👜 Prize: 💰 13K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-03-04 16:22:00 | ⏳ Time between runs: 25  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 2.0 🔥🔥
+📝 Comment: took keen hold, made virtually all, pestered throughout, ridden final 110yds, gamely
+🏆 RaceName: BetUK: It's Where The UK Bets Handicap
+📋 Race Type: 5Hc
+🎽 Jockey: Kaiya Fraser- (⚖️ Weight: 129.0 lbs (58.6 kg) carried -- Allowance: 3.0) 🏇 Jockey: Kaiya Fraser(3) (SR 0.0%, 0/2) | 🏆 Not H&J — Best Alternative: Hayley Turner (0/0, SR 0.0%)
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🐎 1 | Dorney Lake🐎 4 years old  gelding, b,  136 lbs.
+🦄 Sire: Ardad (9.0% Rank: 6)
+🌿 Dam: Doras Sister (8.0% Rank: 6)
+⏱️ Speed record - Runs: 8 | Best: 5.69 sec (Rank 1), Worst: 6.18 sec (Rank 1), Avg: 5.97 sec (Rank 1)
+🛠️ Gear: t
+🩺 Medical History: 📅 2023-11-29: Wind Surgery
+🎲 Early market: 7.0 (Rank: 3)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Unplaced last five 3yo starts but has possibilities if revived by a change of stable
+🔦 Spotlight: Both wins for the Gosdens came at 6f (good/good to firm); unplaced last five 3yo starts but he ran in some warm races and returns for a new stable (having been sold for 18,000gns and ✂️ gelded) off a career-low mark; possibilities if revived by a change of scenery.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Mickley Stud & Tim & Miranda Johnson
+🏠 Owner: S Mizon, L Baker & Partners (No previous owner data) - (No previous owner(s))
+👤 Trainer: Michael Bell (0 previous trainer(s)) last 14d WinRate (3.0/8.0 runs) (Rank: 1) RTF: 75.0 (OVR: 18%)
+🏇 Jockey: Kieran Shoemark (14d rank: 3) 🏇 Jockey 93237 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 85793 (1/2 - 50.0%)(6.0/ 23.0 runs) RTF: N/A (OVR: 15%) 5Y: 193/1469 (13.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Unplaced last five 3yo starts but has possibilities if revived by a change of stable
+🔦 Spotlight: Both wins for the Gosdens came at 6f (good/good to firm); unplaced last five 3yo starts but he ran in some warm races and returns for a new stable (having been sold for 18,000gns and ✂️ gelded) off a career-low mark; possibilities if revived by a change of scenery.
+📊 **STATS**
+📉 OFR: 81.0 (Rank: 1)
+📈 RPR: 92.0 (Rank: 5)
+📉 TS: 92.0 (Rank: 1)
+🏟️ Course Wins/Runs: 1/1 | Ratio: 1.00
+📏 Distance Wins/Runs: 2/5 | Ratio: 0.40
+🌱 Going Wins/Runs: 1/1 | Ratio: 1.00
+📊 Form: 08856- → Score: 0.04 (Rank: 7)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-10-17 18:45:00 | ⏳ Time between runs: 169  days ago
+🏆 1st: No runs since, 2nd: 11, 3rd: No runs since | 📊 1-3: 0W/0P/1U | 🐴 Also: 0W/0P/0U
+💰 Odds: 3.0 🔥
+📝 Comment: taken down early, 🔄 towards rear, switched right 2f out, some headway over 1f out, no impression inside final furlong
+🏆 RaceName: Betfair Exchange Handicap
+📋 Race Type: 4Hc
+🎽 Jockey: R Havlin- (⚖️ Weight: 135.0 lbs (61.4 kg) carried -- Allowance: 0.0) 🏇 Jockey: Kieran Shoemark (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: William Buick (1/2, SR 50.0%)
+🏟️ Course: Chelmsford (AW) (Polytrack. Left-handed, flat track, circuit 8.5f)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-09-08 13:15:00 | ⏳ Time between runs: 39  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+💰 Odds: 4.0 🔥
+📝 Comment: 🔄 towards rear, headway over 1f out, ran on inside final furlong, not reach leaders
+🏆 RaceName: Fine Details Vehicle Valeting Handicap
+📋 Race Type: 33yHc
+🎽 Jockey: K Shoemark- (⚖️ Weight: 130.0 lbs (59.1 kg) carried -- Allowance: 0.0) 🏇 Jockey: Kieran Shoemark (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: William Buick (1/2, SR 50.0%)
+🏟️ Course: York (left-handed, galloping track)
+📏 Distance: 5.0 furlongs (🔽 vs 6.0 today)
+🌱 Going: GS
+👜 Prize: 💰 16K
+---------------------------------------------------------------------------
+🐎 7 | Rhythmic Acclaim🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 5 years old  mare, b,  118 lbs.
+🦄 Sire: Acclamation (8.0% Rank: 7)
+🌿 Dam: Lyric Harmony (14.000000000000002% Rank: 4)
+⏱️ Speed record - Runs: 22 | Best: 5.81 sec (Rank 3), Worst: 6.3 sec (Rank 2), Avg: 6.08 sec (Rank 3)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 7.0 (Rank: 3)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Probably needed reappearance; won on this card 12 months ago; in the mix again
+🔦 Spotlight: Now back below her last winning mark; probably needed her Wolverhampton reappearance five weeks ago and she's better on turf than AW; won on this card on good to firm ground 12 months ago; in the mix again.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Rathbarry Stud
+🏠 Owner: P J Mcbride 4/15 (27.00%) - (No previous owner(s))
+👤 Trainer: Philip Mcbride (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 4) RTF: 33.0 (OVR: 22%)
+🏇 Jockey: Harry Davies (14d rank: 3) 🏇 Jockey 101508 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 96974 (2/16 - 12.0%)(5.0/ 14.0 runs) RTF: N/A (OVR: 18%) 5Y: 140/1150 (12.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Probably needed reappearance; won on this card 12 months ago; in the mix again
+🔦 Spotlight: Now back below her last winning mark; probably needed her Wolverhampton reappearance five weeks ago and she's better on turf than AW; won on this card on good to firm ground 12 months ago; in the mix again.
+📊 **STATS**
+📉 OFR: 63.0 (Rank: 7)
+📈 RPR: 91.0 (Rank: 7)
+📉 TS: 92.0 (Rank: 1)
+🏟️ Course Wins/Runs: 2/5 | Ratio: 0.40
+📏 Distance Wins/Runs: 3/17 | Ratio: 0.18
+🌱 Going Wins/Runs: 1/5 | Ratio: 0.20
+📊 Form: 5048-8 → Score: 0.04 (Rank: 6)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-03 18:30:00 | ⏳ Time between runs: 32  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 14.0 📉
+📝 Comment: 🔄 held up in rear, no impression
+🏆 RaceName: Boost Your Acca At BetMGM Fillies' Handicap
+📋 Race Type: 5HcF
+🎽 Jockey: A Farragher- (⚖️ Weight: 130.0 lbs (59.1 kg) carried -- Allowance: 0.0) 🏇 Jockey: Harry Davies (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Adam Farragher (2/16, SR 12.5%)
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-10-10 18:15:00 | ⏳ Time between runs: 144  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 40.0 ❄️❄️
+📝 Comment: in rear throughout
+🏆 RaceName: Best Odds On The Betfair Exchange Handicap
+📋 Race Type: 4Hc
+🎽 Jockey: A Farragher- (⚖️ Weight: 129.0 lbs (58.6 kg) carried -- Allowance: 0.0) 🏇 Jockey: Harry Davies (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Adam Farragher (2/16, SR 12.5%)
+🏟️ Course: Chelmsford (AW) (Polytrack. Left-handed, flat track, circuit 8.5f)
+📏 Distance: 7.0 furlongs (🔼 vs 6.0 today)
+🌱 Going: SS
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🐎 6 | World Of Darcy📈 Owner has a strong record (SR: 23.53%, 17 runs). (Rank: 2)
+🐎 4 years old  gelding, b,  128 lbs.
+🦄 Sire: Soldiers Call (10.0% Rank: 4)
+🌿 Dam: Alicia Darcy (22.0% Rank: 2)
+⏱️ Speed record - Runs: 22 | Best: 5.9 sec (Rank 4), Worst: 6.69 sec (Rank 7), Avg: 6.2 sec (Rank 7)
+🛠️ Gear: b
+🩺 Medical History: No records
+🎲 Early market: 7.5 (Rank: 5)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Completed hat-trick last autumn; today's ground could be a bit quicker than ideal
+🔦 Spotlight: In fine form last October, ridden up with the pace when rattling off a quick hat-trick over C&D and at Windsor and Brighton; still on a fair mark judged on the pick of his 2yo form but today's ground could be a bit quicker than ideal (very best efforts on softer than good).
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Thomas Foley
+🏠 Owner: Das Racing Limited 4/17 (24.00%) - (No previous owner(s))
+👤 Trainer: John Ryan (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 7) RTF: N/A (OVR: 10%)
+🏇 Jockey: Laura Pearson (14d rank: 5) 🏇 Jockey 98602 Today's Jock winSR: 43.0% | 🏆 Not H&J as Best Alternative Jockey: 95744 (1/1 - 100.0%)(0.0/ 5.0 runs) RTF: N/A (OVR: 16%) 5Y: 37/521 (7.000000000000001)
+🗞️ **PRESS OPINION**
+💬 Comment: Completed hat-trick last autumn; today's ground could be a bit quicker than ideal
+🔦 Spotlight: In fine form last October, ridden up with the pace when rattling off a quick hat-trick over C&D and at Windsor and Brighton; still on a fair mark judged on the pick of his 2yo form but today's ground could be a bit quicker than ideal (very best efforts on softer than good).
+📊 **STATS**
+📉 OFR: 73.0 (Rank: 5)
+📈 RPR: 95.0 (Rank: 1)
+📉 TS: 78.0 (Rank: 4)
+🏟️ Course Wins/Runs: 1/1 | Ratio: 1.00
+📏 Distance Wins/Runs: 4/14 | Ratio: 0.29
+🌱 Going Wins/Runs: 1/4 | Ratio: 0.25
+📊 Form: 11165- → Score: 0.08 (Rank: 3)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-11-02 13:07:00 | ⏳ Time between runs: 153  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 22.0 ❄️
+📝 Comment: pressed leaders on outer, no extra inside final 110yds
+🏆 RaceName: 155th Grosser Preis Von Baden Handicap Handicap
+📋 Race Type: 4Hc
+🎽 Jockey: Laura Pearson- (⚖️ Weight: 129.0 lbs (58.6 kg) carried -- Allowance: 0.0) 🏇 Jockey: Laura Pearson (SR 42.9%, 3/7) | 🏆 Not H&J — Best Alternative: Rossa Ryan (1/1, SR 100.0%)
+🏟️ Course: Newmarket (right-handed, galloping track)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: S
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-10-24 14:13:00 | ⏳ Time between runs: 8  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 3.0 🔥
+📝 Comment: 🎯 prominent, ❄️ weakened from 2f out (trainer said, regarding the poor form shown, that the race may have come too soon, having run 7 days prior)
+🏆 RaceName: Nottingham Racecourse 2025 Fixtures On Sale Handicap
+📋 Race Type: 5Hc
+🎽 Jockey: Laura Pearson- (⚖️ Weight: 144.0 lbs (65.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Laura Pearson (SR 42.9%, 3/7) | 🏆 Not H&J — Best Alternative: Rossa Ryan (1/1, SR 100.0%)
+🏟️ Course: Nottingham (left-handed, galloping track)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🐎 4 | Fletchers Flight📈 Owner has a strong record (SR: 21.74%, 23 runs). (Rank: 3)
+🐎 5 years old  gelding, ch,  129 lbs.
+🦄 Sire: Profitable (10.0% Rank: 3)
+🌿 Dam: Autumn Tide (28.999999999999996% Rank: 1)
+⏱️ Speed record - Runs: 12 | Best: 5.91 sec (Rank 5), Worst: 6.54 sec (Rank 6), Avg: 6.14 sec (Rank 5)
+🛠️ No gear today
+🩺 Medical History: 📅 2024-05-14: Wind Surgery
+🎲 Early market: 8.5 (Rank: 6)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Improved to win here and at Leicester last term but those races were over 5f
+🔦 Spotlight: Seemed suited by the drop to 5f when winning here (good to firm) and Leicester (soft) in second half of last season and had possibly gone over the top by his final start; may improve a bit further this term but his best form remains at the minimum trip; stablemate of Rhythmic Acclaim.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Patrick M Ryan
+🏠 Owner: The Narc Partnership 5/23 (22.00%) - (No previous owner(s))
+👤 Trainer: Philip Mcbride (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 4) RTF: 33.0 (OVR: 22%)
+🏇 Jockey: Adam Farragher (14d rank: 6) 🏇 Today's Jock winSR: 40.0% (No better alternative found.)(0.0/ 10.0 runs) RTF: N/A (OVR: 18%) 5Y: 103/1047 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Improved to win here and at Leicester last term but those races were over 5f
+🔦 Spotlight: Seemed suited by the drop to 5f when winning here (good to firm) and Leicester (soft) in second half of last season and had possibly gone over the top by his final start; may improve a bit further this term but his best form remains at the minimum trip; stablemate of Rhythmic Acclaim.
+📊 **STATS**
+📉 OFR: 74.0 (Rank: 4)
+📈 RPR: 93.0 (Rank: 3)
+📉 TS: 78.0 (Rank: 4)
+🏟️ Course Wins/Runs: 2/5 | Ratio: 0.40
+📏 Distance Wins/Runs: 2/6 | Ratio: 0.33
+🌱 Going Wins/Runs: 2/3 | Ratio: 0.67
+📊 Form: 13115- → Score: 0.14 (Rank: 1)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-10-22 15:45:00 | ⏳ Time between runs: 164  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 2.75 🔥
+📝 Comment: 🎯 prominent, outpaced and lost position 2f out, ❄️ weakened and lost touch final 110yds
+🏆 RaceName: Free Digital Racecard At raceday-ready.com Handicap
+📋 Race Type: 4Hc
+🎽 Jockey: A Farragher- (⚖️ Weight: 127.0 lbs (57.7 kg) carried -- Allowance: 0.0) 🏇 Jockey: Adam Farragher (SR 40.0%, 4/10) | 🏆 Not H&J — Best Alternative: Adam Farragher (4/10, SR 40.0%)
+🏟️ Course: Yarmouth (left-handed, galloping track)
+📏 Distance: 5.0 furlongs (🔽 vs 6.0 today)
+🌱 Going: S
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-09-10 15:44:00 | ⏳ Time between runs: 42  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 2.75 🔥
+📝 Comment: in touch with leaders, 🎯 led narrowly over 2f out, ridden over 1f out, jockey dropped reins inside final furlong, kept on
+🏆 RaceName: Jenny Gibbons Almost 70 Celebration Handicap
+📋 Race Type: 5Hc
+🎽 Jockey: A Farragher- (⚖️ Weight: 138.0 lbs (62.7 kg) carried -- Allowance: 0.0) 🏇 Jockey: Adam Farragher (SR 40.0%, 4/10) | 🏆 Not H&J — Best Alternative: Adam Farragher (4/10, SR 40.0%)
+🏟️ Course: Leicester (right-handed, galloping, testing track)
+📏 Distance: 5.0 furlongs (🔽 vs 6.0 today)
+🌱 Going: S
+👜 Prize: 💰 4K
+---------------------------------------------------------------------------
+🐎 5 | Dashing Harry🐎 4 years old  gelding, b,  128 lbs.
+🦄 Sire: Harry Angel (13.0% Rank: 1)
+🌿 Dam: Meghan Sparkle (19.0% Rank: 3)
+⏱️ Speed record - Runs: 22 | Best: 5.71 sec (Rank 2), Worst: 6.51 sec (Rank 5), Avg: 6.01 sec (Rank 2)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 11.0 (Rank: 7)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Bit below par when fourth at Wolverhampton nine days ago; others have more potential
+🔦 Spotlight: Looks exposed after 22 outings and he was a bit below par when fourth of eight at Wolverhampton nine days ago; others have more potential.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Peter Ridgers
+🏠 Owner: Nick Bradley Racing 1 & Partner (No previous owner data) - (No previous owner(s))
+👤 Trainer: James Horton (0 previous trainer(s)) last 14d WinRate (0.0/4.0 runs) (Rank: 4) RTF: 75.0 (OVR: 9%)
+🏇 Jockey: Daniel Muscutt (14d rank: 7) 🏇 Jockey 91857 Today's Jock winSR: 0.0% | 🏆 Not H&J as Best Alternative Jockey: 100345 (1/1 - 100.0%)(3.0/ 19.0 runs) RTF: N/A (OVR: 13%) 5Y: 283/2189 (13.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Bit below par when fourth at Wolverhampton nine days ago; others have more potential
+🔦 Spotlight: Looks exposed after 22 outings and he was a bit below par when fourth of eight at Wolverhampton nine days ago; others have more potential.
+📊 **STATS**
+📉 OFR: 73.0 (Rank: 5)
+📈 RPR: 92.0 (Rank: 5)
+📉 TS: 76.0 (Rank: 6)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 1/7 | Ratio: 0.14
+🌱 Going Wins/Runs: 0/4 | Ratio: 0.00
+📊 Form: 147444 → Score: 0.04 (Rank: 5)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-27 18:45:00 | ⏳ Time between runs: 8  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 6.5 📉
+📝 Comment: dwelt start, in rear, headway inside final furlong, not reach leaders
+🏆 RaceName: Gamble Responsibly At BetUK Handicap
+📋 Race Type: 4Hc
+🎽 Jockey: A Farragher- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Daniel Muscutt (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Mr Oliver Timms (1/1, SR 100.0%)
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📏 Distance: 5.0 furlongs (🔽 vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-03-19 20:30:00 | ⏳ Time between runs: 7  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 18.0 📉
+📝 Comment: taken down early, took keen hold, 🎯 led, headed and ❄️ weakened from over 1f out
+🏆 RaceName: £30 In Free Bets With BetUK Handicap
+📋 Race Type: 4Hc
+🎽 Jockey: A Farragher- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Daniel Muscutt (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Mr Oliver Timms (1/1, SR 100.0%)
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📏 Distance: 6.0 furlongs (➡️ vs 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------

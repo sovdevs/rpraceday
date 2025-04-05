@@ -1,0 +1,550 @@
+⏰ Off Time: 2025-04-05 16:20
+📍 Venue: Bellewstown (left-handed, sharp, undulating track (1m1f oval))
+🏁 Race ID: 892145 - 🏆 Name: Irish Stallion Farms EBF Median Auction Maiden
+🏇 Type: Flat
+📏 Distance: 8.0 furlongs
+🏇 Class/Grade: nan
+🎂 Age Band: 3yo
+💰 Prize money: 💰 9K
+☀️ Weather: Mostly sunny
+🌱 Going: Good
+11 runners declared
+Speed Performance for Race ID 892145 (Filter: AND_notAW_maiden)
+===========================================================================
+horse_id     horse_name AND_notAW_maiden_bestSpeedPerM AND_notAW_maiden_worstSpeedPerM AND_notAW_maiden_avgSpeedPerM AND_notAW_maiden_noRaces AND_notAW_maiden_bestSpeedPerM_rank AND_notAW_maiden_avgSpeedPerM_rank
+ 5900677  Jorge Alvares                          15.87                           17.44                         16.66                      2.0                                 1.0                                1.0
+ 6265711 Chester Nimitz                           15.0                           15.88                         15.44                      2.0                                 3.0                                2.0
+ 6518648   Brosna Green                          15.11                           15.11                         15.11                      1.0                                 2.0                                3.0
+ 7195637    Fantazy Man                          14.65                           14.65                         14.65                      1.0                                 4.0                                4.0
+ 7267902        Uluwatu                          14.62                           14.62                         14.62                      1.0                                 5.0                                5.0
+ 6613656    Blue Bangor                          14.17                           14.17                         14.17                      1.0                                 6.0                                6.0
+ 6706378         Dahoma                            NaN                             NaN                           NaN                      NaN                                 NaN                                NaN
+ 7195640   Mischief Man                            NaN                             NaN                           NaN                      NaN                                 NaN                                NaN
+ 7365366         Atsila                            NaN                             NaN                           NaN                      NaN                                 NaN                                NaN
+ 7073234     Lady Lilac                            NaN                             NaN                           NaN                      NaN                                 NaN                                NaN
+ 6793635 Steel Magnolia                            NaN                             NaN                           NaN                      NaN                                 NaN                                NaN
+No head-to-head data found for any of this race's horses
+++++++++++Performance Table++++++++++
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | SPD-BEST | SPD-AVG  | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2        | Chester Nimitz            | 6265711  | 2.0      | 1.0      | 2.0      | 1.0      | 1.0      | 6        | 7        | 1.0      | 1.0      | 1.0      | 1.0      | 1.0      | 1.0      | 1.0      | 1.0      | 7.0      | 2.0      | 7.0      | 5.0      | 3.0      | 7.0      | 11.0     | 3.0      | N/A      | N/A      | N/A      | 1.0      | 5.0      | 5.0      | 4.0      | 2.0      | 7.0     
+5        | Jorge Alvares             | 5900677  | 4.0      | 1.0      | 5.0      | 1.0      | 1.0      | 2        | 2        | 3.0      | 1.0      | 2.0      | 4.0      | 2.0      | 2.0      | 2.0      | 4.0      | 5.0      | 6.0      | 10.0     | 4.0      | 5.0      | 2.0      | 6.0      | 6.0      | N/A      | N/A      | 1.0      | 2.0      | 2.0      | 1.0      | 1.0      | N/A      | 1.0     
+9        | Lady Lilac                | 7073234  | 3.0      | 1.0      | 3.0      | 1.0      | 1.0      | 4        | 5        | 1.0      | 1.0      | 3.0      | 2.0      | 3.0      | N/A      | N/A      | 6.0      | 3.0      | 4.0      | 11.0     | 7.0      | 6.0      | 8.0      | 9.0      | 1.0      | N/A      | 1.0      | N/A      | 3.0      | 3.0      | 7.0      | 5.0      | N/A      | 4.0     
+3        | Dahoma                    | 6706378  | 6.0      | 1.0      | 6.0      | 1.0      | 1.0      | 3        | 3        | N/A      | 1.0      | 5.0      | 4.0      | 7.0      | N/A      | N/A      | 5.0      | 1.0      | 5.0      | 1.0      | 6.0      | 11.0     | 1.0      | 7.0      | 2.0      | N/A      | N/A      | N/A      | 4.0      | 9.0      | 3.0      | 5.0      | 2.0      | 9.0     
+7        | Atsila                    | 7365366  | N/A      | N/A      | N/A      | N/A      | N/A      | 1        | 1        | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 8.0      | 8.0      | 7.0      | 2.0      | 7.0      | 7.0      | 8.0      | 5.0      | 7.0      | N/A      | N/A      | N/A      | 5.0      | 1.0      | 2.0      | 2.0      | 1.0      | 8.0     
+6        | Mischief Man              | 7195640  | 6.0      | 1.0      | 6.0      | 1.0      | 1.0      | 5        | 4        | N/A      | 1.0      | 5.0      | 4.0      | 6.0      | N/A      | N/A      | 8.0      | 6.0      | 9.0      | 5.0      | 2.0      | 9.0      | 3.0      | 1.0      | 7.0      | N/A      | N/A      | N/A      | 6.0      | 8.0      | 4.0      | N/A      | 2.0      | 10.0    
+8        | Brosna Green              | 6518648  | 5.0      | 1.0      | 4.0      | 1.0      | 1.0      | 7        | 8        | 2.0      | 1.0      | 4.0      | 3.0      | 3.0      | 4.0      | N/A      | 7.0      | 10.0     | 8.0      | 9.0      | 1.0      | 1.0      | 6.0      | 10.0     | 5.0      | N/A      | N/A      | N/A      | 6.0      | 8.0      | 6.0      | 5.0      | 2.0      | 3.0     
+4        | Fantazy Man               | 7195637  | 1.0      | 1.0      | 1.0      | 1.0      | 1.0      | 9        | 9        | 1.0      | 1.0      | 3.0      | 2.0      | 5.0      | 3.0      | N/A      | 3.0      | 11.0     | 1.0      | 8.0      | 2.0      | 9.0      | 3.0      | 1.0      | 4.0      | N/A      | 1.0      | N/A      | 6.0      | 8.0      | 4.0      | N/A      | N/A      | 5.0     
+10       | Steel Magnolia            | 6793635  | 6.0      | 1.0      | 6.0      | 1.0      | 1.0      | 7        | 6        | N/A      | 1.0      | 5.0      | 4.0      | 8.0      | N/A      | N/A      | 11.0     | 4.0      | 10.0     | 3.0      | 7.0      | 7.0      | 5.0      | 4.0      | 7.0      | N/A      | N/A      | N/A      | 9.0      | 6.0      | 8.0      | 3.0      | 2.0      | 11.0    
+11       | Uluwatu                   | 7267902  | 6.0      | 1.0      | 6.0      | 1.0      | 1.0      | 10       | 10       | N/A      | 1.0      | 5.0      | 4.0      | 9.0      | 5.0      | N/A      | 8.0      | 8.0      | 10.0     | 3.0      | 7.0      | 4.0      | 8.0      | 8.0      | 7.0      | N/A      | N/A      | N/A      | 10.0     | 4.0      | 9.0      | 5.0      | 2.0      | 2.0     
+1        | Blue Bangor               | 6613656  | 6.0      | 1.0      | 6.0      | 1.0      | 1.0      | 11       | 11       | N/A      | 1.0      | 5.0      | 4.0      | N/A      | N/A      | N/A      | 2.0      | 2.0      | 2.0      | 6.0      | 11.0     | 2.0      | 11.0     | 3.0      | 7.0      | N/A      | N/A      | N/A      | 11.0     | 7.0      | 10.0     | 5.0      | 2.0      | 6.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 2 | Chester Nimitz⚠️ Owner's record is weaker (SR: 5.26%, 95 runs). (Rank: 4)
+🐎 3 years old  gelding, ch,  134 lbs.
+🦄 Sire: Profitable (10.0% Rank: 5)
+🌿 Dam: Pinewoods Lily (0.0% Rank: 2)
+⏱️ Speed record - Runs: 3 | Best: 6.29 sec (Rank 6), Worst: 6.67 sec (Rank 8), Avg: 6.42 sec (Rank 7)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 3.0 (Rank: 1)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Good run in defeat when fourth at the Curragh on return; bred to get a mile; shortlisted
+🔦 Spotlight: All three starts over 6f; just denied on debut at Navan (good to yielding) before third on AW next time; good run in defeat when fourth at the Curragh on return; bred to get a mile; shortlisted.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Pigeon Park Stud
+🏠 Owner: Noel Meade Racing Ltd 5/95 (5.00%) - (No previous owner(s))
+👤 Trainer: Noel Meade (0 previous trainer(s)) last 14d WinRate (3.0/18.0 runs) (Rank: 5) RTF: 48.0 (OVR: 10%)
+🏇 Jockey: Jamie Powell(3) (14d rank: 1) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(1.0/ 13.0 runs) RTF: N/A (OVR: 8%) 5Y: 62/814 (8.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Good run in defeat when fourth at the Curragh on return; bred to get a mile; shortlisted
+🔦 Spotlight: All three starts over 6f; just denied on debut at Navan (good to yielding) before third on AW next time; good run in defeat when fourth at the Curragh on return; bred to get a mile; shortlisted.
+📊 **STATS**
+📉 OFR: 85.0 (Rank: 1)
+📈 RPR: 96.0 (Rank: 1)
+📉 TS: 81.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 23-4 → Score: 0.15 (Rank: 3)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-16 17:25:00 | ⏳ Time between runs: 19  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 8.0 📉
+📝 Comment: 🔄 midfield, headway disputing third under 2f out, lost third inside final furlong, kept on
+🏆 RaceName: Tote.ie Irish EBF Maiden
+📋 Race Type: Md
+🎽 Jockey: C T Keane- (⚖️ Weight: 134.0 lbs (60.9 kg) carried -- Allowance: 0.0) 🏇 Jockey: Jamie Powell(3) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Ben Coen (0/0, SR 0.0%)
+🏟️ Course: Curragh (right-handed, galloping, testing, horseshoe (2m) + chute (races up to 1m))
+📏 Distance: 6.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: S
+👜 Prize: 💰 10K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-10-30 15:14:00 | ⏳ Time between runs: 137  days ago
+🏆 1st: 1, 2nd: Did Not Run, 3rd: Did Not Run 🥇 | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 1.625 🔥🔥
+📝 Comment: soon pressed leader, lost position when outpaced under 2f out, kept on inside final 110yds
+🏆 RaceName: Irish Stallion Farms EBF Auction Maiden
+📋 Race Type: 2yMd
+🎽 Jockey: B Coen- (⚖️ Weight: 127.0 lbs (57.7 kg) carried -- Allowance: 0.0) 🏇 Jockey: Jamie Powell(3) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Ben Coen (0/0, SR 0.0%)
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📏 Distance: 6.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 9K
+---------------------------------------------------------------------------
+🐎 5 | Jorge Alvares🏆 Top-ranked Owner in this race! (Rank: 1)
+🐎 3 years old  gelding, b,  134 lbs.
+🦄 Sire: Cotai Glory (12.0% Rank: 2)
+🌿 Dam: Soul Of Calypso (0.0% Rank: ?)
+⏱️ Speed record - Runs: 5 | Best: 5.73 sec (Rank 2), Worst: 6.3 sec (Rank 4), Avg: 6.07 sec (Rank 2)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 5.5 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Failed to see out 7f at Ayr but intriguing contender on first start for Ger Lyons
+🔦 Spotlight: Beaten just over 1l into fourth of 20 in the big sales race at York in August, with subsequent Breeders' Cup Juvenile Turf Sprint runner-up Arizona Blaze just in front; failed to see out 7f at Ayr but intriguing contender on first start for Ger Lyons.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Tally-Ho Stud
+🏠 Owner: Gaelic Thoroughbreds 4/22 (18.00%) - (No previous owner(s))
+👤 Trainer: G M Lyons (0 previous trainer(s)) last 14d WinRate (4.0/14.0 runs) (Rank: 4) RTF: 50.0 (OVR: 25%)
+🏇 Jockey: Colin Keane (14d rank: 2) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(9.0/ 35.0 runs) RTF: N/A (OVR: 19%) 5Y: 294/2054 (14.000000000000002)
+🗞️ **PRESS OPINION**
+💬 Comment: Failed to see out 7f at Ayr but intriguing contender on first start for Ger Lyons
+🔦 Spotlight: Beaten just over 1l into fourth of 20 in the big sales race at York in August, with subsequent Breeders' Cup Juvenile Turf Sprint runner-up Arizona Blaze just in front; failed to see out 7f at Ayr but intriguing contender on first start for Ger Lyons.
+📊 **STATS**
+📉 OFR: 82.0 (Rank: 2)
+📈 RPR: 89.0 (Rank: 2)
+📉 TS: 80.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/3 | Ratio: 0.00
+📊 Form: 33246- → Score: 0.07 (Rank: 6)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-09-19 12:42:00 | ⏳ Time between runs: 197  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 3.333 🔥
+📝 Comment: took keen hold, raced wide, 🔄 towards rear, headway into 🔄 midfield over 4f out, ridden 2f out, ❄️ weakened inside final furlong
+🏆 RaceName: British Stallion Studs EBF Novice Stakes (GBB Race)
+📋 Race Type: 42yNv
+🎽 Jockey: S A Gray- (⚖️ Weight: 130.0 lbs (59.1 kg) carried -- Allowance: 0.0) 🏇 Jockey: Colin Keane (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Tom Eaves (0/0, SR 0.0%)
+🏟️ Course: Ayr (left-handed, galloping track)
+📏 Distance: 7.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: G
+👜 Prize: 💰 10K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-08-22 13:25:00 | ⏳ Time between runs: 27  days ago
+🏆 1st: Did Not Run, 2nd: 2, 3rd: Did Not Run | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 18.0 📉
+📝 Comment: 🔄 held up in last, headway against near rail from 2f out, ran on but not reach leaders
+🏆 RaceName: Harry's Half Million By Goffs Premier Yearling Stakes (GBB/IRE Incentive Race)
+📋 Race Type: 22y
+🎽 Jockey: J P Spencer- (⚖️ Weight: 128.0 lbs (58.2 kg) carried -- Allowance: 0.0) 🏇 Jockey: Colin Keane (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Tom Eaves (0/0, SR 0.0%)
+🏟️ Course: York (left-handed, galloping track)
+📏 Distance: 6.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: GF
+👜 Prize: 💰 308K
+---------------------------------------------------------------------------
+🐎 9 | Lady Lilac🐎 3 years old  filly, b,  129 lbs.
+🦄 Sire: Inns Of Court (11.0% Rank: 3)
+🌿 Dam: Lilac Mist (0.0% Rank: ?)
+⏱️ Speed record - Runs: 2 | Best: 6.25 sec (Rank 4), Worst: 6.33 sec (Rank 6), Avg: 6.29 sec (Rank 5)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 6.5 (Rank: 3)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Third behind a good type at Dundalk on latest; the second has boosted the form; contender
+🔦 Spotlight: Made a promising debut when fourth of 14 at 100-1 over 1m at Dundalk in January; backed that up with a third behind a good type over that C&D on latest; the second has boosted the form; contender.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Robert Ryan, Brendan Quinn & Joan Quinn
+🏠 Owner: B Quinn 0/2 (0.00%) - (No previous owner(s))
+👤 Trainer: Joseph G Murphy (0 previous trainer(s)) last 14d WinRate (0.0/7.0 runs) (Rank: 7) RTF: 20.0 (OVR: 0%)
+🏇 Jockey: Gary Carroll (14d rank: 3) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(2.0/ 13.0 runs) RTF: N/A (OVR: 3%) 5Y: 125/1298 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Third behind a good type at Dundalk on latest; the second has boosted the form; contender
+🔦 Spotlight: Made a promising debut when fourth of 14 at 100-1 over 1m at Dundalk in January; backed that up with a third behind a good type over that C&D on latest; the second has boosted the form; contender.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 79.0 (Rank: 3)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 43 → Score: 0.18 (Rank: 1)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-02-28 18:00:00 | ⏳ Time between runs: 35  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+💰 Odds: 40.0 ❄️❄️
+📝 Comment: 🎯 prominent, ridden 2f out, no impression inside final furlong
+🏆 RaceName: Irish Stallion Farms EBF Median Auction Maiden
+📋 Race Type: 3yMd
+🎽 Jockey: D O'Connor- (⚖️ Weight: 129.0 lbs (58.6 kg) carried -- Allowance: 0.0) 🏇 Jockey: Gary Carroll (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Donagh O'Connor (0/1, SR 0.0%)
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📏 Distance: 8.0 furlongs (➡️ vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 8K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-01-31 17:15:00 | ⏳ Time between runs: 28  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 100.0 ❄️❄️
+📝 Comment: 🔄 towards rear, headway towards far side under 2f out, ran on and went fourth towards finish
+🏆 RaceName: Irish Stallion Farms EBF Median Auction Maiden
+📋 Race Type: 3yMd
+🎽 Jockey: D O'Connor- (⚖️ Weight: 129.0 lbs (58.6 kg) carried -- Allowance: 0.0) 🏇 Jockey: Gary Carroll (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Donagh O'Connor (0/1, SR 0.0%)
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📏 Distance: 8.0 furlongs (➡️ vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 8K
+---------------------------------------------------------------------------
+🐎 3 | Dahoma🐎 3 years old  gelding, b,  134 lbs.
+🦄 Sire: Wooded (0.0% Rank: 9)
+🌿 Dam: Dourdana (0.0% Rank: 2)
+⏱️ Speed record - Runs: 1 | Best: 6.24 sec (Rank 3), Worst: 6.24 sec (Rank 2), Avg: 6.24 sec (Rank 3)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 8.0 (Rank: 4)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: 80,000euros purchase; sixth at Dundalk over 7f in November; entitled to progress
+🔦 Spotlight: 80,000euros purchase is a half-brother to French Listed winner; stable's second string when creditable sixth of 13 on debut at Dundalk over 7f in November; entitled to progress for leading yard.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Balreask Stud
+🏠 Owner: Dahoma Partnership 0/1 (0.00%) - (No previous owner(s))
+👤 Trainer: Joseph Patrick Obrien (0 previous trainer(s)) last 14d WinRate (2.0/21.0 runs) (Rank: 6) RTF: 56.0 (OVR: 30%)
+🏇 Jockey: Scott Mccullagh (14d rank: 4) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(1.0/ 6.0 runs) RTF: N/A (OVR: 25%) 5Y: 24/374 (6.0)
+🗞️ **PRESS OPINION**
+💬 Comment: 80,000euros purchase; sixth at Dundalk over 7f in November; entitled to progress
+🔦 Spotlight: 80,000euros purchase is a half-brother to French Listed winner; stable's second string when creditable sixth of 13 on debut at Dundalk over 7f in November; entitled to progress for leading yard.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 66.0 (Rank: 7)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 6- → Score: 0.17 (Rank: 2)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-11-13 15:40:00 | ⏳ Time between runs: 142  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 11.0 📉
+📝 Comment: slowly into stride, 🔄 towards rear, headway towards far side from over 2f out, 🎯 prominent but no extra from over 1f out
+🏆 RaceName: View Restaurant At Dundalk Stadium Median Auction Maiden
+📋 Race Type: 2yMd
+🎽 Jockey: M Sheehy- (⚖️ Weight: 132.0 lbs (60.0 kg) carried -- Allowance: 0.0) 🏇 Jockey: Scott Mccullagh (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Mikey Sheehy (0/0, SR 0.0%)
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📏 Distance: 7.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 8K
+---------------------------------------------------------------------------
+🐎 7 | Atsila📈 Owner has a strong record (SR: 16.67%, 6 runs). (Rank: 2)
+🐎 3 years old  filly, b,  129 lbs.
+🦄 Sire: Phoenix Of Spain (14.000000000000002% Rank: 1)
+🌿 Dam: Scala Romana (10.0% Rank: 1)
+⏱️ Speed record - Runs: 0 | Best: 0.0 sec (Rank 1), Worst: 0.0 sec (Rank 1), Avg: 0.0 sec (Rank 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 9.0 (Rank: 5)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: 50,000euros yearling is a half-sister to Layfayette; leading yard can ready one for debut
+🔦 Spotlight: 50,000euros yearling is a half-sister to Layfayette (5.7f-12.5f inc 2yo/Group 2; RPR 114); dam 1m winner; leading yard can ready one first time out; market noted.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Paul & Elizabeth Duffy
+🏠 Owner: Barry Fowler 1/6 (17.00%) - (No previous owner(s))
+👤 Trainer: Donnacha Aidan Obrien (0 previous trainer(s)) last 14d WinRate (0.0/8.0 runs) (Rank: 7) RTF: 63.0 (OVR: 0%)
+🏇 Jockey: Gavin Ryan (14d rank: 5) ⚠️ No race history available for this horse.(0.0/ 9.0 runs) RTF: N/A (OVR: 13%) 5Y: 69/906 (8.0)
+🗞️ **PRESS OPINION**
+💬 Comment: 50,000euros yearling is a half-sister to Layfayette; leading yard can ready one for debut
+🔦 Spotlight: 50,000euros yearling is a half-sister to Layfayette (5.7f-12.5f inc 2yo/Group 2; RPR 114); dam 1m winner; leading yard can ready one first time out; market noted.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: nan → Score: 0.0 (Rank: 7)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+No race history found for horse_id 7365366.
+
+🐎 6 | Mischief Man🐎 3 years old  gelding, b,  134 lbs.
+🦄 Sire: Shaman (5.0% Rank: 8)
+🌿 Dam: Taraeff (0.0% Rank: 2)
+⏱️ Speed record - Runs: 1 | Best: 6.26 sec (Rank 5), Worst: 6.26 sec (Rank 3), Avg: 6.26 sec (Rank 4)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 13.0 (Rank: 6)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Half-brother to a couple of winners but will need to step up massively on his debut effort
+🔦 Spotlight: Half-brother to a couple of good winners but will need to step up massively on his debut effort at Dundalk 15 days ago to get involved.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Yeomanstown Stud
+🏠 Owner: Mcpeake Investments(Ni) Ltd & Jp Murtagh Racing (No previous owner data) - (No previous owner(s))
+👤 Trainer: J P Murtagh (0 previous trainer(s)) last 14d WinRate (1.0/14.0 runs) (Rank: 2) RTF: 50.0 (OVR: 21%)
+🏇 Jockey: N G Mccullagh (14d rank: 6) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0.0/ 5.0 runs) RTF: N/A (OVR: 0%) 5Y: 15/430 (3.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Half-brother to a couple of winners but will need to step up massively on his debut effort
+🔦 Spotlight: Half-brother to a couple of good winners but will need to step up massively on his debut effort at Dundalk 15 days ago to get involved.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 75.0 (Rank: 6)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 0 → Score: 0.0 (Rank: 7)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-21 17:45:00 | ⏳ Time between runs: 14  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 25.0 ❄️
+📝 Comment: never better than 🔄 midfield
+🏆 RaceName: Irish Stallion Farms EBF Median Auction Maiden (Median Auction Race)
+📋 Race Type: 3yMd
+🎽 Jockey: B Coen- (⚖️ Weight: 134.0 lbs (60.9 kg) carried -- Allowance: 0.0) 🏇 Jockey: N G Mccullagh (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Ben Coen (0/0, SR 0.0%)
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📏 Distance: 7.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 8K
+---------------------------------------------------------------------------
+🐎 8 | Brosna Green🐎 3 years old  filly, b,  129 lbs.
+🦄 Sire: Shaman (5.0% Rank: 8)
+🌿 Dam: Cool Tarifa (0.0% Rank: 2)
+⏱️ Speed record - Runs: 2 | Best: 6.31 sec (Rank 7), Worst: 6.62 sec (Rank 7), Avg: 6.46 sec (Rank 8)
+🛠️ Gear: h
+🩺 Medical History: No records
+🎲 Early market: 13.0 (Rank: 6)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Good fourth of 14 over 7f at Dundalk in November; each-way possibilities; hooded
+🔦 Spotlight: Seventh of 14 in 7f fillies' maiden at Down Royal in September; improved effort when fourth of 14 over that trip at Dundalk eight days later; each-way possibilities; hooded.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Tony Kilduff
+🏠 Owner: Tony Kilduff 0/6 (0.00%) - (No previous owner(s))
+👤 Trainer: Mrs John Harrington (0 previous trainer(s)) last 14d WinRate (2.0/24.0 runs) (Rank: 1) RTF: 30.0 (OVR: 14%)
+🏇 Jockey: Shane Foley (14d rank: 6) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(3.0/ 28.0 runs) RTF: N/A (OVR: 12%) 5Y: 159/1553 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Good fourth of 14 over 7f at Dundalk in November; each-way possibilities; hooded
+🔦 Spotlight: Seventh of 14 in 7f fillies' maiden at Down Royal in September; improved effort when fourth of 14 over that trip at Dundalk eight days later; each-way possibilities; hooded.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 79.0 (Rank: 3)
+📉 TS: 35.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 74- → Score: 0.09 (Rank: 5)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-11-08 18:00:00 | ⏳ Time between runs: 147  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 33.0 ❄️
+📝 Comment: in touch with leaders, 🎯 prominent after 1f, soon went second, ❄️ weakened final 110yds
+🏆 RaceName: Irish Stallion Farms EBF Fillies Maiden
+📋 Race Type: 2yMdF
+🎽 Jockey: N Crosse- (⚖️ Weight: 128.0 lbs (58.2 kg) carried -- Allowance: 0.0) 🏇 Jockey: Shane Foley (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Nathan Crosse (0/1, SR 0.0%)
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📏 Distance: 7.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 9K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-09-30 14:15:00 | ⏳ Time between runs: 39  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 28.0 ❄️
+📝 Comment: slowly into stride, in rear, headway into 🔄 midfield under 2f out, kept on, never on terms
+🏆 RaceName: Irish EBF Auction Series Fillies' Maiden
+📋 Race Type: 2yMdF
+🎽 Jockey: N Crosse- (⚖️ Weight: 122.0 lbs (55.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Shane Foley (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Nathan Crosse (0/1, SR 0.0%)
+🏟️ Course: Down Royal (right-handed, galloping, undulating, testing (1m7f circuit + 5f chute))
+📏 Distance: 7.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: Y
+👜 Prize: 💰 10K
+---------------------------------------------------------------------------
+🐎 4 | Fantazy Man🐎 3 years old  gelding, ch,  134 lbs.
+🦄 Sire: Shaman (5.0% Rank: 8)
+🌿 Dam: Fanzine (0.0% Rank: ?)
+⏱️ Speed record - Runs: 2 | Best: 6.38 sec (Rank 9), Worst: 6.82 sec (Rank 9), Avg: 6.6 sec (Rank 9)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 13.0 (Rank: 6)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Midfield in 1m Curragh maiden on return last month; probably one for handicaps
+🔦 Spotlight: Went off 7-2 when well beaten in 1m Dundalk maiden on debut; much bigger price when midfield in 1m Curragh maiden on return last month; probably one for handicaps.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Donal Commins Jnr
+🏠 Owner: Mcpeake Investments(Ni) Ltd & Jp Murtagh Racing (No previous owner data) - (No previous owner(s))
+👤 Trainer: J P Murtagh (0 previous trainer(s)) last 14d WinRate (1.0/14.0 runs) (Rank: 2) RTF: 50.0 (OVR: 21%)
+🏇 Jockey: Ben Coen (14d rank: 6) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(1.0/ 25.0 runs) RTF: N/A (OVR: 9%) 5Y: 128/1368 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Midfield in 1m Curragh maiden on return last month; probably one for handicaps
+🔦 Spotlight: Went off 7-2 when well beaten in 1m Dundalk maiden on debut; much bigger price when midfield in 1m Curragh maiden on return last month; probably one for handicaps.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 77.0 (Rank: 5)
+📉 TS: 39.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 09 → Score: 0.11 (Rank: 4)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-16 16:20:00 | ⏳ Time between runs: 19  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 80.0 ❄️❄️
+📝 Comment: never better than 🔄 midfield, outpaced over 2f out, kept on, never on terms
+🏆 RaceName: Bermingham Cameras (C & G) Maiden
+📋 Race Type: Md
+🎽 Jockey: Y Geerdharry- (⚖️ Weight: 116.0 lbs (52.7 kg) carried -- Allowance: 7.0) 🏇 Jockey: Ben Coen (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Ben Coen (0/0, SR 0.0%)
+🏟️ Course: Curragh (right-handed, galloping, testing, horseshoe (2m) + chute (races up to 1m))
+📏 Distance: 8.0 furlongs (➡️ vs 8.0 today)
+🌱 Going: S
+👜 Prize: 💰 10K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-28 18:00:00 | ⏳ Time between runs: 15  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+💰 Odds: 3.5 🔥
+📝 Comment: 🔄 midfield, ridden 2f out, ❄️ weakened final furlong
+🏆 RaceName: Irish Stallion Farms EBF Median Auction Maiden
+📋 Race Type: 3yMd
+🎽 Jockey: B Coen- (⚖️ Weight: 134.0 lbs (60.9 kg) carried -- Allowance: 0.0) 🏇 Jockey: Ben Coen (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Ben Coen (0/0, SR 0.0%)
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📏 Distance: 8.0 furlongs (➡️ vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 8K
+---------------------------------------------------------------------------
+🐎 10 | Steel Magnolia⚠️ Owner's record is weaker (SR: 8.33%, 96 runs). (Rank: 3)
+🐎 3 years old  filly, gr,  129 lbs.
+🦄 Sire: Coulsty (8.0% Rank: 6)
+🌿 Dam: Social Butterfly (0.0% Rank: 2)
+⏱️ Speed record - Runs: 1 | Best: 6.31 sec (Rank 7), Worst: 6.31 sec (Rank 5), Avg: 6.31 sec (Rank 6)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 19.0 (Rank: 9)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Speedily bred filly was always in rear in 6f Dundalk maiden on debut in November
+🔦 Spotlight: Speedily bred filly was always in rear in 6f Dundalk fillies' maiden on debut in November; difficult to fancy.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Mr William J McCreery Ltd
+🏠 Owner: W Mccreery 8/96 (8.00%) - (No previous owner(s))
+👤 Trainer: W Mccreery (0 previous trainer(s)) last 14d WinRate (0.0/8.0 runs) (Rank: 7) RTF: 38.0 (OVR: 15%)
+🏇 Jockey: Megan Telford-Kelly(10) (14d rank: 9) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0.0/ 0.0 runs) RTF: N/A (OVR: -) 5Y: 0/14 (0.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Speedily bred filly was always in rear in 6f Dundalk maiden on debut in November
+🔦 Spotlight: Speedily bred filly was always in rear in 6f Dundalk fillies' maiden on debut in November; difficult to fancy.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 65.0 (Rank: 8)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 0- → Score: 0.0 (Rank: 7)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-11-29 18:00:00 | ⏳ Time between runs: 126  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 28.0 ❄️
+📝 Comment: always behind
+🏆 RaceName: Irish Stallion Farms EBF Fillies Maiden
+📋 Race Type: 2yMdF
+🎽 Jockey: D P McDonogh- (⚖️ Weight: 128.0 lbs (58.2 kg) carried -- Allowance: 0.0) 🏇 Jockey: Megan Telford-Kelly(10) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Declan McDonogh (0/0, SR 0.0%)
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📏 Distance: 6.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: SD
+👜 Prize: 💰 9K
+---------------------------------------------------------------------------
+🐎 11 | Uluwatu🐎 3 years old  filly, b,  129 lbs.
+🦄 Sire: Belardo (10.0% Rank: 4)
+🌿 Dam: Oh Sedulous (0.0% Rank: 2)
+⏱️ Speed record - Runs: 1 | Best: 6.84 sec (Rank 10), Worst: 6.84 sec (Rank 10), Avg: 6.84 sec (Rank 10)
+🛠️ Gear: b
+🩺 Medical History: No records
+🎲 Early market: 67.0 (Rank: 10)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Sent off 50-1 when completely tailed off over 7f at the Curragh last month; blinkers
+🔦 Spotlight: Sent off 50-1 when completely tailed off over 7f at the Curragh last month; impossible to recommend judged on that run; blinkers tried now.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Dubois Holdings Ltd
+🏠 Owner: Rob Egan 0/1 (0.00%) - (No previous owner(s))
+👤 Trainer: Kieran P Cotter (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 7) RTF: N/A (OVR: 0%)
+🏇 Jockey: Ross Coakley (14d rank: 10) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(0.0/ 9.0 runs) RTF: N/A (OVR: -) 5Y: 98/885 (11.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Sent off 50-1 when completely tailed off over 7f at the Curragh last month; blinkers
+🔦 Spotlight: Sent off 50-1 when completely tailed off over 7f at the Curragh last month; impossible to recommend judged on that run; blinkers tried now.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: 40.0 (Rank: 9)
+📉 TS: 16.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 0 → Score: 0.0 (Rank: 7)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-16 15:10:00 | ⏳ Time between runs: 19  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+💰 Odds: 50.0 ❄️❄️
+📝 Comment: never better than 🔄 midfield, ❄️ weakened 2f out
+🏆 RaceName: Alkumait At Capital Stud Fillies & Mares Maiden
+📋 Race Type: MdF
+🎽 Jockey: G Ryan- (⚖️ Weight: 127.0 lbs (57.7 kg) carried -- Allowance: 0.0) 🏇 Jockey: Ross Coakley (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Gavin Ryan (0/0, SR 0.0%)
+🏟️ Course: Curragh (right-handed, galloping, testing, horseshoe (2m) + chute (races up to 1m))
+📏 Distance: 7.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: S
+👜 Prize: 💰 10K
+---------------------------------------------------------------------------
+🐎 1 | Blue Bangor🐎 3 years old  gelding, b,  134 lbs.
+🦄 Sire: Kessaar (7.000000000000001% Rank: 7)
+🌿 Dam: Laodicea (0.0% Rank: 2)
+⏱️ Speed record - Runs: 1 | Best: 7.06 sec (Rank 11), Worst: 7.06 sec (Rank 11), Avg: 7.06 sec (Rank 11)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 81.0 (Rank: 11)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Big price and never involved on debut in a 6f maiden at the Curragh in October
+🔦 Spotlight: Big price and never involved on debut in a 6f maiden at the Curragh in October; stick a line through him.
+🧑‍🤝‍🧑 **CONNECTIONS**
+🌱 Breeder: Mr P Harney
+🏠 Owner: Patrick G Harney 0/3 (0.00%) - (No previous owner(s))
+👤 Trainer: John M Harney (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 11) RTF: N/A (OVR: -)
+🏇 Jockey: Rory Mulligan(7) (14d rank: 11) 🏇 Today's Jock winSR: 0.0% (No better alternative found.)(2.0/ 5.0 runs) RTF: N/A (OVR: 8%) 5Y: 22/271 (8.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Big price and never involved on debut in a 6f maiden at the Curragh in October
+🔦 Spotlight: Big price and never involved on debut in a 6f maiden at the Curragh in October; stick a line through him.
+📊 **STATS**
+📉 OFR: N/A (Rank: N/A)
+📈 RPR: N/A (Rank: N/A)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 0- → Score: 0.0 (Rank: 7)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-10-22 11:30:00 | ⏳ Time between runs: 164  days ago
+📭 No data for 1,2,3rd placed from this race
+💰 Odds: 80.0 ❄️❄️
+📝 Comment: dwelt start, always behind, ❄️ weakened from over 2f out
+🏆 RaceName: Irish Stallion Farms EBF Maiden
+📋 Race Type: 2yMd
+🎽 Jockey: G P Halpin- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Rory Mulligan(7) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Gary Halpin (0/0, SR 0.0%)
+🏟️ Course: Curragh (right-handed, galloping, testing, horseshoe (2m) + chute (races up to 1m))
+📏 Distance: 6.0 furlongs (🔽 vs 8.0 today)
+🌱 Going: S
+👜 Prize: 💰 10K
+---------------------------------------------------------------------------
