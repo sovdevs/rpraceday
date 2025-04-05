@@ -4,8 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>RP Raceday</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
     <style>
-        /* ✅ CSS Variables for Light & Dark Mode */
+        /* ... (keep your existing CSS styles here) ... */
+
+                /* ✅ CSS Variables for Light & Dark Mode */
         :root {
             --bg-color: white;
             --text-color: #2c3e50;
@@ -57,14 +62,48 @@
             color: darkred;
         }
 
-        .banner {
-            background-color: var(--banner-bg);
-            color: var(--banner-text);
-            padding: 15px;
-            text-align: center;
-            font-weight: bold;
-            border-radius: 5px;
-        }
+.dark-mode {
+    /* ... other variables ... */
+    --banner-text: #ffffff; /* Changed from #ff6b6b to white */
+    --banner-bg: #642b2b; /* Keep background color */
+}
+
+        /* Existing banner style (keep this) */
+.banner {
+    background-color: var(--banner-bg);
+    color: var(--banner-text); /* This will now use white in dark mode */
+    padding: 15px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+/* Add this to your CSS */
+.banner ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+/* If you want to keep it specific to dark mode */
+.dark-mode .banner ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+
+.appeal-section {
+    border: 2px solid var(--race-border);
+    transition: all 0.3s ease;
+}
+
+.fa-horse {
+    color: var(--button-bg);
+    font-size: 1.2em;
+}
+
+.input-group {
+    max-width: 500px;
+    margin: 0 auto;
+}
 
 
         .container {
@@ -127,24 +166,21 @@
             box-shadow: 0 5px 15px rgba(0,0,0,0.2);
         }
 
+.race-data-section {
+    background: var(--container-bg);
+    border-radius: 15px;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.1);
+}
+
 .race-output {
-    width: 100%; /* ✅ Full width of browser */
-    max-width: 100vw; /* ✅ Ensures full viewport width */
+    width: 100%;
     min-height: 500px;
-    margin: 20px auto;
     padding: 20px;
     background: var(--race-bg);
-    border-radius: 10px;
     border: 2px solid var(--race-border);
-    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-    font-family: 'Courier New', monospace;
-    font-size: 16px; /* ✅ Increased font size for better readability */
-    line-height: 1.8; /* ✅ Better spacing */
-    overflow-x: auto; /* ✅ Enables horizontal scrolling if text overflows */
-    overflow-y: auto;
-    white-space: pre; /* ✅ Ensures text formatting is preserved */
-    text-align: left;
-    display: block;
+    border-radius: 10px;
+    overflow-x: auto;
+    white-space: pre-wrap;
 }
 
 
@@ -228,91 +264,175 @@
         th { background-color: darkred; }
         .title-row { font-size: 18px; font-weight: bold; text-align: center; background-color: black; }
 
+        /* Add any custom styles that need to override Bootstrap here */
+        .race-output {
+            /* Maintain your custom race-output styles */
+        }
     </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
-
 
 <body>
 
-    <button class="dark-mode-toggle" onclick="toggleDarkMode()">🌙 Toggle Dark Mode</button>
-
-        <!-- ✅ Special News Banner -->
+    <!-- Add this container for flash messages -->
     <div class="container mt-3">
-        <div class="banner">
-            <p> Grand national Day!! </p>
-            <p> 🏇 Changes: </p>
-            <ul>
-                <li> Has the horse run this kind of race before? 🎲 Repeat performance: Won before: ✅ Yes, Placed 2nd or 3rd before: ❌ No </li>
-                <li> Was it a strong race? 🏆 1st: Did Not Run, 2nd: Did Not Run, 3rd: Did Not Run | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U  </li>
-            </ul>
-        </div>
-
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="alert alert-{{ category }} alert-dismissible fade show">
+                        {{ message }}
+                        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                    </div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
     </div>
 
-        <div class="main-wrapper">
-        <!-- Existing container -->
-                <div class="container">
-                    <h1>🏇 RP Raceday Demo</h1>
-                    <!-- ✅ Live Time Display -->
-                    <img src="{{ url_for('static', filename='DALLEhorse33pc.jpg') }}" alt="Winking horse" width="400">
+    <button class="btn btn-outline-secondary dark-mode-toggle" onclick="toggleDarkMode()">🌙 Toggle Dark Mode</button>
 
-                    <div class="time-container">
-                        <p>Today's extended UK racing cards</p>
-                        ⏳ Current Time in the UK (GMT/BST):** <span id="london-time">Loading...</span><br>
-                        🕰 Your time:  <span id="browser-time">Loading...</span>
-                    </div>
-                    <h2> Enter a race ID and hash. For a single hash code for all of today's races, please email us rpraceday@tuta.com.</h2>
-                    <div>
+    <div class="container-fluid">
+        <!-- News Banner -->
+        <div class="row mt-3">
+            <div class="col-12">
+                <div class="banner">
+                    <p>Grand National Day!!</p>
+                    <p>🏇 Changes:</p>
+                    <ul>
+                        <li>First and last sectional speed / rank versus horses over trip / +/- median value for horse for last race. </li>
+                        <li>WIP! Has the horse run this kind of race before? 🎲 Repeat performance: Won before: ✅ Yes, Placed 2nd or 3rd before: ❌ No</li>
+                        <li>Was it a strong race? 🏆 1st: Did Not Run, 2nd: Did Not Run, 3rd: Did Not Run | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
 
+        <!-- Main Content Columns -->
+        <div class="row mt-4 g-4">
+            <!-- Left Column (Form) -->
+            <div class="col-md-8">
+                <div class="main-content">
+                    <h1 class="text-center mb-4">🏇 RP Raceday Demo 0.5</h1>
+
+
+                <div class="text-center mb-4">
+              <img src="{{ url_for('static', filename='images/DALLEhorse33pc.jpg') }}"
+                   alt="Winking horse"
+                   class="img-fluid rounded shadow-sm"
+                   style="max-width: 150px;">
+          </div>
+
+                    <div class="time-container mb-4">
+                        <p class="lead text-center">
+                            ⏳ UK Time: <span id="london-time">Loading...</span><br>
+                            🕰 Your Time: <span id="browser-time">Loading...</span>
+                        </p>
                     </div>
-                    <div>
-                    </div>
-                    <form method="POST">
-                        <input type="text" name="race_id" placeholder="Enter Race ID" required>
-                        <input type="text" name="hash_code" placeholder="Enter Hash Code" required>
-                        <button type="submit">Search</button>
+
+                    <form method="POST" class="mb-5">
+                        <div class="mb-3">
+                            <input type="text" name="race_id"
+                                   class="form-control form-control-lg w-100 w-md-75 mx-auto"
+                                   placeholder="Enter Race ID" required>
+                        </div>
+                        <div class="mb-3">
+                            <input type="text" name="hash_code"
+                                   class="form-control form-control-lg w-100 w-md-75 mx-auto"
+                                   placeholder="Enter Hash Code" required>
+                        </div>
+                        <div class="d-grid gap-2 col-12 col-md-8 mx-auto">
+                            <button type="submit" class="btn btn-primary btn-lg">
+                                Get race data
+                            </button>
+                        </div>
                     </form>
 
                     {% if error %}
-                        <p class="error">{{ error }}</p>
+                        <div class="alert alert-danger">{{ error }}</div>
                     {% endif %}
-
-
-        <div class="random-hash-container">
-            <h2>🔑 46 races under consideration today. Here is a selection:</h2>
-            <p> The Grand National has ID 885406 </p>
-            <ul>
-        <li>
-            <strong>ID:</strong> 885406 - <strong>Hash:</strong> de58e270</li>
-            <li><strong>ID:</strong> 889620 - <strong>Hash:</strong> dc8d182b</li>
-            <li><strong>ID:</strong> 892281 - <strong>Hash:</strong> 18bfb162</li>
-            <li><strong>ID:</strong> 889468 - <strong>Hash:</strong> c0f44212</li>
-            <li><strong>ID:</strong> 889478 - <strong>Hash:</strong> b1cde2fe</li>
-            </ul>
-        </div>
-
-
-
-                    {% if race_data %}
-
-                        <div class="container-fluid mt-4">
-                            <h2 class="text-center">🏇 Race Details 🏇</h2>
-                            <div class="race-output">{{ race_data }}</div>
-                        </div>
-                        <form action="/download" method="post">
-                            <input type="hidden" name="race_id" value="{{ race_id }}">
-                            <input type="hidden" name="hash_code" value="{{ hash_code }}">
-                            <button type="submit" class="download">Download TXT File</button>
-                        </form>
-
-                    {% endif %}
-
                 </div>
+            </div>
 
+            <!-- Right Column (Info) -->
+            <div class="col-md-4">
+                <div class="random-hash-container p-4 rounded-3 shadow">
+                    <h2 class="h4 mb-3">🔑 Today's Featured Races</h2>
+                    <p class="fw-bold text-danger">The Grand National has ID 885406</p>
+                    <ul class="list-unstyled">
+                        <li class="mb-2">
+                            <span class="badge bg-primary">885406</span>
+                            <code>de58e270</code>
+                        </li>
+                        <li class="mb-2">
+                <span class="badge bg-primary">889620</span>
+                <code>dc8d182b</code>
+                    </li>
+                    <li class="mb-2">
+                        <span class="badge bg-primary">892281</span>
+                        <code>18bfb162</code>
+                    </li>
+                    <li class="mb-2">
+                        <span class="badge bg-primary">889468</span>
+                        <code>c0f44212</code>
+                    </li>
+                    <li class="mb-2">
+                        <span class="badge bg-primary">889478</span>
+                        <code>b1cde2fe</code>
+                    </li>
+                    </ul>
+                </div>
+            </div>
         </div>
 
+      <!-- After the random-hash-container -->
+<div class="appeal-section mt-5 p-4 rounded-3 shadow" style="background: var(--container-bg);">
+    <h3 class="h5 mb-4 text-center">
+        <i class="fas fa-horse me-2"></i>
+        🏇 Join the Stable 🏇
+        <i class="fas fa-horse ms-2"></i>
+    </h3>
+    <p class="text-center mb-3">If you're interested in following this project, enter your email below:</p>
+    <form method="POST" action="/subscribe">
+        <div class="input-group">
+            <input type="email" name="email"
+                   class="form-control"
+                   placeholder="your.email@example.com"
+                   required>
+            <button class="btn btn-primary" type="submit">
+                Subscribe
+            </button>
+        </div>
+    </form>
+</div>
 
 
+        <!-- Full-width Race Data Section -->
+        {% if race_data %}
+        <div class="row mt-4">
+            <div class="col-12">
+                <div class="race-data-section p-4">
+                    <h2 class="text-center mb-4">🏇 Race Details 🏇</h2>
+                    <div class="race-output">{{ race_data }}</div>
+                    <form action="/download" method="post" class="text-center mt-4">
+                        <input type="hidden" name="race_id" value="{{ race_id }}">
+                        <input type="hidden" name="hash_code" value="{{ hash_code }}">
+                        <button type="submit" class="btn btn-primary btn-lg">
+                            Download TXT File
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Your existing scripts -->
+</body>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Keep your existing JavaScript -->
     <script>
 
         function updateTime() {
@@ -344,5 +464,6 @@
         }
 
     </script>
+
 </body>
 </html>

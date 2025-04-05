@@ -1,10 +1,10 @@
-from flask import Flask, request, render_template, send_file, redirect, url_for
+from flask import Flask, request, render_template, send_file, redirect, url_for, flash
 import os
 import json
 import hashlib
 from datetime import datetime
 app = Flask(__name__, static_folder="static")  # Ensure static folder is recognized
-
+app.secret_key = 'bollox'  # Required for flash messages
 RACE_TXT_DIR = "static/races"
 HASH_FILE = "hash_codes.json"
 
@@ -51,6 +51,38 @@ def index():
                 error = f"❌ No race found for ID {race_id}."
 
     return render_template("index.html", race_data=race_data, race_id=race_id, hash_code=entered_hash, error=error)
+
+
+@app.route('/subscribe', methods=['POST'])
+def subscribe():
+    email = request.form.get('email', '').strip()
+
+    # Simple email validation
+    if '@' not in email:
+        flash('❌ Please enter a valid email address', 'danger')
+        return redirect(url_for('index'))
+
+    # Create emails.txt if it doesn't exist
+    if not os.path.exists('emails.txt'):
+        open('emails.txt', 'w').close()
+
+    # Check for duplicates
+    with open('emails.txt', 'r') as f:
+        existing_emails = f.read().splitlines()
+
+    if email in existing_emails:
+        flash("ℹ️ You are already subscribed!", "info")
+        return redirect(url_for('index'))
+
+    # Save email
+    with open('emails.txt', 'a') as f:
+        f.write(f"{email}\n")
+
+
+    flash('✅ Thank you for subscribing!', 'success')
+    return redirect(url_for('index'))
+
+
 
 @app.route("/download", methods=["POST"])
 def download_txt():
