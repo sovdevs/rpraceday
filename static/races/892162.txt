@@ -1,0 +1,544 @@
+⏰ Off Time: 2025-04-06 15:25
+📍 Venue: Cork (right-handed flat and level (1m2f oval), 6f sprint track)
+🏁 Race ID: 892162 - 🏆 Name: Irish Stallion Farms EBF Cork Stakes (Listed Race)
+🏇 Type: Flat
+📏 Distance: 6.0 furlongs
+🏇 Class/Grade: Class 1 Listed
+🎂 Age Band: 3yo+
+💰 Prize money: 💰 27K
+⛅ Weather: Partly cloudy
+🌱 Going: Good
+9 runners declared
+Speed Performance for Race ID 892162 (Filter: AND_notAW_stakes_notNovice)
+===========================================================================
+horse_id         horse_name AND_notAW_stakes_notNovice_bestSpeedPerM AND_notAW_stakes_notNovice_worstSpeedPerM AND_notAW_stakes_notNovice_avgSpeedPerM AND_notAW_stakes_notNovice_noRaces AND_notAW_stakes_notNovice_bestSpeedPerM_rank AND_notAW_stakes_notNovice_avgSpeedPerM_rank
+ 5207731         Gutsy Girl                                    16.38                                     17.63                                    17.0                                2.0                                           1.0                                          1.0
+ 5845652 Lady With The Lamp                                    16.16                                      17.3                                   16.71                                3.0                                           3.0                                          2.0
+ 5085197            Ostraka                                    16.24                                     16.24                                   16.24                                1.0                                           2.0                                          3.0
+ 5329820           Firebird                                    15.77                                     16.51                                   16.19                                3.0                                           4.0                                          4.0
+ 5176376        Vespertilio                                    15.58                                     16.26                                   15.95                                4.0                                           5.0                                          5.0
+58956118      One Smack Mac                                    14.75                                     16.32                                   15.54                                2.0                                           7.0                                          6.0
+ 5301551     Chicago Critic                                    14.08                                     16.45                                   15.33                                4.0                                           8.0                                          7.0
+ 4420124               Easy                                    15.13                                     15.17                                   15.15                                2.0                                           6.0                                          8.0
+ 5063752          King Cuan                                      NaN                                       NaN                                     NaN                                NaN                                           NaN                                          NaN
+No head-to-head data found for any of this race's horses
+++++++++++Performance Table++++++++++
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7        | Vespertilio               | 5176376  | 9.0      | 7.0      | 8.0      | 6.0      | 5.0      | 3.0      | 4.0      | 8.0      | 1.0      | 2.0      | 4.0      | 1.0      | 7.0      | 4.0      | 4.0      | 7.0      | 7.0      | 7.0      | 2.0      | 5.0      | 9.0      | N/A      | 7.0      | 7.0      | 1.0      | 2.0      | 7.0      | 5.0      | 5.0      | 8.0     
+1        | Chicago Critic            | 5301551  | 6.0      | 5.0      | 7.0      | 3.0      | 6.0      | 5.0      | 4.0      | 1.0      | 8.0      | 2.0      | 2.0      | 2.0      | 3.0      | 9.0      | 5.0      | 9.0      | 6.0      | 6.0      | 3.0      | 9.0      | 8.0      | N/A      | N/A      | 3.0      | 2.0      | 2.0      | 5.0      | N/A      | N/A      | 4.0     
+2        | King Cuan                 | 5063752  | 2.0      | 1.0      | 2.0      | 1.0      | 2.0      | 1.0      | 4.0      | 3.0      | 3.0      | 9.0      | N/A      | 8.0      | 1.0      | 5.0      | 6.0      | 3.0      | 7.0      | 3.0      | 4.0      | 1.0      | 1.0      | 2.0      | 1.0      | 3.0      | 3.0      | 7.0      | 1.0      | 1.0      | 1.0      | 3.0     
+4        | Easy                      | 4420124  | 4.0      | 1.0      | 4.0      | 6.0      | 1.0      | 1.0      | 4.0      | 2.0      | 2.0      | 1.0      | 1.0      | 3.0      | 6.0      | 1.0      | 2.0      | 4.0      | 5.0      | 2.0      | 7.0      | 4.0      | 4.0      | 1.0      | 4.0      | 3.0      | 4.0      | 4.0      | 6.0      | N/A      | 2.0      | 6.0     
+5        | Firebird                  | 5329820  | 1.0      | 2.0      | 1.0      | 4.0      | 1.0      | 1.0      | 1.0      | 6.0      | 5.0      | 4.0      | 5.0      | 5.0      | 7.0      | 2.0      | 8.0      | 1.0      | 7.0      | 3.0      | 4.0      | 1.0      | 2.0      | 2.0      | 2.0      | 2.0      | 5.0      | 5.0      | 1.0      | 2.0      | N/A      | 9.0     
+8        | One Smack Mac             | 58956118 | 3.0      | 4.0      | 3.0      | 2.0      | 6.0      | 1.0      | 4.0      | 5.0      | 4.0      | 7.0      | 7.0      | 6.0      | 5.0      | 3.0      | 7.0      | 8.0      | 3.0      | 5.0      | 6.0      | 6.0      | 3.0      | N/A      | 4.0      | 3.0      | 6.0      | 4.0      | 2.0      | 4.0      | N/A      | 1.0     
+9        | Lady With The Lamp        | 5845652  | 5.0      | 3.0      | 5.0      | 2.0      | 6.0      | 2.0      | 2.0      | 4.0      | 7.0      | 7.0      | 8.0      | 6.0      | 7.0      | 6.0      | 3.0      | 6.0      | 1.0      | 8.0      | 8.0      | 7.0      | 7.0      | N/A      | 7.0      | N/A      | 7.0      | 1.0      | 3.0      | N/A      | 3.0      | 5.0     
+3        | Ostraka                   | 5085197  | 8.0      | 6.0      | 9.0      | 5.0      | 4.0      | 4.0      | 3.0      | 9.0      | 6.0      | 5.0      | 6.0      | 4.0      | 4.0      | 7.0      | 1.0      | 2.0      | 4.0      | 1.0      | 1.0      | 3.0      | 5.0      | 4.0      | 4.0      | 1.0      | 8.0      | 6.0      | 4.0      | 3.0      | 4.0      | 7.0     
+6        | Gutsy Girl                | 5207731  | 7.0      | 5.0      | 6.0      | 6.0      | 3.0      | 3.0      | 1.0      | 7.0      | 9.0      | 6.0      | 3.0      | 9.0      | 1.0      | 8.0      | 8.0      | 5.0      | 1.0      | 8.0      | 8.0      | 7.0      | 6.0      | N/A      | 3.0      | 7.0      | 8.0      | 3.0      | 3.0      | 6.0      | N/A      | 2.0     
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 7 | Vespertilio🐎 4 years old  filly, b,  130 lbs.
+🦄 Sire: Night Of Thunder (15.0% Rank: 2)
+🌿 Dam: Prudente (17.0% Rank: 5)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 2.88 (Rank: 1)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Top rated at 108, Gr 2 winner at 7f, placed in French 1,000 Guineas, 6f trip a query
+🔦 Spotlight: 1-8 on turf and rated 108; sole win came in a 7f Curragh Group 2 in August 2023 and finished a 1.25l second in the Moyglare subsequently; best run last year a 0.5l third on her seasonal return in the French 1,000 Guineas (1m, soft); down in class here but she hasn't run over this distance since her debut; obvious chance on paper but the trip raises questions.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: S A S U Ecurie Des Monceaux Et Al
+🏠 Owner: Al Shiraaa Racing Limited 3/20 (15.00%) - (No previous owner(s))
+👤 Trainer: W Mccreery (0 previous trainer(s)) last 14d WinRate (0.0/11.0 runs) (Rank: 7) RTF: 36.0 (OVR: 8%)
+🏇 Jockey: Nathan Crosse (14d rank: 1) 🏇 Nathan Crosse winSR: 0.0% | 🏆 Better Alternative: W J Lee (1/5 - 20.0%)(0.0/ 10.0 runs) RTF: N/A (OVR: 4%) 5Y: 31/500 (6.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Top rated at 108, Gr 2 winner at 7f, placed in French 1,000 Guineas, 6f trip a query
+🔦 Spotlight: 1-8 on turf and rated 108; sole win came in a 7f Curragh Group 2 in August 2023 and finished a 1.25l second in the Moyglare subsequently; best run last year a 0.5l third on her seasonal return in the French 1,000 Guineas (1m, soft); down in class here but she hasn't run over this distance since her debut; obvious chance on paper but the trip raises questions.
+📊 **RANKS AND FLAGS**
+📉 OFR: 108.0 (Rank: 1)
+📈 RPR: 115.0 (Rank: 2)
+📉 TS: 85.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: /3975- → Score: 0.04 (Rank: 9)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-09-14 13:50:00 | ⏳ Time between runs: 203  days ago
+🥇 Result: 5 / 🏇 9 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 5 / 🏇 9 runners. 
+💰 Odds: 14.0 📉
+📝 Comment: 🔄 midfield, hung right 2f out, ⏳ ran on well inside final furlong, not reach leaders
+🏆 RaceName: Coolmore America "Justify" Matron Stakes (Group 1) (Fillies & Mares)
+📋 Race Type: G1F
+🎽 Jockey: W J Lee- (⚖️ Weight: 128.0 lbs (58.2 kg) carried -- Allowance: 0.0) 🏇 Jockey: Nathan Crosse (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: W J Lee (1/5, SR 20.0%)
+🏟️ Course: Leopardstown ❓ (left-handed, flat, galloping track (1m6f oval))
+📏 Distance: 8.0 furlongs (🔽 Dropping down to 6.0 today)
+🌱 Going: G
+👜 Prize: 💰 209K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-07-07 14:07:00 | ⏳ Time between runs: 68  days ago
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 7 / 🏇 12 runners. 
+💰 Odds: 10.0 📉
+📝 Comment: 🔄 held up 🔄 towards rear, took closer order from under 3f out, ridden into 🔄 midfield 2f out, ⚠️ not clear run and lost place over 1f out, driven and no extra final furlong
+🏆 RaceName: Haras d'Etreham Prix Jean Prat (Group 1) (3yo Colts & Fillies) (Straight Course) (Turf)
+📋 Race Type: 3yG1
+🎽 Jockey: W J Lee- (⚖️ Weight: 125.0 lbs (56.8 kg) carried -- Allowance: 0.0) 🏇 Jockey: Nathan Crosse (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: W J Lee (1/5, SR 20.0%)
+🏟️ Course: Deauville ❓ (right-handed 10.5f oval, 2f straight, straight and round mile)
+📏 Distance: 7.0 furlongs (🔽 Dropping down to 6.0 today)
+🌱 Going: GS
+👜 Prize: 💰 199K
+---------------------------------------------------------------------------
+🐎 1 | Chicago Critic🐎 4 years old  gelding, ch,  135 lbs.
+🦄 Sire: Night Of Thunder (15.0% Rank: 2)
+🌿 Dam: Criticism (0.0% Rank: ?)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 4.33 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: 📈 progressive last year, third in Jersey Stakes at Ascot, 6f a query on seasonal return
+🔦 Spotlight: 2-8 on turf and rated 107; 📈 progressive at 7f-1m last season after gelding operation; won a 1m Naas handicap off 90 on good; was beaten just 1l into third in the Group 3 Jersey Stakes at Ascot in June (7f, good to firm); fourth on soft in a 7.5f Listed race on his final start of 2024; drop to 6f a worry on seasonal return.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Forenaghts Stud
+🏠 Owner: Sam Mencoff & Tony Smurfit (No previous owner data) - (No previous owner(s))
+👤 Trainer: J P Murtagh (0 previous trainer(s)) last 14d WinRate (2.0/19.0 runs) (Rank: 6) RTF: 58.0 (OVR: 5%)
+🏇 Jockey: Ben Coen (14d rank: 2) 🏇 Ben Coen winSR: 33.0% (No better alternative found.)(2.0/ 29.0 runs) RTF: N/A (OVR: 3%) 5Y: 97/941 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: 📈 progressive last year, third in Jersey Stakes at Ascot, 6f a query on seasonal return
+🔦 Spotlight: 2-8 on turf and rated 107; 📈 progressive at 7f-1m last season after gelding operation; won a 1m Naas handicap off 90 on good; was beaten just 1l into third in the Group 3 Jersey Stakes at Ascot in June (7f, good to firm); fourth on soft in a 7.5f Listed race on his final start of 2024; drop to 6f a worry on seasonal return.
+📊 **RANKS AND FLAGS**
+📉 OFR: 107.0 (Rank: 2)
+📈 RPR: 115.0 (Rank: 2)
+📉 TS: 91.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 1/2 | Ratio: 0.50
+📊 Form: 61374- → Score: 0.05 (Rank: 8)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-10-06 13:30:00 | ⏳ Time between runs: 181  days ago
+🥇 Result: 4 / 🏇 14 runners. Expected: nan → Actual: 0 (nan vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+🥇 Result: 4 / 🏇 14 runners. 
+💰 Odds: 3.0 🔥
+📝 Comment: 🎯 prominent throughout, briefly disputed lead inside final furlong, soon headed, no extra and lost two places towards finish
+🏆 RaceName: Coolmore Sioux Nation Concorde Stakes (Listed Race)
+📋 Race Type: L
+🎽 Jockey: J A Heffernan- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Ben Coen (SR 33.3%, 2/6) | 🏆 Not H&J — Best Alternative: Ben Coen (2/6, SR 33.3%)
+🏟️ Course: Tipperary ❓ (left-handed, sharp, flat track (1m2f circuit), chute for 5f races)
+📏 Distance: 7.5 furlongs (🔽 Dropping down to 6.0 today)
+🌱 Going: S
+👜 Prize: 💰 22K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-07-30 14:00:00 | ⏳ Time between runs: 67  days ago
+🥇 Result: 7 / 🏇 8 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 7 / 🏇 8 runners. 
+💰 Odds: 12.0 📉
+📝 Comment: 🔄 towards rear, brief headway against far rail over 1f out, ❄️ weakened final 110yds
+🏆 RaceName: HKJC World Pool Lennox Stakes (Group 2)
+📋 Race Type: 1G2
+🎽 Jockey: B Coen- (⚖️ Weight: 125.0 lbs (56.8 kg) carried -- Allowance: 0.0) 🏇 Jockey: Ben Coen (SR 33.3%, 2/6) | 🏆 Not H&J — Best Alternative: Ben Coen (2/6, SR 33.3%)
+🏟️ Course: Goodwood ❓ (right-handed, fairly sharp track (sprint course very sharp))
+📏 Distance: 7.0 furlongs (🔽 Dropping down to 6.0 today)
+🌱 Going: G
+👜 Prize: 💰 102K
+---------------------------------------------------------------------------
+🐎 2 | King Cuan🐎 4 years old  gelding, b,  135 lbs.
+🦄 Sire: Tasleet (10.0% Rank: 7)
+🌿 Dam: Rutherford (75.0% Rank: 1)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 6.0 (Rank: 3)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: 3-4 on turf, rated 99, won two big pots at Naas in 2023, missed 2024, ✂️ gelded, check market
+🔦 Spotlight: One of two for yard; 3-4 on turf in 2023 and rated 99; won the valuable Goffs Sportsman Challenge (6f) and Irish EBF Auction Series Race Final (7f) at Naas; missed the entire 2024 season and has been ✂️ gelded; entitled to need this but yard can ready one, preferred by Lee and he is worth a 📊 market check on his return.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: R F And S D Knipe
+🏠 Owner: Red Lily Racing Syndicate 3/4 (75.00%) - (No previous owner(s))
+👤 Trainer: P Twomey (0 previous trainer(s)) last 14d WinRate (0.0/2.0 runs) (Rank: 7) RTF: 67.0 (OVR: 34%)
+🏇 Jockey: W J Lee (14d rank: 3) 🏇 W J Lee winSR: 67.0% (No better alternative found.)(2.0/ 25.0 runs) RTF: N/A (OVR: 20%) 5Y: 141/911 (15.0)
+🗞️ **PRESS OPINION**
+💬 Comment: 3-4 on turf, rated 99, won two big pots at Naas in 2023, missed 2024, ✂️ gelded, check market
+🔦 Spotlight: One of two for yard; 3-4 on turf in 2023 and rated 99; won the valuable Goffs Sportsman Challenge (6f) and Irish EBF Auction Series Race Final (7f) at Naas; missed the entire 2024 season and has been ✂️ gelded; entitled to need this but yard can ready one, preferred by Lee and he is worth a 📊 market check on his return.
+📊 **RANKS AND FLAGS**
+📉 OFR: 96.0 (Rank: 8)
+📈 RPR: 101.0 (Rank: 9)
+📉 TS: N/A (Rank: N/A)
+🏟️ Course Wins/Runs: 1/1 | Ratio: 1.00
+📏 Distance Wins/Runs: 2/3 | Ratio: 0.67
+🌱 Going Wins/Runs: 1/2 | Ratio: 0.50
+📊 Form: 4111/ → Score: 0.2 (Rank: 1)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2023-10-15 13:15:00 | ⏳ Time between runs: 538  days ago
+🥇 Result: 1 🥇 / 🏇 13 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 1 🥇 / 🏇 13 runners. 
+💰 Odds: 0.8 🔥🔥
+📝 Comment: 🚧 bumped start, 🔄 held up in 🔄 midfield, smooth headway and in touch with leaders under 2f out, shaken up to lead inside final furlong, ridden and kept on well final 110yds, always doing enough
+🏆 RaceName: Irish EBF Auction Series Race Final (IRE Incentive Race)
+📋 Race Type: 2y
+🎽 Jockey: W J Lee- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: W J Lee (SR 66.7%, 2/3) | 🏆 Not H&J — Best Alternative: W J Lee (2/3, SR 66.7%)
+🏟️ Course: Naas ❓ (left-handed, undulating, galloping track (1m4f circuit), chute for sprints)
+📏 Distance: 7.0 furlongs (🔽 Dropping down to 6.0 today)
+🌱 Going: S
+👜 Prize: 💰 64K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2023-09-14 14:05:00 | ⏳ Time between runs: 30  days ago
+🥇 Result: 1 🥇 / 🏇 14 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 1 🥇 / 🏇 14 runners. 
+💰 Odds: 0.571 🔥🔥
+📝 Comment: travelled strongly, in touch with leaders, 🎯 prominent halfway, went second under 2f out, short of room against far rail and switched right over 1f out, 2 lengths down inside final furlong, ⏳ ran on well to lead towards finish, cosily (jockey said colt had to take a check 1 1/2f out)
+🏆 RaceName: Goffs Sportsman's Challenge
+📋 Race Type: 2y
+🎽 Jockey: W J Lee- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: W J Lee (SR 66.7%, 2/3) | 🏆 Not H&J — Best Alternative: W J Lee (2/3, SR 66.7%)
+🏟️ Course: Naas ❓ (left-handed, undulating, galloping track (1m4f circuit), chute for sprints)
+📏 Distance: 6.0 furlongs (➡️ Same trip as today)
+🌱 Going: GY
+👜 Prize: 💰 44K
+---------------------------------------------------------------------------
+🐎 4 | Easy🐎 5 years old  mare, br,  130 lbs.
+🦄 Sire: Kodiac (12.0% Rank: 4)
+🌿 Dam: Gharaaneej (50.0% Rank: 2)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 7.5 (Rank: 4)
+🎲 Repeat performance: Won before: ✅ Yes, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: 2-4 on turf, rated 102, won this last year on heavy, ground a concern on return
+🔦 Spotlight: 2-4 on turf and rated 102; won this race on reappearance last year but that was on heavy ground; was subsequently twice a non-runner on account of good ground so conditions have to be a concern on her return from 290 days off.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Shadwell Estate Company Limited
+🏠 Owner: Team Valor International Llc & Gary Barber (No previous owner data) - (No previous owner(s))
+👤 Trainer: Andrew Slattery (0 previous trainer(s)) last 14d WinRate (2.0/10.0 runs) (Rank: 5) RTF: 50.0 (OVR: 11%)
+🏇 Jockey: Andrew Slattery (14d rank: 4) 🏇 Andrew Slattery winSR: 100.0% (No better alternative found.)(1.0/ 5.0 runs) RTF: N/A (OVR: 8%) 5Y: 54/605 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: 2-4 on turf, rated 102, won this last year on heavy, ground a concern on return
+🔦 Spotlight: 2-4 on turf and rated 102; won this race on reappearance last year but that was on heavy ground; was subsequently twice a non-runner on account of good ground so conditions have to be a concern on her return from 290 days off.
+📊 **RANKS AND FLAGS**
+📉 OFR: 102.0 (Rank: 3)
+📈 RPR: 119.0 (Rank: 1)
+📉 TS: 101.0 (Rank: 1)
+🏟️ Course Wins/Runs: 2/2 | Ratio: 1.00
+📏 Distance Wins/Runs: 1/1 | Ratio: 1.00
+🌱 Going Wins/Runs: 1/1 | Ratio: 1.00
+📊 Form: 16/16- → Score: 0.08 (Rank: 4)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-06-20 14:35:00 | ⏳ Time between runs: 289  days ago
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 6 / 🏇 9 runners. 
+💰 Odds: 11.0 📉
+📝 Comment: 🔄 towards rear on outer, asked for effort 2f out, ridden just under 1 1/2f out, ⏳ kept on same pace inside final furlong, never seriously threatened
+🏆 RaceName: Prix de la Porte Maillot (Group 3) (3yo+) (New Course: 2nd Post) (Turf)
+📋 Race Type: G3
+🎽 Jockey: A Slattery- (⚖️ Weight: 127.0 lbs (57.7 kg) carried -- Allowance: 0.0) 🏇 Jockey: Andrew Slattery (SR 100.0%, 2/2) | 🏆 Not H&J — Best Alternative: Andrew Slattery (2/2, SR 100.0%)
+🏟️ Course: Longchamp ❓ (right-handed, three home turns, separate straight 5f course)
+📏 Distance: 7.0 furlongs (🔽 Dropping down to 6.0 today)
+🌱 Going: S
+👜 Prize: 💰 35K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-03-30 15:30:00 | ⏳ Time between runs: 81  days ago
+🥇 Result: 1 🥇 / 🏇 9 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 1 🥇 / 🏇 9 runners. 
+💰 Odds: 25.0 ❄️
+📝 Comment: in touch with leaders, good headway and 🎯 prominent 2f out, 🎯 led going best over 1f out, ridden and clear final 110yds, kept on well
+🏆 RaceName: Irish Stallion Farms EBF Cork Stakes (Listed Race)
+📋 Race Type: L
+🎽 Jockey: A Slattery- (⚖️ Weight: 130.0 lbs (59.1 kg) carried -- Allowance: 0.0) 🏇 Jockey: Andrew Slattery (SR 100.0%, 2/2) | 🏆 Not H&J — Best Alternative: Andrew Slattery (2/2, SR 100.0%)
+🏟️ Course: Cork ❓ (right-handed flat and level (1m2f oval), 6f sprint track)
+📏 Distance: 6.0 furlongs (➡️ Same trip as today)
+🌱 Going: HY
+👜 Prize: 💰 22K
+---------------------------------------------------------------------------
+🐎 5 | Firebird🐎 4 years old  filly, b,  130 lbs.
+🦄 Sire: Lope De Vega (12.0% Rank: 5)
+🌿 Dam: War And Peace (0.0% Rank: ?)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 8.0 (Rank: 5)
+🎲 Repeat performance: Won before: ✅ Yes, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: 2-5 on turf, rated 99, C&D maiden winner, touched off in a Gr 3 at Naas, check the market
+🔦 Spotlight: 2-5 on turf and rated 99; won a C&D maiden on her seasonal reappearance last year; followed up at Naas and then produced a career best when touched off in a Group 3 there in August; beaten 2l in a 6f Curragh Listed when last seen in October; the market should reveal expectations.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Sir Robert Ogden
+🏠 Owner: Arabian Bloodstock 4/8 (50.00%) - (No previous owner(s))
+👤 Trainer: P Twomey (0 previous trainer(s)) last 14d WinRate (0.0/2.0 runs) (Rank: 7) RTF: 67.0 (OVR: 34%)
+🏇 Jockey: Donagh Oconnor (14d rank: 5) 🏇 Donagh Oconnor winSR: 0.0% | 🏆 Better Alternative: W J Lee (2/3 - 67.0%)(0.0/ 4.0 runs) RTF: N/A (OVR: 10%) 5Y: 18/355 (5.0)
+🗞️ **PRESS OPINION**
+💬 Comment: 2-5 on turf, rated 99, C&D maiden winner, touched off in a Gr 3 at Naas, check the market
+🔦 Spotlight: 2-5 on turf and rated 99; won a C&D maiden on her seasonal reappearance last year; followed up at Naas and then produced a career best when touched off in a Group 3 there in August; beaten 2l in a 6f Curragh Listed when last seen in October; the market should reveal expectations.
+📊 **RANKS AND FLAGS**
+📉 OFR: 99.0 (Rank: 5)
+📈 RPR: 111.0 (Rank: 4)
+📉 TS: 84.0 (Rank: 5)
+🏟️ Course Wins/Runs: 1/1 | Ratio: 1.00
+📏 Distance Wins/Runs: 2/5 | Ratio: 0.40
+🌱 Going Wins/Runs: 2/3 | Ratio: 0.67
+📊 Form: /1125- → Score: 0.15 (Rank: 2)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-10-05 13:15:00 | ⏳ Time between runs: 182  days ago
+🥇 Result: 5 / 🏇 9 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 5 / 🏇 9 runners. 
+💰 Odds: 0.727 🔥🔥
+📝 Comment: 🔄 midfield, headway and went third 2f out, ❄️ weakened final 110yds
+🏆 RaceName: Darley Irish EBF Brigid's Pastures Stakes (Listed Race) (Fillies & Mares)
+📋 Race Type: LF
+🎽 Jockey: W J Lee- (⚖️ Weight: 128.0 lbs (58.2 kg) carried -- Allowance: 0.0) 🏇 Jockey: Donagh Oconnor (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: W J Lee (2/3, SR 66.7%)
+🏟️ Course: Curragh ❓ (right-handed, galloping, testing, horseshoe (2m) + chute (races up to 1m))
+📏 Distance: 6.0 furlongs (➡️ Same trip as today)
+🌱 Going: G
+👜 Prize: 💰 29K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-08-25 14:07:00 | ⏳ Time between runs: 40  days ago
+🥇 Result: 2 🥈 / 🏇 11 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 2 🥈 / 🏇 11 runners. 
+💰 Odds: 1.875 🔥🔥
+📝 Comment: raced far side, 🎯 prominent, switched right and went third inside final furlong, 🔄 ridden to lead inside final 110yds, headed post, 1st of 9 in group
+🏆 RaceName: Tally-Ho Stud Irish EBF Ballyogan Stakes (Group 3) (Fillies & Mares)
+📋 Race Type: G3F
+🎽 Jockey: W J Lee- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Donagh Oconnor (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: W J Lee (2/3, SR 66.7%)
+🏟️ Course: Naas ❓ (left-handed, undulating, galloping track (1m4f circuit), chute for sprints)
+📏 Distance: 6.0 furlongs (➡️ Same trip as today)
+🌱 Going: GY
+👜 Prize: 💰 52K
+---------------------------------------------------------------------------
+🐎 8 | One Smack Mac🐎 3 years old  colt, b,  124 lbs.
+🦄 Sire: Kodiac (12.0% Rank: 4)
+🌿 Dam: Khaimah (0.0% Rank: ?)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 13.0 (Rank: 6)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Rated 98, placed in listed at 6f last year, ground not ideal latest, yard in form, chance
+🔦 Spotlight: Rated 98; sole win from four starts on debut in a 6f Naas maiden (good); touched off in a Fairyhouse Listed (good) over the same trip after a break last September; ground and 1m not ideal on his seasonal reappearance at Naas two weeks ago; should come on for that and this ground and trip more his bag; go well for in-form yard.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Tally-Ho Stud
+🏠 Owner: A K Whelan 6/26 (23.00%) - (No previous owner(s))
+👤 Trainer: G M Lyons (0 previous trainer(s)) last 14d WinRate (4.0/15.0 runs) (Rank: 3) RTF: 53.0 (OVR: 22%)
+🏇 Jockey: Colin Keane (14d rank: 6) 🏇 Colin Keane winSR: 33.0% (No better alternative found.)(10.0/ 39.0 runs) RTF: N/A (OVR: 15%) 5Y: 159/1006 (16.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Rated 98, placed in listed at 6f last year, ground not ideal latest, yard in form, chance
+🔦 Spotlight: Rated 98; sole win from four starts on debut in a 6f Naas maiden (good); touched off in a Fairyhouse Listed (good) over the same trip after a break last September; ground and 1m not ideal on his seasonal reappearance at Naas two weeks ago; should come on for that and this ground and trip more his bag; go well for in-form yard.
+📊 **RANKS AND FLAGS**
+📉 OFR: 98.0 (Rank: 6)
+📈 RPR: 103.0 (Rank: 7)
+📉 TS: 72.0 (Rank: 7)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 1/2 | Ratio: 0.50
+🌱 Going Wins/Runs: 1/2 | Ratio: 0.50
+📊 Form: 125-4 → Score: 0.1 (Rank: 3)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-23 17:30:00 | ⏳ Time between runs: 13  days ago
+🥇 Result: 4 / 🏇 6 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 4 / 🏇 6 runners. 
+💰 Odds: 10.0 📉
+📝 Comment: pressed winner, ❄️ weakened inside final furlong
+🏆 RaceName: TRM - Supplements You Can Trust Race
+📋 Race Type: 3y
+🎽 Jockey: C T Keane- (⚖️ Weight: 135.0 lbs (61.4 kg) carried -- Allowance: 0.0) 🏇 Jockey: Colin Keane (SR 33.3%, 1/3) | 🏆 Not H&J — Best Alternative: Colin Keane (1/3, SR 33.3%)
+🏟️ Course: Naas ❓ (left-handed, undulating, galloping track (1m4f circuit), chute for sprints)
+📏 Distance: 8.0 furlongs (🔽 Dropping down to 6.0 today)
+🌱 Going: SH
+👜 Prize: 💰 8K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-10-19 15:40:00 | ⏳ Time between runs: 155  days ago
+🥇 Result: 5 / 🏇 5 runners. Expected: nan → Actual: 0 (nan vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇 Result: 5 / 🏇 5 runners. 
+💰 Odds: 6.5 📉
+📝 Comment: in touch with leaders, outpaced when dropped to last and ❄️ weakened over 1f out
+🏆 RaceName: Killavullan Stakes (Group 3)
+📋 Race Type: 2yG3
+🎽 Jockey: C T Keane- (⚖️ Weight: 131.0 lbs (59.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Colin Keane (SR 33.3%, 1/3) | 🏆 Not H&J — Best Alternative: Colin Keane (1/3, SR 33.3%)
+🏟️ Course: Leopardstown ❓ (left-handed, flat, galloping track (1m6f oval))
+📏 Distance: 7.0 furlongs (🔽 Dropping down to 6.0 today)
+🌱 Going: S
+👜 Prize: 💰 26K
+---------------------------------------------------------------------------
+🐎 9 | Lady With The Lamp🐎 3 years old  filly, b,  122 lbs.
+🦄 Sire: King Of Change (16.0% Rank: 1)
+🌿 Dam: Caring Touch (33.0% Rank: 3)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 15.0 (Rank: 7)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: 66-1 Listed win over 5f at Dundalk last year, turf form not as good, lacks a run, watch
+🔦 Spotlight: 1-3 on turf and rated 98; won a 5f Listed on the AW at Dundalk in October when a 66-1 shot; held by Ostraka on their meeting in a 5f Group 3 back there later that month; has to prove she is as effective on turf and lacks a recent run; best watched.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Billy McEnery & Paul McEnery
+🏠 Owner: K Blake/Mrs E Palmer/M Wilson/N Luck (No previous owner data) - (No previous owner(s))
+👤 Trainer: Joseph Patrick Obrien (0 previous trainer(s)) last 14d WinRate (2.0/23.0 runs) (Rank: 1) RTF: 55.0 (OVR: 10%)
+🏇 Jockey: Declan Mcdonogh (14d rank: 7) 🏇 Declan Mcdonogh winSR: 50.0% (No better alternative found.)(0.0/ 13.0 runs) RTF: N/A (OVR: 6%) 5Y: 74/759 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: 66-1 Listed win over 5f at Dundalk last year, turf form not as good, lacks a run, watch
+🔦 Spotlight: 1-3 on turf and rated 98; won a 5f Listed on the AW at Dundalk in October when a 66-1 shot; held by Ostraka on their meeting in a 5f Group 3 back there later that month; has to prove she is as effective on turf and lacks a recent run; best watched.
+📊 **RANKS AND FLAGS**
+📉 OFR: 98.0 (Rank: 6)
+📈 RPR: 103.0 (Rank: 7)
+📉 TS: 68.0 (Rank: 8)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 16318- → Score: 0.06 (Rank: 7)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-10-25 18:30:00 | ⏳ Time between runs: 162  days ago
+🥇 Result: 8 / 🏇 13 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 8 / 🏇 13 runners. 
+💰 Odds: 12.0 📉
+📝 Comment: 🔄 midfield, 🚧 bumped and lost position after 2f, waiting for room 2f out, pushed along and some headway when in the clear from over 1f out (jockey said filly was badly interfered with after 1f)
+🏆 RaceName: William Hill Top Price Guarantee Mercury Stakes (Group 3)
+📋 Race Type: G3
+🎽 Jockey: D P McDonogh- (⚖️ Weight: 119.0 lbs (54.1 kg) carried -- Allowance: 0.0) 🏇 Jockey: Declan Mcdonogh (SR 50.0%, 1/2) | 🏆 Not H&J — Best Alternative: Declan McDonogh (1/2, SR 50.0%)
+🏟️ Course: Dundalk (AW) ❓ (Polytrack. Left-handed (1m2f oval).)
+📏 Distance: 5.0 furlongs (🔼 Up to 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 29K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-10-04 17:15:00 | ⏳ Time between runs: 21  days ago
+🥇 Result: 1 🥇 / 🏇 13 runners. Expected: nan → Actual: 0 (nan vs expected)
+🏆 1st: Did Not Run, 2nd: Did Not Run, 3rd: Did Not Run ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/1P/0U
+🥇 Result: 1 🥇 / 🏇 13 runners. 
+💰 Odds: 66.0 ❄️❄️
+📝 Comment: 🔄 towards rear, good headway towards near side over 1f out, soon ridden, ⏳ ran on well to lead post
+🏆 RaceName: Irish Stallion Farms EBF Legacy Stakes (Listed Race)
+📋 Race Type: 2yL
+🎽 Jockey: D P McDonogh- (⚖️ Weight: 126.0 lbs (57.3 kg) carried -- Allowance: 0.0) 🏇 Jockey: Declan Mcdonogh (SR 50.0%, 1/2) | 🏆 Not H&J — Best Alternative: Declan McDonogh (1/2, SR 50.0%)
+🏟️ Course: Dundalk (AW) ❓ (Polytrack. Left-handed (1m2f oval).)
+📏 Distance: 5.0 furlongs (🔼 Up to 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 25K
+---------------------------------------------------------------------------
+🐎 3 | Ostraka🐎 5 years old  mare, b,  133 lbs.
+🦄 Sire: Profitable (11.0% Rank: 6)
+🌿 Dam: Ostatnia (30.0% Rank: 4)
+🛠️ Gear: b
+🩺 Medical History: No records
+🎲 Early market: 21.0 (Rank: 8)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 11th | ⚡ Speed: 93.31% | 📊 Rank: 4619.0 | 🔺 AvgDiff: -4.08 | 🔼 MaxDiff: -376.46 | 🔽 MinDiff: 12.87 | 🔴 1st Sect: – (14.88s) | 🟢 Last Sect: + (12.35s)
+🗞️ **PRESS OPINION**
+💬 Comment: 3-12 on turf, shock 5f Gr 3 winner at Dundalk, has run well here before, can't discount
+🔦 Spotlight: 3-12 on turf and rated 100; pulled off a shock 66-1 win in a 5f Dundalk Group 3 in October; no impact in a Listed heat at Southwell on latest in February; ran well over 5f in a handicap here last June; good ground suits and she can't be discounted.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: E Kopica And M Rosenfeld
+🏠 Owner: A P Challoner 3/10 (30.00%) - (No previous owner(s))
+👤 Trainer: Daniel James Murphy (0 previous trainer(s)) last 14d WinRate (1.0/4.0 runs) (Rank: 4) RTF: 75.0 (OVR: 9%)
+🏇 Jockey: James Ryan (14d rank: 8) 🏇 James Ryan winSR: 75.0% (No better alternative found.)(1.0/ 19.0 runs) RTF: N/A (OVR: 9%) 5Y: 49/637 (8.0)
+🗞️ **PRESS OPINION**
+💬 Comment: 3-12 on turf, shock 5f Gr 3 winner at Dundalk, has run well here before, can't discount
+🔦 Spotlight: 3-12 on turf and rated 100; pulled off a shock 66-1 win in a 5f Dundalk Group 3 in October; no impact in a Listed heat at Southwell on latest in February; ran well over 5f in a handicap here last June; good ground suits and she can't be discounted.
+📊 **RANKS AND FLAGS**
+📉 OFR: 100.0 (Rank: 4)
+📈 RPR: 110.0 (Rank: 5)
+📉 TS: 78.0 (Rank: 6)
+🏟️ Course Wins/Runs: 0/2 | Ratio: 0.00
+📏 Distance Wins/Runs: 1/10 | Ratio: 0.10
+🌱 Going Wins/Runs: 3/8 | Ratio: 0.38
+📊 Form: 1671-0 → Score: 0.07 (Rank: 5)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-02-22 14:40:00 | ⏳ Time between runs: 42  days ago
+🥇 Result: 11 / 🏇 11 runners. Expected: nan → Actual: 0 (nan vs expected)
+🏆 1st: Did Not Run, 2nd: Did Not Run, 3rd: Did Not Run ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇 Result: 11 / 🏇 11 runners. 
+💰 Odds: 33.0 ❄️
+📝 Comment: 🎯 prominent, lost ground over 2f out, ❄️ weakened over 1f out
+🏆 RaceName: BetUK Hever Sprint Stakes (Listed Race)
+📋 Race Type: 1L
+🎽 Jockey: James Ryan- (⚖️ Weight: 128.0 lbs (58.2 kg) carried -- Allowance: 0.0) 🏇 Jockey: James Ryan (SR 75.0%, 3/4) | 🏆 Not H&J — Best Alternative: James Ryan (3/4, SR 75.0%)
+🏟️ Course: Southwell (AW) ❓ (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📏 Distance: 5.0 furlongs (🔼 Up to 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 32K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-10-25 18:30:00 | ⏳ Time between runs: 119  days ago
+🥇 Result: 1 🥇 / 🏇 13 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 1 🥇 / 🏇 13 runners. 
+💰 Odds: 66.0 ❄️❄️
+📝 Comment: 🎯 led, headed and raced in second after 1f, 🎯 led again and ridden inside final furlong, ⏳ ran on well but much reduced lead towards finish, just held on
+🏆 RaceName: William Hill Top Price Guarantee Mercury Stakes (Group 3)
+📋 Race Type: G3
+🎽 Jockey: James Ryan- (⚖️ Weight: 137.0 lbs (62.3 kg) carried -- Allowance: 0.0) 🏇 Jockey: James Ryan (SR 75.0%, 3/4) | 🏆 Not H&J — Best Alternative: James Ryan (3/4, SR 75.0%)
+🏟️ Course: Dundalk (AW) ❓ (Polytrack. Left-handed (1m2f oval).)
+📏 Distance: 5.0 furlongs (🔼 Up to 6.0 today)
+🌱 Going: SD
+👜 Prize: 💰 29K
+---------------------------------------------------------------------------
+🐎 6 | Gutsy Girl🐎 4 years old  filly, b,  130 lbs.
+🦄 Sire: Blue Point (15.0% Rank: 3)
+🌿 Dam: Plucky Lass (0.0% Rank: ?)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 21.0 (Rank: 8)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: AW winner, 1-6 on turf and rated 89, came up short in Listed company, watch on stable bow
+🔦 Spotlight: AW winner is 1-6 on turf and rated 89; showed some decent form in handicaps for Charlie Fellowes last year but came up short in Listed company at Ayr; probably best watched on first start for Joseph O'Brien.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Hascombe & Valiant Stud Ltd
+🏠 Owner: Janine Byrne 0/6 (0.00%) - (No previous owner(s))
+👤 Trainer: Joseph Patrick Obrien (0 previous trainer(s)) last 14d WinRate (2.0/23.0 runs) (Rank: 1) RTF: 55.0 (OVR: 10%)
+🏇 Jockey: Dylan Browne Mcmonagle (14d rank: 8) 🏇 Dylan Browne Mcmonagle winSR: 0.0% | 🏆 Better Alternative: K Shoemark (1/2 - 50.0%)(2.0/ 24.0 runs) RTF: N/A (OVR: 10%) 5Y: 137/883 (16.0)
+🗞️ **PRESS OPINION**
+💬 Comment: AW winner, 1-6 on turf and rated 89, came up short in Listed company, watch on stable bow
+🔦 Spotlight: AW winner is 1-6 on turf and rated 89; showed some decent form in handicaps for Charlie Fellowes last year but came up short in Listed company at Ayr; probably best watched on first start for Joseph O'Brien.
+📊 **RANKS AND FLAGS**
+📉 OFR: 89.0 (Rank: 9)
+📈 RPR: 105.0 (Rank: 6)
+📉 TS: 89.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 2/6 | Ratio: 0.33
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: 31294- → Score: 0.06 (Rank: 6)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-10-02 16:45:00 | ⏳ Time between runs: 185  days ago
+🥇 Result: 4 / 🏇 8 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 4 / 🏇 8 runners. 
+💰 Odds: 5.5 🔥
+📝 Comment: 🔄 towards rear, headway over 1f out, no impression inside final furlong
+🏆 RaceName: ebfstallions.com Conditions Stakes (GBB Race)
+📋 Race Type: 2
+🎽 Jockey: K Shoemark- (⚖️ Weight: 125.0 lbs (56.8 kg) carried -- Allowance: 0.0) 🏇 Jockey: Dylan Browne Mcmonagle (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Kieran Shoemark (1/2, SR 50.0%)
+🏟️ Course: Kempton (AW) ❓ (Polytrack. Right-handed)
+📏 Distance: 6.0 furlongs (➡️ Same trip as today)
+🌱 Going: SS
+👜 Prize: 💰 13K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-09-20 14:40:00 | ⏳ Time between runs: 12  days ago
+🥇 Result: 9 / 🏇 13 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 9 / 🏇 13 runners. 
+💰 Odds: 5.5 🔥
+📝 Comment: swerved left start, 🔄 midfield, some headway 2f out, ❄️ weakened final furlong
+🏆 RaceName: Arran Scottish Sprint EBF Fillies' Stakes (Listed Race)
+📋 Race Type: 1LF
+🎽 Jockey: C Shepherd- (⚖️ Weight: 126.0 lbs (57.3 kg) carried -- Allowance: 0.0) 🏇 Jockey: Dylan Browne Mcmonagle (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Kieran Shoemark (1/2, SR 50.0%)
+🏟️ Course: Ayr ❓ (left-handed, galloping track)
+📏 Distance: 5.5 furlongs (🔼 Up to 6.0 today)
+🌱 Going: G
+👜 Prize: 💰 27K
+---------------------------------------------------------------------------

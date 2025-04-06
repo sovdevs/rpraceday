@@ -1,0 +1,784 @@
+⏰ Off Time: 2025-04-06 15:07
+📍 Venue: Fairyhouse (right-handed, galloping, testing track (1m6f circuit))
+🏁 Race ID: 892154 - 🏆 Name: Fairyhouse Easter Festival, It's Tradition Novice Handicap Hurdle
+⛷️ Type: Hurdle
+📏 Distance: 20.0 furlongs
+🏇 Class/Grade: nan
+🎂 Age Band: 4yo+
+💰 Prize money: 💰 7K
+☀️ Weather: Mostly sunny
+❓ Going: Yielding
+13 runners declared
+Speed Performance for Race ID 892154 (Filter: AND_notAW_handicap_notAmateur)
+===========================================================================
+horse_id         horse_name AND_notAW_handicap_notAmateur_bestSpeedPerM AND_notAW_handicap_notAmateur_worstSpeedPerM AND_notAW_handicap_notAmateur_avgSpeedPerM AND_notAW_handicap_notAmateur_noRaces AND_notAW_handicap_notAmateur_bestSpeedPerM_rank AND_notAW_handicap_notAmateur_avgSpeedPerM_rank
+ 5689590      Crescent Moon                                       13.06                                        13.34                                       13.2                                   2.0                                              1.0                                             1.0
+ 4604699             Hangry                                       12.07                                        14.43                                      13.12                                   3.0                                              4.0                                             2.0
+ 6662107          Lygon Lad                                       12.01                                        13.91                                      13.11                                   4.0                                              5.0                                             3.0
+ 5295439       Divilabother                                       11.92                                        13.69                                      13.05                                   7.0                                              6.0                                             4.0
+ 5412933   Backfromtheraces                                       12.12                                        13.79                                       13.0                                   5.0                                              3.0                                             5.0
+ 5521366      Aurea Fortuna                                       12.39                                         13.5                                      12.81                                   3.0                                              2.0                                             6.0
+ 5268380      Pirate Island                                       10.59                                        12.19                                      11.39                                   2.0                                              7.0                                             7.0
+ 5216443        Arctic Gale                                         NaN                                          NaN                                        NaN                                   NaN                                              NaN                                             NaN
+ 6759142  Is Charlie Around                                         NaN                                          NaN                                        NaN                                   NaN                                              NaN                                             NaN
+ 5676524       Pen To Paper                                         NaN                                          NaN                                        NaN                                   NaN                                              NaN                                             NaN
+ 4942596         Jeu De Pic                                         NaN                                          NaN                                        NaN                                   NaN                                              NaN                                             NaN
+ 5671288 Sticwiththeprocess                                         NaN                                          NaN                                        NaN                                   NaN                                              NaN                                             NaN
+ 6666808     Leahs Contessa                                         NaN                                          NaN                                        NaN                                   NaN                                              NaN                                             NaN
+No head-to-head data found for any of this race's horses
+++++++++++Performance Table++++++++++
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8        | Aurea Fortuna             | 5521366  | 6.0      | 3.0      | 11.0     | 1.0      | 3.0      | 8.0      | 2.0      | 7.0      | 5.0      | 5.0      | 1.0      | 8.0      | 4.0      | 3.0      | 4.0      | 6.0      | 6.0      | 8.0      | 3.0      | 8.0      | 11.0     | N/A      | 2.0      | 1.0      | 1.0      | 8.0      | 11.0     | 7.0      | 4.0      | 10.0    
+1        | Arctic Gale               | 5216443  | 3.0      | 2.0      | 7.0      | 1.0      | 2.0      | 6.0      | 2.0      | 1.0      | 13.0     | 7.0      | 5.0      | 1.0      | 2.0      | 12.0     | 11.0     | 9.0      | 6.0      | 6.0      | 6.0      | 6.0      | 7.0      | 1.0      | 2.0      | N/A      | 2.0      | 4.0      | 3.0      | 3.0      | 3.0      | 9.0     
+5        | Crescent Moon             | 5689590  | 5.0      | 3.0      | 8.0      | 1.0      | 3.0      | 12.0     | 2.0      | 10.0     | 8.0      | 10.0     | 9.0      | 5.0      | 5.0      | 5.0      | 12.0     | 13.0     | 3.0      | 12.0     | 9.0      | 12.0     | 8.0      | N/A      | 2.0      | 1.0      | 2.0      | 5.0      | 5.0      | N/A      | 5.0      | 2.0     
+3        | Pen To Paper              | 5676524  | 2.0      | 3.0      | 1.0      | 1.0      | 3.0      | 13.0     | 2.0      | 4.0      | 2.0      | 5.0      | 7.0      | 2.0      | 3.0      | 2.0      | 8.0      | 8.0      | 5.0      | 3.0      | 1.0      | 11.0     | 1.0      | 3.0      | N/A      | N/A      | 4.0      | 1.0      | 2.0      | 2.0      | N/A      | 1.0     
+4        | Lygon Lad                 | 6662107  | 4.0      | 3.0      | 6.0      | 1.0      | 3.0      | 7.0      | 2.0      | 2.0      | 1.0      | 2.0      | 4.0      | 4.0      | 9.0      | 10.0     | 4.0      | 11.0     | 1.0      | 13.0     | 7.0      | 13.0     | 2.0      | N/A      | 2.0      | 1.0      | 5.0      | 12.0     | 1.0      | 1.0      | 5.0      | 5.0     
+9        | Leahs Contessa            | 6666808  | 7.0      | 1.0      | 3.0      | 1.0      | 1.0      | 11.0     | 1.0      | 5.0      | 3.0      | 10.0     | 12.0     | 8.0      | 9.0      | 13.0     | 10.0     | 5.0      | 6.0      | 8.0      | 2.0      | 1.0      | 5.0      | 1.0      | 1.0      | 1.0      | 5.0      | 3.0      | 6.0      | 5.0      | 1.0      | 3.0     
+12       | Backfromtheraces          | 5412933  | 11.0     | 3.0      | 12.0     | 1.0      | 3.0      | 3.0      | 2.0      | 12.0     | 10.0     | 1.0      | 1.0      | 12.0     | 9.0      | 11.0     | 7.0      | 2.0      | 6.0      | 11.0     | 4.0      | 10.0     | 11.0     | N/A      | 2.0      | 1.0      | 7.0      | 2.0      | 8.0      | 7.0      | 5.0      | 7.0     
+13       | Divilabother              | 5295439  | 8.0      | 3.0      | 10.0     | 1.0      | 3.0      | 9.0      | 2.0      | 8.0      | 6.0      | 4.0      | 6.0      | 13.0     | 9.0      | 6.0      | 9.0      | 4.0      | 13.0     | 3.0      | 12.0     | 5.0      | 9.0      | N/A      | 2.0      | 1.0      | 7.0      | 10.0     | 10.0     | 7.0      | 5.0      | 8.0     
+6        | Jeu De Pic                | 4942596  | 6.0      | 3.0      | 5.0      | 1.0      | 3.0      | 5.0      | 2.0      | 11.0     | 9.0      | 7.0      | 3.0      | 6.0      | 6.0      | 1.0      | 1.0      | 12.0     | 6.0      | 5.0      | 4.0      | 7.0      | 6.0      | N/A      | 2.0      | N/A      | 9.0      | 11.0     | 12.0     | 4.0      | 5.0      | 4.0     
+7        | Sticwiththeprocess        | 5671288  | 9.0      | 3.0      | 4.0      | 1.0      | 3.0      | 10.0     | 2.0      | 13.0     | 11.0     | 13.0     | 11.0     | 6.0      | 7.0      | 6.0      | 3.0      | 10.0     | 2.0      | 1.0      | 9.0      | 4.0      | 13.0     | N/A      | 2.0      | N/A      | 9.0      | 1.0      | 4.0      | 2.0      | 5.0      | 13.0    
+2        | Is Charlie Around         | 6759142  | 6.0      | 3.0      | 2.0      | 1.0      | 3.0      | 4.0      | 2.0      | 9.0      | 7.0      | 10.0     | 7.0      | 2.0      | 9.0      | 8.0      | 6.0      | 1.0      | 6.0      | 6.0      | 13.0     | 2.0      | 4.0      | N/A      | N/A      | N/A      | 11.0     | 9.0      | 13.0     | 6.0      | 2.0      | 12.0    
+11       | Hangry                    | 4604699  | 10.0     | 3.0      | 13.0     | 1.0      | 3.0      | 1.0      | 2.0      | 3.0      | 12.0     | 3.0      | 10.0     | 11.0     | 1.0      | 9.0      | 1.0      | 3.0      | 6.0      | 10.0     | 11.0     | 9.0      | 10.0     | 3.0      | 2.0      | 1.0      | 11.0     | 7.0      | 7.0      | 7.0      | 5.0      | 6.0     
+10       | Pirate Island             | 5268380  | 1.0      | 3.0      | 9.0      | 1.0      | 3.0      | 2.0      | 2.0      | 6.0      | 4.0      | 7.0      | 13.0     | 10.0     | 8.0      | 4.0      | 12.0     | 7.0      | 4.0      | 2.0      | 8.0      | 3.0      | 3.0      | N/A      | 2.0      | 1.0      | 13.0     | 6.0      | 9.0      | 7.0      | 5.0      | 11.0    
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 8 | Aurea Fortuna🐎 6 years old  gelding, ch,  158 lbs.
+🦄 Sire: Mount Nelson (10.0% Rank: 8)
+🌿 Dam: Battle Over (3.0% Rank: 4)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 4.5 (Rank: 1)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 3rd | ⚡ Speed: 100.86% | 📊 Rank: 4276.0 | 🔺 AvgDiff: -5.21 | 🔼 MaxDiff: -377.59 | 🔽 MinDiff: 11.74 | 🔴 1st Sect: – (14.585s) | 🔴 Last Sect: – (16.490000000000002s)
+🗞️ **PRESS OPINION**
+💬 Comment: Two creditable runs in December, does not need to improve much to win a race in this grade
+🔦 Spotlight: Ran four times over fences between May and October last year while his trainer was serving a suspension; shaped well in his first two handicap hurdle attempts; second in a 19-runner contest over 3m at Punchestown and third in a 23-runner event over  2m4f at Leopardstown; tongue-tie on now; does not need to improve much to win a race of this standard.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Berry Farms
+🏠 Owner: Debbie Breslin 0/10 (0.00%) - (No previous owner(s))
+👤 Trainer: A J Martin (0 previous trainer(s)) last 14d WinRate (0.0/6.0 runs) (Rank: 6) RTF: 38.0 (OVR: 6%)
+🏇 Jockey: Daniel King (14d rank: 1) 🏇 Daniel King winSR: 0.0% (No better alternative found.)(3.0/ 12.0 runs) RTF: N/A (OVR: 4%) 5Y: 43/460 (9.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Two creditable runs in December, does not need to improve much to win a race in this grade
+🔦 Spotlight: Ran four times over fences between May and October last year while his trainer was serving a suspension; shaped well in his first two handicap hurdle attempts; second in a 19-runner contest over 3m at Punchestown and third in a 23-runner event over  2m4f at Leopardstown; tongue-tie on now; does not need to improve much to win a race of this standard.
+📊 **RANKS AND FLAGS**
+📉 OFR: 102.0 (Rank: 8)
+📈 RPR: 114.0 (Rank: 5)
+📉 TS: 105.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/4 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/3 | Ratio: 0.00
+📊 Form: 865423 → Score: 0.04 (Rank: 11)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-12-28 12:50:00 | ⏳ Time between runs: 98  days ago
+🥇 Result: 3 🥉 / 🏇 23 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 3 🥉 / 🏇 23 runners. 
+💰 Odds: 8.5 📉
+📝 Comment: 🔄 midfield, in touch with leaders after 2 out (usual 3 out), headway after last (usual 2 out), went second omitted last, no extra when lost second towards finish
+🏆 RaceName: Mercedes Benz South Dublin Handicap Hurdle
+📋 Race Type: HcH
+🎽 Jockey: D King- (⚖️ Weight: 152.0 lbs (69.1 kg) carried -- Allowance: 0.0) 🏇 Jockey: Daniel King (SR 0.0%, 0/6) | 🏆 Not H&J — Best Alternative: Peter Carberry (0/0, SR 0.0%)
+🏟️ Course: Leopardstown ❓ (left-handed, flat, galloping track (1m6f oval))
+📏 Distance: 20.0 furlongs (➡️ Same trip as today)
+🌱 Going: Y
+👜 Prize: 💰 8K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-12-10 15:20:00 | ⏳ Time between runs: 17  days ago
+🥇 Result: 2 🥈 / 🏇 19 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 2 🥈 / 🏇 19 runners. 
+💰 Odds: 4.5 🔥
+📝 Comment: 🔄 midfield, headway and 🎯 prominent before 2 out, ridden and no chance with winner before last, kept on and went second run-in
+🏆 RaceName: See You On New Years Eve Handicap Hurdle (Div II)
+📋 Race Type: HcH
+🎽 Jockey: D King- (⚖️ Weight: 163.0 lbs (74.1 kg) carried -- Allowance: 0.0) 🏇 Jockey: Daniel King (SR 0.0%, 0/6) | 🏆 Not H&J — Best Alternative: Peter Carberry (0/0, SR 0.0%)
+🏟️ Course: Punchestown ❓ (right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses)
+📏 Distance: 24.0 furlongs (🔽 Dropping down to 20.0 today)
+🌱 Going: GY
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🐎 1 | Arctic Gale🐎 6 years old  gelding, b,  167 lbs.
+🦄 Sire: Arctic Cosmos (12.0% Rank: 4)
+🌿 Dam: Celestial Gale (11.0% Rank: 3)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 7.0 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Second in three maiden hurdles last summer, not at his best on last two runs before break
+🔦 Spotlight: Bumper winner; second in three maiden hurdles last summer at up to 2m7f; disappointing when racing too keenly over roughly this trip at Cork in October; failed to show his best form over 2m at Galway later that month; makes handicap debut after a winter break.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Paddy Kinsella
+🏠 Owner: Mrs A F Mee 16/136 (12.00%) - (No previous owner(s))
+👤 Trainer: Emmet Mullins (0 previous trainer(s)) last 14d WinRate (0.0/4.0 runs) (Rank: 6) RTF: N/A (OVR: 17%)
+🏇 Jockey: Donagh Meyler (14d rank: 2) 🏇 Donagh Meyler winSR: 0.0% (No better alternative found.)(1.0/ 20.0 runs) RTF: N/A (OVR: 11%) 5Y: 28/285 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Second in three maiden hurdles last summer, not at his best on last two runs before break
+🔦 Spotlight: Bumper winner; second in three maiden hurdles last summer at up to 2m7f; disappointing when racing too keenly over roughly this trip at Cork in October; failed to show his best form over 2m at Galway later that month; makes handicap debut after a winter break.
+📊 **RANKS AND FLAGS**
+📉 OFR: 111.0 (Rank: 1)
+📈 RPR: 113.0 (Rank: 7)
+📉 TS: 98.0 (Rank: 5)
+🏟️ Course Wins/Runs: 1/1 | Ratio: 1.00
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 422246 → Score: 0.06 (Rank: 7)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-10-26 13:28:00 | ⏳ Time between runs: 161  days ago
+🥇 Result: 6 / 🏇 12 runners. Expected: nan → Actual: 0 (nan vs expected)
+🏆 1st: 7, 2nd: No runs since, 3rd: No runs since ⚠️ | 📊 1-3: 0W/0P/1U | 🐴 Also: 0W/0P/1U
+🥇 Result: 6 / 🏇 12 runners. 
+💰 Odds: 4.0 🔥
+📝 Comment: 🎯 prominent, not fluent 2nd, 🎯 led narrowly from 3rd, clear before 4th, not fluent 3 out, headed and not fluent 2 out, soon ❄️ weakened
+🏆 RaceName: Connolly's RED MILLS Irish EBF Auction Maiden Hurdle
+📋 Race Type: MdH
+🎽 Jockey: D Meyler- (⚖️ Weight: 162.0 lbs (73.6 kg) carried -- Allowance: 0.0) 🏇 Jockey: Donagh Meyler (SR 0.0%, 0/6) | 🏆 Not H&J — Best Alternative: Mr Derek O'Connor (0/1, SR 0.0%)
+🏟️ Course: Galway ❓ (right-handed, undulating, testing track (1m2f rectangle))
+📏 Distance: 16.5 furlongs (🔼 Up to 20.0 today)
+🌱 Going: YS
+👜 Prize: 💰 10K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-10-13 13:35:00 | ⏳ Time between runs: 12  days ago
+🥇 Result: 4 / 🏇 9 runners. Expected: nan → Actual: 0 (nan vs expected)
+🏆 1st: No runs since, 2nd: 3, 3rd: No runs since ❓ | 📊 1-3: 0W/1P/0U | 🐴 Also: 0W/0P/0U
+🥇 Result: 4 / 🏇 9 runners. 
+💰 Odds: 1.0 🔥🔥
+📝 Comment: took keen hold, raced in third, ridden before 2 out, kept on but lost third towards finish
+🏆 RaceName: Connolly's RED MILLS Irish EBF Auction Maiden Hurdle (IRE Incentive Race)
+📋 Race Type: MdH
+🎽 Jockey: D Meyler- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Donagh Meyler (SR 0.0%, 0/6) | 🏆 Not H&J — Best Alternative: Mr Derek O'Connor (0/1, SR 0.0%)
+🏟️ Course: Cork ❓ (right-handed flat and level (1m4f oval))
+📏 Distance: 20.5 furlongs (🔽 Dropping down to 20.0 today)
+🌱 Going: G
+👜 Prize: 💰 10K
+---------------------------------------------------------------------------
+🐎 5 | Crescent Moon🐎 5 years old  mare, b,  162 lbs.
+🦄 Sire: Spanish Moon (12.0% Rank: 5)
+🌿 Dam: Ulieska (0.0% Rank: 5)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 7.0 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Promise at Cork in January, ran poorly at Gowran, more like it over 2m at Leopardstown
+🔦 Spotlight: Promising run on handicap debut over 2m1f at Cork in January, staying on strongly under tender handling to finish second; ran no sort of race when favourite over this trip at Gowran; more like it when fourth over 2m at Leopardstown.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: E A R L Elevage Des Loges
+🏠 Owner: C-L Partnership (No previous owner data) - (No previous owner(s))
+👤 Trainer: Gavin Cromwell (0 previous trainer(s)) last 14d WinRate (1.0/21.0 runs) (Rank: 3) RTF: 26.0 (OVR: 10%)
+🏇 Jockey: Keith Donoghue (14d rank: 2) 🏇 Keith Donoghue winSR: 0.0% (No better alternative found.)(2.0/ 11.0 runs) RTF: N/A (OVR: 10%) 5Y: 149/898 (17.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Promise at Cork in January, ran poorly at Gowran, more like it over 2m at Leopardstown
+🔦 Spotlight: Promising run on handicap debut over 2m1f at Cork in January, staying on strongly under tender handling to finish second; ran no sort of race when favourite over this trip at Gowran; more like it when fourth over 2m at Leopardstown.
+📊 **RANKS AND FLAGS**
+📉 OFR: 106.0 (Rank: 5)
+📈 RPR: 111.0 (Rank: 10)
+📉 TS: 92.0 (Rank: 9)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/3 | Ratio: 0.00
+📊 Form: 580204 → Score: 0.06 (Rank: 8)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-02 15:30:00 | ⏳ Time between runs: 34  days ago
+🥇 Result: 4 / 🏇 17 runners. Expected: nan → Actual: 0 (nan vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇 Result: 4 / 🏇 17 runners. 
+💰 Odds: 10.0 📉
+📝 Comment: 🔄 towards rear, not fluent 1st, not fluent 4 out, headway from 3 out, pressed leaders approaching last, ❄️ weakened run-in
+🏆 RaceName: Cancer Fund For Children Charity Handicap Hurdle (Div II)
+📋 Race Type: HcH
+🎽 Jockey: K M Donoghue- (⚖️ Weight: 163.0 lbs (74.1 kg) carried -- Allowance: 0.0) 🏇 Jockey: Keith Donoghue (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: D G Lavery (0/0, SR 0.0%)
+🏟️ Course: Leopardstown ❓ (left-handed, flat, galloping track (1m6f oval))
+📏 Distance: 16.0 furlongs (🔼 Up to 20.0 today)
+🌱 Going: Y
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-15 14:30:00 | ⏳ Time between runs: 15  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+🥇 Result: 15 / 🏇 20 runners. 
+💰 Odds: 4.5 🔥
+📝 Comment: 🔄 midfield, ❄️ weakened 2 out (vet said mare was post race normal)
+🏆 RaceName: Albert Bartlett Triple Crown Series At Punchestown Festival 2025 Qualifier Handicap Hurdle
+📋 Race Type: HcH
+🎽 Jockey: C Stone-Walsh- (⚖️ Weight: 142.0 lbs (64.5 kg) carried -- Allowance: 5.0) 🏇 Jockey: Keith Donoghue (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: D G Lavery (0/0, SR 0.0%)
+🏟️ Course: Gowran Park ❓ (right-handed, undulating track (1m4f circuit))
+📏 Distance: 20.0 furlongs (➡️ Same trip as today)
+🌱 Going: S
+👜 Prize: 💰 8K
+---------------------------------------------------------------------------
+🐎 3 | Pen To Paper🐎 6 years old  gelding, b,  164 lbs.
+🦄 Sire: Blue Bresil (17.0% Rank: 1)
+🌿 Dam: Land Of Vic (0.0% Rank: ?)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 8.0 (Rank: 4)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 17th | ⚡ Speed: 95.24% | 📊 Rank: 10962.0 | 🔺 AvgDiff: 2.71 | 🔼 MaxDiff: -369.67 | 🔽 MinDiff: 19.66 | 🟢 1st Sect: + (17.92s) | 🟢 Last Sect: + (16.02s)
+🗞️ **PRESS OPINION**
+💬 Comment: Indicated ability on second of three starts, hard to assess, the market may provide clues
+🔦 Spotlight: Disappointing favourite on debut at Naas last season; chased home easy winner Rath Gaul Boy over 2m at this venue on second outing; unfancied (20-1) when down the field at Navan in November; hard to assess; market may provide clues.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: James And Jean Potter Ltd
+🏠 Owner: John P Mcmanus 451/3120 (14.00%) - (No previous owner(s))
+👤 Trainer: Henry De Bromhead (0 previous trainer(s)) last 14d WinRate (3.0/25.0 runs) (Rank: 5) RTF: 32.0 (OVR: 9%)
+🏇 Jockey: Mark Walsh (14d rank: 4) 🏇 Mark Walsh winSR: 0.0% (No better alternative found.)(3.0/ 10.0 runs) RTF: N/A (OVR: 18%) 5Y: 137/712 (19.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Indicated ability on second of three starts, hard to assess, the market may provide clues
+🔦 Spotlight: Disappointing favourite on debut at Naas last season; chased home easy winner Rath Gaul Boy over 2m at this venue on second outing; unfancied (20-1) when down the field at Navan in November; hard to assess; market may provide clues.
+📊 **RANKS AND FLAGS**
+📉 OFR: 108.0 (Rank: 2)
+📈 RPR: 114.0 (Rank: 5)
+📉 TS: 93.0 (Rank: 7)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 02-0 → Score: 1.0 (Rank: 1)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-12-07 12:32:00 | ⏳ Time between runs: 119  days ago
+🥇 Result: 17 / 🏇 25 runners. Expected: nan → Actual: 0 (nan vs expected)
+🏆 1st: Unplaced, 2nd: Unplaced, 3rd: Did Not Run ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇 Result: 17 / 🏇 25 runners. 
+💰 Odds: 20.0 ❄️
+📝 Comment: in touch with leaders, weakening when not fluent 2 out
+🏆 RaceName: Headfort Arms Hotel Maiden Hurdle
+📋 Race Type: MdH
+🎽 Jockey: B Hayes- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Mark Walsh (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Rachael Blackmore (0/0, SR 0.0%)
+🏟️ Course: Navan ❓ (left-handed, undulating, galloping track (1m4f circuit))
+📏 Distance: 16.0 furlongs (🔼 Up to 20.0 today)
+🌱 Going: S
+👜 Prize: 💰 7K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-03-31 12:25:00 | ⏳ Time between runs: 251  days ago
+🥇 Result: 2 🥈 / 🏇 20 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 2 🥈 / 🏇 20 runners. 
+💰 Odds: 7.0 📉
+📝 Comment: raced in third, headway before 2 out, outpaced approaching last, ran on and went second run-in, no match for winner
+🏆 RaceName: Ryan's Cleaning Maiden Hurdle
+📋 Race Type: MdH
+🎽 Jockey: M P Walsh- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Mark Walsh (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Rachael Blackmore (0/0, SR 0.0%)
+🏟️ Course: Fairyhouse ❓ (right-handed, galloping, testing track (1m6f circuit))
+📏 Distance: 16.0 furlongs (🔼 Up to 20.0 today)
+🌱 Going: HY
+👜 Prize: 💰 8K
+---------------------------------------------------------------------------
+🐎 4 | Lygon Lad🐎 5 years old  gelding, ch,  163 lbs.
+🦄 Sire: Lindas Lad (4.0% Rank: 12)
+🌿 Dam: Eudemis (0.0% Rank: 5)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 9.0 (Rank: 5)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 4th | ⚡ Speed: 100.95% | 📊 Rank: 3906.0 | 🔺 AvgDiff: -7.73 | 🔼 MaxDiff: -380.11 | 🔽 MinDiff: 9.22 | 🔴 1st Sect: – (15.395s) | 🔴 Last Sect: – (15.64s)
+🗞️ **PRESS OPINION**
+💬 Comment: Best run came on handicap debut at Navan in December over 2m, has failed to build on that
+🔦 Spotlight: Best run came on handicap debut at Navan in December over 2m on yielding to soft; has failed to build on that in three subsequent starts; soundly beaten in fourth over this trip at Down Royal last month.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Martin Keating
+🏠 Owner: It Takes Allsorts Syndicate 3/19 (16.00%) - (No previous owner(s))
+👤 Trainer: Gordon Elliott (0 previous trainer(s)) last 14d WinRate (4.0/57.0 runs) (Rank: 1) RTF: 40.0 (OVR: 14%)
+🏇 Jockey: Sam Ewing (14d rank: 5) 🏇 Sam Ewing winSR: 0.0% (No better alternative found.)(0.0/ 12.0 runs) RTF: N/A (OVR: 4%) 5Y: 84/743 (11.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Best run came on handicap debut at Navan in December over 2m, has failed to build on that
+🔦 Spotlight: Best run came on handicap debut at Navan in December over 2m on yielding to soft; has failed to build on that in three subsequent starts; soundly beaten in fourth over this trip at Down Royal last month.
+📊 **RANKS AND FLAGS**
+📉 OFR: 107.0 (Rank: 4)
+📈 RPR: 118.0 (Rank: 2)
+📉 TS: 100.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/3 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 352004 → Score: 0.09 (Rank: 2)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-17 14:27:00 | ⏳ Time between runs: 19  days ago
+🥇 Result: 4 / 🏇 8 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 4 / 🏇 8 runners. 
+💰 Odds: 16.0 📉
+📝 Comment: 🔄 held up in rear, raced wide but some headway after 3 out, kept on but never on terms
+🏆 RaceName: Albert Bartlett Triple Crown Series At Punchestown Festival 2025 Qualifier Novice Handicap Hurdle
+📋 Race Type: NvHcH
+🎽 Jockey: J S McGarvey- (⚖️ Weight: 155.0 lbs (70.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Sam Ewing (SR 0.0%, 0/2) | 🏆 Not H&J — Best Alternative: Kevin Sexton (0/0, SR 0.0%)
+🏟️ Course: Down Royal ❓ (right-handed, galloping, undulating, testing (1m7f circuit))
+📏 Distance: 20.0 furlongs (➡️ Same trip as today)
+🌱 Going: G
+👜 Prize: 💰 8K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-01-26 15:30:00 | ⏳ Time between runs: 49  days ago
+🥇 Result: 11 / 🏇 14 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 11 / 🏇 14 runners. 
+💰 Odds: 14.0 📉
+📝 Comment: 🔄 midfield, ❄️ weakened before 2 out, not fluent last
+🏆 RaceName: Albert Bartlett Triple Crown Series At Punchestown Festival 2025 Qualifier Handicap Hurdle
+📋 Race Type: HcH
+🎽 Jockey: Sam Ewing- (⚖️ Weight: 157.0 lbs (71.4 kg) carried -- Allowance: 0.0) 🏇 Jockey: Sam Ewing (SR 0.0%, 0/2) | 🏆 Not H&J — Best Alternative: Kevin Sexton (0/0, SR 0.0%)
+🏟️ Course: Naas ❓ (left-handed, undulating, galloping track (1m4f circuit))
+📏 Distance: 18.5 furlongs (🔼 Up to 20.0 today)
+🌱 Going: SH
+👜 Prize: 💰 8K
+---------------------------------------------------------------------------
+🐎 9 | Leahs Contessa🐎 5 years old  mare, b,  158 lbs.
+🦄 Sire: Califet (13.0% Rank: 3)
+🌿 Dam: Leahs Melody (20.0% Rank: 1)
+🛠️ Gear: h
+🩺 Medical History: No records
+🎲 Early market: 9.0 (Rank: 5)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: P | ⚡ Speed: 0.0% | 📊 Rank: 9035.0 | 🔺 AvgDiff: 2.51 | 🔼 MaxDiff: -369.87 | 🔽 MinDiff: 19.46 | 🔴 1st Sect: – (19.46s) | 🔴 Last Sect: – (16.560000000000002s)
+🗞️ **PRESS OPINION**
+💬 Comment: Course winner, pulled up over C&D on handicap debut in February, questions to answer now
+🔦 Spotlight: Was having her fourth start when landing a maiden over slightly further here in January, surviving a mistake at the last to win a shade snugly; pulled up over C&D on handicap debut in February; questions to answer now.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: John Breslin
+🏠 Owner: John Breslin 7/117 (6.00%) - (No previous owner(s))
+👤 Trainer: Cian Collins (0 previous trainer(s)) last 14d WinRate (0.0/6.0 runs) (Rank: 6) RTF: 29.0 (OVR: 8%)
+🏇 Jockey: Danny Gilligan (14d rank: 5) 🏇 Danny Gilligan winSR: 0.0% (No better alternative found.)(0.0/ 17.0 runs) RTF: N/A (OVR: 12%) 5Y: 63/476 (13.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Course winner, pulled up over C&D on handicap debut in February, questions to answer now
+🔦 Spotlight: Was having her fourth start when landing a maiden over slightly further here in January, surviving a mistake at the last to win a shade snugly; pulled up over C&D on handicap debut in February; questions to answer now.
+📊 **RANKS AND FLAGS**
+📉 OFR: 102.0 (Rank: 8)
+📈 RPR: 111.0 (Rank: 10)
+📉 TS: 66.0 (Rank: 12)
+🏟️ Course Wins/Runs: 1/2 | Ratio: 0.50
+📏 Distance Wins/Runs: 1/3 | Ratio: 0.33
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: 5901P → Score: 0.07 (Rank: 5)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-02-22 14:50:00 | ⏳ Time between runs: 42  days ago
+🥇 Result: nan / 🏇 23 runners. Expected: nan → Actual: 0 (nan vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/1P/0U
+🥇 Result: nan / 🏇 23 runners. 
+💰 Odds: 8.0 📉
+📝 Comment: 🎯 prominent, ❄️ weakened quickly after 3 out, soon pulled up
+🏆 RaceName: Tote, Never Beaten By SP Handicap Hurdle
+📋 Race Type: HcH
+🎽 Jockey: D Gilligan- (⚖️ Weight: 159.0 lbs (72.3 kg) carried -- Allowance: 0.0) 🏇 Jockey: Danny Gilligan (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: E Walsh (0/1, SR 0.0%)
+🏟️ Course: Fairyhouse ❓ (right-handed, galloping, testing track (1m6f circuit))
+📏 Distance: 20.0 furlongs (➡️ Same trip as today)
+🌱 Going: S
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-01-25 14:48:00 | ⏳ Time between runs: 28  days ago
+🥇 Result: 1 🥇 / 🏇 13 runners. Expected: nan → Actual: 0 (nan vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: 12 ❓ | 📊 1-3: 0W/0P/1U | 🐴 Also: 0W/0P/1U
+🥇 Result: 1 🥇 / 🏇 13 runners. 
+💰 Odds: 5.0 🔥
+📝 Comment: took keen hold, in touch with leaders, disputing third and going easily 2 out, shaken up to lead before last, mistake last, ridden out run-in, always doing enough
+🏆 RaceName: CCR Raceday Maiden Hurdle
+📋 Race Type: MdH
+🎽 Jockey: T P Roche- (⚖️ Weight: 145.0 lbs (65.9 kg) carried -- Allowance: 7.0) 🏇 Jockey: Danny Gilligan (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: E Walsh (0/1, SR 0.0%)
+🏟️ Course: Fairyhouse ❓ (right-handed, galloping, testing track (1m6f circuit))
+📏 Distance: 20.5 furlongs (🔽 Dropping down to 20.0 today)
+🌱 Going: S
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🐎 12 | Backfromtheraces🐎 6 years old  mare, b,  145 lbs.
+🦄 Sire: Yeats (15.0% Rank: 2)
+🌿 Dam: Royal Jubilee (0.0% Rank: 5)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 11.0 (Rank: 7)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 5th | ⚡ Speed: 97.77% | 📊 Rank: 8435.0 | 🔺 AvgDiff: -4.28 | 🔼 MaxDiff: -376.66 | 🔽 MinDiff: 12.67 | 🔴 1st Sect: – (16.115000000000002s) | 🔴 Last Sect: – (17.9s)
+🗞️ **PRESS OPINION**
+💬 Comment: Placed in her first two handicaps at Wexford and Naas, more recent form not as convincing
+🔦 Spotlight: Fine efforts in defeat in her first two handicaps at Wexford and Naas; well below best on next two outings; more like it when fifth at Wexford, up in trip now.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Liam Gavin
+🏠 Owner: Rath To Racing Syndicate 0/8 (0.00%) - (No previous owner(s))
+👤 Trainer: P J Rothwell (0 previous trainer(s)) last 14d WinRate (0.0/13.0 runs) (Rank: 6) RTF: 31.0 (OVR: 4%)
+🏇 Jockey: Tiernan Power Roche(5) (14d rank: 7) 🏇 Tiernan Power Roche(5) winSR: 0.0% (No better alternative found.)(0.0/ 15.0 runs) RTF: N/A (OVR: 21%) 5Y: 21/207 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Placed in her first two handicaps at Wexford and Naas, more recent form not as convincing
+🔦 Spotlight: Fine efforts in defeat in her first two handicaps at Wexford and Naas; well below best on next two outings; more like it when fifth at Wexford, up in trip now.
+📊 **RANKS AND FLAGS**
+📉 OFR: 89.0 (Rank: 12)
+📈 RPR: 119.0 (Rank: 1)
+📉 TS: 105.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: -23995 → Score: 0.04 (Rank: 11)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-17 14:45:00 | ⏳ Time between runs: 19  days ago
+🥇 Result: 5 / 🏇 14 runners. Expected: nan → Actual: 0 (nan vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇 Result: 5 / 🏇 14 runners. 
+💰 Odds: 16.0 📉
+📝 Comment: 🔄 midfield, headway on turn before 2 out, ❄️ weakened before last
+🏆 RaceName: Visit Wexford Novice Handicap Hurdle
+📋 Race Type: NvHcH
+🎽 Jockey: S Torrens- (⚖️ Weight: 146.0 lbs (66.4 kg) carried -- Allowance: 0.0) 🏇 Jockey: Tiernan Power Roche(5) (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: M J Sweeney (0/0, SR 0.0%)
+🏟️ Course: Wexford ❓ (Left-handed (was r-h before spring 2015), fairly sharp track (1m2f circuit))
+📏 Distance: 16.0 furlongs (🔼 Up to 20.0 today)
+🌱 Going: GY
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-03-03 14:10:00 | ⏳ Time between runs: 14  days ago
+🥇 Result: 9 / 🏇 18 runners. Expected: nan → Actual: 0 (nan vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/1P/0U
+🥇 Result: 9 / 🏇 18 runners. 
+💰 Odds: 7.0 📉
+📝 Comment: 🔄 towards rear, headway into 🔄 midfield 3 out, no impression from 2 out
+🏆 RaceName: QuinnBet Mares Handicap Hurdle
+📋 Race Type: HcHM
+🎽 Jockey: Miss P Elvin- (⚖️ Weight: 135.0 lbs (61.4 kg) carried -- Allowance: 7.0) 🏇 Jockey: Tiernan Power Roche(5) (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: M J Sweeney (0/0, SR 0.0%)
+🏟️ Course: Leopardstown ❓ (left-handed, flat, galloping track (1m6f oval))
+📏 Distance: 20.0 furlongs (➡️ Same trip as today)
+🌱 Going: Y
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🐎 13 | Divilabother🐎 7 years old  gelding, gr,  141 lbs.
+🦄 Sire: Markaz (9.0% Rank: 10)
+🌿 Dam: Rockabout (0.0% Rank: 5)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 11.0 (Rank: 7)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Placed twice in the first half of the season, stays this trip and suited by good ground
+🔦 Spotlight: Placed twice in the first half of the season; disappointing at Limerick in October after a good run at Galway; stays this trip and suited by good ground.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Mr J Connolly
+🏠 Owner: Philippa Scott 0/16 (0.00%) - (No previous owner(s))
+👤 Trainer: Thomas Coyle (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 13) RTF: 25.0 (OVR: 0%)
+🏇 Jockey: Conor Stone-Walsh(3) (14d rank: 7) 🏇 Conor Stone-Walsh(3) winSR: 0.0% (No better alternative found.)(0.0/ 2.0 runs) RTF: N/A (OVR: 13%) 5Y: 35/349 (10.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Placed twice in the first half of the season, stays this trip and suited by good ground
+🔦 Spotlight: Placed twice in the first half of the season; disappointing at Limerick in October after a good run at Galway; stays this trip and suited by good ground.
+📊 **RANKS AND FLAGS**
+📉 OFR: 85.0 (Rank: 13)
+📈 RPR: 115.0 (Rank: 4)
+📉 TS: 95.0 (Rank: 6)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 442930 → Score: 0.05 (Rank: 9)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-10-19 15:25:00 | ⏳ Time between runs: 168  days ago
+🥇 Result: 12 / 🏇 18 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 12 / 🏇 18 runners. 
+💰 Odds: 5.5 🔥
+📝 Comment: 🔄 midfield, ⚠️ hampered 1st, dropped to rear and struggling from 3 out
+🏆 RaceName: Race Displays Handicap Hurdle (Div I)
+📋 Race Type: HcH
+🎽 Jockey: C Millar- (⚖️ Weight: 147.0 lbs (66.8 kg) carried -- Allowance: 7.0) 🏇 Jockey: Conor Stone-Walsh(3) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Keith Donoghue (0/0, SR 0.0%)
+🏟️ Course: Limerick ❓ (right-handed, undulating track (1m3f oval))
+📏 Distance: 21.0 furlongs (🔽 Dropping down to 20.0 today)
+🌱 Going: G
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-09-09 16:05:00 | ⏳ Time between runs: 39  days ago
+🥇 Result: 3 🥉 / 🏇 19 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 3 🥉 / 🏇 19 runners. 
+💰 Odds: 8.0 📉
+📝 Comment: 🔄 towards rear, headway when switched right before 2 out, ridden and ran on when switched left after 2 out, pressed winner but no extra towards finish
+🏆 RaceName: Galway Handicap Hurdle (Div I)
+📋 Race Type: HcH
+🎽 Jockey: C Millar- (⚖️ Weight: 144.0 lbs (65.5 kg) carried -- Allowance: 7.0) 🏇 Jockey: Conor Stone-Walsh(3) (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Keith Donoghue (0/0, SR 0.0%)
+🏟️ Course: Galway ❓ (right-handed, undulating, testing track (1m2f rectangle))
+📏 Distance: 22.5 furlongs (🔽 Dropping down to 20.0 today)
+🌱 Going: GY
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🐎 6 | Jeu De Pic🐎 6 years old  gelding, bl,  161 lbs.
+🦄 Sire: Racinger (7.000000000000001% Rank: 11)
+🌿 Dam: Demoiselle De Pic (0.0% Rank: 5)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 13.0 (Rank: 9)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Good efforts in a pair of maidens over this trip last July; twice less effective over 2m6f
+🔦 Spotlight: Good efforts in a pair of maiden hurdles over this trip last July; not as effective over 2m6f at Downpatrick and Listowel; makes handicap debut on return from winter break.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: E A R L Trinquet, Marc Trinquet, Olivier Trinquet
+🏠 Owner: Ciaran John Mooney 7/89 (8.00%) - (No previous owner(s))
+👤 Trainer: Thomas Cooper (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 6) RTF: 33.0 (OVR: 4%)
+🏇 Jockey: Sean Flanagan (14d rank: 9) 🏇 Sean Flanagan winSR: 0.0% (No better alternative found.)(2.0/ 14.0 runs) RTF: N/A (OVR: 9%) 5Y: 58/503 (12.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Good efforts in a pair of maidens over this trip last July; twice less effective over 2m6f
+🔦 Spotlight: Good efforts in a pair of maiden hurdles over this trip last July; not as effective over 2m6f at Downpatrick and Listowel; makes handicap debut on return from winter break.
+📊 **RANKS AND FLAGS**
+📉 OFR: 105.0 (Rank: 6)
+📈 RPR: 113.0 (Rank: 7)
+📉 TS: 102.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/3 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: P32455 → Score: 0.06 (Rank: 6)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-09-22 14:30:00 | ⏳ Time between runs: 195  days ago
+🥇 Result: 5 / 🏇 18 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 5 / 🏇 18 runners. 
+💰 Odds: 28.0 ❄️
+📝 Comment: in touch with leaders, no extra before 2 out
+🏆 RaceName: Dairygold Maiden Hurdle
+📋 Race Type: MdH
+🎽 Jockey: M O'Sullivan- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Sean Flanagan (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Mr P W Mullins (0/0, SR 0.0%)
+🏟️ Course: Listowel ❓ (left-handed, flat track (1m2f oval))
+📏 Distance: 22.0 furlongs (🔽 Dropping down to 20.0 today)
+🌱 Going: G
+👜 Prize: 💰 7K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-08-26 14:05:00 | ⏳ Time between runs: 27  days ago
+🥇 Result: 5 / 🏇 7 runners. Expected: nan → Actual: 0 (nan vs expected)
+🏆 1st: 1, 2nd: Unplaced, 3rd: Did Not Run 🥇 ✅ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇 Result: 5 / 🏇 7 runners. 
+💰 Odds: 8.0 📉
+📝 Comment: raced in second, lost second after 2 out, no extra after last, ❄️ weakened and lost two places run-in
+🏆 RaceName: Randox Maiden Hurdle
+📋 Race Type: MdH
+🎽 Jockey: M O'Sullivan- (⚖️ Weight: 158.0 lbs (71.8 kg) carried -- Allowance: 0.0) 🏇 Jockey: Sean Flanagan (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Mr P W Mullins (0/0, SR 0.0%)
+🏟️ Course: Downpatrick ❓ (right-handed, sharp, undulating track (1m2f circuit))
+📏 Distance: 22.0 furlongs (🔽 Dropping down to 20.0 today)
+🌱 Going: G
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🐎 7 | Sticwiththeprocess🐎 5 years old  gelding, b,  161 lbs.
+🦄 Sire: Blue Bresil (17.0% Rank: 1)
+🌿 Dam: Azturk (0.0% Rank: 5)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 13.0 (Rank: 9)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 8th | ⚡ Speed: 100.06% | 📊 Rank: 10962.0 | 🔺 AvgDiff: 6.50 | 🔼 MaxDiff: -365.88 | 🔽 MinDiff: 23.45 | 🟢 1st Sect: + (21.35s) | 🔴 Last Sect: – (16.05s)
+🗞️ **PRESS OPINION**
+💬 Comment: Some ability in maidens, unknown quantity in handicaps, Mark Walsh partners Pen To Paper
+🔦 Spotlight: Has shown some promise in maidens and could slot into handicaps effectively; Mark Walsh, who was aboard for his penultimate start, partners Pen To Paper.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: William Ewart
+🏠 Owner: John P Mcmanus 451/3120 (14.00%) - (No previous owner(s))
+👤 Trainer: T M Walsh (0 previous trainer(s)) last 14d WinRate (1.0/2.0 runs) (Rank: 2) RTF: 75.0 (OVR: 10%)
+🏇 Jockey: Jody Mcgarvey (14d rank: 9) 🏇 Jody Mcgarvey winSR: 0.0% (No better alternative found.)(1.0/ 8.0 runs) RTF: N/A (OVR: 5%) 5Y: 14/352 (4.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Some ability in maidens, unknown quantity in handicaps, Mark Walsh partners Pen To Paper
+🔦 Spotlight: Has shown some promise in maidens and could slot into handicaps effectively; Mark Walsh, who was aboard for his penultimate start, partners Pen To Paper.
+📊 **RANKS AND FLAGS**
+📉 OFR: 105.0 (Rank: 6)
+📈 RPR: 108.0 (Rank: 13)
+📉 TS: 79.0 (Rank: 11)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 8-558 → Score: 0.04 (Rank: 13)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-09 14:10:00 | ⏳ Time between runs: 27  days ago
+🥇 Result: 8 / 🏇 25 runners. Expected: nan → Actual: 0 (nan vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇 Result: 8 / 🏇 25 runners. 
+💰 Odds: 25.0 ❄️
+📝 Comment: 🔄 midfield, slow jump 4 out, no extra after 3 out
+🏆 RaceName: Bar One Racing "Guaranteed Multiples All Shops" Maiden Hurdle
+📋 Race Type: MdH
+🎽 Jockey: B Hayes- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Jody Mcgarvey (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Derek O'Connor (0/0, SR 0.0%)
+🏟️ Course: Naas ❓ (left-handed, undulating, galloping track (1m4f circuit))
+📏 Distance: 19.5 furlongs (🔼 Up to 20.0 today)
+🌱 Going: S
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-01-27 13:10:00 | ⏳ Time between runs: 41  days ago
+🥇 Result: 5 / 🏇 16 runners. Expected: nan → Actual: 0 (nan vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/1P/2U
+🥇 Result: 5 / 🏇 16 runners. 
+💰 Odds: 10.0 📉
+📝 Comment: in touch with leaders, nudged along after 3 out, no impression after 2 out
+🏆 RaceName: 50,000 Euros BetVictor Graduation Bonus Series Maiden Hurdle
+📋 Race Type: MdH
+🎽 Jockey: M P Walsh- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Jody Mcgarvey (SR 0.0%, 0/0) | 🏆 Not H&J — Best Alternative: Derek O'Connor (0/0, SR 0.0%)
+🏟️ Course: Punchestown ❓ (right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses)
+📏 Distance: 16.0 furlongs (🔼 Up to 20.0 today)
+🌱 Going: HY
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🐎 2 | Is Charlie Around🐎 6 years old  gelding, ch,  164 lbs.
+🦄 Sire: Imperial Monarch (10.0% Rank: 9)
+🌿 Dam: Champagne Pop (12.0% Rank: 2)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 17.0 (Rank: 11)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 4th | ⚡ Speed: 111.72% | 📊 Rank: 4117.0 | 🔺 AvgDiff: -2.36 | 🔼 MaxDiff: -374.74 | 🔽 MinDiff: 14.59 | 🔴 1st Sect: – (18.85s) | 🔴 Last Sect: – (17.32s)
+🗞️ **PRESS OPINION**
+💬 Comment: Promise in two maiden hurdle outings at Clonmel, opening handicap mark looks harsh
+🔦 Spotlight: Has shown promise in two maiden hurdle outings at Clonmel in recent months; opening handicap mark looks harsh.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Mrs Valerie Courtney
+🏠 Owner: Mrs Valerie Courtney 3/70 (4.00%) - (No previous owner(s))
+👤 Trainer: Eamon Courtney (0 previous trainer(s)) last 14d WinRate (0.0/4.0 runs) (Rank: 6) RTF: 50.0 (OVR: -)
+🏇 Jockey: Ricky Doyle (14d rank: 11) 🏇 Ricky Doyle winSR: 0.0% (No better alternative found.)(0.0/ 6.0 runs) RTF: N/A (OVR: 3%) 5Y: 9/153 (6.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Promise in two maiden hurdle outings at Clonmel, opening handicap mark looks harsh
+🔦 Spotlight: Has shown promise in two maiden hurdle outings at Clonmel in recent months; opening handicap mark looks harsh.
+📊 **RANKS AND FLAGS**
+📉 OFR: 108.0 (Rank: 2)
+📈 RPR: 111.0 (Rank: 10)
+📉 TS: 93.0 (Rank: 7)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/0 | Ratio: N/A
+📊 Form: 554 → Score: 0.07 (Rank: 4)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-02-27 16:00:00 | ⏳ Time between runs: 37  days ago
+🥇 Result: 4 / 🏇 17 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 4 / 🏇 17 runners. 
+💰 Odds: 9.0 📉
+📝 Comment: pressed leader, 🎯 led 3rd, not fluent 4th, headed 2 out, ❄️ weakened last
+🏆 RaceName: Irish Stallion Farms EBF Maiden Hurdle
+📋 Race Type: MdH
+🎽 Jockey: R A Doyle- (⚖️ Weight: 158.0 lbs (71.8 kg) carried -- Allowance: 0.0) 🏇 Jockey: Ricky Doyle (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: Calum Hogan (0/0, SR 0.0%)
+🏟️ Course: Clonmel ❓ (right-handed, undulating, stiff uphill finish (1m2f))
+📏 Distance: 19.0 furlongs (🔼 Up to 20.0 today)
+🌱 Going: HY
+👜 Prize: 💰 8K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-13 13:10:00 | ⏳ Time between runs: 14  days ago
+🥇 Result: 5 / 🏇 18 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 5 / 🏇 18 runners. 
+💰 Odds: 100.0 ❄️❄️
+📝 Comment: 🎯 led narrowly, not fluent and briefly headed 1st, headed and raced in second from 2nd, lost position then ⚠️ hampered on turn before 2 out, soon outpaced
+🏆 RaceName: Derrygrath Maiden Hurdle
+📋 Race Type: MdH
+🎽 Jockey: R A Doyle- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Ricky Doyle (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: Calum Hogan (0/0, SR 0.0%)
+🏟️ Course: Clonmel ❓ (right-handed, undulating, stiff uphill finish (1m2f))
+📏 Distance: 16.0 furlongs (🔼 Up to 20.0 today)
+🌱 Going: S
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🐎 11 | Hangry🐎 5 years old  gelding, ch,  151 lbs.
+🦄 Sire: Galileo (10.0% Rank: 7)
+🌿 Dam: Magic Tree (0.0% Rank: 5)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 17.0 (Rank: 11)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 13th | ⚡ Speed: 101.82% | 📊 Rank: 4356.0 | 🔺 AvgDiff: 10.39 | 🔼 MaxDiff: -361.99 | 🔽 MinDiff: 27.34 | 🟢 1st Sect: + (16.509999999999998s) | 🟢 Last Sect: + (14.315s)
+🗞️ **PRESS OPINION**
+💬 Comment: Good run at 33-1 when fifth over C&D, failed to reproduce that form at Limerick
+🔦 Spotlight: Modest sort on the Flat; good run at 33-1 when fifth over C&D in December on handicap debut; failed to reproduce that form at Limerick two weeks later.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Coolmore Stud
+🏠 Owner: Dividebyfive Syndicate 0/18 (0.00%) - (No previous owner(s))
+👤 Trainer: John C Mcconnell (0 previous trainer(s)) last 14d WinRate (0.0/10.0 runs) (Rank: 6) RTF: 28.0 (OVR: 1%)
+🏇 Jockey: Alex Harvey(5) (14d rank: 11) 🏇 Alex Harvey(5) winSR: 0.0% (No better alternative found.)(1.0/ 14.0 runs) RTF: N/A (OVR: 9%) 5Y: 26/233 (11.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Good run at 33-1 when fifth over C&D, failed to reproduce that form at Limerick
+🔦 Spotlight: Modest sort on the Flat; good run at 33-1 when fifth over C&D in December on handicap debut; failed to reproduce that form at Limerick two weeks later.
+📊 **RANKS AND FLAGS**
+📉 OFR: 95.0 (Rank: 11)
+📈 RPR: 116.0 (Rank: 3)
+📉 TS: 88.0 (Rank: 10)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: U59550 → Score: 0.04 (Rank: 10)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2024-12-28 15:25:00 | ⏳ Time between runs: 98  days ago
+🥇 Result: 13 / 🏇 18 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 13 / 🏇 18 runners. 
+💰 Odds: 11.0 📉
+📝 Comment: 🎯 prominent, dropped to 🔄 midfield halfway, ❄️ weakened 2 out
+🏆 RaceName: D Pack Packaging Handicap Hurdle
+📋 Race Type: HcH
+🎽 Jockey: A Harvey- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 5.0) 🏇 Jockey: Alex Harvey(5) (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: Mickael Barzalona (0/1, SR 0.0%)
+🏟️ Course: Limerick ❓ (right-handed, undulating track (1m3f oval))
+📏 Distance: 21.0 furlongs (🔽 Dropping down to 20.0 today)
+🌱 Going: YS
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2024-12-14 14:12:00 | ⏳ Time between runs: 14  days ago
+🥇 Result: 5 / 🏇 13 runners. Expected: nan → Actual: 0 (nan vs expected)
+📭 No data for 1,2,3rd placed from this race
+🥇 Result: 5 / 🏇 13 runners. 
+💰 Odds: 33.0 ❄️
+📝 Comment: in touch with leaders, headway on far side of group when bad mistake and stumbled 2 out, soon lost position, kept on run-in, not recover
+🏆 RaceName: Fairyhouse, Racecourse Of The Year 2024 Handicap Hurdle (Div I)
+📋 Race Type: HcH
+🎽 Jockey: A Harvey- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 5.0) 🏇 Jockey: Alex Harvey(5) (SR 0.0%, 0/1) | 🏆 Not H&J — Best Alternative: Mickael Barzalona (0/1, SR 0.0%)
+🏟️ Course: Fairyhouse ❓ (right-handed, galloping, testing track (1m6f circuit))
+📏 Distance: 20.0 furlongs (➡️ Same trip as today)
+🌱 Going: Y
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🐎 10 | Pirate Island🐎 7 years old  gelding, ch,  157 lbs.
+🦄 Sire: Soldier Of Fortune (12.0% Rank: 6)
+🌿 Dam: Sweet Harry (0.0% Rank: 5)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 21.0 (Rank: 13)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 9th | ⚡ Speed: 92.14% | 📊 Rank: 6557.0 | 🔺 AvgDiff: 0.17 | 🔼 MaxDiff: -372.21 | 🔽 MinDiff: 17.12 | 🔴 1st Sect: – (17.205s) | 🟢 Last Sect: + (17.59s)
+🗞️ **PRESS OPINION**
+💬 Comment: Promising form in maidens last season;, plenty to prove now after three outings this term
+🔦 Spotlight: Promising form in maidens last season; plenty to prove now after three outings this term.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: M F Finneran
+🏠 Owner: D D Sheehan 0/9 (0.00%) - (No previous owner(s))
+👤 Trainer: Philip Fenton (0 previous trainer(s)) last 14d WinRate (1.0/7.0 runs) (Rank: 4) RTF: 29.0 (OVR: 11%)
+🏇 Jockey: Brian Hayes (14d rank: 13) 🏇 Brian Hayes winSR: 0.0% (No better alternative found.)(1.0/ 9.0 runs) RTF: N/A (OVR: 10%) 5Y: 42/497 (8.0)
+🗞️ **PRESS OPINION**
+💬 Comment: Promising form in maidens last season;, plenty to prove now after three outings this term
+🔦 Spotlight: Promising form in maidens last season; plenty to prove now after three outings this term.
+📊 **RANKS AND FLAGS**
+📉 OFR: 101.0 (Rank: 10)
+📈 RPR: 113.0 (Rank: 7)
+📉 TS: 49.0 (Rank: 13)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/5 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: 4P-F09 → Score: 0.08 (Rank: 3)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 PastRace #: 1 on 📅 2025-03-01 14:10:00 | ⏳ Time between runs: 35  days ago
+🥇 Result: 9 / 🏇 15 runners. Expected: nan → Actual: 0 (nan vs expected)
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇 Result: 9 / 🏇 15 runners. 
+💰 Odds: 66.0 ❄️❄️
+📝 Comment: 🔄 towards rear throughout
+🏆 RaceName: BoyleSports Money Back On Every Race At Cheltenham Handicap Hurdle
+📋 Race Type: HcH
+🎽 Jockey: C McNamara- (⚖️ Weight: 151.0 lbs (68.6 kg) carried -- Allowance: 0.0) 🏇 Jockey: Brian Hayes (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Ms S Verling (0/0, SR 0.0%)
+🏟️ Course: Navan ❓ (left-handed, undulating, galloping track (1m4f circuit))
+📏 Distance: 20.0 furlongs (➡️ Same trip as today)
+🌱 Going: HY
+👜 Prize: 💰 7K
+---------------------------------------------------------------------------
+🏁 PastRace #: 2 on 📅 2025-02-15 14:30:00 | ⏳ Time between runs: 13  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+🥇 Result: 11 / 🏇 20 runners. 
+💰 Odds: 33.0 ❄️
+📝 Comment: 🔄 midfield, mistake 1st, ❄️ weakened 2 out
+🏆 RaceName: Albert Bartlett Triple Crown Series At Punchestown Festival 2025 Qualifier Handicap Hurdle
+📋 Race Type: HcH
+🎽 Jockey: C McNamara- (⚖️ Weight: 153.0 lbs (69.5 kg) carried -- Allowance: 0.0) 🏇 Jockey: Brian Hayes (SR N/A, None/None) | 🏆 Not H&J — Best Alternative: Ms S Verling (0/0, SR 0.0%)
+🏟️ Course: Gowran Park ❓ (right-handed, undulating track (1m4f circuit))
+📏 Distance: 20.0 furlongs (➡️ Same trip as today)
+🌱 Going: S
+👜 Prize: 💰 8K
+---------------------------------------------------------------------------
