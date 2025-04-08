@@ -3,6 +3,7 @@ import os
 import json
 import hashlib
 from datetime import datetime
+import requests
 app = Flask(__name__, static_folder="static")  # Ensure static folder is recognized
 app.secret_key = 'bollox'  # Required for flash messages
 RACE_TXT_DIR = "static/races"
@@ -19,6 +20,25 @@ def generate_daily_cheat_code():
     """Generates a daily changing cheat hash based on the current date."""
     today_str = datetime.today().strftime("%Y-%m-%d")  # Format: YYYY-MM-DD
     return hashlib.md5(today_str.encode()).hexdigest()[:8]  # Shortened to 8 characters
+
+
+#https://api.telegram.org/bot7856304734:AAES5Q2j3tI4OLlo6A5w1GXnkHka4nx836w/getUpdates
+def send_telegram_alert(new_email):
+    bot_token = "7856304734:AAES5Q2j3tI4OLlo6A5w1GXnkHka4nx836w"
+    chat_id = "6147599687"
+    message = f"📥 New subscriber: {new_email}"
+
+    try:
+        response = requests.post(
+            f"https://api.telegram.org/bot{bot_token}/sendMessage",
+            data={"chat_id": chat_id, "text": message}
+        )
+        if response.ok:
+            print("✅ Telegram alert sent.")
+        else:
+            print(f"⚠️ Telegram alert failed: {response.text}")
+    except Exception as e:
+        print(f"❌ Error sending Telegram alert: {e}")
 
 
 # ✅ Generate Cheat Code on Startup
@@ -56,7 +76,7 @@ def index():
 @app.route('/subscribe', methods=['POST'])
 def subscribe():
     email = request.form.get('email', '').strip()
-
+    send_telegram_alert(email)
     # Simple email validation
     if '@' not in email:
         flash('❌ Please enter a valid email address', 'danger')

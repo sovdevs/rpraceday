@@ -4,9 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="Behind the scenes work on 42- Secs figures from history, now has comparison. Not yet added to FE. Tidied up ranks in same file">
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="generate_random_hash_html generates better hash code snippet">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generate_random_hash_html.py" beforeDir="false" afterPath="$PROJECT_DIR$/generate_random_hash_html.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hash_codes.json" beforeDir="false" afterPath="$PROJECT_DIR$/hash_codes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889488.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889489.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889490.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889491.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889492.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889493.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889494.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889496.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889497.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889498.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889499.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889500.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889501.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889623.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889624.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889625.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889626.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889627.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889628.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/889629.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892152.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892153.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892154.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892155.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892156.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892157.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892158.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892160.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892161.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892162.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892163.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892164.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892165.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892166.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,15 +138,7 @@
       <workItem from="1741940196379" duration="8291000" />
       <workItem from="1742374057464" duration="3376000" />
       <workItem from="1742548206711" duration="23598000" />
-      <workItem from="1743788996007" duration="10135000" />
-    </task>
-    <task id="LOCAL-00040" summary="todays data">
-      <option name="closed" value="true" />
-      <created>1739887373792</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1739887373792</updated>
+      <workItem from="1743788996007" duration="14474000" />
     </task>
     <task id="LOCAL-00041" summary="todays data">
       <option name="closed" value="true" />
@@ -497,14 +524,21 @@
       <option name="project" value="LOCAL" />
       <updated>1743953271845</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="generate_random_hash_html generates better hash code snippet">
+      <option name="closed" value="true" />
+      <created>1743953647413</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1743953647413</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Added performance table for quick reference" />
     <MESSAGE value="new index wider + banner" />
     <MESSAGE value="added banner for real. Fixed issue with TXT file display too narrow for perf table" />
@@ -529,6 +563,7 @@
     <MESSAGE value="new data" />
     <MESSAGE value="Added 1st round sectionals. New html look. Email subscribe button and txt file." />
     <MESSAGE value="Behind the scenes work on 42- Secs figures from history, now has comparison. Not yet added to FE. Tidied up ranks in same file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Behind the scenes work on 42- Secs figures from history, now has comparison. Not yet added to FE. Tidied up ranks in same file" />
+    <MESSAGE value="generate_random_hash_html generates better hash code snippet" />
+    <option name="LAST_COMMIT_MESSAGE" value="generate_random_hash_html generates better hash code snippet" />
   </component>
 </project>

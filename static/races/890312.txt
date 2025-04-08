@@ -1,0 +1,756 @@
+⏰ Off Time: 2025-04-08 15:32
+📍 Venue: Pontefract (left-handed, fairly sharp, but testing track)
+🏁 Race ID: 890312 - 🏆 Name: Every Race Live On Racing TV Handicap
+🏇 Type: Flat
+📏 Distance: 5.0 furlongs
+🏇 Class/Grade: Class 2
+🎂 Age Band: 4yo+
+💰 Prize money: 💰 16K
+☀️ Weather: Sunny
+🌱 Going: Good
+11 runners declared
+Head to Head History:
+
+today_race_id  shared_race_id  horse_id1  horse_id2  performanceDifferential_pure  weight_diff  rating_diff  odds_ratio  performanceDifferential_weighted
+890312        811274          2806541    3096879     -1.0                          -1.0         -1.0        1.750000     -0.457143                       
+890312        824021          2894378    3096879      4.0                         -12.0        -12.0        0.825000      7.757576                       
+890312        832578          2806541    2894378      2.0                           1.0          1.0        0.196429      9.163636                       
+890312        833745          2806541    2894378     -1.0                           0.0          0.0        0.640000     -1.562500                       
+890312        845921          2806541    3549479      3.0                           0.0          0.0        0.295455     10.153846                       
+890312        846837          4395014    4582292      2.0                           0.0          0.0        0.484848      4.125000                       
+890312        847831          2806541    3549479     -6.0                          -1.0         -1.0        0.640000     -9.062500                       
+890312        847831          2806541    4395014     -7.0                           3.0          2.0        0.800000     -9.375000                       
+890312        847831          3549479    4395014     -1.0                           4.0          3.0        1.250000     -1.360000                       
+890312        849622          3549479    4395014      3.0                           3.0         -3.0        0.900090      3.333000                       
+890312        865668          2894378    3549479      4.0                           7.0          7.0        0.424242      6.128571                       
+890312        866799          3549479    4582292     -1.0                           1.0          1.0        0.375000     -3.200000                       
+890312        871213          2806541    4395014     -3.0                           5.0          5.0        0.303000    -13.201320                       
+890312        872170          2806541    3549479     -2.0                           6.0          6.0        0.777778     -4.114286                       
+890312        873995          3549479    5162479     -7.0                           2.0          0.0        0.075758    -95.040000                       
+890312        874764          3096879    3549479      5.0                           4.0         10.0        4.000000      0.900000                       
+890312        875869          3096879    5168469     -9.0                          -8.0          6.0        0.208313    -42.244224                       
+890312        876763          4395014    4582292      9.0                          -4.0         -4.0        1.100000      8.909091                       
+890312        876763          4395014    5134070     -2.0                           3.0          3.0        2.800000     -0.928571                       
+890312        876763          4582292    5134070    -11.0                           7.0          7.0        2.545455     -4.871429                       
+890312        876837          4395014    5134070      7.0                          -2.0         -2.0        1.142857      6.475000                       
+890312        880370          2894378    4336823      2.0                          -4.0         -4.0        0.225000     12.444444                       
+890312        880370          2894378    5162479      4.0                          -7.0         -8.0        0.800000      6.875000                       
+890312        880370          4336823    5162479      2.0                          -3.0         -4.0        3.555556      0.759375                       
+890312        888476          2806541    5787812      1.0                          -8.0          2.0        0.500000      3.200000                       
+++++++++++Performance Table++++++++++
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2        | Venture Capital           | 5168469  | 3.0      | 2.0      | 3.0      | 1.0      | 7.0      | 4.0      | 6.0      | 8.0      | 2.0      | 3.0      | 5.0      | 2.0      | 3.0      | 4.0      | 5.0      | 2.0      | 7.0      | 4.0      | 6.0      | 9.0      | 4.0      | N/A      | 7.0      | 6.0      | 1.0      | 301.0    | 196.0    | 1023.0   | 3731.0   | 292.0   
+11       | Wen Moon                  | 4395014  | 8.0      | 6.0      | 6.0      | 9.0      | 5.0      | 10.0     | 3.0      | 7.0      | 2.0      | 5.0      | 1.0      | 11.0     | 11.0     | 10.0     | 1.0      | 1.0      | 8.0      | 4.0      | 8.0      | 1.0      | 7.0      | 3.0      | 6.0      | 4.0      | 2.0      | 326.0    | 163.0    | N/A      | 5375.0   | 350.0   
+6        | Ventura Express           | 2806541  | 9.0      | 6.0      | 10.0     | 10.0     | 3.0      | 9.0      | 6.0      | 11.0     | 2.0      | 5.0      | 8.0      | 6.0      | 4.0      | 5.0      | 6.0      | 9.0      | 8.0      | 8.0      | 7.0      | 2.0      | 10.0     | 1.0      | 2.0      | 3.0      | 3.0      | 329.0    | 376.0    | N/A      | 3891.0   | 192.0   
+3        | Alzahir                   | 4336823  | 7.0      | 6.0      | 8.0      | 11.0     | 5.0      | 3.0      | 6.0      | 6.0      | 2.0      | 5.0      | 5.0      | 3.0      | 5.0      | 7.0      | 10.0     | 7.0      | 5.0      | 6.0      | 9.0      | 5.0      | 6.0      | N/A      | N/A      | 2.0      | 4.0      | 324.0    | 90.0     | 2286.0   | 4542.0   | 253.0   
+8        | Fahrenheit Seven          | 5787812  | 1.0      | 1.0      | 1.0      | 2.0      | 7.0      | 1.0      | 6.0      | 3.0      | 2.0      | 1.0      | 10.0     | 7.0      | 6.0      | 3.0      | 7.0      | 3.0      | 5.0      | 3.0      | 11.0     | 4.0      | 3.0      | N/A      | 7.0      | 5.0      | 5.0      | 421.0    | 398.0    | 2795.0   | 359.0    | 221.0   
+1        | Dream Composer            | 3096879  | 5.0      | 3.0      | 9.0      | 4.0      | 4.0      | 8.0      | 6.0      | 4.0      | 2.0      | 10.0     | 3.0      | 1.0      | 7.0      | 9.0      | 4.0      | 4.0      | 8.0      | 1.0      | 4.0      | 3.0      | 2.0      | 2.0      | 1.0      | 1.0      | 6.0      | 298.0    | 153.0    | 2286.0   | 2063.0   | 171.0   
+7        | Vince Lamour              | 5134070  | 11.0     | 4.0      | 5.0      | 7.0      | 1.0      | 2.0      | 1.0      | 9.0      | 2.0      | 2.0      | 5.0      | 7.0      | 10.0     | 1.0      | 8.0      | 6.0      | 3.0      | 10.0     | 1.0      | 10.0     | 5.0      | N/A      | 4.0      | 8.0      | 7.0      | 292.0    | 410.0    | 2074.0   | 6877.0   | 258.0   
+9        | Intervention              | 2894378  | 6.0      | 7.0      | 11.0     | 6.0      | 7.0      | 6.0      | 5.0      | 2.0      | 1.0      | 3.0      | 11.0     | 7.0      | 1.0      | 2.0      | 11.0     | 5.0      | 1.0      | 1.0      | 3.0      | 7.0      | 8.0      | N/A      | 10.0     | 8.0      | 8.0      | 346.0    | 255.0    | 2637.0   | 1558.0   | 207.0   
+10       | Brooklyn Nine Nine        | 4582292  | 10.0     | 7.0      | 4.0      | 3.0      | 7.0      | 7.0      | 2.0      | 10.0     | 2.0      | 5.0      | 1.0      | 7.0      | 2.0      | 11.0     | 2.0      | 8.0      | 2.0      | 9.0      | 5.0      | 8.0      | 11.0     | N/A      | 7.0      | 8.0      | 8.0      | 262.0    | 243.0    | 3169.0   | 4394.0   | 509.0   
+4        | Manila Scouse             | 3549479  | 2.0      | 5.0      | 7.0      | 5.0      | 6.0      | 11.0     | 4.0      | 5.0      | 2.0      | 5.0      | 9.0      | 4.0      | 8.0      | 6.0      | 8.0      | 10.0     | 3.0      | 10.0     | 1.0      | 10.0     | 1.0      | 4.0      | 3.0      | 7.0      | 10.0     | 458.0    | 410.0    | N/A      | 4338.0   | 275.0   
+5        | Nazron                    | 5162479  | 4.0      | 4.0      | 2.0      | 8.0      | 2.0      | 5.0      | 6.0      | 1.0      | 2.0      | 10.0     | 4.0      | 4.0      | 8.0      | 8.0      | 3.0      | 11.0     | 8.0      | 7.0      | 9.0      | 6.0      | 8.0      | N/A      | 5.0      | 8.0      | 11.0     | 317.0    | 412.0    | 2286.0   | 3227.0   | 347.0   
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 2 | Venture Capital🐎 4 years old  gelding, b, 129 lbs.
+📊 Race Record: 2/4 wins (🏅 50% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 4.1, Unexposed rating (all) +0.1
+🎯 Runs this type: avg 4.7, Unexposed rating (type) +0.7
+🧮 Overall: 12 runs | 🏁 Best speed: 5.82 | 📉 Worst: 6.65 | 📊 Avg speed: 6.18 | 🎯 Median: 6.13
+📏 This Trip (4 runs): 🏁 5.87 best, 📊 6.17 avg
+🎖️ This Class (3 runs): 🏁 6.09 best, 📊 6.11 avg
+🦄 Sire: Washington Dc (SR: 0.0% | Rank: 301 | Turf Rank: 377 | AW Rank: 129)
+🌿 Dam: Ventura Blues (SR: 0.0% | Rank: 3731 | Turf Rank: 3865 | AW Rank: 1368)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 5.0 (Rank: 1)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Suited by the drop back to 5f last autumn and he could have more to offer this term
+🔦 Spotlight: Front-runner who was suited by the drop back to 5f when winning at Doncaster (5f, good) last September and ran well in defeat the next twice (5f, soft); this 🔍 unexposed 4yo could have more to offer this term.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Ms L Clune
+Conn Rank: 1023 | Turf: 2362 | AW: 264
+Conn Rank: 1023 | Turf: 2362 | AW: 264 - (No previous owner(s))
+👤 Trainer: Kevin Ryan (0 previous trainer(s)) last 14d WinRate (1.0/10.0 runs) (Rank: 7) RTF: 20.0 (OVR: 13%) | Conn Rank: 196 | Turf: 233 | AW: 94
+🏇 Jockey: Shane Gray (14d rank: 3, 5Y rank: 292 | Turf: 246 | AW: 195) 🏇 Shane Gray winSR: 57.0% | 🏆 Better Alternative: S A Gray (4/7 - 57.0%)(2.0/ 9.0 runs) RTF: N/A (OVR: 16%) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 905 runs / 86 wins (0.1% SR)
+🗞️ **PRESS OPINION**
+💬 Comment: Suited by the drop back to 5f last autumn and he could have more to offer this term
+🔦 Spotlight: Front-runner who was suited by the drop back to 5f when winning at Doncaster (5f, good) last September and ran well in defeat the next twice (5f, soft); this 🔍 unexposed 4yo could have more to offer this term.
+📊 **RANKS AND FLAGS**
+📉 OFR: 91.0 (Rank: 2)
+📈 RPR: 110.0 (Rank: 3)
+📉 TS: 100.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 1/4 | Ratio: 0.25
+🌱 Going Wins/Runs: 1/3 | Ratio: 0.33
+📊 Form: 12134- → Score: 0.14 (Rank: 4)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2024-10-26 13:05:00 | ⏳ Time between runs: 163  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇L1 Result: 4 / 🏇 15 runners. 
+💰L1 Odds: 5.0 🔥
+📝L1 Comment: pressed leader, 🎯 led narrowly halfway, headed inside final furlong, no extra towards finish
+🏆L1 RaceName: Join Century Racing Club Today Handicap
+📋L1 Type: 2Hc
+🎽 L1 Jockey: S A Gray- (⚖️ Weight: 123.0 lbs (55.9 kg) carried -- Allowance: 0.0)
+🏟️ Course: Doncaster (left-handed, galloping track)
+📏 Distance: 5.0 furlongs (➡️ Same trip as today)
+🌱 Going: S
+👜 Prize: 💰 26K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2024-10-05 15:45:00 | ⏳ Time between runs: 20  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: 4 ❓ | 📊 1-3: 0W/0P/1U | 🐴 Also: 0W/0P/0U
+🥇L2 Result: 3 🥉 / 🏇 12 runners. 
+💰L2 Odds: 3.333 🔥
+📝L2 Comment: 🎯 prominent, pressed leader going easily over 2f out, outpaced over 1f out, ran on but no impression final 110yds
+🏆L2 RaceName: Berkshire Healthcare Charity Handicap
+📋L2 Type: 2Hc
+🎽 L2 Jockey: S A Gray- (⚖️ Weight: 132.0 lbs (60.0 kg) carried -- Allowance: 0.0)
+🏟️ Course: Ascot (right-handed, galloping, testing track)
+📏 Distance: 5.0 furlongs (➡️ Same trip as today)
+🌱 Going: S
+👜 Prize: 💰 23K
+---------------------------------------------------------------------------
+🐎 11 | Wen Moon🐎 5 years old  gelding, b, 118 lbs.
+📊 Race Record: 1/3 wins (🏅 33% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 4.0, Unexposed rating (all) +1.0
+🎯 Runs this type: avg 5.1, Unexposed rating (type) +2.1
+🧮 Overall: 22 runs | 🏁 Best speed: 5.78 | 📉 Worst: 6.73 | 📊 Avg speed: 6.21 | 🎯 Median: 6.18
+📏 This Trip (13 runs): 🏁 5.86 best, 📊 6.13 avg
+🎖️ This Class (9 runs): 🏁 5.78 best, 📊 6.17 avg
+🦄 Sire: Mehmas (SR: 0.0% | Rank: 326 | Turf Rank: 377 | AW Rank: 144)
+🌿 Dam: Luminous Gold (SR: 0.0% | Rank: 5375 | Turf Rank: 4463 | AW Rank: 3281)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 6.0 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ✅ Yes
+🗞️ **PRESS OPINION**
+💬 Comment: 0-11 last year but often ran well, including when third in this race; could be in the mix
+🔦 Spotlight: 0-11 last year but was placed on all three visits here (heavy-good; including in this race on reappearance); could be in the mix on his return.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Tally-Ho Stud
+Conn Rank: nan | Turf: nan | AW: nan
+Conn Rank: nan | Turf: nan | AW: nan - (No previous owner(s))
+👤 Trainer: Ben Haslam (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 8) RTF: N/A (OVR: 10%) | Conn Rank: 163 | Turf: 182 | AW: 108
+🏇 Jockey: Andrew Mullen (14d rank: 11, 5Y rank: 350 | Turf: 323 | AW: 205) 🏇 Andrew Mullen winSR: 17.0% | 🏆 Better Alternative: G Lee (1/2 - 50.0%)(0.0/ 12.0 runs) RTF: N/A (OVR: 9%) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 1456 runs / 122 wins (0.1% SR)
+🗞️ **PRESS OPINION**
+💬 Comment: 0-11 last year but often ran well, including when third in this race; could be in the mix
+🔦 Spotlight: 0-11 last year but was placed on all three visits here (heavy-good; including in this race on reappearance); could be in the mix on his return.
+📊 **RANKS AND FLAGS**
+📉 OFR: 80.0 (Rank: 11)
+📈 RPR: 109.0 (Rank: 5)
+📉 TS: 103.0 (Rank: 1)
+🏟️ Course Wins/Runs: 1/5 | Ratio: 0.20
+📏 Distance Wins/Runs: 2/14 | Ratio: 0.14
+🌱 Going Wins/Runs: 1/6 | Ratio: 0.17
+📊 Form: 30933- → Score: 0.07 (Rank: 7)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2024-10-19 15:45:00 | ⏳ Time between runs: 170  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇L1 Result: 3 🥉 / 🏇 10 runners. 
+💰L1 Odds: 3.5 🔥
+📝L1 Comment: in touch with leaders, hung right but headway over 1f out, went second inside final furlong, no extra and lost second towards finish
+🏆L1 RaceName: William Hill Catterick Dash Handicap
+📋L1 Type: 2Hc
+🎽 L1 Jockey: Joanna Mason- (⚖️ Weight: 118.0 lbs (53.6 kg) carried -- Allowance: 0.0)
+🏟️ Course: Catterick (left-handed, very sharp track)
+📏 Distance: 5.0 furlongs (➡️ Same trip as today)
+🌱 Going: S
+👜 Prize: 💰 16K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2024-10-11 14:45:00 | ⏳ Time between runs: 8  days ago
+🏆 1st: 10, 2nd: No runs since, 3rd: 3 ⚠️ | 📊 1-3: 0W/1P/1U | 🐴 Also: 0W/0P/1U
+🥇L2 Result: 3 🥉 / 🏇 17 runners. 
+💰L2 Odds: 5.0 🔥
+📝L2 Comment: 🎯 prominent on far side of group, challenging over 1f out, no extra inside final furlong, lost second towards finish
+🏆L2 RaceName: Copper Knight - Winning Most Horse At York Handicap
+📋L2 Type: 3Hc
+🎽 L2 Jockey: Joanna Mason- (⚖️ Weight: 123.0 lbs (55.9 kg) carried -- Allowance: 0.0)
+🏟️ Course: York (left-handed, galloping track)
+📏 Distance: 5.0 furlongs (➡️ Same trip as today)
+🌱 Going: S
+👜 Prize: 💰 13K
+---------------------------------------------------------------------------
+🐎 6 | Ventura Express🐎 8 years old  gelding, ch, 123 lbs.
+📊 Race Record: 0/3 wins (🏅 0% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 4.1, Unexposed rating (all) +1.1
+🎯 Runs this type: avg 5.4, Unexposed rating (type) +2.4
+🧮 Overall: 23 runs | 🏁 Best speed: 5.77 | 📉 Worst: 6.3 | 📊 Avg speed: 5.98 | 🎯 Median: 5.91
+📏 This Trip (15 runs): 🏁 5.78 best, 📊 6.02 avg
+🎖️ This Class (7 runs): 🏁 5.78 best, 📊 5.86 avg
+🦄 Sire: Mayson (SR: 0.0% | Rank: 329 | Turf Rank: 272 | AW Rank: 243)
+🌿 Dam: Mail Express (SR: 0.0% | Rank: 3891 | Turf Rank: 2801 | AW Rank: 3281)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 6.5 (Rank: 3)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 2nd | ⚡ Speed: 102.13% | 📊 Rank: 5053.0 | 🔺 AvgDiff: -2.87 | 🔼 MaxDiff: -375.25 | 🔽 MinDiff: 14.08 | 🔴 1st Sect: – (14.38s) | 🔴 Last Sect: – (12.41s)
+🗞️ **PRESS OPINION**
+💬 Comment: Four-time C&D winner who reappeared with close 2nd at Newcastle last month; lots to like
+🔦 Spotlight: Four-time C&D winner who reappeared with close second at Newcastle (5f, AW) last month; has the rail draw and there's lots to like.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Scuderia Archi Romani
+Conn Rank: nan | Turf: nan | AW: nan
+Conn Rank: nan | Turf: nan | AW: nan - (No previous owner(s))
+👤 Trainer: Paul Midgley (0 previous trainer(s)) last 14d WinRate (0.0/10.0 runs) (Rank: 8) RTF: 20.0 (OVR: 12%) | Conn Rank: 376 | Turf: 332 | AW: 322
+🏇 Jockey: Jason Hart (14d rank: 4, 5Y rank: 192 | Turf: 220 | AW: 93) 🏇 Jason Hart winSR: 0.0% | 🏆 Better Alternative: K Stott (2/5 - 40.0%)(5.0/ 26.0 runs) RTF: N/A (OVR: 12%) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 2457 runs / 287 wins (0.1% SR)
+🗞️ **PRESS OPINION**
+💬 Comment: Four-time C&D winner who reappeared with close 2nd at Newcastle last month; lots to like
+🔦 Spotlight: Four-time C&D winner who reappeared with close second at Newcastle (5f, AW) last month; has the rail draw and there's lots to like.
+📊 **RANKS AND FLAGS**
+📉 OFR: 85.0 (Rank: 6)
+📈 RPR: 109.0 (Rank: 5)
+📉 TS: 97.0 (Rank: 8)
+🏟️ Course Wins/Runs: 4/11 | Ratio: 0.36
+📏 Distance Wins/Runs: 6/26 | Ratio: 0.23
+🌱 Going Wins/Runs: 2/13 | Ratio: 0.15
+📊 Form: 3763-2 → Score: 0.06 (Rank: 10)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2025-03-20 19:00:00 | ⏳ Time between runs: 18  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇L1 Result: 2 🥈 / 🏇 7 runners. 
+💰L1 Odds: 14.0 📉
+📝L1 Comment: 🎯 prominent, disputed lead over 1f out, kept on final 110yds
+🏆L1 RaceName: BetUK: It's Where The UK Bets Handicap
+📋L1 Type: 2Hc
+🎽 L1 Jockey: W Fentiman- (⚖️ Weight: 108.0 lbs (49.1 kg) carried -- Allowance: 5.0)
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📏 Distance: 5.0 furlongs (➡️ Same trip as today)
+🌱 Going: SS
+👜 Prize: 💰 13K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2024-10-22 16:55:00 | ⏳ Time between runs: 149  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: 2 ❓ | 📊 1-3: 0W/1P/0U | 🐴 Also: 0W/0P/0U
+🥇L2 Result: 3 🥉 / 🏇 14 runners. 
+💰L2 Odds: 80.0 ❄️❄️
+📝L2 Comment: in rear, headway on far side of group over 1f out, went third final strides
+🏆L2 RaceName: Extra Winnings With BetUK Acca Club Handicap
+📋L2 Type: 3Hc
+🎽 L2 Jockey: D Nolan- (⚖️ Weight: 133.0 lbs (60.5 kg) carried -- Allowance: 0.0)
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📏 Distance: 5.0 furlongs (➡️ Same trip as today)
+🌱 Going: SD
+👜 Prize: 💰 8K
+---------------------------------------------------------------------------
+🐎 3 | Alzahir🐎 5 years old  gelding, ch, 127 lbs.
+📊 Race Record: 2/7 wins (🏅 29% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 4.0, Unexposed rating (all) -3.0
+🎯 Runs this type: avg 5.1, Unexposed rating (type) -1.9
+🧮 Overall: 22 runs | 🏁 Best speed: 5.91 | 📉 Worst: 6.5 | 📊 Avg speed: 6.12 | 🎯 Median: 6.08
+🎖️ This Class (11 runs): 🏁 5.91 best, 📊 6.11 avg
+🦄 Sire: Sea The Stars (SR: 0.0% | Rank: 324 | Turf Rank: 342 | AW Rank: 160)
+🌿 Dam: Cup Cake (SR: 0.0% | Rank: 4542 | Turf Rank: 1404 | AW Rank: 3281)
+🛠️ Gear: t
+🩺 Medical History: 📅 2025-02-24: Wind Surgery | 📅 2022-07-21: Wind Surgery
+🎲 Early market: 7.0 (Rank: 4)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Won at Doncaster recently and remains well treated under a penalty, but that was over 7f
+🔦 Spotlight: Returned from wind surgery to win in a big field at Doncaster (7f, good) nine days ago; under a 5lb penalty he remains well treated on his old form and he ran fairly well over 6f at Newcastle (AW) in January, but he's never raced over this trip so has a question to answer today.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Al Wasmiya Stud
+Conn Rank: 2286 | Turf: 641 | AW: 2301
+Conn Rank: 2286 | Turf: 641 | AW: 2301 - (No previous owner(s))
+👤 Trainer: Jennie Candlish (0 previous trainer(s)) last 14d WinRate (2.0/15.0 runs) (Rank: 5) RTF: 46.0 (OVR: 0%) | Conn Rank: 90 | Turf: 96 | AW: 127
+🏇 Jockey: George Wood (14d rank: 5, 5Y rank: 253 | Turf: 351 | AW: 115) 🏇 George Wood winSR: 33.0% | 🏆 Better Alternative: R Havlin (1/2 - 50.0%)(3.0/ 19.0 runs) RTF: N/A (OVR: 0%) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 684 runs / 70 wins (0.1% SR)
+🗞️ **PRESS OPINION**
+💬 Comment: Won at Doncaster recently and remains well treated under a penalty, but that was over 7f
+🔦 Spotlight: Returned from wind surgery to win in a big field at Doncaster (7f, good) nine days ago; under a 5lb penalty he remains well treated on his old form and he ran fairly well over 6f at Newcastle (AW) in January, but he's never raced over this trip so has a question to answer today.
+📊 **RANKS AND FLAGS**
+📉 OFR: 89.0 (Rank: 3)
+📈 RPR: 109.0 (Rank: 5)
+📉 TS: 100.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 2/4 | Ratio: 0.50
+📊 Form: 25-051 → Score: 0.09 (Rank: 6)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2025-03-30 16:25:00 | ⏳ Time between runs: 8  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇L1 Result: 1 🥇 / 🏇 15 runners. 
+💰L1 Odds: 6.5 📉
+📝L1 Comment: took keen hold, 🔄 towards rear, headway from over 2f out, 🎯 led over 1f out, kept on inside final furlong
+🏆L1 RaceName: William Hill Proper Prices Handicap (Div II)
+📋L1 Type: 4Hc
+🎽 L1 Jockey: G Wood- (⚖️ Weight: 134.0 lbs (60.9 kg) carried -- Allowance: 0.0)
+🏟️ Course: Doncaster (left-handed, galloping track)
+📏 Distance: 7.0 furlongs (🔽 Dropping down to 5.0 today)
+🌱 Going: G
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2025-01-23 14:56:00 | ⏳ Time between runs: 66  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 1W/0P/0U
+🥇L2 Result: 5 / 🏇 8 runners. 
+💰L2 Odds: 8.5 📉
+📝L2 Comment: took keen hold, 🔄 held up in rear, outpaced over 2f out, rallied against near rail over 1f out, ❄️ weakened gradually inside final furlong
+🏆L2 RaceName: Weekly £5 Free Bet With BetUK Handicap
+📋L2 Type: 4Hc
+🎽 L2 Jockey: J Haynes- (⚖️ Weight: 136.0 lbs (61.8 kg) carried -- Allowance: 0.0)
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📏 Distance: 6.0 furlongs (🔽 Dropping down to 5.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🐎 8 | Fahrenheit Seven🐎 4 years old  gelding, b, 120 lbs.
+📊 Race Record: 0/3 wins (🏅 0% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 4.1, Unexposed rating (all) +1.1
+🎯 Runs this type: avg 4.7, Unexposed rating (type) +1.7
+🧮 Overall: 9 runs | 🏁 Best speed: 5.78 | 📉 Worst: 6.43 | 📊 Avg speed: 6.0 | 🎯 Median: 5.92
+📏 This Trip (5 runs): 🏁 5.87 best, 📊 5.97 avg
+🎖️ This Class (2 runs): 🏁 5.87 best, 📊 5.94 avg
+🦄 Sire: Showcasing (SR: 0.0% | Rank: 421 | Turf Rank: 391 | AW Rank: 243)
+🌿 Dam: Pizzazz (SR: 0.0% | Rank: 359 | Turf Rank: 425 | AW Rank: 544)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 8.0 (Rank: 5)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 3rd | ⚡ Speed: 102.06% | 📊 Rank: 2058.0 | 🔺 AvgDiff: -2.74 | 🔼 MaxDiff: -375.12 | 🔽 MinDiff: 14.21 | 🔴 1st Sect: – (14.59s) | 🔴 Last Sect: – (11.98s)
+🗞️ **PRESS OPINION**
+💬 Comment: Lightly raced 4yo; three wins last year and reappeared with good third on AW; drawn well
+🔦 Spotlight: Lightly raced 4yo who won three times last year (5f/6f, including on good/good to soft) and reappeared with good third at Newcastle last month (5f, AW; Ventura Express second); could build on that and is drawn well.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Springcombe Park Stud
+Conn Rank: 2795 | Turf: 2636 | AW: 1691
+Conn Rank: 2795 | Turf: 2636 | AW: 1691 - (No previous owner(s))
+👤 Trainer: Mark Usher (0 previous trainer(s)) last 14d WinRate (1.0/8.0 runs) (Rank: 5) RTF: 50.0 (OVR: -) | Conn Rank: 398 | Turf: 508 | AW: 258
+🏇 Jockey: Connor Beasley (14d rank: 6, 5Y rank: 221 | Turf: 198 | AW: 165) 🏇 Connor Beasley winSR: 0.0% | 🏆 Better Alternative: T Kiely-Marshall (1/1 - 100.0%)(2.0/ 13.0 runs) RTF: N/A (OVR: 11%) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 1498 runs / 165 wins (0.1% SR)
+🗞️ **PRESS OPINION**
+💬 Comment: Lightly raced 4yo; three wins last year and reappeared with good third on AW; drawn well
+🔦 Spotlight: Lightly raced 4yo who won three times last year (5f/6f, including on good/good to soft) and reappeared with good third at Newcastle last month (5f, AW; Ventura Express second); could build on that and is drawn well.
+📊 **RANKS AND FLAGS**
+📉 OFR: 82.0 (Rank: 7)
+📈 RPR: 112.0 (Rank: 1)
+📉 TS: 92.0 (Rank: 10)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 1/5 | Ratio: 0.20
+🌱 Going Wins/Runs: 1/1 | Ratio: 1.00
+📊 Form: 1131-3 → Score: 0.26 (Rank: 3)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2025-03-20 19:00:00 | ⏳ Time between runs: 18  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇L1 Result: 3 🥉 / 🏇 7 runners. 
+💰L1 Odds: 7.0 📉
+📝L1 Comment: in touch with leaders on far side of group, headway over 1f out, pressed leaders final 110yds, kept on
+🏆L1 RaceName: BetUK: It's Where The UK Bets Handicap
+📋L1 Type: 2Hc
+🎽 L1 Jockey: A Mullen- (⚖️ Weight: 116.0 lbs (52.7 kg) carried -- Allowance: 0.0)
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📏 Distance: 5.0 furlongs (➡️ Same trip as today)
+🌱 Going: SS
+👜 Prize: 💰 13K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2024-11-22 18:15:00 | ⏳ Time between runs: 118  days ago
+🏆 1st: 3, 2nd: No runs since, 3rd: No runs since | 📊 1-3: 0W/1P/0U | 🐴 Also: 0W/0P/0U
+🥇L2 Result: 1 🥇 / 🏇 8 runners. 
+💰L2 Odds: 3.5 🔥
+📝L2 Comment: 🎯 led narrowly, pressed leader after 2f, ridden and 🎯 led narrowly final 110yds, just prevailed
+🏆L2 RaceName: Safer Gambling Week 2024 At BetUK Handicap (Div I)
+📋L2 Type: 4Hc
+🎽 L2 Jockey: C Lee- (⚖️ Weight: 137.0 lbs (62.3 kg) carried -- Allowance: 0.0)
+🏟️ Course: Newcastle (AW) (Tapeta. Left-handed 1 3/4m oval with easy bends. 1m straight.)
+📏 Distance: 6.0 furlongs (🔽 Dropping down to 5.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🐎 1 | Dream Composer🐎 7 years old  gelding, b, 135 lbs.
+📊 Race Record: 0/5 wins (🏅 0% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 4.2, Unexposed rating (all) -0.8
+🎯 Runs this type: avg 5.2, Unexposed rating (type) +0.2
+🧮 Overall: 29 runs | 🏁 Best speed: 5.52 | 📉 Worst: 6.5 | 📊 Avg speed: 6.06 | 🎯 Median: 6.07
+📏 This Trip (19 runs): 🏁 5.52 best, 📊 6.01 avg
+🎖️ This Class (19 runs): 🏁 5.52 best, 📊 6.05 avg
+🦄 Sire: Dream Ahead (SR: 0.0% | Rank: 298 | Turf Rank: 412 | AW Rank: 103)
+🌿 Dam: High Spice (SR: 0.0% | Rank: 2063 | Turf Rank: 3425 | AW Rank: 544)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 9.0 (Rank: 6)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Below par on final two runs last season but won over C&D previously; 2-5 here; considered
+🔦 Spotlight: Below par on final two outings last season but before those he won in good style over C&D (disputed lead) to make it 2-5 here; can go well fresh and he's one to consider on his reappearance.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Khalifa Dasmal
+Conn Rank: 2286 | Turf: 2339 | AW: 1530
+Conn Rank: 2286 | Turf: 2339 | AW: 1530 - (No previous owner(s))
+👤 Trainer: James Evans (0 previous trainer(s)) last 14d WinRate (0.0/1.0 runs) (Rank: 8) RTF: N/A (OVR: 33%) | Conn Rank: 153 | Turf: 294 | AW: 94
+🏇 Jockey: Joe Leavy(3) (14d rank: 7, 5Y rank: 171 | Turf: 105 | AW: 125) 🏇 Joe Leavy(3) winSR: 40.0% (No better alternative found.)(2.0/ 16.0 runs) RTF: N/A (OVR: 50%) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 729 runs / 90 wins (0.1% SR)
+🗞️ **PRESS OPINION**
+💬 Comment: Below par on final two runs last season but won over C&D previously; 2-5 here; considered
+🔦 Spotlight: Below par on final two outings last season but before those he won in good style over C&D (disputed lead) to make it 2-5 here; can go well fresh and he's one to consider on his reappearance.
+📊 **RANKS AND FLAGS**
+📉 OFR: 97.0 (Rank: 1)
+📈 RPR: 108.0 (Rank: 10)
+📉 TS: 102.0 (Rank: 3)
+🏟️ Course Wins/Runs: 2/5 | Ratio: 0.40
+📏 Distance Wins/Runs: 8/24 | Ratio: 0.33
+🌱 Going Wins/Runs: 2/12 | Ratio: 0.17
+📊 Form: 03100- → Score: 0.56 (Rank: 2)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2024-10-05 15:45:00 | ⏳ Time between runs: 184  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: 4 ❓ | 📊 1-3: 0W/0P/1U | 🐴 Also: 0W/0P/0U
+🥇L1 Result: 12 / 🏇 12 runners. 
+💰L1 Odds: 16.0 📉
+📝L1 Comment: 🔄 held up in rear, outpaced over 2f out, always behind
+🏆L1 RaceName: Berkshire Healthcare Charity Handicap
+📋L1 Type: 2Hc
+🎽 L1 Jockey: S Feilden- (⚖️ Weight: 124.0 lbs (56.4 kg) carried -- Allowance: 7.0)
+🏟️ Course: Ascot (right-handed, galloping, testing track)
+📏 Distance: 5.0 furlongs (➡️ Same trip as today)
+🌱 Going: S
+👜 Prize: 💰 23K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2024-09-14 13:25:00 | ⏳ Time between runs: 21  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+🥇L2 Result: 17 / 🏇 22 runners. 
+💰L2 Odds: 25.0 ❄️
+📝L2 Comment: raced near side, in touch with leaders, hung left and ❄️ weakened over 2f out (jockey said gelding was never travelling; vet had nothing to report)
+🏆L2 RaceName: Betfred Portland (Heritage Handicap)
+📋L2 Type: 2Hc
+🎽 L2 Jockey: J Leavy- (⚖️ Weight: 125.0 lbs (56.8 kg) carried -- Allowance: 3.0)
+🏟️ Course: Doncaster (left-handed, galloping track)
+📏 Distance: 5.5 furlongs (🔽 Dropping down to 5.0 today)
+🌱 Going: G
+👜 Prize: 💰 52K
+---------------------------------------------------------------------------
+🐎 7 | Vince Lamour🐎 4 years old  gelding, b, 120 lbs.
+📊 Race Record: 0/3 wins (🏅 0% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 4.1, Unexposed rating (all) +1.1
+🎯 Runs this type: avg 4.7, Unexposed rating (type) +1.7
+🧮 Overall: 18 runs | 🏁 Best speed: 5.62 | 📉 Worst: 6.77 | 📊 Avg speed: 6.11 | 🎯 Median: 6.05
+📏 This Trip (12 runs): 🏁 5.62 best, 📊 6.09 avg
+🎖️ This Class (3 runs): 🏁 5.86 best, 📊 6.24 avg
+🦄 Sire: Invincible Army (SR: 0.0% | Rank: 292 | Turf Rank: 294 | AW Rank: 168)
+🌿 Dam: Red Romance (SR: 0.0% | Rank: 6877 | Turf Rank: 5210 | AW Rank: 3255)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 10.0 (Rank: 7)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Inconsistent last season but won three times and he's not discounted on return to action
+🔦 Spotlight: Inconsistent last season but won three times and, while those came on heavy/soft ground, he also ran some big races on good/good to soft going; not discounted on his return to action.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Mark Hanly & Stephanie Hanly
+Conn Rank: 2074 | Turf: 1934 | AW: nan
+Conn Rank: 2074 | Turf: 1934 | AW: nan - (No previous owner(s))
+👤 Trainer: Tim Easterby (0 previous trainer(s)) last 14d WinRate (1.0/20.0 runs) (Rank: 3) RTF: 25.0 (OVR: 9%) | Conn Rank: 410 | Turf: 382 | AW: 302
+🏇 Jockey: Joanna Mason (14d rank: 10, 5Y rank: 258 | Turf: 274 | AW: 141) 🏇 Joanna Mason winSR: 0.0% | 🏆 Better Alternative: J Hart (1/1 - 100.0%)(2.0/ 21.0 runs) RTF: N/A (OVR: 10%) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 1385 runs / 139 wins (0.1% SR)
+🗞️ **PRESS OPINION**
+💬 Comment: Inconsistent last season but won three times and he's not discounted on return to action
+🔦 Spotlight: Inconsistent last season but won three times and, while those came on heavy/soft ground, he also ran some big races on good/good to soft going; not discounted on his return to action.
+📊 **RANKS AND FLAGS**
+📉 OFR: 82.0 (Rank: 7)
+📈 RPR: 111.0 (Rank: 2)
+📉 TS: 100.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 2/12 | Ratio: 0.17
+🌱 Going Wins/Runs: 0/6 | Ratio: 0.00
+📊 Form: 30810- → Score: 0.1 (Rank: 5)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2024-10-19 15:45:00 | ⏳ Time between runs: 170  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇L1 Result: 10 / 🏇 10 runners. 
+💰L1 Odds: 4.0 🔥
+📝L1 Comment: in touch with leaders, outpaced 2f out, ❄️ weakened and eased inside final furlong (trainer's rep had no explanation for the poor form shown; vet said gelding bled from nose)
+🏆L1 RaceName: William Hill Catterick Dash Handicap
+📋L1 Type: 2Hc
+🎽 L1 Jockey: J Hart- (⚖️ Weight: 120.0 lbs (54.5 kg) carried -- Allowance: 0.0)
+🏟️ Course: Catterick (left-handed, very sharp track)
+📏 Distance: 5.0 furlongs (➡️ Same trip as today)
+🌱 Going: S
+👜 Prize: 💰 16K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2024-10-11 14:45:00 | ⏳ Time between runs: 8  days ago
+🏆 1st: 10, 2nd: No runs since, 3rd: 3 ⚠️ | 📊 1-3: 0W/1P/1U | 🐴 Also: 0W/0P/1U
+🥇L2 Result: 1 🥇 / 🏇 17 runners. 
+💰L2 Odds: 14.0 📉
+📝L2 Comment: 🎯 made all, raced far side, ridden inside final furlong, edged right inside final 110yds, kept on
+🏆L2 RaceName: Copper Knight - Winning Most Horse At York Handicap
+📋L2 Type: 3Hc
+🎽 L2 Jockey: J Hart- (⚖️ Weight: 120.0 lbs (54.5 kg) carried -- Allowance: 0.0)
+🏟️ Course: York (left-handed, galloping track)
+📏 Distance: 5.0 furlongs (➡️ Same trip as today)
+🌱 Going: S
+👜 Prize: 💰 13K
+---------------------------------------------------------------------------
+🐎 9 | Intervention🐎 8 years old  gelding, b, 120 lbs.
+📊 Race Record: 0/5 wins (🏅 0% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 4.1, Unexposed rating (all) -0.9
+🎯 Runs this type: avg 5.4, Unexposed rating (type) +0.4
+🧮 Overall: 60 runs | 🏁 Best speed: 5.66 | 📉 Worst: 6.5 | 📊 Avg speed: 6.01 | 🎯 Median: 6.01
+📏 This Trip (8 runs): 🏁 5.66 best, 📊 5.88 avg
+🎖️ This Class (16 runs): 🏁 5.66 best, 📊 5.94 avg
+🦄 Sire: Swiss Spirit (SR: 0.0% | Rank: 346 | Turf Rank: 600 | AW Rank: 103)
+🌿 Dam: Lady Lube Rye (SR: 0.0% | Rank: 1558 | Turf Rank: 2801 | AW Rank: 544)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 13.0 (Rank: 8)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Poor turf strike-rate and recent AW win came over 7f, but he's not ruled out
+🔦 Spotlight: Just one win from his 30 turf starts and a wide draw could be a negative, while his recent AW win came over 7f; however, he ran well in a 5f handicap on grass last July and is not ruled out.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: D & S L Tanker Transport Ltd
+Conn Rank: 2637 | Turf: 1934 | AW: 1714
+Conn Rank: 2637 | Turf: 1934 | AW: 1714 - (No previous owner(s))
+👤 Trainer: Michael Appleby (0 previous trainer(s)) last 14d WinRate (1.0/11.0 runs) (Rank: 1) RTF: 42.0 (OVR: 5%) | Conn Rank: 255 | Turf: 217 | AW: 211
+🏇 Jockey: Mason Paetel(7) (14d rank: 1, 5Y rank: 207 | Turf: 39 | AW: 141) 🏇 Mason Paetel(7) winSR: 0.0% | 🏆 Better Alternative: H Davies (3/5 - 60.0%)(4.0/ 8.0 runs) RTF: N/A (OVR: -) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 62 runs / 7 wins (0.1% SR)
+🤔 Surface doesn't match the preferred edge.
+🗞️ **PRESS OPINION**
+💬 Comment: Poor turf strike-rate and recent AW win came over 7f, but he's not ruled out
+🔦 Spotlight: Just one win from his 30 turf starts and a wide draw could be a negative, while his recent AW win came over 7f; however, he ran well in a 5f handicap on grass last July and is not ruled out.
+📊 **RANKS AND FLAGS**
+📉 OFR: 82.0 (Rank: 7)
+📈 RPR: 110.0 (Rank: 3)
+📉 TS: 88.0 (Rank: 11)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/9 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/12 | Ratio: 0.00
+📊 Form: 6-4431 → Score: 0.06 (Rank: 8)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2025-03-28 17:37:00 | ⏳ Time between runs: 10  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇L1 Result: 1 🥇 / 🏇 8 runners. 
+💰L1 Odds: 9.0 📉
+📝L1 Comment: made virtually all, pestered throughout, ridden inside final furlong, ran on
+🏆L1 RaceName: Best Odds Guaranteed At BetMGM Handicap
+📋L1 Type: 4Hc
+🎽 L1 Jockey: A Rawlinson- (⚖️ Weight: 130.0 lbs (59.1 kg) carried -- Allowance: 0.0)
+🏟️ Course: Lingfield (AW) (Polytrack: left-handed, sharp)
+📏 Distance: 7.0 furlongs (🔽 Dropping down to 5.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2025-03-08 16:30:00 | ⏳ Time between runs: 20  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: 1 🥇 ❓ | 📊 1-3: 1W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇L2 Result: 3 🥉 / 🏇 9 runners. 
+💰L2 Odds: 6.5 📉
+📝L2 Comment: raced wide, took keen hold, 🎯 prominent, 🎯 led after 1f, slowed tempo after 2f, headed over 1f out, kept on but lost second inside final 110yds
+🏆L2 RaceName: Best Odds Guaranteed At BetMGM Handicap
+📋L2 Type: 4Hc
+🎽 L2 Jockey: K McHugh- (⚖️ Weight: 121.0 lbs (55.0 kg) carried -- Allowance: 7.0)
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📏 Distance: 7.0 furlongs (🔽 Dropping down to 5.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🐎 10 | Brooklyn Nine Nine🐎 5 years old  gelding, b, 120 lbs.
+📊 Race Record: 1/3 wins (🏅 33% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 4.0, Unexposed rating (all) +1.0
+🎯 Runs this type: avg 5.1, Unexposed rating (type) +2.1
+🧮 Overall: 17 runs | 🏁 Best speed: 5.78 | 📉 Worst: 6.64 | 📊 Avg speed: 6.05 | 🎯 Median: 6.0
+📏 This Trip (10 runs): 🏁 5.78 best, 📊 6.05 avg
+🎖️ This Class (3 runs): 🏁 5.88 best, 📊 5.99 avg
+🦄 Sire: No Nay Never (SR: 0.0% | Rank: 262 | Turf Rank: 266 | AW Rank: 147)
+🌿 Dam: Mamba Noire (SR: 0.0% | Rank: 4394 | Turf Rank: 5664 | AW Rank: 840)
+🛠️ Gear: b
+🩺 Medical History: No records
+🎲 Early market: 13.0 (Rank: 8)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 9th | ⚡ Speed: 100.01% | 📊 Rank: 6064.0 | 🔺 AvgDiff: -1.77 | 🔼 MaxDiff: -374.15 | 🔽 MinDiff: 15.18 | 🟢 1st Sect: + (14.325s) | 🔴 Last Sect: – (12.489999999999998s)
+🗞️ **PRESS OPINION**
+💬 Comment: Mixed form since December AW win; needs something extra with blinkers replacing ch'pieces
+🔦 Spotlight: Won off this mark at Southwell (5f, AW) in December and also effective on turf (albeit 0-10 on grass); however, his form has been mixed since that win; needs something extra with blinkers replacing cheekpieces.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Powerstown Stud Ltd
+Conn Rank: 3169 | Turf: 4083 | AW: 569
+Conn Rank: 3169 | Turf: 4083 | AW: 569 - (No previous owner(s))
+👤 Trainer: Richard Fahey (0 previous trainer(s)) last 14d WinRate (2.0/25.0 runs) (Rank: 2) RTF: 36.0 (OVR: 14%) | Conn Rank: 243 | Turf: 203 | AW: 228
+🏇 Jockey: Cam Hardie (14d rank: 2, 5Y rank: 509 | Turf: 467 | AW: 273) 🏇 Cam Hardie winSR: 100.0% (No better alternative found.)(1.0/ 23.0 runs) RTF: N/A (OVR: 8%) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 2057 runs / 85 wins (0.0% SR)
+🗞️ **PRESS OPINION**
+💬 Comment: Mixed form since December AW win; needs something extra with blinkers replacing ch'pieces
+🔦 Spotlight: Won off this mark at Southwell (5f, AW) in December and also effective on turf (albeit 0-10 on grass); however, his form has been mixed since that win; needs something extra with blinkers replacing cheekpieces.
+📊 **RANKS AND FLAGS**
+📉 OFR: 82.0 (Rank: 7)
+📈 RPR: 109.0 (Rank: 5)
+📉 TS: 103.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 1/10 | Ratio: 0.10
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 1-6469 → Score: 0.04 (Rank: 11)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2025-03-08 17:05:00 | ⏳ Time between runs: 30  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇L1 Result: 9 / 🏇 10 runners. 
+💰L1 Odds: 16.0 📉
+📝L1 Comment: dwelt start, never better than 🔄 midfield
+🏆L1 RaceName: £30 In Free Bets With BetUK Handicap
+📋L1 Type: 3Hc
+🎽 L1 Jockey: O Orr- (⚖️ Weight: 128.0 lbs (58.2 kg) carried -- Allowance: 0.0)
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📏 Distance: 6.0 furlongs (🔽 Dropping down to 5.0 today)
+🌱 Going: SD
+👜 Prize: 💰 8K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2025-02-14 16:30:00 | ⏳ Time between runs: 22  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+🥇L2 Result: 6 / 🏇 7 runners. 
+💰L2 Odds: 4.5 🔥
+📝L2 Comment: 🎯 prominent, outpaced then lost ground over 3f out, ❄️ weakened from over 1f out
+🏆L2 RaceName: Free Bets With BetUK Bet Club Handicap
+📋L2 Type: 4Hc
+🎽 L2 Jockey: W Fentiman- (⚖️ Weight: 120.0 lbs (54.5 kg) carried -- Allowance: 7.0)
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📏 Distance: 5.0 furlongs (➡️ Same trip as today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🐎 4 | Manila Scouse🐎 6 years old  gelding, b, 125 lbs.
+📊 Race Record: 1/4 wins (🏅 25% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 4.2, Unexposed rating (all) +0.2
+🎯 Runs this type: avg 5.3, Unexposed rating (type) +1.3
+🧮 Overall: 29 runs | 🏁 Best speed: 5.65 | 📉 Worst: 6.6 | 📊 Avg speed: 6.04 | 🎯 Median: 5.99
+📏 This Trip (14 runs): 🏁 5.78 best, 📊 6.08 avg
+🎖️ This Class (16 runs): 🏁 5.65 best, 📊 6.01 avg
+🦄 Sire: Aclaim (SR: 0.0% | Rank: 458 | Turf Rank: 424 | AW Rank: 260)
+🌿 Dam: Forever Excel (SR: 0.0% | Rank: 4338 | Turf Rank: 4709 | AW Rank: 1352)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 17.0 (Rank: 10)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Disappointing end to last season but has a good reappearance record; not ruled out
+🔦 Spotlight: Disappointing on final three runs last term but won twice during that campaign (6f/5f, good/good to soft) and he's run well to finish second on his reappearances in each of the last two seasons; not ruled out.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Wayne Clifford
+Conn Rank: nan | Turf: nan | AW: nan
+Conn Rank: nan | Turf: nan | AW: nan - (No previous owner(s))
+👤 Trainer: Tim Easterby (0 previous trainer(s)) last 14d WinRate (1.0/20.0 runs) (Rank: 3) RTF: 25.0 (OVR: 9%) | Conn Rank: 410 | Turf: 382 | AW: 302
+🏇 Jockey: David Allan (14d rank: 8, 5Y rank: 275 | Turf: 282 | AW: 106) 🏇 David Allan winSR: 17.0% | 🏆 Better Alternative: P Mulrennan (1/2 - 50.0%)(1.0/ 9.0 runs) RTF: N/A (OVR: 10%) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 1622 runs / 160 wins (0.1% SR)
+🗞️ **PRESS OPINION**
+💬 Comment: Disappointing end to last season but has a good reappearance record; not ruled out
+🔦 Spotlight: Disappointing on final three runs last term but won twice during that campaign (6f/5f, good/good to soft) and he's run well to finish second on his reappearances in each of the last two seasons; not ruled out.
+📊 **RANKS AND FLAGS**
+📉 OFR: 87.0 (Rank: 4)
+📈 RPR: 109.0 (Rank: 5)
+📉 TS: 96.0 (Rank: 9)
+🏟️ Course Wins/Runs: 0/2 | Ratio: 0.00
+📏 Distance Wins/Runs: 4/17 | Ratio: 0.24
+🌱 Going Wins/Runs: 1/7 | Ratio: 0.14
+📊 Form: 01000- → Score: 3.33 (Rank: 1)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2024-09-14 13:25:00 | ⏳ Time between runs: 205  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+🥇L1 Result: 22 / 🏇 22 runners. 
+💰L1 Odds: 100.0 ❄️❄️
+📝L1 Comment: raced centre, 🎯 prominent, ❄️ weakened quickly 2f out (vet said gelding finished lame on his left-hind)
+🏆L1 RaceName: Betfred Portland (Heritage Handicap)
+📋L1 Type: 2Hc
+🎽 L1 Jockey: D Fentiman- (⚖️ Weight: 121.0 lbs (55.0 kg) carried -- Allowance: 0.0)
+🏟️ Course: Doncaster (left-handed, galloping track)
+📏 Distance: 5.5 furlongs (🔽 Dropping down to 5.0 today)
+🌱 Going: G
+👜 Prize: 💰 52K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2024-08-29 19:40:00 | ⏳ Time between runs: 15  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/2U
+🥇L2 Result: 13 / 🏇 13 runners. 
+💰L2 Odds: 33.0 ❄️
+📝L2 Comment: in touch with leaders, ❄️ weakened from 2f out
+🏆L2 RaceName: Tote.co.uk Big Finale Racing League R42 Handicap (Trainers Registered To Racing League)
+📋L2 Type: 2Hc
+🎽 L2 Jockey: D Allan- (⚖️ Weight: 130.0 lbs (59.1 kg) carried -- Allowance: 0.0)
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📏 Distance: 5.0 furlongs (➡️ Same trip as today)
+🌱 Going: SD
+👜 Prize: 💰 39K
+---------------------------------------------------------------------------
+🐎 5 | Nazron🐎 4 years old  gelding, gr, 125 lbs.
+📊 Race Record: 1/4 wins (🏅 25% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 4.1, Unexposed rating (all) +0.1
+🎯 Runs this type: avg 4.7, Unexposed rating (type) +0.7
+🧮 Overall: 12 runs | 🏁 Best speed: 5.59 | 📉 Worst: 6.17 | 📊 Avg speed: 5.86 | 🎯 Median: 5.8
+📏 This Trip (11 runs): 🏁 5.59 best, 📊 5.83 avg
+🎖️ This Class (3 runs): 🏁 5.67 best, 📊 5.94 avg
+🦄 Sire: Dark Angel (SR: 0.0% | Rank: 317 | Turf Rank: 361 | AW Rank: 147)
+🌿 Dam: Praden (SR: 0.0% | Rank: 3227 | Turf Rank: 1355 | AW Rank: 3281)
+🛠️ No gear today
+🩺 Medical History: 📅 2025-01-21: Wind Surgery
+🎲 Early market: 34.0 (Rank: 11)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 8th | ⚡ Speed: 95.57% | 📊 Rank: 2807.0 | 🔺 AvgDiff: -3.74 | 🔼 MaxDiff: -376.12 | 🔽 MinDiff: 13.21 | 🔴 1st Sect: – (14.09s) | 🟢 Last Sect: + (12.1s)
+🗞️ **PRESS OPINION**
+💬 Comment: Won last August but well beaten the last twice; returns from a break and wind surgery
+🔦 Spotlight: Won at Windsor (5f, good to firm) last August for Roger Varian but well beaten towards the end of last year on first two runs for this yard and hopes are pinned on the subsequent wind surgery prompting a revival.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: China Horse Club International Ltd
+Conn Rank: 2286 | Turf: 641 | AW: 2301
+Conn Rank: 2286 | Turf: 641 | AW: 2301 - (No previous owner(s))
+👤 Trainer: Ivan Furtado (0 previous trainer(s)) last 14d WinRate (0.0/8.0 runs) (Rank: 8) RTF: 25.0 (OVR: 0%) | Conn Rank: 412 | Turf: 294 | AW: 330
+🏇 Jockey: Tom Eaves (14d rank: 8, 5Y rank: 347 | Turf: 375 | AW: 154) 🏇 Tom Eaves winSR: 0.0% | 🏆 Better Alternative: D Muscutt (1/1 - 100.0%)(2.0/ 18.0 runs) RTF: N/A (OVR: 6%) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 1762 runs / 148 wins (0.1% SR)
+🤔 Surface doesn't match the preferred edge.
+🗞️ **PRESS OPINION**
+💬 Comment: Won last August but well beaten the last twice; returns from a break and wind surgery
+🔦 Spotlight: Won at Windsor (5f, good to firm) last August for Roger Varian but well beaten towards the end of last year on first two runs for this yard and hopes are pinned on the subsequent wind surgery prompting a revival.
+📊 **RANKS AND FLAGS**
+📉 OFR: 87.0 (Rank: 4)
+📈 RPR: 108.0 (Rank: 10)
+📉 TS: 101.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 2/11 | Ratio: 0.18
+🌱 Going Wins/Runs: 0/3 | Ratio: 0.00
+📊 Form: 31608- → Score: 0.06 (Rank: 8)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2024-12-10 18:00:00 | ⏳ Time between runs: 118  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇L1 Result: 8 / 🏇 9 runners. 
+💰L1 Odds: 20.0 ❄️
+📝L1 Comment: dwelt start, in rear throughout
+🏆L1 RaceName: Free Bets With BetUK Bet Club Handicap
+📋L1 Type: 2Hc
+🎽 L1 Jockey: M Ghiani- (⚖️ Weight: 125.0 lbs (56.8 kg) carried -- Allowance: 0.0)
+🏟️ Course: Southwell (AW) (Tapeta left-handed, sharp track. Fibresand surface before 7 December 2021)
+📏 Distance: 5.0 furlongs (➡️ Same trip as today)
+🌱 Going: SD
+👜 Prize: 💰 14K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2024-11-23 18:55:00 | ⏳ Time between runs: 16  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 2W/0P/1U
+🥇L2 Result: 10 / 🏇 10 runners. 
+💰L2 Odds: 16.0 📉
+📝L2 Comment: 🎯 led, raced wide early, headed and ❄️ weakened from over 1f out
+🏆L2 RaceName: Stay Safe Players With BetMGM Handicap
+📋L2 Type: 2Hc
+🎽 L2 Jockey: M Ghiani- (⚖️ Weight: 134.0 lbs (60.9 kg) carried -- Allowance: 0.0)
+🏟️ Course: Wolverhampton (AW) (Tapeta. Left-handed 7 1/2f oval.)
+📏 Distance: 7.0 furlongs (🔽 Dropping down to 5.0 today)
+🌱 Going: SD
+👜 Prize: 💰 13K
+---------------------------------------------------------------------------

@@ -1,0 +1,789 @@
+⏰ Off Time: 2025-04-08 15:40
+📍 Venue: Navan (left-handed, undulating, galloping track (1m4f circuit))
+🏁 Race ID: 892327 - 🏆 Name: Enjoy Hospitality At Navan Racecourse Handicap
+🏇 Type: Flat
+📏 Distance: 14.0 furlongs
+🏇 Class/Grade: nan
+🎂 Age Band: 4yo+
+💰 Prize money: 💰 7K
+☀️ Weather: Sunny
+🌱 Going: Good
+11 runners declared
+Head to Head History:
+
+today_race_id  shared_race_id  horse_id1  horse_id2  performanceDifferential_pure  weight_diff  rating_diff  odds_ratio  performanceDifferential_weighted
+892327        849977          2767414    4249776      9.0                           1.0        -3.0         1.176471      7.820000                       
+892327        868275          3364105    4315451     -1.0                          -4.0        -8.0         1.000000      0.200000                       
+892327        868491          3839278    4701426     17.0                         -21.0        -7.0         0.727273     27.225000                       
+892327        877357          2702929    3839278     -9.0                           5.0         5.0         0.777778    -12.857143                       
+892327        879358          3364105    5385901    -10.0                           6.0        -1.0         0.180000    -58.333333                       
+892327        879875          3364105    5764619      2.0                          16.0         9.0         0.151515     -3.300000                       
+892327        881830          3364105    3839278     -1.0                          -2.0        -2.0         0.571429     -1.050000                       
+892327        881830          3364105    4249776      1.0                           5.0         5.0         2.142857      0.000000                       
+892327        881830          3839278    4249776      2.0                           7.0         7.0         3.750000      0.160000                       
+892327        887784          2702929    3265356     -5.0                          -5.0        -5.0         1.428571     -2.800000                       
+892327        887784          2702929    4315451     -8.0                          -6.0        -2.0         0.392857    -18.327273                       
+892327        887784          3265356    4315451     -3.0                          -1.0         3.0         0.275000    -11.636364                       
+892327        887895          3364105    4249776      1.0                         -15.0        -1.0         0.600000      4.333333                       
+892327        889833          2702929    3364105      2.0                          -3.0        -3.0         0.444444      5.850000                       
+892327        889833          2702929    4249776     -1.0                         -16.0        -2.0         0.416667      1.920000                       
+892327        889833          3364105    4249776     -3.0                         -13.0         1.0         0.937500     -1.920000                       
+892327        891230          5764619    6010541      2.0                           0.0         0.0         8.000000      0.250000                       
+++++++++++Performance Table++++++++++
+number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | L-SR     | R-tSR    | GAP-AVG  | GOING    | AVG£     | AVG€     | RPR      | TS       | OFR      | J-14-W   | J-14-Prf | J-All-W  | J-All-Prf | T-14-W   | T-14-Prf | T-All-W  | T-All-Prf | FSCRE    | CRSE     | DST      | GOING2   | OP-ODDS  | sire_rank | trainer_id_rank | owner_rank | dam_rank | jockey_id_rank
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9        | Billie Frechette          | 5764619  | 4.0      | 8.0      | 4.0      | 7.0      | 4.0      | 10.0     | 5.0      | 8.0      | 8.0      | 12.0     | 5.0      | 9.0      | 3.0      | 2.0      | 2.0      | 12.0     | 2.0      | 10.0     | 5.0      | 12.0     | 3.0      | 4.0      | 2.0      | 3.0      | 1.0      | 407.0    | 278.0    | 5012.0   | 6003.0   | 102.0   
+4        | Imarajan                  | 5385901  | 7.0      | 8.0      | 1.0      | 7.0      | 4.0      | 9.0      | 5.0      | 4.0      | 3.0      | 3.0      | 6.0      | 4.0      | 7.0      | 11.0     | 3.0      | 10.0     | 3.0      | 5.0      | 8.0      | 3.0      | 10.0     | N/A      | 2.0      | 3.0      | 2.0      | 268.0    | 516.0    | N/A      | 7296.0   | 375.0   
+11       | Makaiah                   | 6010541  | 10.0     | 8.0      | 3.0      | 7.0      | 4.0      | 11.0     | 5.0      | 6.0      | 6.0      | 3.0      | 3.0      | 11.0     | 5.0      | 4.0      | 10.0     | 11.0     | 3.0      | 12.0     | 8.0      | 6.0      | 7.0      | N/A      | N/A      | 3.0      | 3.0      | 351.0    | 252.0    | 3533.0   | 6352.0   | 252.0   
+1        | Tudor Manor               | 3839278  | 6.0      | 3.0      | 5.0      | 1.0      | 4.0      | 8.0      | 5.0      | 12.0     | 11.0     | 6.0      | 8.0      | 1.0      | 9.0      | 5.0      | 12.0     | 3.0      | 3.0      | 4.0      | 8.0      | 5.0      | 4.0      | 4.0      | 2.0      | 1.0      | 4.0      | 481.0    | 386.0    | 3291.0   | 4394.0   | 255.0   
+6        | Inchiquin Maid            | 4249776  | 3.0      | 7.0      | 9.0      | 5.0      | 4.0      | 12.0     | 2.0      | 11.0     | 10.0     | 11.0     | N/A      | 6.0      | 5.0      | 3.0      | 9.0      | 1.0      | 11.0     | 2.0      | 7.0      | 1.0      | 5.0      | N/A      | 2.0      | 3.0      | 4.0      | 557.0    | 431.0    | N/A      | 1558.0   | 287.0   
+5        | Scott Lang                | 3364105  | 8.0      | 4.0      | 7.0      | 3.0      | 4.0      | 6.0      | 1.0      | 9.0      | 9.0      | 6.0      | 10.0     | 4.0      | 2.0      | 7.0      | 1.0      | 4.0      | 3.0      | 7.0      | 2.0      | 7.0      | 6.0      | 3.0      | 2.0      | 2.0      | 6.0      | 565.0    | 331.0    | 4737.0   | 4542.0   | 360.0   
+8        | The Truant                | 2702929  | 11.0     | 6.0      | 12.0     | 7.0      | 2.0      | 1.0      | 4.0      | 5.0      | 5.0      | 2.0      | 9.0      | 8.0      | 9.0      | 7.0      | 3.0      | 5.0      | 3.0      | 7.0      | 2.0      | 7.0      | 2.0      | 4.0      | 2.0      | 3.0      | 7.0      | 253.0    | 331.0    | 4363.0   | 2987.0   | 419.0   
+3        | Duke Of Leggagh           | 4315451  | 1.0      | 1.0      | 8.0      | 2.0      | 2.0      | 5.0      | 3.0      | 2.0      | 1.0      | 1.0      | 1.0      | 3.0      | 4.0      | 1.0      | 3.0      | 7.0      | 3.0      | 11.0     | 1.0      | 10.0     | 8.0      | 2.0      | N/A      | 3.0      | 7.0      | 614.0    | 445.0    | 3933.0   | 812.0    | 388.0   
+7        | Viceregent                | 2767414  | 2.0      | 5.0      | 10.0     | 6.0      | 3.0      | 3.0      | 5.0      | 10.0     | 12.0     | 6.0      | N/A      | 7.0      | 1.0      | 10.0     | 8.0      | 2.0      | 11.0     | 2.0      | 8.0      | 2.0      | 1.0      | 1.0      | 1.0      | 3.0      | 9.0      | 237.0    | 671.0    | 5213.0   | 7065.0   | 289.0   
+2        | Churchwarden              | 5089303  | 5.0      | 2.0      | 2.0      | 7.0      | 1.0      | 4.0      | 5.0      | 1.0      | 4.0      | 9.0      | 6.0      | 2.0      | 9.0      | 6.0      | 7.0      | 9.0      | 1.0      | 1.0      | 6.0      | 11.0     | 9.0      | N/A      | 2.0      | 3.0      | 10.0     | 646.0    | 469.0    | N/A      | 5736.0   | 500.0   
+10       | Jazz Forever              | 4701426  | 9.0      | 5.0      | 6.0      | 4.0      | 4.0      | 7.0      | 5.0      | 7.0      | 7.0      | 5.0      | 2.0      | 10.0     | 8.0      | 12.0     | 10.0     | 6.0      | 3.0      | 7.0      | 2.0      | 7.0      | 11.0     | 4.0      | N/A      | 3.0      | 11.0     | 361.0    | 331.0    | N/A      | 6950.0   | 136.0   
+12       | Bynx                      | 3265356  | 4.0      | 5.0      | 11.0     | 7.0      | 3.0      | 2.0      | 5.0      | 3.0      | 2.0      | 9.0      | 4.0      | 12.0     | 9.0      | 9.0      | 6.0      | 8.0      | 3.0      | 5.0      | 8.0      | 3.0      | 12.0     | 4.0      | 2.0      | 3.0      | 11.0     | 568.0    | 245.0    | 4490.0   | 5372.0   | 307.0   
+
+🔹 **Legend:**
+FORM3: formScore_3_rank | W-SR: winSR_rank | FORMAll: formScore_all_rank | L-SR: leftHandedSr_rank | R-tSR: rightHandedSr_rank | SPD-BEST: rank_minSecs | SPD-AVG: rank_avgSecs | GAP-AVG: AvgDistanceBeatenBy_rank | GOING: going_SR_rank | AVG£: avgPrizeSterling_rank | AVG€: avgPrizeEuro_rank | RPR: rpr_rank | TS: ts_rank
+OFR: ofr_rank | J-14-W: stats_jockey_last_14_wins_pct_rank | J-14-Prf: stats_jockey_last_14_profit_rank | J-All-W: stats_jockey_ovr_wins_pct_rank | J-All-Prf: stats_jockey_ovr_profit_rank | T-14-W: stats_trainer_last_14_wins_pct_rank | T-14-Prf: stats_trainer_last_14_profit_rank | T-All-W: stats_trainer_ovr_wins_pct_rank | T-All-Prf: stats_trainer_ovr_profit_rank | FSCRE: formScore_rank | CRSE: stats_course_ratio_rank | DST: stats_distance_ratio_rank | GOING2: stats_going_ratio_rank | OP-ODDS: opDec_rank
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 9 | Billie Frechette🐎 4 years old  filly, gr, 130 lbs.
+📊 Race Record: 0/3 wins (🏅 0% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 4.1, Unexposed rating (all) +1.1
+🎯 Runs this type: avg 4.7, Unexposed rating (type) +1.7
+🧮 Overall: 0 runs | 🏁 Best speed: nan | 📉 Worst: nan | 📊 Avg speed: nan | 🎯 Median: nan
+🦄 Sire: Zoffany (SR: 0.0% | Rank: 407 | Turf Rank: 440 | AW Rank: 147)
+🌿 Dam: Satwa Ruby (SR: 0.0% | Rank: 6003 | Turf Rank: 5664 | AW Rank: 1274)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 4.33 (Rank: 1)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Showed a good attitude when winning over 2m at Dundalk 11 days ago with Makaiah in third
+🔦 Spotlight: Has improved gradually at Dundalk during the winter (placed twice over 1m4f in December) and was rewarded with victory in a 2m handicap 11 days ago; showed a good attitude and has a good chance of confirming form with third-placed Mafiah despite a 5lb rise; that run was prefaced by a decent hurdles run at Wexford.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Eimear Mulhern
+Conn Rank: 5012 | Turf: 3899 | AW: 2481
+Conn Rank: 5012 | Turf: 3899 | AW: 2481 - (No previous owner(s))
+👤 Trainer: Noel Meade (0 previous trainer(s)) last 14d WinRate (3.0/18.0 runs) (Rank: 2) RTF: 62.0 (OVR: 6%) | Conn Rank: 278 | Turf: 242 | AW: 330
+🏇 Jockey: Colin Keane (14d rank: 3, 5Y rank: 102 | Turf: 149 | AW: 44) 🏇 Colin Keane winSR: 0.0% (No better alternative found.)(10.0/ 36.0 runs) RTF: N/A (OVR: 8%) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 2063 runs / 296 wins (0.1% SR)
+🤔 Surface doesn't match the preferred edge.
+🗞️ **PRESS OPINION**
+💬 Comment: Showed a good attitude when winning over 2m at Dundalk 11 days ago with Makaiah in third
+🔦 Spotlight: Has improved gradually at Dundalk during the winter (placed twice over 1m4f in December) and was rewarded with victory in a 2m handicap 11 days ago; showed a good attitude and has a good chance of confirming form with third-placed Mafiah despite a 5lb rise; that run was prefaced by a decent hurdles run at Wexford.
+📊 **RANKS AND FLAGS**
+📉 OFR: 60.0 (Rank: 9)
+📈 RPR: 68.0 (Rank: 12)
+📉 TS: 55.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/4 | Ratio: 0.00
+📊 Form: 2623-1 → Score: 0.1 (Rank: 3)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2025-03-28 18:30:00 | ⏳ Time between runs: 10  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇L1 Result: 1 🥇 / 🏇 13 runners. 
+💰L1 Odds: 1.75 🔥🔥
+📝L1 Comment: 🔄 held up in rear, headway on outer 3f out, ridden and 🎯 led on near side of group over 1f out, soon hung left and faced challenge, stayed on final 110yds
+🏆L1 RaceName: William Hill Top Price Guarantee Handicap
+📋L1 Type: Hc
+🎽 L1 Jockey: C T Keane- (⚖️ Weight: 134.0 lbs (60.9 kg) carried -- Allowance: 0.0)
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📏 Distance: 16.0 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2025-03-17 13:35:00 | ⏳ Time between runs: 11  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: 1 🥇 ❓ | 📊 1-3: 1W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇L2 Result: 3 🥉 / 🏇 14 runners. 
+💰L2 Odds: 4.0 🔥
+📝L2 Comment: in touch with leaders, headway and disputing second before 2 out, kept on
+🏆L2 RaceName: Wexford Mares Maiden Hurdle
+📋L2 Type: MdHM
+🎽 L2 Jockey: Rachael Blackmore- (⚖️ Weight: 143.0 lbs (65.0 kg) carried -- Allowance: 0.0)
+🏟️ Course: Wexford (Left-handed (was r-h before spring 2015), fairly sharp track (1m2f circuit))
+📏 Distance: 16.0 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: GY
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🐎 4 | Imarajan🐎 4 years old  gelding, b, 138 lbs.
+📊 Race Record: 0/3 wins (🏅 0% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 4.1, Unexposed rating (all) +1.1
+🎯 Runs this type: avg 4.7, Unexposed rating (type) +1.7
+🧮 Overall: 0 runs | 🏁 Best speed: nan | 📉 Worst: nan | 📊 Avg speed: nan | 🎯 Median: nan
+🦄 Sire: Camelot (SR: 0.0% | Rank: 268 | Turf Rank: 283 | AW Rank: 131)
+🌿 Dam: Imrana (SR: 0.0% | Rank: 7296 | Turf Rank: 5664 | AW Rank: 3281)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 5.0 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 5th | ⚡ Speed: 109.42% | 📊 Rank: 2938.0 | 🔺 AvgDiff: 6.13 | 🔼 MaxDiff: -366.25 | 🔽 MinDiff: 23.08 | 🟢 1st Sect: + (16.645s) | 🟢 Last Sect: + (12.97s)
+🗞️ **PRESS OPINION**
+💬 Comment: Second in a handicap over this trip at the Curragh last October, fit from hurdling
+🔦 Spotlight: Ex-Aga Khan; ended six-race Flat campaign for the Halford/Collins team last year with second in a handicap over this trip at the Curragh; has run respectably in two maiden hurdle outings for this stable.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: His Highness The Aga Khan's Studs S C
+Conn Rank: nan | Turf: nan | AW: nan
+Conn Rank: nan | Turf: nan | AW: nan - (No previous owner(s))
+👤 Trainer: Eddie & Patrick Harty (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 3) RTF: 75.0 (OVR: 0%) | Conn Rank: 516 | Turf: 420 | AW: 453
+🏇 Jockey: Chris Hayes (14d rank: 7, 5Y rank: 375 | Turf: 319 | AW: 252) 🏇 Chris Hayes winSR: 0.0% (No better alternative found.)(4.0/ 32.0 runs) RTF: N/A (OVR: 7%) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 1766 runs / 138 wins (0.1% SR)
+🌿 Turf Record: 112.0 wins / 1293.0 runs (0.1% SR)
+📉 z=-2.19 → Jock better on Turf 🐎
+🗞️ **PRESS OPINION**
+💬 Comment: Second in a handicap over this trip at the Curragh last October, fit from hurdling
+🔦 Spotlight: Ex-Aga Khan; ended six-race Flat campaign for the Halford/Collins team last year with second in a handicap over this trip at the Curragh; has run respectably in two maiden hurdle outings for this stable.
+📊 **RANKS AND FLAGS**
+📉 OFR: 68.0 (Rank: 4)
+📈 RPR: 76.0 (Rank: 3)
+📉 TS: 46.0 (Rank: 6)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 53842- → Score: 0.05 (Rank: 10)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2025-03-08 14:10:00 | ⏳ Time between runs: 30  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇L1 Result: 5 / 🏇 20 runners. 
+💰L1 Odds: 10.0 📉
+📝L1 Comment: disputed lead, 🎯 prominent 2nd, outpaced after 3 out, ❄️ weakened last
+🏆L1 RaceName: Golf Classics At Gowran Park Maiden Hurdle
+📋L1 Type: MdH
+🎽 L1 Jockey: K Buckley- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0)
+🏟️ Course: Gowran Park (right-handed, undulating track (1m4f circuit))
+📏 Distance: 16.0 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: S
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2025-02-05 14:55:00 | ⏳ Time between runs: 30  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+🥇L2 Result: 4 / 🏇 13 runners. 
+💰L2 Odds: 8.5 📉
+📝L2 Comment: in touch with leaders, headway and 🎯 prominent when mistake 2 out, no impression when not fluent last
+🏆L2 RaceName: Book Your Fairyhouse Hospitality Maiden Hurdle
+📋L2 Type: 4yMdH
+🎽 L2 Jockey: K Buckley- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0)
+🏟️ Course: Fairyhouse (right-handed, galloping, testing track (1m6f circuit))
+📏 Distance: 16.0 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: HY
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🐎 11 | Makaiah🐎 4 years old  filly, b, 125 lbs.
+📊 Race Record: 0/4 wins (🏅 0% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 4.1, Unexposed rating (all) +0.1
+🎯 Runs this type: avg 4.7, Unexposed rating (type) +0.7
+🧮 Overall: 0 runs | 🏁 Best speed: nan | 📉 Worst: nan | 📊 Avg speed: nan | 🎯 Median: nan
+🦄 Sire: Bated Breath (SR: 0.0% | Rank: 351 | Turf Rank: 372 | AW Rank: 193)
+🌿 Dam: Make Me Sway (SR: 0.0% | Rank: 6352 | Turf Rank: 4244 | AW Rank: 3204)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 6.0 (Rank: 3)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Far third behind today's rival Billie Frechette over 2m at Dundalk, place chance
+🔦 Spotlight: Mild promise for Ger Lyons last season, though best run was over 1m in a claimer; by far the best of four hurdle runs when 66-1 second in six-runner Fairyhouse event; outstayed when third behind today's rival Billie Frechette over 2m at Dundalk 11 days ago.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Springfield Farm Blds Ltd&podge Bolger
+Conn Rank: 3533 | Turf: 2735 | AW: 2029
+Conn Rank: 3533 | Turf: 2735 | AW: 2029 - (No previous owner(s))
+👤 Trainer: Gerard Oleary (0 previous trainer(s)) last 14d WinRate (0.0/10.0 runs) (Rank: 3) RTF: 36.0 (OVR: 0%) | Conn Rank: 252 | Turf: 262 | AW: 164
+🏇 Jockey: Shane Foley (14d rank: 5, 5Y rank: 252 | Turf: 220 | AW: 208) 🏇 Shane Foley winSR: 0.0% (No better alternative found.)(4.0/ 28.0 runs) RTF: N/A (OVR: 10%) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 1560 runs / 161 wins (0.1% SR)
+🗞️ **PRESS OPINION**
+💬 Comment: Far third behind today's rival Billie Frechette over 2m at Dundalk, place chance
+🔦 Spotlight: Mild promise for Ger Lyons last season, though best run was over 1m in a claimer; by far the best of four hurdle runs when 66-1 second in six-runner Fairyhouse event; outstayed when third behind today's rival Billie Frechette over 2m at Dundalk 11 days ago.
+📊 **RANKS AND FLAGS**
+📉 OFR: 55.0 (Rank: 11)
+📈 RPR: 76.0 (Rank: 3)
+📉 TS: 65.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/3 | Ratio: 0.00
+📊 Form: 0727-3 → Score: 0.06 (Rank: 7)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2025-03-28 18:30:00 | ⏳ Time between runs: 10  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇L1 Result: 3 🥉 / 🏇 13 runners. 
+💰L1 Odds: 14.0 📉
+📝L1 Comment: 🔄 midfield, outpaced on near side of group over 2f out, rallied and went third when hung left final 110yds, no match for first two
+🏆L1 RaceName: William Hill Top Price Guarantee Handicap
+📋L1 Type: Hc
+🎽 L1 Jockey: S Foley- (⚖️ Weight: 134.0 lbs (60.9 kg) carried -- Allowance: 0.0)
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📏 Distance: 16.0 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: SD
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2025-02-05 15:55:00 | ⏳ Time between runs: 51  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/1P/0U
+🥇L2 Result: 9 / 🏇 13 runners. 
+💰L2 Odds: 28.0 ❄️
+📝L2 Comment: soon 🔄 midfield, in touch with leaders before 3rd, 🎯 prominent when bit short of room and 🚧 bumped rival before 3 out, jumped left and ❄️ weakened 3 out
+🏆L2 RaceName: Bobbyjo Day February 22nd Handicap Hurdle (Div I)
+📋L2 Type: HcH
+🎽 L2 Jockey: A Kelly- (⚖️ Weight: 140.0 lbs (63.6 kg) carried -- Allowance: 5.0)
+🏟️ Course: Fairyhouse (right-handed, galloping, testing track (1m6f circuit))
+📏 Distance: 20.0 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: HY
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🐎 1 | Tudor Manor🐎 9 years old  gelding, ch, 142 lbs.
+📊 Race Record: 0/3 wins (🏅 0% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 3.9, Unexposed rating (all) +0.9
+🎯 Runs this type: avg 5.2, Unexposed rating (type) +2.2
+🧮 Overall: 0 runs | 🏁 Best speed: nan | 📉 Worst: nan | 📊 Avg speed: nan | 🎯 Median: nan
+🦄 Sire: Casamento (SR: 0.0% | Rank: 481 | Turf Rank: 407 | AW Rank: 294)
+🌿 Dam: Alaysieh (SR: 0.0% | Rank: 4394 | Turf Rank: 4919 | AW Rank: 953)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 9.0 (Rank: 4)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 7th | ⚡ Speed: 97.04% | 📊 Rank: 2610.0 | 🔺 AvgDiff: -4.34 | 🔼 MaxDiff: -376.72 | 🔽 MinDiff: 12.61 | 🔴 1st Sect: – (15.455s) | 🟢 Last Sect: + (13.22s)
+🗞️ **PRESS OPINION**
+💬 Comment: Good 1m4f form at Dundalk last November recording a win and a second, fit from hurdling
+🔦 Spotlight: In good form over 1m4f at Dundalk last November, notching a win and a second; fit from hurdling; 1-14 on turf, sole win gained over 1m4f at Leopardstown last May; fine effort over this trip when second at the Listowel festival.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Miss Emma Jayne Gallagher
+Conn Rank: 3291 | Turf: 4083 | AW: 95
+Conn Rank: 3291 | Turf: 4083 | AW: 95 - (No previous owner(s))
+👤 Trainer: Patrick J Flynn (0 previous trainer(s)) last 14d WinRate (0.0/2.0 runs) (Rank: 3) RTF: 33.0 (OVR: 0%) | Conn Rank: 386 | Turf: 402 | AW: 187
+🏇 Jockey: Robyn Donaghue-Leahy(7) (14d rank: 9, 5Y rank: 255 | Turf: 314 | AW: 94) 🏇 Robyn Donaghue-Leahy(7) winSR: 18.0% (No better alternative found.)(0.0/ 1.0 runs) RTF: N/A (OVR: 0%) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 108 runs / 11 wins (0.1% SR)
+🗞️ **PRESS OPINION**
+💬 Comment: Good 1m4f form at Dundalk last November recording a win and a second, fit from hurdling
+🔦 Spotlight: In good form over 1m4f at Dundalk last November, notching a win and a second; fit from hurdling; 1-14 on turf, sole win gained over 1m4f at Leopardstown last May; fine effort over this trip when second at the Listowel festival.
+📊 **RANKS AND FLAGS**
+📉 OFR: 72.0 (Rank: 1)
+📈 RPR: 73.0 (Rank: 6)
+📉 TS: 40.0 (Rank: 8)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 1/9 | Ratio: 0.11
+📊 Form: 52512- → Score: 0.08 (Rank: 4)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2025-03-17 14:45:00 | ⏳ Time between runs: 21  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇L1 Result: 7 / 🏇 14 runners. 
+💰L1 Odds: 16.0 📉
+📝L1 Comment: 🔄 towards rear, brief headway on turn before 2 out, no impression when hit last
+🏆L1 RaceName: Visit Wexford Novice Handicap Hurdle
+📋L1 Type: NvHcH
+🎽 L1 Jockey: T Harney- (⚖️ Weight: 141.0 lbs (64.1 kg) carried -- Allowance: 7.0)
+🏟️ Course: Wexford (Left-handed (was r-h before spring 2015), fairly sharp track (1m2f circuit))
+📏 Distance: 16.0 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: GY
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2025-03-06 16:00:00 | ⏳ Time between runs: 10  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+🥇L2 Result: 7 / 🏇 16 runners. 
+💰L2 Odds: 10.0 📉
+📝L2 Comment: in touch with leaders, mistake 4th, lost position after 2 out, ❄️ weakened run-in
+🏆L2 RaceName: Killinan Handicap Hurdle
+📋L2 Type: HcH
+🎽 L2 Jockey: T Harney- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 7.0)
+🏟️ Course: Thurles (right-handed, undulating track (1m2f circuit))
+📏 Distance: 15.5 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: GY
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🐎 6 | Inchiquin Maid🐎 6 years old  mare, b, 137 lbs.
+📊 Race Record: 0/7 wins (🏅 0% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 4.2, Unexposed rating (all) -2.8
+🎯 Runs this type: avg 5.3, Unexposed rating (type) -1.7
+🧮 Overall: 0 runs | 🏁 Best speed: nan | 📉 Worst: nan | 📊 Avg speed: nan | 🎯 Median: nan
+🦄 Sire: Estidhkaar (SR: 0.0% | Rank: 557 | Turf Rank: 605 | AW Rank: 196)
+🌿 Dam: Spinning Maid (SR: 0.0% | Rank: 1558 | Turf Rank: 1640 | AW Rank: nan)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 9.0 (Rank: 4)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 6th | ⚡ Speed: 98.85% | 📊 Rank: 4065.0 | 🔺 AvgDiff: -0.56 | 🔼 MaxDiff: -372.94 | 🔽 MinDiff: 16.39 | 🔴 1st Sect: – (16.455s) | 🔴 Last Sect: – (14.82s)
+🗞️ **PRESS OPINION**
+💬 Comment: Winner and second from three Dundalk runs for this stable, possibly a bit high now
+🔦 Spotlight: Improved form on first two starts for this stable, landing 2m Dundalk handicap by 5l in December before finishing second to Scott Lang from 10lb higher in February; sixth last month in another 2m Dundalk event, with The Truant seventh and Scott Lang ninth.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Mark Salmon
+Conn Rank: nan | Turf: nan | AW: nan
+Conn Rank: nan | Turf: nan | AW: nan - (No previous owner(s))
+👤 Trainer: Chris Timmons (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 11) RTF: N/A (OVR: 12%) | Conn Rank: 431 | Turf: 465 | AW: 164
+🏇 Jockey: Gary Carroll (14d rank: 5, 5Y rank: 287 | Turf: 263 | AW: 200) 🏇 Gary Carroll winSR: 0.0% (No better alternative found.)(2.0/ 14.0 runs) RTF: N/A (OVR: 11%) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 1301 runs / 125 wins (0.1% SR)
+🗞️ **PRESS OPINION**
+💬 Comment: Winner and second from three Dundalk runs for this stable, possibly a bit high now
+🔦 Spotlight: Improved form on first two starts for this stable, landing 2m Dundalk handicap by 5l in December before finishing second to Scott Lang from 10lb higher in February; sixth last month in another 2m Dundalk event, with The Truant seventh and Scott Lang ninth.
+📊 **RANKS AND FLAGS**
+📉 OFR: 67.0 (Rank: 6)
+📈 RPR: 70.0 (Rank: 11)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/3 | Ratio: 0.00
+📊 Form: 631-26 → Score: 0.07 (Rank: 5)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2025-03-07 18:30:00 | ⏳ Time between runs: 31  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/2U
+🥇L1 Result: 6 / 🏇 13 runners. 
+💰L1 Odds: 7.5 📉
+📝L1 Comment: soon in touch with leaders, disputed lead from over 2f out, ❄️ weakened from over 1f out
+🏆L1 RaceName: Every Cheltenham Festival Race Live Only On Racing TV (Q.R.) Handicap
+📋L1 Type: Hc
+🎽 L1 Jockey: Mr D Lavery- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0)
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📏 Distance: 16.0 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: SD
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2025-02-12 14:45:00 | ⏳ Time between runs: 23  days ago
+🏆 1st: 7, 2nd: 6, 3rd: No runs since ⚠️ | 📊 1-3: 0W/0P/2U | 🐴 Also: 0W/0P/0U
+🥇L2 Result: 2 🥈 / 🏇 7 runners. 
+💰L2 Odds: 1.5 🔥🔥
+📝L2 Comment: 🎯 led at steady pace, increased tempo from over 3f out, ridden from over 2f out, headed but kept on well from 1f out
+🏆L2 RaceName: Dundalk Winter Series Leading Trainer & Jockey Championship Handicap
+📋L2 Type: Hc
+🎽 L2 Jockey: G F Carroll- (⚖️ Weight: 136.0 lbs (61.8 kg) carried -- Allowance: 0.0)
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📏 Distance: 16.0 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: SD
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🐎 5 | Scott Lang🐎 8 years old  gelding, gr, 138 lbs.
+📊 Race Record: 0/4 wins (🏅 0% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 4.1, Unexposed rating (all) +0.1
+🎯 Runs this type: avg 5.4, Unexposed rating (type) +1.4
+🧮 Overall: 0 runs | 🏁 Best speed: nan | 📉 Worst: nan | 📊 Avg speed: nan | 🎯 Median: nan
+🦄 Sire: Cappella Sansevero (SR: 0.0% | Rank: 565 | Turf Rank: 608 | AW Rank: 220)
+🌿 Dam: Sharp And Smart (SR: 0.0% | Rank: 4542 | Turf Rank: 5664 | AW Rank: 188)
+🛠️ Gear: p
+🩺 Medical History: No records
+🎲 Early market: 11.0 (Rank: 6)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: 1-17 turf Flat record is a negative though he won over 2m at Dundalk in February
+🔦 Spotlight: Down the field over hurdles at Limerick last week; 1-17 turf Flat record is a negative, though he won over 2m at Dundalk in February at the main expense of today's rival Inchiquin Maid.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Ronnie Boland
+Conn Rank: 4737 | Turf: 4083 | AW: 946
+Conn Rank: 4737 | Turf: 4083 | AW: 946 - (No previous owner(s))
+👤 Trainer: Paul W Flynn (0 previous trainer(s)) last 14d WinRate (0.0/5.0 runs) (Rank: 3) RTF: 29.0 (OVR: 7%) | Conn Rank: 331 | Turf: 414 | AW: 89
+🏇 Jockey: Luke Mcateer (14d rank: 2, 5Y rank: 360 | Turf: 373 | AW: 145) 🏇 Luke Mcateer winSR: 20.0% (No better alternative found.)(1.0/ 16.0 runs) RTF: N/A (OVR: 9%) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 819 runs / 67 wins (0.1% SR)
+🗞️ **PRESS OPINION**
+💬 Comment: 1-17 turf Flat record is a negative though he won over 2m at Dundalk in February
+🔦 Spotlight: Down the field over hurdles at Limerick last week; 1-17 turf Flat record is a negative, though he won over 2m at Dundalk in February at the main expense of today's rival Inchiquin Maid.
+📊 **RANKS AND FLAGS**
+📉 OFR: 68.0 (Rank: 4)
+📈 RPR: 73.0 (Rank: 6)
+📉 TS: 33.0 (Rank: 10)
+🏟️ Course Wins/Runs: 1/7 | Ratio: 0.14
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 1/7 | Ratio: 0.14
+📊 Form: 42-219 → Score: 0.07 (Rank: 6)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2025-04-01 16:45:00 | ⏳ Time between runs: 6  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇L1 Result: 7 / 🏇 16 runners. 
+💰L1 Odds: 12.0 📉
+📝L1 Comment: in touch with leaders, outpaced and lost position after 3 out, kept on from 2 out, no telling impression
+🏆L1 RaceName: Munster Suite @ Limerick Handicap Hurdle (Div II)
+📋L1 Type: HcH
+🎽 L1 Jockey: D Gilligan- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0)
+🏟️ Course: Limerick (right-handed, undulating track (1m3f oval))
+📏 Distance: 19.0 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: G
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2025-03-07 18:30:00 | ⏳ Time between runs: 24  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/2U
+🥇L2 Result: 9 / 🏇 13 runners. 
+💰L2 Odds: 8.0 📉
+📝L2 Comment: soon disputed lead, dropped to 🔄 midfield after 1f, 🔄 towards rear halfway, some headway when raced wide then slightly ⚠️ hampered home turn, soon no impression
+🏆L2 RaceName: Every Cheltenham Festival Race Live Only On Racing TV (Q.R.) Handicap
+📋L2 Type: Hc
+🎽 L2 Jockey: Miss C Flynn- (⚖️ Weight: 143.0 lbs (65.0 kg) carried -- Allowance: 7.0)
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📏 Distance: 16.0 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: SD
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🐎 8 | The Truant🐎 8 years old  gelding, gr, 134 lbs.
+📊 Race Record: 0/5 wins (🏅 0% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 4.1, Unexposed rating (all) -0.9
+🎯 Runs this type: avg 5.4, Unexposed rating (type) +0.4
+🧮 Overall: 0 runs | 🏁 Best speed: nan | 📉 Worst: nan | 📊 Avg speed: nan | 🎯 Median: nan
+🦄 Sire: Mastercraftsman (SR: 0.0% | Rank: 253 | Turf Rank: 223 | AW Rank: 192)
+🌿 Dam: Invincible Cara (SR: 0.0% | Rank: 2987 | Turf Rank: 4244 | AW Rank: 544)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 13.0 (Rank: 7)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Overall record (2-48) is not encouraging though he struck a good vein of form last summer
+🔦 Spotlight: 1-26 over hurdles, 1-22 on Flat; overall record is not encouraging, but he struck a good vein of form (hurdles and Flat) last summer; recent fourth over hurdles at Limerick was respectable.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Windflower Overseas
+Conn Rank: 4363 | Turf: 3335 | AW: 2563
+Conn Rank: 4363 | Turf: 3335 | AW: 2563 - (No previous owner(s))
+👤 Trainer: Paul W Flynn (0 previous trainer(s)) last 14d WinRate (0.0/5.0 runs) (Rank: 3) RTF: 29.0 (OVR: 7%) | Conn Rank: 331 | Turf: 414 | AW: 89
+🏇 Jockey: Robert Whearty(3) (14d rank: 9, 5Y rank: 419 | Turf: 402 | AW: 223) 🏇 Robert Whearty(3) winSR: 0.0% | 🏆 Better Alternative: Sam Ewing (1/3 - 33.0%)(0.0/ 8.0 runs) RTF: N/A (OVR: 7%) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 885 runs / 61 wins (0.1% SR)
+🗞️ **PRESS OPINION**
+💬 Comment: Overall record (2-48) is not encouraging though he struck a good vein of form last summer
+🔦 Spotlight: 1-26 over hurdles, 1-22 on Flat; overall record is not encouraging, but he struck a good vein of form (hurdles and Flat) last summer; recent fourth over hurdles at Limerick was respectable.
+📊 **RANKS AND FLAGS**
+📉 OFR: 64.0 (Rank: 8)
+📈 RPR: 77.0 (Rank: 2)
+📉 TS: 37.0 (Rank: 9)
+🏟️ Course Wins/Runs: 0/2 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/4 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/3 | Ratio: 0.00
+📊 Form: 0220-7 → Score: 0.11 (Rank: 2)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2025-03-23 14:18:00 | ⏳ Time between runs: 15  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇L1 Result: 4 / 🏇 13 runners. 
+💰L1 Odds: 6.5 📉
+📝L1 Comment: in touch with leaders, steady headway before 3 out, went second after 3 out, lost second before 2 out, outpaced before last, rallied and went fourth inside final 110yds
+🏆L1 RaceName: Adare Manor Opportunity Handicap Hurdle
+📋L1 Type: HcH
+🎽 L1 Jockey: B P Kennedy- (⚖️ Weight: 153.0 lbs (69.5 kg) carried -- Allowance: 2.0)
+🏟️ Course: Limerick (right-handed, undulating track (1m3f oval))
+📏 Distance: 16.0 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: S
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2025-03-07 18:30:00 | ⏳ Time between runs: 15  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/2U
+🥇L2 Result: 7 / 🏇 13 runners. 
+💰L2 Odds: 18.0 📉
+📝L2 Comment: 🔄 towards rear, some headway from 3f out, slightly ⚠️ hampered over 2f out, no impression inside final furlong
+🏆L2 RaceName: Every Cheltenham Festival Race Live Only On Racing TV (Q.R.) Handicap
+📋L2 Type: Hc
+🎽 L2 Jockey: Ms N Burns- (⚖️ Weight: 140.0 lbs (63.6 kg) carried -- Allowance: 7.0)
+🏟️ Course: Dundalk (AW) (Polytrack. Left-handed (1m2f oval).)
+📏 Distance: 16.0 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: SD
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🐎 3 | Duke Of Leggagh🐎 5 years old  gelding, gr, 139 lbs.
+📊 Race Record: 0/7 wins (🏅 0% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 4.0, Unexposed rating (all) -3.0
+🎯 Runs this type: avg 5.1, Unexposed rating (type) -1.9
+🧮 Overall: 0 runs | 🏁 Best speed: nan | 📉 Worst: nan | 📊 Avg speed: nan | 🎯 Median: nan
+🦄 Sire: Tough As Nails (SR: 0.0% | Rank: 614 | Turf Rank: 564 | AW Rank: 348)
+🌿 Dam: Lucky Beguine (SR: 0.0% | Rank: 812 | Turf Rank: 756 | AW Rank: 953)
+🛠️ Gear: t
+🩺 Medical History: No records
+🎲 Early market: 13.0 (Rank: 7)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Won twice over hurdles in February, suited by heavy ground, this may be too quick for him
+🔦 Spotlight: Dual Flat winner; won back-to-back 2m handicap hurdles at Naas in February, pulled up over a longer trip at the same venue last month; mid-field in a 1m4f handicap at the Curragh ten days ago; suited by heavy ground, this may be too quick for him.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Larry Mulvany
+Conn Rank: 3933 | Turf: 3151 | AW: 2563
+Conn Rank: 3933 | Turf: 3151 | AW: 2563 - (No previous owner(s))
+👤 Trainer: Michael Mulvany (0 previous trainer(s)) last 14d WinRate (0.0/9.0 runs) (Rank: 3) RTF: 44.0 (OVR: 8%) | Conn Rank: 445 | Turf: 414 | AW: 293
+🏇 Jockey: Wesley Joyce(5) (14d rank: 4, 5Y rank: 388 | Turf: 360 | AW: 208) 🏇 Wesley Joyce(5) winSR: 0.0% | 🏆 Better Alternative: Patrick M O'Brien (2/2 - 100.0%)(3.0/ 15.0 runs) RTF: N/A (OVR: 7%) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 560 runs / 43 wins (0.1% SR)
+🗞️ **PRESS OPINION**
+💬 Comment: Won twice over hurdles in February, suited by heavy ground, this may be too quick for him
+🔦 Spotlight: Dual Flat winner; won back-to-back 2m handicap hurdles at Naas in February, pulled up over a longer trip at the same venue last month; mid-field in a 1m4f handicap at the Curragh ten days ago; suited by heavy ground, this may be too quick for him.
+📊 **RANKS AND FLAGS**
+📉 OFR: 69.0 (Rank: 3)
+📈 RPR: 78.0 (Rank: 1)
+📉 TS: 70.0 (Rank: 1)
+🏟️ Course Wins/Runs: 1/3 | Ratio: 0.33
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/5 | Ratio: 0.00
+📊 Form: 3700-9 → Score: 0.06 (Rank: 8)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2025-03-29 17:45:00 | ⏳ Time between runs: 9  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇L1 Result: 9 / 🏇 18 runners. 
+💰L1 Odds: 6.5 📉
+📝L1 Comment: 🔄 midfield, no impression from 2f out
+🏆L1 RaceName: Tote.ie Handicap
+📋L1 Type: Hc
+🎽 L1 Jockey: W Joyce- (⚖️ Weight: 120.0 lbs (54.5 kg) carried -- Allowance: 5.0)
+🏟️ Course: Curragh (right-handed, galloping, testing, horseshoe (2m) + chute (races up to 1m))
+📏 Distance: 12.0 furlongs (🔼 Up to 14.0 today)
+🌱 Going: S
+👜 Prize: 💰 10K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2025-03-09 15:40:00 | ⏳ Time between runs: 20  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+🥇L2 Result: nan / 🏇 16 runners. 
+💰L2 Odds: 9.0 📉
+📝L2 Comment: 🎯 prominent, lost position 5th, dropped to rear and mistake 7th, tailed off when pulled up 2 out (jockey said gelding ran flat; vet reported gelding lost his left fore shoe)
+🏆L2 RaceName: Bar One Racing "Extra Place Races At The Cheltenham Festival" Handicap Hurdle
+📋L2 Type: HcH
+🎽 L2 Jockey: Patrick M O'Brien- (⚖️ Weight: 139.0 lbs (63.2 kg) carried -- Allowance: 7.0)
+🏟️ Course: Naas (left-handed, undulating, galloping track (1m4f circuit))
+📏 Distance: 19.5 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: S
+👜 Prize: 💰 11K
+---------------------------------------------------------------------------
+🐎 7 | Viceregent🐎 8 years old  gelding, b, 135 lbs.
+📊 Race Record: 0/3 wins (🏅 0% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 4.1, Unexposed rating (all) +1.1
+🎯 Runs this type: avg 5.4, Unexposed rating (type) +2.4
+🧮 Overall: 0 runs | 🏁 Best speed: nan | 📉 Worst: nan | 📊 Avg speed: nan | 🎯 Median: nan
+🦄 Sire: Nathaniel (SR: 0.0% | Rank: 237 | Turf Rank: 177 | AW Rank: 253)
+🌿 Dam: Simply Shining (SR: 0.0% | Rank: 7065 | Turf Rank: 5210 | AW Rank: 3281)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 15.0 (Rank: 9)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: P | ⚡ Speed: 0.0% | 📊 Rank: 7665.0 | 🔺 AvgDiff: 3.75 | 🔼 MaxDiff: -368.63 | 🔽 MinDiff: 20.70 | 🟢 1st Sect: + (17.375s) | 🔴 Last Sect: – (20.55s)
+🗞️ **PRESS OPINION**
+💬 Comment: Won a C&D handicap in 2023 for Charles Byrnes, two poor hurdle runs for this stable
+🔦 Spotlight: Won a C&D soft-ground handicap in October 2023 on his final run for Charles Byrnes; did not appear for 12 months and struggled in two races over hurdles for this stable last November.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Mrs H Steel
+Conn Rank: 5213 | Turf: 4083 | AW: 2232
+Conn Rank: 5213 | Turf: 4083 | AW: 2232 - (No previous owner(s))
+👤 Trainer: H D Mcguigan (0 previous trainer(s)) last 14d WinRate (0.0/0.0 runs) (Rank: 11) RTF: N/A (OVR: 0%) | Conn Rank: 671 | Turf: 598 | AW: 452
+🏇 Jockey: Seamie Heffernan (14d rank: 1, 5Y rank: 289 | Turf: 310 | AW: 112) 🏇 Seamie Heffernan winSR: 0.0% | 🏆 Better Alternative: T Hamilton (1/11 - 9.0%)(1.0/ 12.0 runs) RTF: N/A (OVR: 19%) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 1319 runs / 126 wins (0.1% SR)
+🗞️ **PRESS OPINION**
+💬 Comment: Won a C&D handicap in 2023 for Charles Byrnes, two poor hurdle runs for this stable
+🔦 Spotlight: Won a C&D soft-ground handicap in October 2023 on his final run for Charles Byrnes; did not appear for 12 months and struggled in two races over hurdles for this stable last November.
+📊 **RANKS AND FLAGS**
+📉 OFR: 65.0 (Rank: 7)
+📈 RPR: 73.0 (Rank: 6)
+🏟️ Course Wins/Runs: 1/1 | Ratio: 1.00
+📏 Distance Wins/Runs: 1/3 | Ratio: 0.33
+🌱 Going Wins/Runs: 0/1 | Ratio: 0.00
+📊 Form: 20521/ → Score: 0.14 (Rank: 1)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2024-11-16 12:15:00 | ⏳ Time between runs: 142  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇L1 Result: nan / 🏇 19 runners. 
+💰L1 Odds: 66.0 ❄️❄️
+📝L1 Comment: never better than 🔄 midfield, not fluent 5th, ❄️ weakened before 3 out, tailed off when pulled up before 2 out
+🏆L1 RaceName: Lisadell Equine Hospital Handicap Hurdle
+📋L1 Type: HcH
+🎽 L1 Jockey: D E Mullins- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0)
+🏟️ Course: Navan (left-handed, undulating, galloping track (1m4f circuit))
+📏 Distance: 20.0 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: GY
+👜 Prize: 💰 8K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2024-11-02 13:00:00 | ⏳ Time between runs: 13  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+🥇L2 Result: 11 / 🏇 16 runners. 
+💰L2 Odds: 33.0 ❄️
+📝L2 Comment: sweating, 🎯 led, hit 1st, not fluent then headed 5 out, not fluent 4 out, ❄️ weakened from 3 out
+🏆L2 RaceName: Tayto Group Maiden Hurdle
+📋L2 Type: MdH
+🎽 L2 Jockey: D E Mullins- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0)
+🏟️ Course: Down Royal (right-handed, galloping, undulating, testing (1m7f circuit))
+📏 Distance: 17.0 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: GY
+👜 Prize: 💰 5K
+---------------------------------------------------------------------------
+🐎 2 | Churchwarden🐎 5 years old  gelding, b, 141 lbs.
+📊 Race Record: 0/3 wins (🏅 0% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 4.0, Unexposed rating (all) +1.0
+🎯 Runs this type: avg 5.1, Unexposed rating (type) +2.1
+🧮 Overall: 0 runs | 🏁 Best speed: nan | 📉 Worst: nan | 📊 Avg speed: nan | 🎯 Median: nan
+🦄 Sire: Parish Hall (SR: 0.0% | Rank: 646 | Turf Rank: 596 | AW Rank: 392)
+🌿 Dam: Sparanai (SR: 0.0% | Rank: 5736 | Turf Rank: 4731 | AW Rank: nan)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 17.0 (Rank: 10)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: P | ⚡ Speed: 0.0% | 📊 Rank: 3939.0 | 🔺 AvgDiff: 0.50 | 🔼 MaxDiff: -371.88 | 🔽 MinDiff: 17.45 | 🟢 1st Sect: + (16.02s) | 🔴 Last Sect: – (15.56s)
+🗞️ **PRESS OPINION**
+💬 Comment: Winning hurdler, has run only four times on the Flat, plenty of weight here
+🔦 Spotlight: Winning hurdler; has run only four times on the Flat; finished in mid-field over this trip at last year's Galway festival on only handicap start.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: J S Bolger
+Conn Rank: nan | Turf: nan | AW: nan
+Conn Rank: nan | Turf: nan | AW: nan - (No previous owner(s))
+👤 Trainer: John C Mcconnell (0 previous trainer(s)) last 14d WinRate (3.0/16.0 runs) (Rank: 1) RTF: 31.0 (OVR: 4%) | Conn Rank: 469 | Turf: 420 | AW: 360
+🏇 Jockey: Donagh Oconnor (14d rank: 9, 5Y rank: 500 | Turf: 493 | AW: 238) 🏇 Donagh Oconnor winSR: 0.0% | 🏆 Better Alternative: Ben Harvey (1/5 - 20.0%)(0.0/ 5.0 runs) RTF: N/A (OVR: 2%) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 586 runs / 26 wins (0.0% SR)
+🗞️ **PRESS OPINION**
+💬 Comment: Winning hurdler, has run only four times on the Flat, plenty of weight here
+🔦 Spotlight: Winning hurdler; has run only four times on the Flat; finished in mid-field over this trip at last year's Galway festival on only handicap start.
+📊 **RANKS AND FLAGS**
+📉 OFR: 71.0 (Rank: 2)
+📈 RPR: 71.0 (Rank: 9)
+📉 TS: 46.0 (Rank: 6)
+🏟️ Course Wins/Runs: 0/0 | Ratio: N/A
+📏 Distance Wins/Runs: 0/1 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/2 | Ratio: 0.00
+📊 Form: 06/57- → Score: 0.06 (Rank: 9)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2025-02-20 16:25:00 | ⏳ Time between runs: 46  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇L1 Result: nan / 🏇 9 runners. 
+💰L1 Odds: 16.0 📉
+📝L1 Comment: in touch with leaders, dropped to rear 4 out, ❄️ weakened 3 out, tired jump 2 out, soon pulled up
+🏆L1 RaceName: David Trundley Artist At Punchestown Novice Handicap Hurdle
+📋L1 Type: NvHcH
+🎽 L1 Jockey: A Harvey- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 5.0)
+🏟️ Course: Punchestown (right-handed, undulating track; hurdle (1m 6f), chase (2m), bank courses)
+📏 Distance: 23.0 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: S
+👜 Prize: 💰 7K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2024-12-15 13:10:00 | ⏳ Time between runs: 67  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+🥇L2 Result: nan / 🏇 18 runners. 
+💰L2 Odds: 20.0 ❄️
+📝L2 Comment: soon 🔄 midfield, ❄️ weakened 3 out, tailed off when pulled up before last
+🏆L2 RaceName: Irish Stallion Farms EBF Handicap Hurdle
+📋L2 Type: HcH
+🎽 L2 Jockey: Ben Harvey- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0)
+🏟️ Course: Navan (left-handed, undulating, galloping track (1m4f circuit))
+📏 Distance: 25.0 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: YS
+👜 Prize: 💰 10K
+---------------------------------------------------------------------------
+🐎 10 | Jazz Forever🐎 5 years old  gelding, gr, 127 lbs.
+📊 Race Record: 0/4 wins (🏅 0% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 4.0, Unexposed rating (all) +0.0
+🎯 Runs this type: avg 5.1, Unexposed rating (type) +1.1
+🧮 Overall: 0 runs | 🏁 Best speed: nan | 📉 Worst: nan | 📊 Avg speed: nan | 🎯 Median: nan
+🦄 Sire: Elzaam (SR: 0.0% | Rank: 361 | Turf Rank: 435 | AW Rank: 134)
+🌿 Dam: Harranda (SR: 0.0% | Rank: 6950 | Turf Rank: 5664 | AW Rank: 1368)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 21.0 (Rank: 11)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: AW winner; 0-11 on turf, not at best at Dundalk in recent months, others preferred
+🔦 Spotlight: AW winner; 0-11 on turf and not at best at Dundalk in recent months; down the field over hurdles at Limerick last week.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Thomas G Lennon
+Conn Rank: nan | Turf: nan | AW: nan
+Conn Rank: nan | Turf: nan | AW: nan - (No previous owner(s))
+👤 Trainer: Paul W Flynn (0 previous trainer(s)) last 14d WinRate (0.0/5.0 runs) (Rank: 3) RTF: 29.0 (OVR: 7%) | Conn Rank: 331 | Turf: 414 | AW: 89
+🏇 Jockey: Dylan Browne Mcmonagle (14d rank: 8, 5Y rank: 136 | Turf: 144 | AW: 69) 🏇 Dylan Browne Mcmonagle winSR: 50.0% (No better alternative found.)(2.0/ 21.0 runs) RTF: N/A (OVR: 10%) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 1462 runs / 197 wins (0.1% SR)
+🗞️ **PRESS OPINION**
+💬 Comment: AW winner; 0-11 on turf, not at best at Dundalk in recent months, others preferred
+🔦 Spotlight: AW winner; 0-11 on turf and not at best at Dundalk in recent months; down the field over hurdles at Limerick last week.
+📊 **RANKS AND FLAGS**
+📉 OFR: 57.0 (Rank: 10)
+📈 RPR: 75.0 (Rank: 5)
+📉 TS: 68.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/2 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/0 | Ratio: N/A
+🌱 Going Wins/Runs: 0/7 | Ratio: 0.00
+📊 Form: 069-80 → Score: 0.04 (Rank: 11)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2025-04-01 15:05:00 | ⏳ Time between runs: 6  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇L1 Result: 6 / 🏇 9 runners. 
+💰L1 Odds: 12.0 📉
+📝L1 Comment: 🎯 led, not fluent 2nd, headed and lost two places before 2 out, ❄️ weakened approaching last
+🏆L1 RaceName: Conference & Banqueting Facilities @ Limerick Maiden Hurdle
+📋L1 Type: MdH
+🎽 L1 Jockey: D Gilligan- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0)
+🏟️ Course: Limerick (right-handed, undulating track (1m3f oval))
+📏 Distance: 17.0 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: G
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2025-03-03 13:00:00 | ⏳ Time between runs: 29  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+🥇L2 Result: 5 / 🏇 12 runners. 
+💰L2 Odds: 150.0 ❄️❄️
+📝L2 Comment: 🎯 led, soon clear, reduced lead 3rd, headed 5th, raced in fourth but no extra when bad mistake last
+🏆L2 RaceName: Leopardstown Members Maiden Hurdle
+📋L2 Type: MdH
+🎽 L2 Jockey: G Brouder- (⚖️ Weight: 160.0 lbs (72.7 kg) carried -- Allowance: 3.0)
+🏟️ Course: Leopardstown (left-handed, flat, galloping track (1m6f oval))
+📏 Distance: 20.0 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: Y
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
+🐎 12 | Bynx🐎 7 years old  mare, b, 123 lbs.
+📊 Race Record: 0/4 wins (🏅 0% win rate)
+🧪 Unexposed for age
+🔎 Runs all races: avg 4.2, Unexposed rating (all) +0.2
+🎯 Runs this type: avg 5.2, Unexposed rating (type) +1.2
+🧮 Overall: 0 runs | 🏁 Best speed: nan | 📉 Worst: nan | 📊 Avg speed: nan | 🎯 Median: nan
+🦄 Sire: Vadamos (SR: 0.0% | Rank: 568 | Turf Rank: 522 | AW Rank: 325)
+🌿 Dam: Volcanic Lady (SR: 0.0% | Rank: 5372 | Turf Rank: 4709 | AW Rank: 2651)
+🛠️ No gear today
+🩺 Medical History: No records
+🎲 Early market: 21.0 (Rank: 11)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Unplaced in 12 Flat starts, little apparent chance judged on recent hurdles form
+🔦 Spotlight: Two win over hurdles, both at Tramore; unplaced in 12 Flat starts; little apparent chance on recent hurdles form, pulled up in two of her last three races.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Caroline, Mark & Stephanie Hanly
+Conn Rank: 4490 | Turf: 3540 | AW: nan
+Conn Rank: 4490 | Turf: 3540 | AW: nan - (No previous owner(s))
+👤 Trainer: Martin Hassett (0 previous trainer(s)) last 14d WinRate (0.0/3.0 runs) (Rank: 3) RTF: 67.0 (OVR: 0%) | Conn Rank: 245 | Turf: 203 | AW: 453
+🏇 Jockey: Wayne Hassett(5) (14d rank: 9, 5Y rank: 307 | Turf: 269 | AW: 216) 🏇 Wayne Hassett(5) winSR: 0.0% | 🏆 Better Alternative: S W Flanagan (1/2 - 50.0%)(0.0/ 9.0 runs) RTF: N/A (OVR: 4%) 5Y: 0/0 (0.0%)
+📊 Jockey All-time record: 604 runs / 56 wins (0.1% SR)
+🗞️ **PRESS OPINION**
+💬 Comment: Unplaced in 12 Flat starts, little apparent chance judged on recent hurdles form
+🔦 Spotlight: Two win over hurdles, both at Tramore; unplaced in 12 Flat starts; little apparent chance on recent hurdles form, pulled up in two of her last three races.
+📊 **RANKS AND FLAGS**
+📉 OFR: 53.0 (Rank: 12)
+📈 RPR: 71.0 (Rank: 9)
+📉 TS: 58.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/1 | Ratio: 0.00
+📏 Distance Wins/Runs: 0/2 | Ratio: 0.00
+🌱 Going Wins/Runs: 0/5 | Ratio: 0.00
+📊 Form: 8/709- → Score: 0.04 (Rank: 12)
+---------------------------------------------------------------------------
+Past runs with non-runs:
+🏁 Past Race L1 📅 2025-03-22 14:45:00 | ⏳ Time between runs: 16  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/0U
+🥇L1 Result: 7 / 🏇 13 runners. 
+💰L1 Odds: 25.0 ❄️
+📝L1 Comment: took keen hold, in touch with leaders, 🎯 prominent 4th, 🎯 led 6th, headed after 3 out, lost position home turn, hung left from 2 out, ❄️ weakened approaching last
+🏆L1 RaceName: Navan Members Mares Handicap Hurdle
+📋L1 Type: HcHM
+🎽 L1 Jockey: Ross Berry- (⚖️ Weight: 134.0 lbs (60.9 kg) carried -- Allowance: 7.0)
+🏟️ Course: Navan (left-handed, undulating, galloping track (1m4f circuit))
+📏 Distance: 16.0 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: S
+👜 Prize: 💰 7K
+---------------------------------------------------------------------------
+🏁 Past Race L2 📅 2025-03-08 15:15:00 | ⏳ Time between runs: 13  days ago
+🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also: 0W/0P/1U
+🥇L2 Result: nan / 🏇 20 runners. 
+💰L2 Odds: 22.0 ❄️
+📝L2 Comment: in touch with leaders, ❄️ weakened 3 out, no chance when ⚠️ hampered 2 out, soon pulled up
+🏆L2 RaceName: HPR Fleet Management Handicap Hurdle
+📋L2 Type: HcH
+🎽 L2 Jockey: Ross Berry- (⚖️ Weight: 148.0 lbs (67.3 kg) carried -- Allowance: 7.0)
+🏟️ Course: Gowran Park (right-handed, undulating track (1m4f circuit))
+📏 Distance: 16.0 furlongs (🔽 Dropping down to 14.0 today)
+🌱 Going: S
+👜 Prize: 💰 6K
+---------------------------------------------------------------------------
