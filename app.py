@@ -4,6 +4,7 @@ import json
 import hashlib
 from datetime import datetime
 import requests
+import os
 app = Flask(__name__, static_folder="static")  # Ensure static folder is recognized
 app.secret_key = 'bollox'  # Required for flash messages
 RACE_TXT_DIR = "static/races"
@@ -24,8 +25,8 @@ def generate_daily_cheat_code():
 
 #https://api.telegram.org/bot7856304734:AAES5Q2j3tI4OLlo6A5w1GXnkHka4nx836w/getUpdates
 def send_telegram_alert(new_email):
-    bot_token = "7856304734:AAES5Q2j3tI4OLlo6A5w1GXnkHka4nx836w"
-    chat_id = "6147599687"
+    bot_token = os.environ.get("bot_token")
+    chat_id = os.environ.get("chat_id")
     message = f"📥 New subscriber: {new_email}"
 
     try:
