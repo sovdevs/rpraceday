@@ -9,27 +9,27 @@
 ☀️ Weather: Clear
 ⏳ Going: Standard To Slow
 13 runners declaredNo H2H data available for this race.++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📋        | 📈        | 💡        | 🎯        | 📚        | 💰       
-number   | horse_name                | horse_id | FORM3    | RPR      | OFR      | J-All-Prf | T-All-Prf | OP-ODDS 
--------------------------------------------------------------------------------------------------------------------
-5        | Rumba Bay                 | 58950405 | 3.0      | 1.0      | 5.0      | 12.0     | 1.0      | 1.0     
-3        | Arlecchinos Rex           | 5937866  | 2.0      | 1.0      | 1.0      | 14.0     | 12.0     | 2.0     
-10       | Yesterdays Gone           | 5708855  | 11.0     | 9.0      | 10.0     | 4.0      | 10.0     | 2.0     
-4        | Off The Bench             | 5764770  | 13.0     | 3.0      | 4.0      | 11.0     | 3.0      | 4.0     
-13       | Me Tarzan                 | 6120962  | 12.0     | 13.0     | 13.0     | 9.0      | 11.0     | 5.0     
-7        | Take The Boat             | 6278737  | 6.0      | 9.0      | 5.0      | 13.0     | 5.0      | 5.0     
-11       | Vizzavona Lady            | 6318914  | 10.0     | 11.0     | 10.0     | 3.0      | 9.0      | 7.0     
-6        | Broadhaven Bay            | 6175551  | 7.0      | 11.0     | 5.0      | 10.0     | 6.0      | 8.0     
-14       | Lunanova                  | 6928478  | 4.0      | 6.0      | 14.0     | 5.0      | 2.0      | 8.0     
-12       | Adversary                 | 5884239  | 1.0      | 7.0      | 10.0     | 1.0      | 13.0     | 8.0     
-9        | California Fling          | 5708851  | 5.0      | 13.0     | 5.0      | 2.0      | 4.0      | 11.0    
-2        | Jack Andrea               | 6032320  | 9.0      | 7.0      | 1.0      | 8.0      | 7.0      | 12.0    
-8        | Fortunas Dream            | 6728406  | 12.0     | 3.0      | 5.0      | 7.0      | 14.0     | 12.0    
-1        | Summer Of Light           | 6143203  | 8.0      | 3.0      | 1.0      | 6.0      | 8.0      | 12.0    
+#️⃣      | 🐎                         | 🆔        | 💡        | 🎯        | 💰       
+number   | horse_name                | horse_id | OFR      | J-All-Prf | OP-ODDS 
+---------------------------------------------------------------------------------
+5        | Rumba Bay                 | 58950405 | 5.0      | 12.0     | 1.0     
+3        | Arlecchinos Rex           | 5937866  | 1.0      | 14.0     | 2.0     
+10       | Yesterdays Gone           | 5708855  | 10.0     | 4.0      | 2.0     
+4        | Off The Bench             | 5764770  | 4.0      | 11.0     | 4.0     
+13       | Me Tarzan                 | 6120962  | 13.0     | 9.0      | 5.0     
+7        | Take The Boat             | 6278737  | 5.0      | 13.0     | 5.0     
+11       | Vizzavona Lady            | 6318914  | 10.0     | 3.0      | 7.0     
+6        | Broadhaven Bay            | 6175551  | 5.0      | 10.0     | 8.0     
+14       | Lunanova                  | 6928478  | 14.0     | 5.0      | 8.0     
+12       | Adversary                 | 5884239  | 10.0     | 1.0      | 8.0     
+9        | California Fling          | 5708851  | 5.0      | 2.0      | 11.0    
+2        | Jack Andrea               | 6032320  | 1.0      | 8.0      | 12.0    
+8        | Fortunas Dream            | 6728406  | 5.0      | 7.0      | 12.0    
+1        | Summer Of Light           | 6143203  | 1.0      | 6.0      | 12.0    
 
 Legend:
-📋 FORM3: formScore_3_rank | 📈 RPR: rpr_rank | 💡 OFR: ofr_rank
-🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 📚 T-All-Prf: stats_trainer_ovr_profit_rank | 💰 OP-ODDS: opDec_rank
+💡 OFR: ofr_rank
+🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 💰 OP-ODDS: opDec_rank
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 🐎 5 | Rumba Bay🐎 3 years old  filly, b, 133 lbs.
 📊 Race Record: 2/11 total wins (🏅 18% SR) | At this age/type: 0/4 wins (🎯 0% SR)

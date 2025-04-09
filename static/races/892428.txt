@@ -17,22 +17,22 @@
 ⚖️ weight_diff     🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📋        | 🥇        | ↩️       | 📈        | 📊        | 💡        | 🎯        | 👨‍🏫      | 📚        | 📓        | 🏟️       | 🌧️       | 💰       
-number   | horse_name                | horse_id | FORM3    | W-SR     | R-tSR    | RPR      | TS       | OFR      | J-All-Prf | T-14-W   | T-All-Prf | FSCRE    | CRSE     | GOING2   | OP-ODDS 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-4        | Antiquity                 | 6032315  | 3.0      | 2.0      | 1.0      | 1.0      | 6.0      | 4.0      | 4.0      | 7.0      | 5.0      | 2.0      | N/A      | N/A      | 1.0     
-1        | Zarathos                  | 6657550  | 6.0      | 3.0      | 1.0      | 1.0      | N/A      | 1.0      | 6.0      | 5.0      | 2.0      | 5.0      | N/A      | N/A      | 2.0     
-9        | Duke Orsino               | 5845558  | 4.0      | 3.0      | 1.0      | 5.0      | 5.0      | 7.0      | 7.0      | 3.0      | 1.0      | 4.0      | N/A      | 2.0      | 3.0     
-2        | Play Me                   | 6379989  | 2.0      | 3.0      | 1.0      | 6.0      | 2.0      | 2.0      | 1.0      | 6.0      | 5.0      | 1.0      | N/A      | 2.0      | 4.0     
-8        | Lady Mariko               | 6728409  | 8.0      | 3.0      | 1.0      | 3.0      | N/A      | 7.0      | 2.0      | 4.0      | 4.0      | 8.0      | N/A      | N/A      | 5.0     
-3        | Whats She At              | 6079170  | 1.0      | 1.0      | 1.0      | 6.0      | 3.0      | 2.0      | 9.0      | 1.0      | 9.0      | 3.0      | N/A      | 1.0      | 6.0     
-5        | Pistrucci                 | 6202579  | 7.0      | 3.0      | 1.0      | 8.0      | 1.0      | 5.0      | 5.0      | 7.0      | 3.0      | 6.0      | N/A      | 2.0      | 6.0     
-7        | Azoozi                    | 6402357  | 9.0      | 3.0      | 1.0      | 3.0      | 3.0      | 7.0      | 8.0      | 2.0      | 5.0      | 8.0      | N/A      | N/A      | 8.0     
-6        | Olivia Jane               | 6504973  | 5.0      | 3.0      | 1.0      | 9.0      | N/A      | 5.0      | 3.0      | 7.0      | 8.0      | 7.0      | N/A      | N/A      | 9.0     
+#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
+number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+-----------------------------------------------------------------------------------------------------------------------------
+4        | Antiquity                 | 6032315  | 1.0      | 6.0      | 4.0      | 4.0      | 2.0      | N/A      | 1.0     
+1        | Zarathos                  | 6657550  | 1.0      | N/A      | 1.0      | 6.0      | 5.0      | N/A      | 2.0     
+9        | Duke Orsino               | 5845558  | 5.0      | 5.0      | 7.0      | 7.0      | 4.0      | N/A      | 3.0     
+2        | Play Me                   | 6379989  | 6.0      | 2.0      | 2.0      | 1.0      | 1.0      | N/A      | 4.0     
+8        | Lady Mariko               | 6728409  | 3.0      | N/A      | 7.0      | 2.0      | 8.0      | N/A      | 5.0     
+3        | Whats She At              | 6079170  | 6.0      | 3.0      | 2.0      | 9.0      | 3.0      | N/A      | 6.0     
+5        | Pistrucci                 | 6202579  | 8.0      | 1.0      | 5.0      | 5.0      | 6.0      | N/A      | 6.0     
+7        | Azoozi                    | 6402357  | 3.0      | 3.0      | 7.0      | 8.0      | 8.0      | N/A      | 8.0     
+6        | Olivia Jane               | 6504973  | 9.0      | N/A      | 5.0      | 3.0      | 7.0      | N/A      | 9.0     
 
 Legend:
-📋 FORM3: formScore_3_rank | 🥇 W-SR: winSR_rank | ↩️ R-tSR: rightHandedSr_rank | 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank
-💡 OFR: ofr_rank | 🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 👨‍🏫 T-14-W: stats_trainer_last_14_wins_pct_rank | 📚 T-All-Prf: stats_trainer_ovr_profit_rank | 📓 FSCRE: formScore_rank | 🏟️ CRSE: stats_course_ratio_rank | 🌧️ GOING2: stats_going_ratio_rank | 💰 OP-ODDS: opDec_rank
+🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank
+💡 OFR: ofr_rank | 🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 📓 FSCRE: formScore_rank | 🏟️ CRSE: stats_course_ratio_rank | 💰 OP-ODDS: opDec_rank
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 🐎 4 | Antiquity🐎 3 years old  gelding, ch, 132 lbs.
 📊 Race Record: 2/9 total wins (🏅 22% SR) | At this age/type: 0/4 wins (🎯 0% SR)

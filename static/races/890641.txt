@@ -9,20 +9,20 @@
 ☀️ Weather: Clear
 ⏳ Going: Standard To Slow
 7 runners declaredNo H2H data available for this race.++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📋        | 📈        | 💡        | 🎯        | 📚        | 💰       
-number   | horse_name                | horse_id | FORM3    | RPR      | OFR      | J-All-Prf | T-All-Prf | OP-ODDS 
--------------------------------------------------------------------------------------------------------------------
-2        | Justenzia                 | 6568911  | 6.0      | 3.0      | 1.0      | 2.0      | 6.0      | 1.0     
-4        | Van Aert                  | 5942436  | 2.0      | 7.0      | 4.0      | 4.0      | 7.0      | 2.0     
-5        | Staffordshire             | 6969867  | 4.0      | 3.0      | 4.0      | 5.0      | 3.0      | 3.0     
-7        | Captain Brett             | 6233788  | 7.0      | 5.0      | 7.0      | 1.0      | 4.0      | 4.0     
-6        | Godstone                  | 7037500  | 5.0      | 1.0      | 6.0      | 7.0      | 5.0      | 5.0     
-3        | West Wickham              | 6618136  | 3.0      | 6.0      | 1.0      | 6.0      | 2.0      | 5.0     
-1        | Houndsworth               | 6023332  | 1.0      | 2.0      | 1.0      | 3.0      | 1.0      | 7.0     
+#️⃣      | 🐎                         | 🆔        | 💡        | 🎯        | 💰       
+number   | horse_name                | horse_id | OFR      | J-All-Prf | OP-ODDS 
+---------------------------------------------------------------------------------
+2        | Justenzia                 | 6568911  | 1.0      | 2.0      | 1.0     
+4        | Van Aert                  | 5942436  | 4.0      | 4.0      | 2.0     
+5        | Staffordshire             | 6969867  | 4.0      | 5.0      | 3.0     
+7        | Captain Brett             | 6233788  | 7.0      | 1.0      | 4.0     
+6        | Godstone                  | 7037500  | 6.0      | 7.0      | 5.0     
+3        | West Wickham              | 6618136  | 1.0      | 6.0      | 5.0     
+1        | Houndsworth               | 6023332  | 1.0      | 3.0      | 7.0     
 
 Legend:
-📋 FORM3: formScore_3_rank | 📈 RPR: rpr_rank | 💡 OFR: ofr_rank
-🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 📚 T-All-Prf: stats_trainer_ovr_profit_rank | 💰 OP-ODDS: opDec_rank
+💡 OFR: ofr_rank
+🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 💰 OP-ODDS: opDec_rank
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 🐎 2 | Justenzia🐎 3 years old  filly, b, 135 lbs.
 📊 Race Record: 0/3 total wins (🏅 0% SR) | At this age/type: 0/3 wins (🎯 0% SR)

@@ -17,17 +17,17 @@
 ⚖️ weight_diff     🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📋        | 🥇        | 📒        | ↩️       | 💶        | 📈        | 📊        | 💡        | 🎯        | 👨‍🏫      | 📚        | 📓        | 🏟️       | 🌧️       | 💰       
-number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | R-tSR    | AVG€     | RPR      | TS       | OFR      | J-All-Prf | T-14-W   | T-All-Prf | FSCRE    | CRSE     | GOING2   | OP-ODDS 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1        | Al Qareem                 | 3958769  | 1.0      | 1.0      | 3.0      | 2.0      | 1.0      | 2.0      | 1.0      | 1.0      | 3.0      | 2.0      | 3.0      | 1.0      | 1.0      | 1.0      | 1.0     
-2        | Align The Stars           | 5237856  | 2.0      | 2.0      | 1.0      | 3.0      | 1.0      | 4.0      | 3.0      | 3.0      | 2.0      | 3.0      | 2.0      | 4.0      | N/A      | 2.0      | 2.0     
-4        | Divine Comedy             | 3505932  | 4.0      | 3.0      | 4.0      | 4.0      | 1.0      | 1.0      | 2.0      | 3.0      | 1.0      | 4.0      | 1.0      | 2.0      | 1.0      | 3.0      | 3.0     
-3        | Real Dream                | 4245991  | 3.0      | 4.0      | 2.0      | 1.0      | 1.0      | 3.0      | 4.0      | 2.0      | 4.0      | 1.0      | 4.0      | 3.0      | 3.0      | 4.0      | 4.0     
+#️⃣      | 🐎                         | 🆔        | 💶        | 📈        | 🎯        | 🏟️      
+number   | horse_name                | horse_id | AVG€     | RPR      | J-All-Prf | CRSE    
+--------------------------------------------------------------------------------------------
+1        | Al Qareem                 | 3958769  | 1.0      | 2.0      | 3.0      | 1.0     
+2        | Align The Stars           | 5237856  | 1.0      | 4.0      | 2.0      | N/A     
+4        | Divine Comedy             | 3505932  | 1.0      | 1.0      | 1.0      | 1.0     
+3        | Real Dream                | 4245991  | 1.0      | 3.0      | 4.0      | 3.0     
 
 Legend:
-📋 FORM3: formScore_3_rank | 🥇 W-SR: winSR_rank | 📒 FORMAll: formScore_all_rank | ↩️ R-tSR: rightHandedSr_rank | ⏱️ SPD-AVG: rank_avgSecs | 💶 AVG€: avgPrizeEuro_rank | 📈 RPR: rpr_rank | 📊 TS: ts_rank
-💡 OFR: ofr_rank | 🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 👨‍🏫 T-14-W: stats_trainer_last_14_wins_pct_rank | 📚 T-All-Prf: stats_trainer_ovr_profit_rank | 📓 FSCRE: formScore_rank | 🏟️ CRSE: stats_course_ratio_rank | 🌧️ GOING2: stats_going_ratio_rank | 💰 OP-ODDS: opDec_rank
+⏱️ SPD-AVG: rank_avgSecs | 💶 AVG€: avgPrizeEuro_rank
+📈 RPR: rpr_rank | 🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 🏟️ CRSE: stats_course_ratio_rank
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 🐎 1 | Al Qareem🐎 6 years old  gelding, b, 133 lbs.
 📊 Race Record: 8/27 total wins (🏅 30% SR) | At this age/type: 6/22 wins (🎯 27% SR)

@@ -20,19 +20,19 @@
 ⚖️ weight_diff     🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📋        | 🥇        | 📒        | ↩️       | 💶        | 📈        | 📊        | 💡        | 🎯        | 👨‍🏫      | 📚        | 📓        | 🏟️       | 🌧️       | 💰       
-number   | horse_name                | horse_id | FORM3    | W-SR     | FORMAll  | R-tSR    | AVG€     | RPR      | TS       | OFR      | J-All-Prf | T-14-W   | T-All-Prf | FSCRE    | CRSE     | GOING2   | OP-ODDS 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1        | Mutasarref                | 3625158  | 1.0      | 2.0      | 5.0      | 3.0      | 3.0      | 1.0      | 2.0      | 1.0      | 2.0      | 2.0      | 5.0      | 1.0      | 1.0      | 1.0      | 1.0     
-6        | Uluru                     | 5212208  | 4.0      | 5.0      | 3.0      | 4.0      | 6.0      | 3.0      | 1.0      | 3.0      | 4.0      | 3.0      | 6.0      | 3.0      | N/A      | 5.0      | 2.0     
-2        | Lord Massusus             | 4493100  | 3.0      | 3.0      | 6.0      | 5.0      | 2.0      | 2.0      | 3.0      | 2.0      | 5.0      | 4.0      | 4.0      | 6.0      | 2.0      | 2.0      | 3.0     
-4        | Bluedrum                  | 5301528  | 6.0      | 4.0      | 2.0      | 6.0      | 4.0      | 4.0      | 6.0      | 4.0      | 3.0      | 1.0      | 1.0      | 5.0      | 3.0      | 5.0      | 4.0     
-3        | This Songisforyou         | 4467750  | 5.0      | 3.0      | 4.0      | 2.0      | 5.0      | 5.0      | 4.0      | 5.0      | 6.0      | 4.0      | 2.0      | 2.0      | 3.0      | 2.0      | 5.0     
-5        | Thalara                   | 4568941  | 2.0      | 1.0      | 1.0      | 1.0      | 1.0      | 6.0      | 5.0      | 6.0      | 1.0      | 4.0      | 3.0      | 4.0      | N/A      | 4.0      | 6.0     
+#️⃣      | 🐎                         | 🆔        | 💶        | 📈        | 🎯        | 🏟️      
+number   | horse_name                | horse_id | AVG€     | RPR      | J-All-Prf | CRSE    
+--------------------------------------------------------------------------------------------
+1        | Mutasarref                | 3625158  | 3.0      | 1.0      | 2.0      | 1.0     
+6        | Uluru                     | 5212208  | 6.0      | 3.0      | 4.0      | N/A     
+2        | Lord Massusus             | 4493100  | 2.0      | 2.0      | 5.0      | 2.0     
+4        | Bluedrum                  | 5301528  | 4.0      | 4.0      | 3.0      | 3.0     
+3        | This Songisforyou         | 4467750  | 5.0      | 5.0      | 6.0      | 3.0     
+5        | Thalara                   | 4568941  | 1.0      | 6.0      | 1.0      | N/A     
 
 Legend:
-📋 FORM3: formScore_3_rank | 🥇 W-SR: winSR_rank | 📒 FORMAll: formScore_all_rank | ↩️ R-tSR: rightHandedSr_rank | ⏱️ SPD-AVG: rank_avgSecs | 💶 AVG€: avgPrizeEuro_rank | 📈 RPR: rpr_rank | 📊 TS: ts_rank
-💡 OFR: ofr_rank | 🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 👨‍🏫 T-14-W: stats_trainer_last_14_wins_pct_rank | 📚 T-All-Prf: stats_trainer_ovr_profit_rank | 📓 FSCRE: formScore_rank | 🏟️ CRSE: stats_course_ratio_rank | 🌧️ GOING2: stats_going_ratio_rank | 💰 OP-ODDS: opDec_rank
+⏱️ SPD-AVG: rank_avgSecs | 💶 AVG€: avgPrizeEuro_rank
+📈 RPR: rpr_rank | 🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 🏟️ CRSE: stats_course_ratio_rank
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 🐎 1 | Mutasarref🐎 7 years old  gelding, b, 138 lbs.
 📊 Race Record: 10/22 total wins (🏅 45% SR) | At this age/type: 8/16 wins (🎯 50% SR)

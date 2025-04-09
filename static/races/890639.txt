@@ -23,23 +23,23 @@
 ⚖️ weight_diff     🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📋        | 📈        | 📊        | 💡        | 🎯        | 📚        | 📓        | 🏟️       | 🌧️       | 💰       
-number   | horse_name                | horse_id | FORM3    | RPR      | TS       | OFR      | J-All-Prf | T-All-Prf | FSCRE    | CRSE     | GOING2   | OP-ODDS 
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-4        | Four Adaay                | 3057752  | 8.0      | 2.0      | 9.0      | 6.0      | 7.0      | 8.0      | 10.0     | 1.0      | 1.0      | 1.0     
-5        | Kensington Agent          | 3648390  | 6.0      | 1.0      | 3.0      | 10.0     | 3.0      | 10.0     | 3.0      | 3.0      | 3.0      | 1.0     
-3        | Papabella                 | 4263226  | 1.0      | 3.0      | N/A      | 4.0      | 6.0      | 1.0      | 1.0      | 4.0      | 4.0      | 3.0     
-1        | Court Drive               | 5787759  | 5.0      | 3.0      | 4.0      | 1.0      | 5.0      | 2.0      | 7.0      | 1.0      | 1.0      | 3.0     
-6        | Rift Valley               | 6229184  | 4.0      | 6.0      | 6.0      | 1.0      | 10.0     | 6.0      | 4.0      | N/A      | N/A      | 3.0     
-7        | Bermuda Princess          | 5968914  | 9.0      | 10.0     | 8.0      | 4.0      | 2.0      | 7.0      | 9.0      | 4.0      | 4.0      | 6.0     
-10       | Psychodrama               | 6247230  | 6.0      | 7.0      | 4.0      | 8.0      | 9.0      | 4.0      | 8.0      | 4.0      | 4.0      | 7.0     
-9        | One For Harvey            | 6143213  | 7.0      | 9.0      | 1.0      | 8.0      | 1.0      | 3.0      | 6.0      | 4.0      | 4.0      | 8.0     
-8        | Run To My Side            | 6577998  | 3.0      | 7.0      | 7.0      | 6.0      | 8.0      | 9.0      | 5.0      | N/A      | 4.0      | 9.0     
-2        | Unico                     | 5048143  | 2.0      | 3.0      | 2.0      | 3.0      | 4.0      | 5.0      | 2.0      | N/A      | 4.0      | 10.0    
+#️⃣      | 🐎                         | 🆔        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
+number   | horse_name                | horse_id | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+------------------------------------------------------------------------------------------------------------------
+4        | Four Adaay                | 3057752  | 9.0      | 6.0      | 7.0      | 10.0     | 1.0      | 1.0     
+5        | Kensington Agent          | 3648390  | 3.0      | 10.0     | 3.0      | 3.0      | 3.0      | 1.0     
+3        | Papabella                 | 4263226  | N/A      | 4.0      | 6.0      | 1.0      | 4.0      | 3.0     
+1        | Court Drive               | 5787759  | 4.0      | 1.0      | 5.0      | 7.0      | 1.0      | 3.0     
+6        | Rift Valley               | 6229184  | 6.0      | 1.0      | 10.0     | 4.0      | N/A      | 3.0     
+7        | Bermuda Princess          | 5968914  | 8.0      | 4.0      | 2.0      | 9.0      | 4.0      | 6.0     
+10       | Psychodrama               | 6247230  | 4.0      | 8.0      | 9.0      | 8.0      | 4.0      | 7.0     
+9        | One For Harvey            | 6143213  | 1.0      | 8.0      | 1.0      | 6.0      | 4.0      | 8.0     
+8        | Run To My Side            | 6577998  | 7.0      | 6.0      | 8.0      | 5.0      | N/A      | 9.0     
+2        | Unico                     | 5048143  | 2.0      | 3.0      | 4.0      | 2.0      | N/A      | 10.0    
 
 Legend:
-📋 FORM3: formScore_3_rank | 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank
-🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 📚 T-All-Prf: stats_trainer_ovr_profit_rank | 📓 FSCRE: formScore_rank | 🏟️ CRSE: stats_course_ratio_rank | 🌧️ GOING2: stats_going_ratio_rank | 💰 OP-ODDS: opDec_rank
+🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📊 TS: ts_rank | 💡 OFR: ofr_rank
+🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 📓 FSCRE: formScore_rank | 🏟️ CRSE: stats_course_ratio_rank | 💰 OP-ODDS: opDec_rank
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 🐎 4 | Four Adaay🐎 7 years old  mare, b, 137 lbs.
 📊 Race Record: 7/58 total wins (🏅 12% SR) | At this age/type: 1/4 wins (🎯 25% SR)

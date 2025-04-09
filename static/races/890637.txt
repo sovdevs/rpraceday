@@ -22,21 +22,21 @@
 ⚖️ weight_diff     🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📋        | 📈        | 📊        | 💡        | 🎯        | 📚        | 📓        | 🏟️       | 🌧️       | 💰       
-number   | horse_name                | horse_id | FORM3    | RPR      | TS       | OFR      | J-All-Prf | T-All-Prf | FSCRE    | CRSE     | GOING2   | OP-ODDS 
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-3        | Grand Karat               | 5162490  | 5.0      | 2.0      | 1.0      | 3.0      | 7.0      | 6.0      | 5.0      | 2.0      | 1.0      | 1.0     
-2        | Blue Prince               | 4990396  | 7.0      | 1.0      | 4.0      | 2.0      | 6.0      | 1.0      | 7.0      | N/A      | N/A      | 2.0     
-1        | Yorkshire                 | 4493039  | 1.0      | 3.0      | 2.0      | 1.0      | 3.0      | 3.0      | 1.0      | N/A      | N/A      | 3.0     
-7        | Brunel Nation             | 5198127  | 3.0      | 4.0      | 5.0      | 7.0      | 1.0      | 4.0      | 4.0      | 2.0      | 3.0      | 4.0     
-5        | United Approach           | 4546187  | 4.0      | 5.0      | N/A      | 3.0      | 4.0      | 2.0      | 3.0      | N/A      | 3.0      | 5.0     
-4        | Aquacell                  | 5812504  | 6.0      | 5.0      | 3.0      | 3.0      | 5.0      | 5.0      | 6.0      | N/A      | N/A      | 6.0     
-6        | Arctic Thunder            | 5453421  | 8.0      | 7.0      | N/A      | 3.0      | 2.0      | 7.0      | 8.0      | 1.0      | 1.0      | 7.0     
-8        | Tadreeb                   | 3092794  | 2.0      | N/A      | N/A      | 8.0      | N/A      | N/A      | 2.0      | N/A      | N/A      | N/A     
+#️⃣      | 🐎                         | 🆔        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
+number   | horse_name                | horse_id | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+------------------------------------------------------------------------------------------------------------------
+3        | Grand Karat               | 5162490  | 1.0      | 3.0      | 7.0      | 5.0      | 2.0      | 1.0     
+2        | Blue Prince               | 4990396  | 4.0      | 2.0      | 6.0      | 7.0      | N/A      | 2.0     
+1        | Yorkshire                 | 4493039  | 2.0      | 1.0      | 3.0      | 1.0      | N/A      | 3.0     
+7        | Brunel Nation             | 5198127  | 5.0      | 7.0      | 1.0      | 4.0      | 2.0      | 4.0     
+5        | United Approach           | 4546187  | N/A      | 3.0      | 4.0      | 3.0      | N/A      | 5.0     
+4        | Aquacell                  | 5812504  | 3.0      | 3.0      | 5.0      | 6.0      | N/A      | 6.0     
+6        | Arctic Thunder            | 5453421  | N/A      | 3.0      | 2.0      | 8.0      | 1.0      | 7.0     
+8        | Tadreeb                   | 3092794  | N/A      | 8.0      | N/A      | 2.0      | N/A      | N/A     
 
 Legend:
-📋 FORM3: formScore_3_rank | 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank
-🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 📚 T-All-Prf: stats_trainer_ovr_profit_rank | 📓 FSCRE: formScore_rank | 🏟️ CRSE: stats_course_ratio_rank | 🌧️ GOING2: stats_going_ratio_rank | 💰 OP-ODDS: opDec_rank
+🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📊 TS: ts_rank | 💡 OFR: ofr_rank
+🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 📓 FSCRE: formScore_rank | 🏟️ CRSE: stats_course_ratio_rank | 💰 OP-ODDS: opDec_rank
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 🐎 3 | Grand Karat🐎 4 years old  gelding, b, 128 lbs.
 📊 Race Record: 2/8 total wins (🏅 25% SR) | At this age/type: 0/3 wins (🎯 0% SR)

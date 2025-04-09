@@ -23,24 +23,24 @@
 ⚖️ weight_diff     🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📋        | 🥇        | ↩️       | 📈        | 📊        | 💡        | 🎯        | 👨‍🏫      | 📚        | 📓        | 🏟️       | 🌧️       | 💰       
-number   | horse_name                | horse_id | FORM3    | W-SR     | R-tSR    | RPR      | TS       | OFR      | J-All-Prf | T-14-W   | T-All-Prf | FSCRE    | CRSE     | GOING2   | OP-ODDS 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-3        | Act Of Violence           | 5207746  | 2.0      | 1.0      | 1.0      | 2.0      | 3.0      | 3.0      | 11.0     | 1.0      | 10.0     | 1.0      | 3.0      | 4.0      | 1.0     
-4        | Dapperling                | 4994497  | 5.0      | 9.0      | 4.0      | 8.0      | 9.0      | 4.0      | 5.0      | 5.0      | 5.0      | 11.0     | N/A      | 5.0      | 2.0     
-7        | Mister Sox                | 4409381  | 6.0      | 8.0      | 4.0      | 7.0      | 2.0      | 7.0      | 7.0      | 1.0      | 10.0     | 8.0      | 2.0      | 5.0      | 2.0     
-6        | Sacred Falls              | 5176435  | 6.0      | 6.0      | 3.0      | 4.0      | 1.0      | 5.0      | 1.0      | 7.0      | 1.0      | 9.0      | N/A      | 5.0      | 4.0     
-8        | Protest Rally             | 4175415  | 1.0      | 5.0      | 2.0      | 4.0      | 4.0      | 8.0      | 9.0      | 3.0      | 9.0      | 2.0      | N/A      | 1.0      | 5.0     
-9        | One Of Our Own            | 4336809  | 7.0      | 4.0      | 4.0      | 1.0      | 5.0      | 9.0      | 3.0      | 4.0      | 6.0      | 7.0      | 1.0      | 5.0      | 5.0     
-10       | Highjacked                | 2116167  | 4.0      | 7.0      | 4.0      | 4.0      | 5.0      | 10.0     | 8.0      | 10.0     | 8.0      | 5.0      | 5.0      | 2.0      | 7.0     
-2        | Animate                   | 4389449  | 10.0     | 3.0      | 4.0      | 10.0     | 8.0      | 1.0      | 2.0      | 7.0      | 2.0      | 3.0      | 3.0      | 5.0      | 8.0     
-5        | Fenlander                 | 5176439  | 9.0      | 10.0     | 4.0      | 9.0      | 11.0     | 5.0      | 4.0      | 7.0      | 3.0      | 10.0     | N/A      | 5.0      | 8.0     
-1        | Daytona Lady              | 4277869  | 3.0      | 2.0      | 4.0      | 3.0      | 7.0      | 1.0      | 6.0      | 6.0      | 7.0      | 4.0      | N/A      | 2.0      | 8.0     
-11       | Bazball                   | 4924824  | 8.0      | 5.0      | 4.0      | 11.0     | 10.0     | 10.0     | 10.0     | 10.0     | 4.0      | 6.0      | 6.0      | 5.0      | 11.0    
+#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
+number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+-----------------------------------------------------------------------------------------------------------------------------
+3        | Act Of Violence           | 5207746  | 2.0      | 3.0      | 3.0      | 11.0     | 1.0      | 3.0      | 1.0     
+4        | Dapperling                | 4994497  | 8.0      | 9.0      | 4.0      | 5.0      | 11.0     | N/A      | 2.0     
+7        | Mister Sox                | 4409381  | 7.0      | 2.0      | 7.0      | 7.0      | 8.0      | 2.0      | 2.0     
+6        | Sacred Falls              | 5176435  | 4.0      | 1.0      | 5.0      | 1.0      | 9.0      | N/A      | 4.0     
+8        | Protest Rally             | 4175415  | 4.0      | 4.0      | 8.0      | 9.0      | 2.0      | N/A      | 5.0     
+9        | One Of Our Own            | 4336809  | 1.0      | 5.0      | 9.0      | 3.0      | 7.0      | 1.0      | 5.0     
+10       | Highjacked                | 2116167  | 4.0      | 5.0      | 10.0     | 8.0      | 5.0      | 5.0      | 7.0     
+2        | Animate                   | 4389449  | 10.0     | 8.0      | 1.0      | 2.0      | 3.0      | 3.0      | 8.0     
+5        | Fenlander                 | 5176439  | 9.0      | 11.0     | 5.0      | 4.0      | 10.0     | N/A      | 8.0     
+1        | Daytona Lady              | 4277869  | 3.0      | 7.0      | 1.0      | 6.0      | 4.0      | N/A      | 8.0     
+11       | Bazball                   | 4924824  | 11.0     | 10.0     | 10.0     | 10.0     | 6.0      | 6.0      | 11.0    
 
 Legend:
-📋 FORM3: formScore_3_rank | 🥇 W-SR: winSR_rank | ↩️ R-tSR: rightHandedSr_rank | 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank
-💡 OFR: ofr_rank | 🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 👨‍🏫 T-14-W: stats_trainer_last_14_wins_pct_rank | 📚 T-All-Prf: stats_trainer_ovr_profit_rank | 📓 FSCRE: formScore_rank | 🏟️ CRSE: stats_course_ratio_rank | 🌧️ GOING2: stats_going_ratio_rank | 💰 OP-ODDS: opDec_rank
+🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank
+💡 OFR: ofr_rank | 🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 📓 FSCRE: formScore_rank | 🏟️ CRSE: stats_course_ratio_rank | 💰 OP-ODDS: opDec_rank
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 🐎 3 | Act Of Violence🐎 4 years old  gelding, gr, 134 lbs.
 📊 Race Record: 2/10 total wins (🏅 20% SR) | At this age/type: 1/2 wins (🎯 50% SR)

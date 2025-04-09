@@ -32,26 +32,26 @@
 ⚖️ weight_diff     🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📋        | 🥇        | ↩️       | 📈        | 📊        | 💡        | 🎯        | 👨‍🏫      | 📚        | 📓        | 🏟️       | 🌧️       | 💰       
-number   | horse_name                | horse_id | FORM3    | W-SR     | R-tSR    | RPR      | TS       | OFR      | J-All-Prf | T-14-W   | T-All-Prf | FSCRE    | CRSE     | GOING2   | OP-ODDS 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-4        | Comfort Line              | 2863058  | 2.0      | 6.0      | 7.0      | 11.0     | 10.0     | 4.0      | 2.0      | 5.0      | 13.0     | 10.0     | 4.0      | 1.0      | 1.0     
-6        | Enchanted Garden          | 5186086  | 6.0      | 1.0      | 8.0      | 5.0      | 8.0      | 6.0      | 12.0     | 11.0     | 1.0      | 3.0      | 2.0      | 4.0      | 1.0     
-13       | Roman Harry               | 5148102  | 6.0      | 8.0      | 4.0      | 13.0     | N/A      | 13.0     | 10.0     | 5.0      | 8.0      | 6.0      | 4.0      | 7.0      | 3.0     
-10       | Red Hugh Odonnell         | 5287729  | 5.0      | 9.0      | 8.0      | 7.0      | 1.0      | 10.0     | 3.0      | 5.0      | 5.0      | 9.0      | N/A      | 7.0      | 4.0     
-12       | Imperial Fighter          | 3715492  | 12.0     | 7.0      | 5.0      | 3.0      | 4.0      | 12.0     | 4.0      | 1.0      | 5.0      | 13.0     | N/A      | 7.0      | 5.0     
-7        | Moyassr                   | 5248393  | 8.0      | 9.0      | 8.0      | 12.0     | 11.0     | 6.0      | 9.0      | 5.0      | 4.0      | 4.0      | N/A      | 7.0      | 6.0     
-8        | Morning Approach          | 3315569  | 4.0      | 7.0      | 8.0      | 9.0      | 7.0      | 8.0      | 7.0      | 5.0      | 2.0      | 11.0     | 3.0      | 7.0      | 6.0     
-1        | Proleek Prince            | 5301534  | 1.0      | 4.0      | 1.0      | 10.0     | N/A      | 1.0      | 6.0      | 5.0      | 3.0      | 7.0      | 4.0      | 4.0      | 8.0     
-2        | Desert Haven              | 4423970  | 10.0     | 5.0      | 6.0      | 1.0      | 2.0      | 2.0      | 1.0      | 3.0      | 10.0     | 1.0      | 1.0      | 6.0      | 9.0     
-5        | The Bear Trap             | 5005722  | 7.0      | 9.0      | 8.0      | 5.0      | 2.0      | 5.0      | 13.0     | 11.0     | 7.0      | 8.0      | N/A      | 7.0      | 9.0     
-3        | Pier Pressure             | 4554391  | 11.0     | 2.0      | 1.0      | 2.0      | 5.0      | 2.0      | 5.0      | 2.0      | 12.0     | 12.0     | 4.0      | 3.0      | 11.0    
-11       | Tawaazon                  | 3701271  | 9.0      | 3.0      | 3.0      | 7.0      | 6.0      | 11.0     | 8.0      | 11.0     | 9.0      | 2.0      | N/A      | 1.0      | 11.0    
-9        | Port Louis                | 4992666  | 3.0      | 7.0      | 2.0      | 4.0      | 8.0      | 8.0      | 11.0     | 3.0      | 10.0     | 5.0      | 4.0      | 7.0      | 13.0    
+#️⃣      | 🐎                         | 🆔        | 📈        | 💡        | 🎯        | 🏟️       | 💰       
+number   | horse_name                | horse_id | RPR      | OFR      | J-All-Prf | CRSE     | OP-ODDS 
+-------------------------------------------------------------------------------------------------------
+4        | Comfort Line              | 2863058  | 11.0     | 4.0      | 2.0      | 4.0      | 1.0     
+6        | Enchanted Garden          | 5186086  | 5.0      | 6.0      | 12.0     | 2.0      | 1.0     
+13       | Roman Harry               | 5148102  | 13.0     | 13.0     | 10.0     | 4.0      | 3.0     
+10       | Red Hugh Odonnell         | 5287729  | 7.0      | 10.0     | 3.0      | N/A      | 4.0     
+12       | Imperial Fighter          | 3715492  | 3.0      | 12.0     | 4.0      | N/A      | 5.0     
+7        | Moyassr                   | 5248393  | 12.0     | 6.0      | 9.0      | N/A      | 6.0     
+8        | Morning Approach          | 3315569  | 9.0      | 8.0      | 7.0      | 3.0      | 6.0     
+1        | Proleek Prince            | 5301534  | 10.0     | 1.0      | 6.0      | 4.0      | 8.0     
+2        | Desert Haven              | 4423970  | 1.0      | 2.0      | 1.0      | 1.0      | 9.0     
+5        | The Bear Trap             | 5005722  | 5.0      | 5.0      | 13.0     | N/A      | 9.0     
+3        | Pier Pressure             | 4554391  | 2.0      | 2.0      | 5.0      | 4.0      | 11.0    
+11       | Tawaazon                  | 3701271  | 7.0      | 11.0     | 8.0      | N/A      | 11.0    
+9        | Port Louis                | 4992666  | 4.0      | 8.0      | 11.0     | 4.0      | 13.0    
 
 Legend:
-📋 FORM3: formScore_3_rank | 🥇 W-SR: winSR_rank | ↩️ R-tSR: rightHandedSr_rank | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank
-🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 👨‍🏫 T-14-W: stats_trainer_last_14_wins_pct_rank | 📚 T-All-Prf: stats_trainer_ovr_profit_rank | 📓 FSCRE: formScore_rank | 🏟️ CRSE: stats_course_ratio_rank | 🌧️ GOING2: stats_going_ratio_rank | 💰 OP-ODDS: opDec_rank
+⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 💡 OFR: ofr_rank
+🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 🏟️ CRSE: stats_course_ratio_rank | 💰 OP-ODDS: opDec_rank
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 🐎 4 | Comfort Line🐎 8 years old  gelding, gr, 138 lbs.
 📊 Race Record: 9/90 total wins (🏅 10% SR) | At this age/type: 2/18 wins (🎯 11% SR)

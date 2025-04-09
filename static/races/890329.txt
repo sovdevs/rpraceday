@@ -9,22 +9,22 @@
 ⛅ Weather: Partly cloudy
 🌱 Going: Good
 9 runners declaredNo H2H data available for this race.++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📋        | 🥇        | ↩️       | 📈        | 📊        | 💡        | 🎯        | 👨‍🏫      | 📚        | 📓        | 🏟️       | 🌧️       | 💰       
-number   | horse_name                | horse_id | FORM3    | W-SR     | R-tSR    | RPR      | TS       | OFR      | J-All-Prf | T-14-W   | T-All-Prf | FSCRE    | CRSE     | GOING2   | OP-ODDS 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-6        | Munsif                    | 6541707  | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 1.0      | 2.0      | 6.0      | 5.0      | N/A      | N/A      | 1.0     
-7        | Sea Of Kings              | 7378603  | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 6.0      | 6.0      | 4.0      | 5.0      | N/A      | N/A      | 2.0     
-3        | Cameron Highlander        | 7222365  | 3.0      | 1.0      | 1.0      | 1.0      | N/A      | N/A      | 5.0      | 7.0      | 7.0      | 1.0      | N/A      | N/A      | 3.0     
-2        | Belaya River              | 7378601  | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 7.0      | 7.0      | 8.0      | 5.0      | N/A      | N/A      | 4.0     
-5        | Karthon                   | 6568913  | 1.0      | 1.0      | 1.0      | 3.0      | 1.0      | N/A      | 3.0      | 4.0      | 5.0      | 4.0      | N/A      | N/A      | 5.0     
-8        | So Alex                   | 7378605  | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 9.0      | 3.0      | 3.0      | 5.0      | N/A      | N/A      | 5.0     
-4        | Just Adair                | 7378606  | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 2.0      | 7.0      | 2.0      | 5.0      | N/A      | N/A      | 7.0     
-1        | Fiery Dawn                | 5705821  | 2.0      | 1.0      | 1.0      | 2.0      | N/A      | N/A      | 4.0      | 5.0      | 1.0      | 2.0      | N/A      | N/A      | 7.0     
-9        | Typeface                  | 7227191  | 3.0      | 1.0      | 1.0      | 4.0      | N/A      | N/A      | 8.0      | 1.0      | 9.0      | 3.0      | N/A      | N/A      | 9.0     
+#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
+number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+-----------------------------------------------------------------------------------------------------------------------------
+6        | Munsif                    | 6541707  | N/A      | N/A      | N/A      | 1.0      | 5.0      | N/A      | 1.0     
+7        | Sea Of Kings              | 7378603  | N/A      | N/A      | N/A      | 6.0      | 5.0      | N/A      | 2.0     
+3        | Cameron Highlander        | 7222365  | 1.0      | N/A      | N/A      | 5.0      | 1.0      | N/A      | 3.0     
+2        | Belaya River              | 7378601  | N/A      | N/A      | N/A      | 7.0      | 5.0      | N/A      | 4.0     
+5        | Karthon                   | 6568913  | 3.0      | 1.0      | N/A      | 3.0      | 4.0      | N/A      | 5.0     
+8        | So Alex                   | 7378605  | N/A      | N/A      | N/A      | 9.0      | 5.0      | N/A      | 5.0     
+4        | Just Adair                | 7378606  | N/A      | N/A      | N/A      | 2.0      | 5.0      | N/A      | 7.0     
+1        | Fiery Dawn                | 5705821  | 2.0      | N/A      | N/A      | 4.0      | 2.0      | N/A      | 7.0     
+9        | Typeface                  | 7227191  | 4.0      | N/A      | N/A      | 8.0      | 3.0      | N/A      | 9.0     
 
 Legend:
-📋 FORM3: formScore_3_rank | 🥇 W-SR: winSR_rank | ↩️ R-tSR: rightHandedSr_rank | 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank
-💡 OFR: ofr_rank | 🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 👨‍🏫 T-14-W: stats_trainer_last_14_wins_pct_rank | 📚 T-All-Prf: stats_trainer_ovr_profit_rank | 📓 FSCRE: formScore_rank | 🏟️ CRSE: stats_course_ratio_rank | 🌧️ GOING2: stats_going_ratio_rank | 💰 OP-ODDS: opDec_rank
+🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank
+💡 OFR: ofr_rank | 🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 📓 FSCRE: formScore_rank | 🏟️ CRSE: stats_course_ratio_rank | 💰 OP-ODDS: opDec_rank
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 🐎 6 | Munsif🐎 3 years old  colt, ch, 123 lbs.
 📊 Race Record: 0/0 total wins (🏅 0% SR) | At this age/type: 0/0 wins (🎯 0% SR)

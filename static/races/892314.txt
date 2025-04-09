@@ -33,24 +33,24 @@
 ⚖️ weight_diff     🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📋        | 🥇        | ↩️       | 📈        | 📊        | 💡        | 🎯        | 👨‍🏫      | 📚        | 📓        | 🏟️       | 🌧️       | 💰       
-number   | horse_name                | horse_id | FORM3    | W-SR     | R-tSR    | RPR      | TS       | OFR      | J-All-Prf | T-14-W   | T-All-Prf | FSCRE    | CRSE     | GOING2   | OP-ODDS 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-4        | Hastily                   | 3526616  | 10.0     | 2.0      | 1.0      | 10.0     | 7.0      | 4.0      | 3.0      | 9.0      | 5.0      | 6.0      | 1.0      | 1.0      | 1.0     
-3        | Harry The Rogue           | 5100007  | 5.0      | 6.0      | 5.0      | 8.0      | N/A      | 3.0      | 8.0      | 6.0      | 10.0     | 2.0      | N/A      | 3.0      | 2.0     
-5        | Nikki Swango              | 5043824  | 11.0     | 5.0      | 5.0      | 1.0      | 2.0      | 5.0      | 5.0      | 3.0      | 11.0     | 7.0      | N/A      | 3.0      | 3.0     
-8        | Browned Off               | 6793633  | 9.0      | 6.0      | 5.0      | 4.0      | 5.0      | 8.0      | 7.0      | 4.0      | 6.0      | 3.0      | 1.0      | 3.0      | 4.0     
-1        | Half Nutz                 | 2654454  | 8.0      | 3.0      | 4.0      | 3.0      | 1.0      | 1.0      | 9.0      | 1.0      | 9.0      | 4.0      | 1.0      | 3.0      | 5.0     
-6        | Are You In Or Out         | 5295451  | 2.0      | 6.0      | 5.0      | 2.0      | 3.0      | 6.0      | 10.0     | 9.0      | 2.0      | 8.0      | 1.0      | 3.0      | 6.0     
-2        | Jurality                  | 5317152  | 3.0      | 6.0      | 5.0      | 11.0     | 6.0      | 1.0      | 11.0     | 4.0      | 6.0      | 8.0      | N/A      | 3.0      | 7.0     
-7        | Chica Power               | 3136390  | 6.0      | 4.0      | 3.0      | 6.0      | 7.0      | 7.0      | 1.0      | 7.0      | 1.0      | 1.0      | N/A      | 3.0      | 7.0     
-9        | Bucky Larson              | 1897844  | 1.0      | 1.0      | 2.0      | 6.0      | N/A      | 8.0      | 4.0      | 2.0      | 8.0      | 5.0      | 1.0      | 2.0      | 9.0     
-10       | Deuteronomy               | 4332862  | 7.0      | 6.0      | 5.0      | 8.0      | 4.0      | 10.0     | 2.0      | 7.0      | 3.0      | 10.0     | 1.0      | 3.0      | 10.0    
-11       | Quiet Affair              | 5063632  | 4.0      | 6.0      | 5.0      | 4.0      | N/A      | 10.0     | 6.0      | 9.0      | 3.0      | 11.0     | N/A      | 3.0      | 11.0    
+#️⃣      | 🐎                         | 🆔        | 📈        | 💡        | 🎯        | 🏟️       | 💰       
+number   | horse_name                | horse_id | RPR      | OFR      | J-All-Prf | CRSE     | OP-ODDS 
+-------------------------------------------------------------------------------------------------------
+4        | Hastily                   | 3526616  | 10.0     | 4.0      | 3.0      | 1.0      | 1.0     
+3        | Harry The Rogue           | 5100007  | 8.0      | 3.0      | 8.0      | N/A      | 2.0     
+5        | Nikki Swango              | 5043824  | 1.0      | 5.0      | 5.0      | N/A      | 3.0     
+8        | Browned Off               | 6793633  | 4.0      | 8.0      | 7.0      | 1.0      | 4.0     
+1        | Half Nutz                 | 2654454  | 3.0      | 1.0      | 9.0      | 1.0      | 5.0     
+6        | Are You In Or Out         | 5295451  | 2.0      | 6.0      | 10.0     | 1.0      | 6.0     
+2        | Jurality                  | 5317152  | 11.0     | 1.0      | 11.0     | N/A      | 7.0     
+7        | Chica Power               | 3136390  | 6.0      | 7.0      | 1.0      | N/A      | 7.0     
+9        | Bucky Larson              | 1897844  | 6.0      | 8.0      | 4.0      | 1.0      | 9.0     
+10       | Deuteronomy               | 4332862  | 8.0      | 10.0     | 2.0      | 1.0      | 10.0    
+11       | Quiet Affair              | 5063632  | 4.0      | 10.0     | 6.0      | N/A      | 11.0    
 
 Legend:
-📋 FORM3: formScore_3_rank | 🥇 W-SR: winSR_rank | ↩️ R-tSR: rightHandedSr_rank | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank
-🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 👨‍🏫 T-14-W: stats_trainer_last_14_wins_pct_rank | 📚 T-All-Prf: stats_trainer_ovr_profit_rank | 📓 FSCRE: formScore_rank | 🏟️ CRSE: stats_course_ratio_rank | 🌧️ GOING2: stats_going_ratio_rank | 💰 OP-ODDS: opDec_rank
+⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 💡 OFR: ofr_rank
+🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 🏟️ CRSE: stats_course_ratio_rank | 💰 OP-ODDS: opDec_rank
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 🐎 4 | Hastily🐎 6 years old  mare, b, 136 lbs.
 📊 Race Record: 3/30 total wins (🏅 10% SR) | At this age/type: 0/4 wins (🎯 0% SR)

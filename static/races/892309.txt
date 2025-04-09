@@ -9,23 +9,23 @@
 ☀️ Weather: Sunny
 🔥 Going: Good To Firm
 10 runners declaredNo H2H data available for this race.++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📋        | 🥇        | ↩️       | 📈        | 📊        | 💡        | 🎯        | 👨‍🏫      | 📚        | 📓        | 🏟️       | 🌧️       | 💰       
-number   | horse_name                | horse_id | FORM3    | W-SR     | R-tSR    | RPR      | TS       | OFR      | J-All-Prf | T-14-W   | T-All-Prf | FSCRE    | CRSE     | GOING2   | OP-ODDS 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-10       | Stay True                 | 6710723  | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 5.0      | 5.0      | 7.0      | 5.0      | N/A      | N/A      | 1.0     
-3        | Game Point                | 6604817  | 1.0      | 1.0      | 1.0      | 1.0      | 2.0      | 1.0      | 3.0      | 4.0      | 5.0      | 1.0      | 1.0      | N/A      | 2.0     
-7        | Kilcrea Rock              | 6388849  | 1.0      | 1.0      | 1.0      | 2.0      | 1.0      | N/A      | 8.0      | 8.0      | 6.0      | 1.0      | 1.0      | 1.0      | 3.0     
-9        | Roosevelt                 | 6573370  | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 7.0      | 5.0      | 7.0      | 5.0      | N/A      | N/A      | 4.0     
-8        | Lombardi Trophy           | 6710720  | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 10.0     | 9.0      | 2.0      | 5.0      | N/A      | N/A      | 5.0     
-5        | Jr Mahon                  | 7378566  | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 6.0      | 1.0      | 1.0      | 5.0      | N/A      | N/A      | 6.0     
-4        | Gun Carriage              | 5942403  | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 1.0      | 5.0      | 7.0      | 5.0      | N/A      | N/A      | 7.0     
-1        | Cooleys Mist              | 7280717  | N/A      | N/A      | N/A      | N/A      | N/A      | N/A      | 2.0      | 2.0      | 4.0      | 5.0      | N/A      | N/A      | 8.0     
-6        | Keyboard                  | 7298735  | 3.0      | 1.0      | 1.0      | 3.0      | 3.0      | N/A      | 4.0      | 10.0     | 10.0     | 3.0      | N/A      | N/A      | 9.0     
-2        | Galaxy Wonder             | 7134165  | 2.0      | 1.0      | 1.0      | 4.0      | N/A      | N/A      | 9.0      | 2.0      | 3.0      | 3.0      | N/A      | N/A      | 10.0    
+#️⃣      | 🐎                         | 🆔        | 📈        | 💡        | 🎯        | 🏟️      
+number   | horse_name                | horse_id | RPR      | OFR      | J-All-Prf | CRSE    
+--------------------------------------------------------------------------------------------
+10       | Stay True                 | 6710723  | N/A      | N/A      | 5.0      | N/A     
+3        | Game Point                | 6604817  | 1.0      | 1.0      | 3.0      | 1.0     
+7        | Kilcrea Rock              | 6388849  | 2.0      | N/A      | 8.0      | 1.0     
+9        | Roosevelt                 | 6573370  | N/A      | N/A      | 7.0      | N/A     
+8        | Lombardi Trophy           | 6710720  | N/A      | N/A      | 10.0     | N/A     
+5        | Jr Mahon                  | 7378566  | N/A      | N/A      | 6.0      | N/A     
+4        | Gun Carriage              | 5942403  | N/A      | N/A      | 1.0      | N/A     
+1        | Cooleys Mist              | 7280717  | N/A      | N/A      | 2.0      | N/A     
+6        | Keyboard                  | 7298735  | 3.0      | N/A      | 4.0      | N/A     
+2        | Galaxy Wonder             | 7134165  | 4.0      | N/A      | 9.0      | N/A     
 
 Legend:
-📋 FORM3: formScore_3_rank | 🥇 W-SR: winSR_rank | ↩️ R-tSR: rightHandedSr_rank | 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank
-💡 OFR: ofr_rank | 🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 👨‍🏫 T-14-W: stats_trainer_last_14_wins_pct_rank | 📚 T-All-Prf: stats_trainer_ovr_profit_rank | 📓 FSCRE: formScore_rank | 🏟️ CRSE: stats_course_ratio_rank | 🌧️ GOING2: stats_going_ratio_rank | 💰 OP-ODDS: opDec_rank
+⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank
+💡 OFR: ofr_rank | 🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 🏟️ CRSE: stats_course_ratio_rank
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 🐎 10 | Stay True🐎 3 years old  colt, b, 134 lbs.
 📊 Race Record: 0/0 total wins (🏅 0% SR) | At this age/type: 0/0 wins (🎯 0% SR)

@@ -9,17 +9,17 @@
 ☀️ Weather: Sunny
 🔥 Going: Good To Firm
 3 runners declaredNo H2H data available for this race.++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📋        | 🥇        | ↩️       | 📈        | 📊        | 💡        | 🎯        | 👨‍🏫      | 📚        | 📓        | 🏟️       | 🌧️       | 💰       
-number   | horse_name                | horse_id | FORM3    | W-SR     | R-tSR    | RPR      | TS       | OFR      | J-All-Prf | T-14-W   | T-All-Prf | FSCRE    | CRSE     | GOING2   | OP-ODDS 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-3        | Tiny Tetley               | 5432970  | 2.0      | 3.0      | 4.0      | 1.0      | 2.0      | 3.0      | 2.0      | 3.0      | 3.0      | 3.0      | 1.0      | N/A      | 1.0     
-4        | Florencethemachine        | 4231680  | 1.0      | 1.0      | 1.0      | 2.0      | N/A      | 4.0      | 1.0      | 2.0      | 1.0      | 2.0      | 2.0      | N/A      | 2.0     
-1        | Hardy Du Seuil            | 3094268  | 3.0      | 3.0      | 3.0      | 2.0      | 1.0      | 1.0      | 3.0      | 1.0      | 2.0      | 4.0      | N/A      | N/A      | 3.0     
-2        | Mofasa                    | 3877104  | 4.0      | 2.0      | 2.0      | 4.0      | N/A      | 2.0      | N/A      | N/A      | N/A      | 1.0      | N/A      | N/A      | N/A     
+#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
+number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+-----------------------------------------------------------------------------------------------------------------------------
+3        | Tiny Tetley               | 5432970  | 1.0      | 2.0      | 3.0      | 2.0      | 3.0      | 1.0      | 1.0     
+4        | Florencethemachine        | 4231680  | 2.0      | N/A      | 4.0      | 1.0      | 2.0      | 2.0      | 2.0     
+1        | Hardy Du Seuil            | 3094268  | 2.0      | 1.0      | 1.0      | 3.0      | 4.0      | N/A      | 3.0     
+2        | Mofasa                    | 3877104  | 4.0      | N/A      | 2.0      | N/A      | 1.0      | N/A      | N/A     
 
 Legend:
-📋 FORM3: formScore_3_rank | 🥇 W-SR: winSR_rank | ↩️ R-tSR: rightHandedSr_rank | 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank
-💡 OFR: ofr_rank | 🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 👨‍🏫 T-14-W: stats_trainer_last_14_wins_pct_rank | 📚 T-All-Prf: stats_trainer_ovr_profit_rank | 📓 FSCRE: formScore_rank | 🏟️ CRSE: stats_course_ratio_rank | 🌧️ GOING2: stats_going_ratio_rank | 💰 OP-ODDS: opDec_rank
+🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank
+💡 OFR: ofr_rank | 🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 📓 FSCRE: formScore_rank | 🏟️ CRSE: stats_course_ratio_rank | 💰 OP-ODDS: opDec_rank
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 🐎 3 | Tiny Tetley🐎 7 years old  gelding, b, 157 lbs.
 📊 Race Record: 3/11 total wins (🏅 27% SR) | At this age/type: 3/11 wins (🎯 27% SR)

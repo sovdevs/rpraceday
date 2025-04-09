@@ -50,22 +50,22 @@
 ⚖️ weight_diff     🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📋        | 🥇        | ↩️       | 📈        | 📊        | 💡        | 🎯        | 👨‍🏫      | 📚        | 📓        | 🏟️       | 🌧️       | 💰       
-number   | horse_name                | horse_id | FORM3    | W-SR     | R-tSR    | RPR      | TS       | OFR      | J-All-Prf | T-14-W   | T-All-Prf | FSCRE    | CRSE     | GOING2   | OP-ODDS 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-4        | Jamies Choice             | 5297335  | 4.0      | 2.0      | 2.0      | 2.0      | 5.0      | 3.0      | 9.0      | 5.0      | 8.0      | 1.0      | N/A      | 4.0      | 1.0     
-5        | Stroxx                    | 2664968  | 7.0      | 6.0      | 7.0      | 2.0      | 6.0      | 5.0      | 3.0      | 1.0      | 9.0      | 3.0      | 5.0      | 6.0      | 2.0     
-1        | Latin Five                | 2664932  | 5.0      | 4.0      | 4.0      | 1.0      | 3.0      | 1.0      | 2.0      | 5.0      | 3.0      | 7.0      | 5.0      | 2.0      | 3.0     
-9        | Mews House                | 2725540  | 6.0      | 4.0      | 6.0      | 7.0      | 9.0      | 8.0      | 1.0      | 2.0      | 6.0      | 5.0      | 1.0      | 2.0      | 4.0     
-8        | Ustath                    | 2025086  | 2.0      | 3.0      | 7.0      | 6.0      | 1.0      | 8.0      | 8.0      | 4.0      | 7.0      | 6.0      | 5.0      | 6.0      | 5.0     
-6        | Golden Prosperity         | 3612354  | 8.0      | 5.0      | 5.0      | 7.0      | 8.0      | 6.0      | 6.0      | 3.0      | 2.0      | 9.0      | 2.0      | 5.0      | 6.0     
-2        | Dunnington Lad            | 4225299  | 3.0      | 1.0      | 1.0      | 2.0      | 4.0      | 1.0      | 3.0      | 5.0      | 4.0      | 3.0      | 4.0      | 1.0      | 6.0     
-3        | Ninety Nine               | 5096517  | 1.0      | 3.0      | 3.0      | 2.0      | 6.0      | 3.0      | 5.0      | 5.0      | 1.0      | 2.0      | 2.0      | 6.0      | 8.0     
-7        | Posh Maisie               | 5582501  | 9.0      | 7.0      | 7.0      | 9.0      | 1.0      | 6.0      | 7.0      | 5.0      | 5.0      | 8.0      | 5.0      | 6.0      | 9.0     
+#️⃣      | 🐎                         | 🆔        | 📈        | 💡        | 🎯        | 🏟️       | 💰       
+number   | horse_name                | horse_id | RPR      | OFR      | J-All-Prf | CRSE     | OP-ODDS 
+-------------------------------------------------------------------------------------------------------
+4        | Jamies Choice             | 5297335  | 2.0      | 3.0      | 9.0      | N/A      | 1.0     
+5        | Stroxx                    | 2664968  | 2.0      | 5.0      | 3.0      | 5.0      | 2.0     
+1        | Latin Five                | 2664932  | 1.0      | 1.0      | 2.0      | 5.0      | 3.0     
+9        | Mews House                | 2725540  | 7.0      | 8.0      | 1.0      | 1.0      | 4.0     
+8        | Ustath                    | 2025086  | 6.0      | 8.0      | 8.0      | 5.0      | 5.0     
+6        | Golden Prosperity         | 3612354  | 7.0      | 6.0      | 6.0      | 2.0      | 6.0     
+2        | Dunnington Lad            | 4225299  | 2.0      | 1.0      | 3.0      | 4.0      | 6.0     
+3        | Ninety Nine               | 5096517  | 2.0      | 3.0      | 5.0      | 2.0      | 8.0     
+7        | Posh Maisie               | 5582501  | 9.0      | 6.0      | 7.0      | 5.0      | 9.0     
 
 Legend:
-📋 FORM3: formScore_3_rank | 🥇 W-SR: winSR_rank | ↩️ R-tSR: rightHandedSr_rank | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank
-🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 👨‍🏫 T-14-W: stats_trainer_last_14_wins_pct_rank | 📚 T-All-Prf: stats_trainer_ovr_profit_rank | 📓 FSCRE: formScore_rank | 🏟️ CRSE: stats_course_ratio_rank | 🌧️ GOING2: stats_going_ratio_rank | 💰 OP-ODDS: opDec_rank
+⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 💡 OFR: ofr_rank
+🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 🏟️ CRSE: stats_course_ratio_rank | 💰 OP-ODDS: opDec_rank
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 🐎 4 | Jamies Choice🐎 5 years old  mare, b, 134 lbs.
 📊 Race Record: 2/12 total wins (🏅 17% SR) | At this age/type: 2/6 wins (🎯 33% SR)

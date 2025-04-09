@@ -24,20 +24,20 @@
 ⚖️ weight_diff     🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📋        | 🥇        | ↩️       | 📈        | 📊        | 💡        | 🎯        | 👨‍🏫      | 📚        | 📓        | 🏟️       | 🌧️       | 💰       
-number   | horse_name                | horse_id | FORM3    | W-SR     | R-tSR    | RPR      | TS       | OFR      | J-All-Prf | T-14-W   | T-All-Prf | FSCRE    | CRSE     | GOING2   | OP-ODDS 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1        | Looking For Lynda         | 4076133  | 5.0      | 6.0      | 1.0      | 5.0      | 1.0      | 1.0      | 2.0      | 2.0      | 7.0      | 4.0      | 1.0      | 1.0      | 1.0     
-3        | Counsel                   | 3309441  | 1.0      | 5.0      | 3.0      | 3.0      | 5.0      | 3.0      | 7.0      | 1.0      | 1.0      | 1.0      | 2.0      | 5.0      | 2.0     
-2        | Ziggys Missile            | 5262421  | 6.0      | 1.0      | 3.0      | 1.0      | 7.0      | 2.0      | 6.0      | 5.0      | 6.0      | 7.0      | 2.0      | 5.0      | 3.0     
-7        | Dark Kestrel              | 4498965  | 4.0      | 7.0      | 3.0      | 2.0      | 6.0      | 7.0      | 4.0      | 3.0      | 4.0      | 6.0      | N/A      | 3.0      | 3.0     
-5        | Spring Is Sprung          | 3499194  | 3.0      | 2.0      | 2.0      | 3.0      | 2.0      | 5.0      | 1.0      | 6.0      | 2.0      | 3.0      | 2.0      | 2.0      | 5.0     
-4        | Sugar Hill Babe           | 4313219  | 2.0      | 4.0      | 3.0      | 5.0      | 3.0      | 4.0      | 3.0      | 6.0      | 3.0      | 2.0      | 2.0      | 5.0      | 6.0     
-6        | Mini Magna                | 5079238  | 7.0      | 3.0      | 3.0      | 7.0      | 4.0      | 5.0      | 5.0      | 3.0      | 4.0      | 4.0      | N/A      | 4.0      | 7.0     
+#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
+number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+-----------------------------------------------------------------------------------------------------------------------------
+1        | Looking For Lynda         | 4076133  | 5.0      | 1.0      | 1.0      | 2.0      | 4.0      | 1.0      | 1.0     
+3        | Counsel                   | 3309441  | 3.0      | 5.0      | 3.0      | 7.0      | 1.0      | 2.0      | 2.0     
+2        | Ziggys Missile            | 5262421  | 1.0      | 7.0      | 2.0      | 6.0      | 7.0      | 2.0      | 3.0     
+7        | Dark Kestrel              | 4498965  | 2.0      | 6.0      | 7.0      | 4.0      | 6.0      | N/A      | 3.0     
+5        | Spring Is Sprung          | 3499194  | 3.0      | 2.0      | 5.0      | 1.0      | 3.0      | 2.0      | 5.0     
+4        | Sugar Hill Babe           | 4313219  | 5.0      | 3.0      | 4.0      | 3.0      | 2.0      | 2.0      | 6.0     
+6        | Mini Magna                | 5079238  | 7.0      | 4.0      | 5.0      | 5.0      | 4.0      | N/A      | 7.0     
 
 Legend:
-📋 FORM3: formScore_3_rank | 🥇 W-SR: winSR_rank | ↩️ R-tSR: rightHandedSr_rank | 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank
-💡 OFR: ofr_rank | 🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 👨‍🏫 T-14-W: stats_trainer_last_14_wins_pct_rank | 📚 T-All-Prf: stats_trainer_ovr_profit_rank | 📓 FSCRE: formScore_rank | 🏟️ CRSE: stats_course_ratio_rank | 🌧️ GOING2: stats_going_ratio_rank | 💰 OP-ODDS: opDec_rank
+🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank
+💡 OFR: ofr_rank | 🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 📓 FSCRE: formScore_rank | 🏟️ CRSE: stats_course_ratio_rank | 💰 OP-ODDS: opDec_rank
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 🐎 1 | Looking For Lynda🐎 5 years old  gelding, ch, 136 lbs.
 📊 Race Record: 3/32 total wins (🏅 9% SR) | At this age/type: 2/11 wins (🎯 18% SR)
