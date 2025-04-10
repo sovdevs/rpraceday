@@ -4,7 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="prep for dynamic performance table" />
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="DPT now with profitable columns">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hash_codes.json" beforeDir="false" afterPath="$PROJECT_DIR$/hash_codes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890319.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890320.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890321.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890322.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890323.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890324.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890325.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890326.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890327.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890328.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890329.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890330.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890331.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890332.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890455.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890456.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890457.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890458.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890459.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890460.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890461.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890637.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890638.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890639.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890640.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890641.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890642.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890643.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892308.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892309.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892310.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892311.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892312.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892313.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892314.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892315.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/892428.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,15 +140,7 @@
       <workItem from="1741940196379" duration="8291000" />
       <workItem from="1742374057464" duration="3376000" />
       <workItem from="1742548206711" duration="23598000" />
-      <workItem from="1743788996007" duration="19581000" />
-    </task>
-    <task id="LOCAL-00045" summary="added cheat code for all of today's races.">
-      <option name="closed" value="true" />
-      <created>1740322709054</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1740322709054</updated>
+      <workItem from="1743788996007" duration="21013000" />
     </task>
     <task id="LOCAL-00046" summary="Extra stats (ranks, speed all race by date), course comment for todays race.">
       <option name="closed" value="true" />
@@ -493,14 +526,21 @@
       <option name="project" value="LOCAL" />
       <updated>1744196558563</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="DPT now with profitable columns">
+      <option name="closed" value="true" />
+      <created>1744201400112</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1744201400113</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="todays files" />
     <MESSAGE value="todays files -- cleaned up code -- added STAR indicator for exceptionally ranked horses. Performance Table down to maintenance. No horse form history yet." />
     <MESSAGE value="performance table improvements. Code now runs for today_str allowing for historical racedays. New ranks for perf table. No logic to which cols as yet - to come." />
     <MESSAGE value="fixed bug with sort perf table on string" />
@@ -525,6 +565,7 @@
     <MESSAGE value="added requests to requirements.txt" />
     <MESSAGE value="removed tg stuff" />
     <MESSAGE value="prep for dynamic performance table" />
-    <option name="LAST_COMMIT_MESSAGE" value="prep for dynamic performance table" />
+    <MESSAGE value="DPT now with profitable columns" />
+    <option name="LAST_COMMIT_MESSAGE" value="DPT now with profitable columns" />
   </component>
 </project>
