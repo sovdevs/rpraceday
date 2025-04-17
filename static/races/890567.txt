@@ -18,3 +18,909 @@
 🔷 shared_race_id   🧾 horse_name1   📜 horse_name2
 📉 perfDiff         ⚖️ weight_diff   🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
+++++++++++ Dynamic Performance Table ++++++++++
+#️⃣      | 🐎                         | 🆔        | 💶        | 📈        | 🎯        | 🏟️      
+number   | horse_name                | horse_id | AVG€     | RPR      | J-All-Prf | CRSE    
+--------------------------------------------------------------------------------------------
+19       | Sheezer Dancer            | 7413937  | N/A      | N/A      | 19.0     | N/A     
+10       | Queens Abbey              | 5784843  | 2.0      | 1.0      | 16.0     | N/A     
+6        | Hornica                   | 6741739  | N/A      | N/A      | 7.0      | N/A     
+14       | Gaelic Saint              | 6949239  | 2.0      | 4.0      | 15.0     | N/A     
+3        | Freddiemissmolli          | 6873169  | 2.0      | 5.0      | 17.0     | N/A     
+17       | Noble Grace               | 7360555  | N/A      | N/A      | 14.0     | N/A     
+15       | Ladies Day                | 7374136  | 2.0      | N/A      | 8.0      | N/A     
+5        | Hill In Brazil            | 7024891  | 2.0      | 2.0      | 20.0     | N/A     
+18       | Poetisa                   | 7413939  | N/A      | N/A      | 6.0      | N/A     
+13       | Taktique Gagnante         | 6803002  | 1.0      | 3.0      | 5.0      | N/A     
+9        | Never Told Me             | 6928488  | 2.0      | 10.0     | 4.0      | N/A     
+11       | Rainbow Tara              | 7413935  | N/A      | N/A      | 12.0     | N/A     
+2        | Country Mouse             | 5942439  | 2.0      | N/A      | 18.0     | N/A     
+7        | Lilidorei                 | 7390840  | N/A      | N/A      | 13.0     | N/A     
+8        | Loveatfirstglance         | 6855093  | 2.0      | 6.0      | 2.0      | N/A     
+12       | Six Blue                  | 7360552  | N/A      | N/A      | 11.0     | N/A     
+1        | Riviera Walk              | 5793407  | 2.0      | 7.0      | 3.0      | 1.0     
+4        | Full Of Charm             | 6635686  | 2.0      | 8.0      | 1.0      | N/A     
+20       | Topsout                   | 7263146  | 2.0      | 9.0      | 9.0      | N/A     
+16       | Lady Dapple Rose          | 7178953  | N/A      | N/A      | 10.0     | N/A     
+
+Legend:
+⏱️ SPD-AVG: rank_avgSecs | 💶 AVG€: avgPrizeEuro_rank
+📈 RPR: rpr_rank | 🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 🏟️ CRSE: stats_course_ratio_rank
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 19 | Sheezer Dancer🐎 4 years old  filly, ch, 148 lbs.
+📊 Race Record: 0/0 total wins (🏅 0% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
+nan
+🧮 Runs: 0.0
+🧪 Unexposed for age
+   • All races: avg runs 4.1, Unexposed rating +4.1
+   • This type: avg runs 1.5, Unexposed rating +1.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Jeu St Eloi (Overall SR: 28.0/149.0 = 18.8% | Rank: 1, Turf Rank: 1, AW Rank: nan)
+   • Turf: 28.0/149.0 = 18.8%
+🌿 Dam: Danse Cantilienne (Overall SR: nan/nan = N/A | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: nan/nan = N/A
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 3.75 (Rank: 1)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: 60,000euros 3yo; eighth foal; half-sister to French 2m1f-2m6f hurdle/chase winner Plougala
+🔦 Spotlight: 60,000euros 3yo; eighth foal; half-sister to French 2m1f-2m6f hurdle/chase winner Plougala (Listed class); dam placed French 7.5f 2yo/1m, half-sister to smart 2m2f-3m3f hurdle/chase winner Aerial; respected newcomer for title-chasing trainer.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Mme Fabienne Le Cam
+🏠 Owner: Stephen Bough (Overall SR: 8.0/41.0 = 19.5%% | Rank: 3, Turf Rank: ?, AW Rank: ?)
+   • Turf: 8.0/41.0 = 0.2%
+(No previous owner(s))
+👤 Trainer: Dan Skelton 1 runners this race. (Overall SR: 399/2373 = 0.17% | Conn Rank: 5.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 399/2373 = 0.17%
+   • 14-day form: (7/44 runs) (Rank: 6) RTF: 50.0 (OVR: 13%)
+(No previous trainer(s))
+🏇 Jockey: Harry Skelton(14d rank: 12, 5Y rank: 3 | Turf: ? | AW: ?) !! No race history available for this horse.
+   • 14-day form: 13% (4.0/32.0 runs) RTF: N/A (OVR: 14%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 297.0/1451.0 = 20.5%
+🗞️ **PRESS OPINION**
+💬 Comment: 60,000euros 3yo; eighth foal; half-sister to French 2m1f-2m6f hurdle/chase winner Plougala
+🔦 Spotlight: 60,000euros 3yo; eighth foal; half-sister to French 2m1f-2m6f hurdle/chase winner Plougala (Listed class); dam placed French 7.5f 2yo/1m, half-sister to smart 2m2f-3m3f hurdle/chase winner Aerial; respected newcomer for title-chasing trainer.
+📊 **RANKS AND FLAGS**
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: nan → Score: 0.0 (Rank: 13)
+------------------------------------------------------------------------------------------
+🐎 10 | Queens Abbey🐎 5 years old  mare, b, 156 lbs.
+📊 Race Record: 0/3 total wins (🏅 0% SR) | At this age & race type: 0/1 wins (🎯 0% SR)
+⚠️ Not enough data to assess trends — only 3 run(s).
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +3.0
+   • This type: avg runs 1.5, Unexposed rating +0.5
+🧮 Furlings/sec Overall: 1 runs | 🏁 Fastest: 0.1304 | 🐢 Slowest: 0.1304 | 📊 Furlings/sec Avg: 0.1304 | 🎯 Median: 0.1304
+🎖️ Furlings/sec - This Class (1 runs): 🏁 0.1304 best, 📊 0.1304 avg
+🦄 Sire: Elusive Pimpernel (Overall SR: 41.0/547.0 = 7.5% | Rank: 19, Turf Rank: 19, AW Rank: 5)
+   • Turf: 39.0/533.0 = 7.3%
+🌿 Dam: Wild Spell (Overall SR: 2.0/17.0 = 11.8% | Rank: 1, Turf Rank: 1, AW Rank: nan)
+   • Turf: 2.0/17.0 = 11.8%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 6.0 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 3rd | ⚡ Speed: 103.92% | 📊 Rank: 9906.0 | 🔺 AvgDiff: 3.74 | 🔼 MaxDiff: -368.64 | 🔽 MinDiff: 20.69 | 🔴 1st Sect: – (20.69s) | 🔴 Last Sect: – (15.77s)
+🗞️ **PRESS OPINION**
+💬 Comment: Acquitted herself well at Newbury (soft) behind respected opposition; good form claims
+🔦 Spotlight: Joined Ben Pauling for £78,000 after making the frame in two Irish points; acquitted herself well at Newbury (soft) behind respected opposition and that entitles her to excellent form claims here.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Anita Acheson & Liam Cosgrave
+🏠 Owner: Mrs L Maclennan (Overall SR: 30.0/183.0 = 16.4%% | Rank: 4, Turf Rank: ?, AW Rank: ?)
+   • Turf: 30.0/177.0 = 0.17%
+(No previous owner(s))
+👤 Trainer: Ben Pauling 3 runners this race. (Overall SR: 202/1186 = 0.17% | Conn Rank: 1.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 202/1180 = 0.17%
+   • 14-day form: (0/23 runs) (Rank: 9) RTF: 26.0 (OVR: 6%)
+(No previous trainer(s))
+🏇 Jockey: Ben Jones(14d rank: 5, 5Y rank: 4 | Turf: ? | AW: ?) 🏇 Ben Jones winSR: 0.0% (No better alternative found.)
+   • 14-day form: 4% (1.0/25.0 runs) RTF: N/A (OVR: 6%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 153.0/956.0 = 16%
+🗞️ **PRESS OPINION**
+💬 Comment: Acquitted herself well at Newbury (soft) behind respected opposition; good form claims
+🔦 Spotlight: Joined Ben Pauling for £78,000 after making the frame in two Irish points; acquitted herself well at Newbury (soft) behind respected opposition and that entitles her to excellent form claims here.
+📊 **RANKS AND FLAGS**
+📈 RPR: 117.0 (Rank: 1)
+📉 TS: 90.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: 323 → Score: 0.25 (Rank: 5)
+------------------------------------------------------------------------------------------
+🐎 10 | Queens Abbey🐎 5 years old  mare, b, 156 lbs.
+📊 Race Record: 0/3 total wins (🏅 0% SR) | At this age & race type: 0/1 wins (🎯 0% SR)
+⚠️ Not enough data to assess trends — only 3 run(s).
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +3.0
+   • This type: avg runs 1.5, Unexposed rating +0.5
+🧮 Furlings/sec Overall: 1 runs | 🏁 Fastest: 0.1304 | 🐢 Slowest: 0.1304 | 📊 Furlings/sec Avg: 0.1304 | 🎯 Median: 0.1304
+🎖️ Furlings/sec - This Class (1 runs): 🏁 0.1304 best, 📊 0.1304 avg
+🦄 Sire: Elusive Pimpernel (Overall SR: 41.0/547.0 = 7.5% | Rank: 19, Turf Rank: 19, AW Rank: 5)
+   • Turf: 39.0/533.0 = 7.3%
+🌿 Dam: Wild Spell (Overall SR: 2.0/17.0 = 11.8% | Rank: 1, Turf Rank: 1, AW Rank: nan)
+   • Turf: 2.0/17.0 = 11.8%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 6.0 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 3rd | ⚡ Speed: 103.92% | 📊 Rank: 9906.0 | 🔺 AvgDiff: 3.74 | 🔼 MaxDiff: -368.64 | 🔽 MinDiff: 20.69 | 🔴 1st Sect: – (20.69s) | 🔴 Last Sect: – (15.77s)
+🗞️ **PRESS OPINION**
+💬 Comment: Acquitted herself well at Newbury (soft) behind respected opposition; good form claims
+🔦 Spotlight: Joined Ben Pauling for £78,000 after making the frame in two Irish points; acquitted herself well at Newbury (soft) behind respected opposition and that entitles her to excellent form claims here.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Anita Acheson & Liam Cosgrave
+🏠 Owner: Mrs L Maclennan (Overall SR: 30.0/183.0 = 16.4%% | Rank: 4, Turf Rank: ?, AW Rank: ?)
+   • Turf: 30.0/177.0 = 0.17%
+(No previous owner(s))
+👤 Trainer: Ben Pauling 3 runners this race. (Overall SR: 202/1186 = 0.17% | Conn Rank: 1.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 202/1180 = 0.17%
+   • 14-day form: (0/23 runs) (Rank: 9) RTF: 26.0 (OVR: 6%)
+(No previous trainer(s))
+🏇 Jockey: Ben Jones(14d rank: 5, 5Y rank: 4 | Turf: ? | AW: ?) 🏇 Ben Jones winSR: 0.0% (No better alternative found.)
+   • 14-day form: 4% (1.0/25.0 runs) RTF: N/A (OVR: 6%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 153.0/956.0 = 16%
+🗞️ **PRESS OPINION**
+💬 Comment: Acquitted herself well at Newbury (soft) behind respected opposition; good form claims
+🔦 Spotlight: Joined Ben Pauling for £78,000 after making the frame in two Irish points; acquitted herself well at Newbury (soft) behind respected opposition and that entitles her to excellent form claims here.
+📊 **RANKS AND FLAGS**
+📈 RPR: 117.0 (Rank: 1)
+📉 TS: 90.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: 323 → Score: 0.25 (Rank: 5)
+------------------------------------------------------------------------------------------
+🐎 6 | Hornica🐎 5 years old  mare, br, 156 lbs.
+📊 Race Record: 0/0 total wins (🏅 0% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
+nan
+🧮 Runs: 0.0
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +4.0
+   • This type: avg runs 1.5, Unexposed rating +1.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Affinisea (Overall SR: 59.0/390.0 = 15.1% | Rank: 4, Turf Rank: 5, AW Rank: nan)
+   • Turf: 59.0/390.0 = 15.1%
+🌿 Dam: Manuels Sister (Overall SR: 0.0/4.0 = 0% | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: 0.0/4.0 = 0%
+🛠️ Gear: h
+🩺 Medical History: None
+🎲 Early market: 8.0 (Rank: 3)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Hooded for debut but stable does well in bumpers and she's an interesting newcomer
+🔦 Spotlight: 70,000euros 3yo; fifth foal; dam well beaten in bumpers, sister to Flat winner/useful jumper Head Waiter, half-sister to Champion Hurdle winner Annie Power; hooded for debut but trainer (also runs Queens Abbey) does well in bumpers; interesting newcomer.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Ronnie O'Neill
+🏠 Owner: J Hornby & J Hornby (Overall SR: nan/nan = N/A% | Rank: nan, Turf Rank: ?, AW Rank: ?)
+   • Turf: nan/nan = 0.0%
+(No previous owner(s))
+👤 Trainer: Ben Pauling 3 runners this race. (Overall SR: 202/1186 = 0.17% | Conn Rank: 1.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 202/1180 = 0.17%
+   • 14-day form: (0/23 runs) (Rank: 9) RTF: 26.0 (OVR: 6%)
+(No previous trainer(s))
+🏇 Jockey: Kielan Woods(14d rank: 9, 5Y rank: 11 | Turf: ? | AW: ?) !! No race history available for this horse.
+   • 14-day form: 19% (3.0/16.0 runs) RTF: N/A (OVR: 8%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 120.0/848.0 = 14.2%
+🗞️ **PRESS OPINION**
+💬 Comment: Hooded for debut but stable does well in bumpers and she's an interesting newcomer
+🔦 Spotlight: 70,000euros 3yo; fifth foal; dam well beaten in bumpers, sister to Flat winner/useful jumper Head Waiter, half-sister to Champion Hurdle winner Annie Power; hooded for debut but trainer (also runs Queens Abbey) does well in bumpers; interesting newcomer.
+📊 **RANKS AND FLAGS**
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: nan → Score: 0.0 (Rank: 13)
+------------------------------------------------------------------------------------------
+🐎 14 | Gaelic Saint🐎 4 years old  filly, b, 148 lbs.
+📊 Race Record: 0/2 total wins (🏅 0% SR) | At this age & race type: 0/2 wins (🎯 0% SR)
+⚠️ Not enough data to assess trends — only 2 run(s).
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.1, Unexposed rating +2.1
+   • This type: avg runs 1.5, Unexposed rating -0.5
+🧮 Furlings/sec Overall: 2 runs | 🏁 Fastest: 0.1376 | 🐢 Slowest: 0.1284 | 📊 Furlings/sec Avg: 0.1328 | 🎯 Median: 0.1328
+🦄 Sire: Saint Des Saints (Overall SR: 94.0/624.0 = 15.1% | Rank: 5, Turf Rank: 5, AW Rank: nan)
+   • Turf: 94.0/624.0 = 15.1%
+🌿 Dam: Gaelic Joy (Overall SR: 0.0/2.0 = 0% | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: 0.0/2.0 = 0%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 9.0 (Rank: 4)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 2nd | ⚡ Speed: 95.74% | 📊 Rank: 3337.0 | 🔺 AvgDiff: 2.73 | 🔼 MaxDiff: -369.65 | 🔽 MinDiff: 19.68 | 🔴 1st Sect: – (21.725s) | 🟢 Last Sect: + (14.555s)
+🗞️ **PRESS OPINION**
+💬 Comment: Similar form in making the frame at Wincanton (heavy) and Hereford (good); more needed
+🔦 Spotlight: Out of a French Listed hurdle winner; similar form in making the frame at Wincanton (heavy) and Hereford (good); more needed in this deeper race.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Simon Davies
+🏠 Owner: Dahlbury Racing (Overall SR: 10.0/121.0 = 8.3%% | Rank: 9, Turf Rank: ?, AW Rank: ?)
+   • Turf: 7.0/100.0 = 0.07%
+(No previous owner(s))
+👤 Trainer: Tom Symonds 1 runners this race. (Overall SR: 33/324 = 0.1% | Conn Rank: 17.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 31/319 = 0.1%
+   • 14-day form: (1/9 runs) (Rank: 8) RTF: 22.0 (OVR: 5%)
+(No previous trainer(s))
+🏇 Jockey: Ben Poste(14d rank: 1, 5Y rank: 21 | Turf: ? | AW: ?) 🏇 Ben Poste winSR: 0.0% (No better alternative found.)
+   • 14-day form: 8% (1.0/12.0 runs) RTF: N/A (OVR: 0%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 26.0/694.0 = 3.7%
+🗞️ **PRESS OPINION**
+💬 Comment: Similar form in making the frame at Wincanton (heavy) and Hereford (good); more needed
+🔦 Spotlight: Out of a French Listed hurdle winner; similar form in making the frame at Wincanton (heavy) and Hereford (good); more needed in this deeper race.
+📊 **RANKS AND FLAGS**
+📈 RPR: 107.0 (Rank: 4)
+📉 TS: 82.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🌱 Going Wins/Runs: 0/1 | SR: 0.0
+📊 Form: 32 → Score: 0.4 (Rank: 4)
+------------------------------------------------------------------------------------------
+🐎 3 | Freddiemissmolli💤🐎 5 years old  mare, b/br, 156 lbs.
+📊 Race Record: 0/1 total wins (🏅 0% SR) | At this age & race type: 0/1 wins (🎯 0% SR)
+⚠️ Not enough data to assess trends — only 1 run(s).
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +3.0
+   • This type: avg runs 1.5, Unexposed rating +0.5
+🧮 Furlings/sec Overall: 1 runs | 🏁 Fastest: 0.1239 | 🐢 Slowest: 0.1239 | 📊 Furlings/sec Avg: 0.1239 | 🎯 Median: 0.1239
+🦄 Sire: Order Of St George (Overall SR: 15.0/163.0 = 9.2% | Rank: 18, Turf Rank: 18, AW Rank: nan)
+   • Turf: 15.0/163.0 = 9.2%
+🌿 Dam: Ballys Baby (Overall SR: 0.0/1.0 = 0% | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: 0.0/1.0 = 0%
+🛠️ Gear: t
+🩺 Medical History: None
+🎲 Early market: 11.0 (Rank: 5)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 2nd | ⚡ Speed: 112.77% | 📊 Rank: 6161.0 | 🔺 AvgDiff: -0.86 | 🔼 MaxDiff: -373.24 | 🔽 MinDiff: 16.09 | 🔴 1st Sect: – (16.09s) | 🔴 Last Sect: – (14.87s)
+🗞️ **PRESS OPINION**
+💬 Comment: Only six ran when runner-up on heavy ground at Ffos Las in December (16-1)
+🔦 Spotlight: Only six ran when runner-up on heavy ground at Ffos Las in December (16-1); second run has been a while coming and a tongue-tie is fitted; others are preferred despite the booking of Harry Cobden.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Richard Healy
+🏠 Owner: Daf Jones (Overall SR: 3.0/24.0 = 12.5%% | Rank: 8, Turf Rank: ?, AW Rank: ?)
+   • Turf: 3.0/24.0 = 0.12%
+(No previous owner(s))
+👤 Trainer: Debra Hamer 1 runners this race. (Overall SR: 13/120 = 0.11% | Conn Rank: 15.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 13/120 = 0.11%
+   • 14-day form:  (Rank: 20) RTF: N/A (OVR: 0%)
+(No previous trainer(s))
+🏇 Jockey: Harry Cobden(14d rank: 8, 5Y rank: 1 | Turf: ? | AW: ?) 🏇 Harry Cobden winSR: 0.0% (No better alternative found.)
+   • 14-day form: 22% (7.0/32.0 runs) RTF: N/A (OVR: 11%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 380.0/1649.0 = 23%
+🗞️ **PRESS OPINION**
+💬 Comment: Only six ran when runner-up on heavy ground at Ffos Las in December (16-1)
+🔦 Spotlight: Only six ran when runner-up on heavy ground at Ffos Las in December (16-1); second run has been a while coming and a tongue-tie is fitted; others are preferred despite the booking of Harry Cobden.
+📊 **RANKS AND FLAGS**
+📈 RPR: 103.0 (Rank: 5)
+📉 TS: 29.0 (Rank: 8)
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: 2 → Score: 1.0 (Rank: 3)
+------------------------------------------------------------------------------------------
+🐎 17 | Noble Grace🐎 4 years old  filly, b, 148 lbs.
+📊 Race Record: 0/0 total wins (🏅 0% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
+nan
+🧮 Runs: 0.0
+🧪 Unexposed for age
+   • All races: avg runs 4.1, Unexposed rating +4.1
+   • This type: avg runs 1.5, Unexposed rating +1.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Yeats (Overall SR: 231.0/1841.0 = 12.5% | Rank: 11, Turf Rank: 11, AW Rank: 11)
+   • Turf: 231.0/1835.0 = 12.6%
+🌿 Dam: Shes Noble (Overall SR: nan/nan = N/A | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: nan/nan = N/A
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 11.0 (Rank: 5)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Third foal out of a 2m4f hurdle winner and half-sister to four point winners
+🔦 Spotlight: Third foal out of a 2m4f hurdle winner and half-sister to four point winners; may find this an unsufficient test of stamina.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Neil Crawford-Smith
+🏠 Owner: N L Crawford-Smith (Overall SR: nan/nan = N/A% | Rank: nan, Turf Rank: ?, AW Rank: ?)
+   • Turf: nan/nan = 0.0%
+(No previous owner(s))
+👤 Trainer: Warren Greatrex 1 runners this race. (Overall SR: 79/607 = 0.13% | Conn Rank: 14.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 73/582 = 0.12%
+   • 14-day form: (3/8 runs) (Rank: 4) RTF: 77.0 (OVR: 10%)
+(No previous trainer(s))
+🏇 Jockey: James Bowen(14d rank: 1, 5Y rank: 6 | Turf: ? | AW: ?) !! No race history available for this horse.
+   • 14-day form: 8% (2.0/24.0 runs) RTF: N/A (OVR: 14%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 157.0/1031.0 = 15.2%
+🗞️ **PRESS OPINION**
+💬 Comment: Third foal out of a 2m4f hurdle winner and half-sister to four point winners
+🔦 Spotlight: Third foal out of a 2m4f hurdle winner and half-sister to four point winners; may find this an unsufficient test of stamina.
+📊 **RANKS AND FLAGS**
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: nan → Score: 0.0 (Rank: 13)
+------------------------------------------------------------------------------------------
+🐎 15 | Ladies Day🐎 4 years old  filly, b, 148 lbs.
+📊 Race Record: 1/1 total wins (🏅 100% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
+⚠️ Not enough data to assess trends — only 1 run(s).
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.1, Unexposed rating +4.1
+   • This type: avg runs 1.5, Unexposed rating +1.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Yeats (Overall SR: 231.0/1841.0 = 12.5% | Rank: 11, Turf Rank: 11, AW Rank: 11)
+   • Turf: 231.0/1835.0 = 12.6%
+🌿 Dam: Maryann (Overall SR: 1.0/30.0 = 3.3% | Rank: 3, Turf Rank: 3, AW Rank: nan)
+   • Turf: 1.0/30.0 = 3.3%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 13.0 (Rank: 7)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Smooth winner of a point bumper on good ground at Maisemore Park only 18 days ago
+🔦 Spotlight: Smooth winner of a point bumper on good ground at Maisemore Park only 18 days ago; clearly has ability.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Charles Walsh
+🏠 Owner: Eventmasters Racing (Overall SR: 4.0/98.0 = 4.1%% | Rank: 10, Turf Rank: ?, AW Rank: ?)
+   • Turf: 1.0/73.0 = 0.01%
+(No previous owner(s))
+👤 Trainer: T Ellis 1 runners this race. (Overall SR: 14/134 = 0.1% | Conn Rank: 16.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 14/134 = 0.1%
+   • 14-day form: (0/3 runs) (Rank: 9) RTF: 33.0 (OVR: 21%)
+(No previous trainer(s))
+🏇 Jockey: Mr Jack Andrews(14d rank: 17, 5Y rank: 17 | Turf: ? | AW: ?) 🏇 Mr Jack Andrews winSR: 0.0% (No better alternative found.)
+   • 14-day form: 0% (0.0/5.0 runs) RTF: N/A (OVR: 11%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 13.0/133.0 = 9.8%
+🗞️ **PRESS OPINION**
+💬 Comment: Smooth winner of a point bumper on good ground at Maisemore Park only 18 days ago
+🔦 Spotlight: Smooth winner of a point bumper on good ground at Maisemore Park only 18 days ago; clearly has ability.
+📊 **RANKS AND FLAGS**
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: 1 → Score: 3.33 (Rank: 1)
+------------------------------------------------------------------------------------------
+🐎 5 | Hill In Brazil🐎 5 years old  mare, b, 156 lbs.
+📊 Race Record: 0/2 total wins (🏅 0% SR) | At this age & race type: 0/2 wins (🎯 0% SR)
+⚠️ Not enough data to assess trends — only 2 run(s).
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +2.0
+   • This type: avg runs 1.5, Unexposed rating -0.5
+🧮 Furlings/sec Overall: 2 runs | 🏁 Fastest: 0.129 | 🐢 Slowest: 0.1271 | 📊 Furlings/sec Avg: 0.128 | 🎯 Median: 0.128
+🎖️ Furlings/sec - This Class (1 runs): 🏁 0.1271 best, 📊 0.1271 avg
+🦄 Sire: Blue Bresil (Overall SR: 149.0/1101.0 = 13.5% | Rank: 8, Turf Rank: 7, AW Rank: 1)
+   • Turf: 148.0/1096.0 = 13.5%
+🌿 Dam: Tara Potter (Overall SR: nan/nan = N/A | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: nan/nan = N/A
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 15.0 (Rank: 8)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 6th | ⚡ Speed: 93.15% | 📊 Rank: 8189.0 | 🔺 AvgDiff: 3.92 | 🔼 MaxDiff: -368.46 | 🔽 MinDiff: 20.87 | 🔴 1st Sect: – (21.15s) | 🟢 Last Sect: + (15.9s)
+🗞️ **PRESS OPINION**
+💬 Comment: Highly promising debut effort and clearly failed to give her true running at Newbury
+🔦 Spotlight: Clear of the rest when second to a well-touted newcomer at Wincanton in January (heavy) and clearly failed to give her running when beaten much further by the same horse at Newbury (soft); remains of interest.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: James And Jean Potter Ltd
+🏠 Owner: James & Jean Potter Ltd (Overall SR: nan/nan = N/A% | Rank: nan, Turf Rank: ?, AW Rank: ?)
+   • Turf: nan/nan = 0.0%
+(No previous owner(s))
+👤 Trainer: Nigel Twiston-Davies 2 runners this race. (Overall SR: 203/1277 = 0.16% | Conn Rank: 6.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 201/1252 = 0.16%
+   • 14-day form: (1/15 runs) (Rank: 1) RTF: 20.0 (OVR: 10%)
+(No previous trainer(s))
+🏇 Jockey: Sam Twiston-Davies(14d rank: 13, 5Y rank: 7 | Turf: ? | AW: ?) 🏇 Sam Twiston-Davies winSR: 0.0% (No better alternative found.)
+   • 14-day form: 12% (2.0/17.0 runs) RTF: N/A (OVR: 12%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 267.0/1768.0 = 15.1%
+🗞️ **PRESS OPINION**
+💬 Comment: Highly promising debut effort and clearly failed to give her true running at Newbury
+🔦 Spotlight: Clear of the rest when second to a well-touted newcomer at Wincanton in January (heavy) and clearly failed to give her running when beaten much further by the same horse at Newbury (soft); remains of interest.
+📊 **RANKS AND FLAGS**
+📈 RPR: 115.0 (Rank: 2)
+📉 TS: 63.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: 26 → Score: 0.14 (Rank: 8)
+------------------------------------------------------------------------------------------
+🐎 18 | Poetisa🐎 4 years old  filly, b, 148 lbs.
+📊 Race Record: 0/0 total wins (🏅 0% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
+nan
+🧮 Runs: 0.0
+🧪 Unexposed for age
+   • All races: avg runs 4.1, Unexposed rating +4.1
+   • This type: avg runs 1.5, Unexposed rating +1.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Poets Word (Overall SR: 10.0/73.0 = 13.7% | Rank: 7, Turf Rank: 14, AW Rank: 4)
+   • Turf: 5.0/47.0 = 10.6%
+🌿 Dam: Chars (Overall SR: 0.0/1.0 = 0% | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: 0.0/1.0 = 0%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 15.0 (Rank: 8)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: £42,000 3yo; fourth foal; half-sister to useful bumper/2m3f-3m hurdle winner Queenohearts
+🔦 Spotlight: £42,000 3yo; fourth foal; half-sister to useful bumper/2m3f-3m hurdle winner Queenohearts; dam unraced sister to useful 2m hurdle/3m chase winner Sea Of Thunder; one of two runners for the yard and Brian Hughes (1-4 for the stable this season) is booked.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Reamonn & Shauna Rice
+🏠 Owner: Mrs Nicola Bulgin (Overall SR: 3.0/20.0 = 15%% | Rank: 5, Turf Rank: ?, AW Rank: ?)
+   • Turf: 3.0/20.0 = 0.15%
+(No previous owner(s))
+👤 Trainer: Toby Bulgin 2 runners this race. (Overall SR: 4/30 = 0.13% | Conn Rank: 10.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 4/30 = 0.13%
+   • 14-day form: (0/1 runs) (Rank: 9) RTF: N/A (OVR: 0%)
+(No previous trainer(s))
+🏇 Jockey: Brian Hughes(14d rank: 11, 5Y rank: 8 | Turf: ? | AW: ?) !! No race history available for this horse.
+   • 14-day form: 14% (4.0/29.0 runs) RTF: N/A (OVR: 7%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 313.0/2091.0 = 15%
+🗞️ **PRESS OPINION**
+💬 Comment: £42,000 3yo; fourth foal; half-sister to useful bumper/2m3f-3m hurdle winner Queenohearts
+🔦 Spotlight: £42,000 3yo; fourth foal; half-sister to useful bumper/2m3f-3m hurdle winner Queenohearts; dam unraced sister to useful 2m hurdle/3m chase winner Sea Of Thunder; one of two runners for the yard and Brian Hughes (1-4 for the stable this season) is booked.
+📊 **RANKS AND FLAGS**
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: nan → Score: 0.0 (Rank: 13)
+------------------------------------------------------------------------------------------
+🐎 13 | Taktique Gagnante🐎 6 years old  mare, b, 156 lbs.
+📊 Race Record: 0/3 total wins (🏅 0% SR) | At this age & race type: 0/2 wins (🎯 0% SR)
+⚠️ Not enough data to assess trends — only 3 run(s).
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.2, Unexposed rating +2.2
+   • This type: avg runs 1.5, Unexposed rating -0.5
+🧮 Furlings/sec Overall: 2 runs | 🏁 Fastest: 0.1393 | 🐢 Slowest: 0.1309 | 📊 Furlings/sec Avg: 0.135 | 🎯 Median: 0.135
+🦄 Sire: Walzertakt (Overall SR: 7.0/115.0 = 6.1% | Rank: 21, Turf Rank: 21, AW Rank: nan)
+   • Turf: 7.0/115.0 = 6.1%
+🌿 Dam: Medicity (Overall SR: 0.0/2.0 = 0% | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: 0.0/2.0 = 0%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 15.0 (Rank: 8)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 3rd | ⚡ Speed: 108.4% | 📊 Rank: 4357.0 | 🔺 AvgDiff: 4.59 | 🔼 MaxDiff: -367.79 | 🔽 MinDiff: 21.54 | 🟢 1st Sect: + (20.01s) | 🟢 Last Sect: + (14.225s)
+🗞️ **PRESS OPINION**
+💬 Comment: Showed much improved form to finish third in a big field at Cork three months ago
+🔦 Spotlight: Showed much improved form to finish third in a big field at Cork three months ago (yielding to soft; 80-1) and the RPR posted suggests she should hold her own at this level.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: A Chatelain & Jean Francois Balza
+🏠 Owner: Foxtrot Racing Taktique Gagnante (Overall SR: nan/nan = N/A% | Rank: nan, Turf Rank: ?, AW Rank: ?)
+   • Turf: nan/nan = 0.0%
+(No previous owner(s))
+👤 Trainer: Dr Richard Newland & Jamie Insole 1 runners this race. (Overall SR: 78/566 = 0.14% | Conn Rank: 9.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 54/403 = 0.13%
+   • 14-day form: (2/8 runs) (Rank: 5) RTF: 57.0 (OVR: 50%)
+(No previous trainer(s))
+🏇 Jockey: Luke Scott(14d rank: 6, 5Y rank: 15 | Turf: ? | AW: ?) 🏇 Luke Scott winSR: 0.0% (No better alternative found.)
+   • 14-day form: 29% (2.0/7.0 runs) RTF: N/A (OVR: 14%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 37.0/281.0 = 13.2%
+🗞️ **PRESS OPINION**
+💬 Comment: Showed much improved form to finish third in a big field at Cork three months ago
+🔦 Spotlight: Showed much improved form to finish third in a big field at Cork three months ago (yielding to soft; 80-1) and the RPR posted suggests she should hold her own at this level.
+📊 **RANKS AND FLAGS**
+📈 RPR: 114.0 (Rank: 3)
+📉 TS: 75.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🌱 Going Wins/Runs: 0/1 | SR: 0.0
+📊 Form: U83 → Score: 0.11 (Rank: 12)
+------------------------------------------------------------------------------------------
+🐎 9 | Never Told Me🐎 6 years old  mare, b, 156 lbs.
+📊 Race Record: 0/1 total wins (🏅 0% SR) | At this age & race type: 0/1 wins (🎯 0% SR)
+⚠️ Not enough data to assess trends — only 1 run(s).
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.2, Unexposed rating +3.2
+   • This type: avg runs 1.5, Unexposed rating +0.5
+🧮 Furlings/sec Overall: 1 runs | 🏁 Fastest: 0.1236 | 🐢 Slowest: 0.1236 | 📊 Furlings/sec Avg: 0.1236 | 🎯 Median: 0.1236
+🦄 Sire: Blue Bresil (Overall SR: 149.0/1101.0 = 13.5% | Rank: 8, Turf Rank: 7, AW Rank: 1)
+   • Turf: 148.0/1096.0 = 13.5%
+🌿 Dam: Feisty Lass (Overall SR: 0.0/1.0 = 0% | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: 0.0/1.0 = 0%
+🛠️ Gear: t
+🩺 Medical History: 💨 Wind Surgery (2025-02-05)
+🎲 Early market: 21.0 (Rank: 11)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 7th | ⚡ Speed: 93.1% | 📊 Rank: 795.0 | 🔺 AvgDiff: 6.18 | 🔼 MaxDiff: -366.20 | 🔽 MinDiff: 23.13 | 🔴 1st Sect: – (23.13s) | 🔴 Last Sect: – (18.04s)
+🗞️ **PRESS OPINION**
+💬 Comment: Had wind surgery since a forgettable debut at Wincanton (behind Gaelic Saint)
+🔦 Spotlight: Tailed off on heavy ground at Wincanton in January when well behind Gaelic Saint; has since had wind surgery and is now tongue tied.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: J P Selby
+🏠 Owner: J P Selby (Overall SR: 4.0/15.0 = 26.7%% | Rank: 1, Turf Rank: ?, AW Rank: ?)
+   • Turf: 4.0/15.0 = 0.27%
+(No previous owner(s))
+👤 Trainer: Polly Gundry 1 runners this race. (Overall SR: 5/101 = 0.05% | Conn Rank: 21.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 5/99 = 0.05%
+   • 14-day form: (0/3 runs) (Rank: 9) RTF: 25.0 (OVR: 0%)
+(No previous trainer(s))
+🏇 Jockey: Rachael Blackmore(14d rank: 3, 5Y rank: 12 | Turf: ? | AW: ?) 🏇 Rachael Blackmore winSR: 0.0% (No better alternative found.)
+   • 14-day form: 6% (1.0/16.0 runs) RTF: N/A (OVR: 20%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 147.0/1074.0 = 13.7%
+🗞️ **PRESS OPINION**
+💬 Comment: Had wind surgery since a forgettable debut at Wincanton (behind Gaelic Saint)
+🔦 Spotlight: Tailed off on heavy ground at Wincanton in January when well behind Gaelic Saint; has since had wind surgery and is now tongue tied.
+📊 **RANKS AND FLAGS**
+📈 RPR: 61.0 (Rank: 10)
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: 7 → Score: 0.14 (Rank: 8)
+------------------------------------------------------------------------------------------
+🐎 11 | Rainbow Tara🐎 5 years old  mare, b, 156 lbs.
+📊 Race Record: 0/0 total wins (🏅 0% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
+nan
+🧮 Runs: 0.0
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +4.0
+   • This type: avg runs 1.5, Unexposed rating +1.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Kayf Tara (Overall SR: 238.0/1485.0 = 16.0% | Rank: 2, Turf Rank: 3, AW Rank: nan)
+   • Turf: 237.0/1481.0 = 16%
+🌿 Dam: Mere Detail (Overall SR: 1.0/4.0 = 25% | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: 1.0/4.0 = 25%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 26.0 (Rank: 12)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Dam is well related and stable has had two bumper winners this campaign
+🔦 Spotlight: Dam point winner/well held in bumpers, half-sister to useful winners Real Steel (2m-2m3f hurdle/chase), Grangeclare Gold (1m6f Flat and 2m-2m4f hurdle) and Up For The Match (2m3f-2m4f hurdle); trainer has had two bumper winners this campaign and also runs Poetisa.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Nicola Bulgin
+🏠 Owner: Mrs Nicola Bulgin (Overall SR: 3.0/20.0 = 15%% | Rank: 5, Turf Rank: ?, AW Rank: ?)
+   • Turf: 3.0/20.0 = 0.15%
+(No previous owner(s))
+👤 Trainer: Toby Bulgin 2 runners this race. (Overall SR: 4/30 = 0.13% | Conn Rank: 10.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 4/30 = 0.13%
+   • 14-day form: (0/1 runs) (Rank: 9) RTF: N/A (OVR: 0%)
+(No previous trainer(s))
+🏇 Jockey: Jordan Nailor(14d rank: 17, 5Y rank: 13 | Turf: ? | AW: ?) !! No race history available for this horse.
+   • 14-day form: 0% (0.0/5.0 runs) RTF: N/A (OVR: 0%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 27.0/199.0 = 13.6%
+🗞️ **PRESS OPINION**
+💬 Comment: Dam is well related and stable has had two bumper winners this campaign
+🔦 Spotlight: Dam point winner/well held in bumpers, half-sister to useful winners Real Steel (2m-2m3f hurdle/chase), Grangeclare Gold (1m6f Flat and 2m-2m4f hurdle) and Up For The Match (2m3f-2m4f hurdle); trainer has had two bumper winners this campaign and also runs Poetisa.
+📊 **RANKS AND FLAGS**
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: nan → Score: 0.0 (Rank: 13)
+------------------------------------------------------------------------------------------
+🐎 2 | Country Mouse🐎 5 years old  mare, ch, 156 lbs.
+📊 Race Record: 1/3 total wins (🏅 33% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
+⚠️ Not enough data to assess trends — only 3 run(s).
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +4.0
+   • This type: avg runs 1.5, Unexposed rating +1.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Kingston Hill (Overall SR: 49.0/475.0 = 10.3% | Rank: 15, Turf Rank: 15, AW Rank: 8)
+   • Turf: 48.0/460.0 = 10.4%
+🌿 Dam: Mrs Mouse (Overall SR: 2.0/3.0 = 66.7% | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: 2.0/3.0 = 66.7%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 26.0 (Rank: 12)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Left clear to win an Irish point and then changed hands for £20,000
+🔦 Spotlight: Left clear when winning her final Irish point by over a distance and then changed hands for £20,000; should have a future under rules.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Declan & Denis Phelan
+🏠 Owner: Fwittery Racing (Overall SR: 0.0/10.0 = 0%% | Rank: 11, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0.0/10.0 = 0.0%
+(No previous owner(s))
+👤 Trainer: Alastair Ralph 1 runners this race. (Overall SR: 56/559 = 0.1% | Conn Rank: 18.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 55/535 = 0.1%
+   • 14-day form: (0/7 runs) (Rank: 9) RTF: 71.0 (OVR: 0%)
+(No previous trainer(s))
+🏇 Jockey: Jonathan Burke(14d rank: 10, 5Y rank: 10 | Turf: ? | AW: ?) 🏇 Jonathan Burke winSR: 0.0% (No better alternative found.)
+   • 14-day form: 15% (3.0/20.0 runs) RTF: N/A (OVR: 9%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 165.0/1126.0 = 14.7%
+🗞️ **PRESS OPINION**
+💬 Comment: Left clear to win an Irish point and then changed hands for £20,000
+🔦 Spotlight: Left clear when winning her final Irish point by over a distance and then changed hands for £20,000; should have a future under rules.
+📊 **RANKS AND FLAGS**
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: 431 → Score: 0.17 (Rank: 7)
+------------------------------------------------------------------------------------------
+🐎 7 | Lilidorei🐎 5 years old  mare, b, 156 lbs.
+📊 Race Record: 0/0 total wins (🏅 0% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
+nan
+🧮 Runs: 0.0
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +4.0
+   • This type: avg runs 1.5, Unexposed rating +1.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Sir Percy (Overall SR: 63.0/530.0 = 11.9% | Rank: 13, Turf Rank: 10, AW Rank: 7)
+   • Turf: 42.0/331.0 = 12.7%
+🌿 Dam: Juniper Girl (Overall SR: nan/nan = N/A | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: nan/nan = N/A
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 26.0 (Rank: 12)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Newcomer related to winners under both codes; stable gets bumper winners
+🔦 Spotlight: Half-sister to winners Forced Family Fun (1m2f-1m5f; 2m hurdle), Kifaaya (1m2f/1m4f; 2m/2m4f jumps) and Kitty's Cove (2m/2m2f Flat); dam 7.4f-2m2f winner; stable gets bumper winners and worth checking in the betting.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Andrew McGladdery
+🏠 Owner: Andrew Mcgladdery & Nicholas Wheeler (Overall SR: nan/nan = N/A% | Rank: nan, Turf Rank: ?, AW Rank: ?)
+   • Turf: nan/nan = 0.0%
+(No previous owner(s))
+👤 Trainer: Toby Lawes 1 runners this race. (Overall SR: 28/211 = 0.13% | Conn Rank: 12.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 28/206 = 0.14%
+   • 14-day form: (0/2 runs) (Rank: 9) RTF: N/A (OVR: 0%)
+(No previous trainer(s))
+🏇 Jockey: Kevin Brogan(14d rank: 16, 5Y rank: 19 | Turf: ? | AW: ?) !! No race history available for this horse.
+   • 14-day form: 10% (1.0/10.0 runs) RTF: N/A (OVR: 5%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 39.0/567.0 = 6.9%
+🗞️ **PRESS OPINION**
+💬 Comment: Newcomer related to winners under both codes; stable gets bumper winners
+🔦 Spotlight: Half-sister to winners Forced Family Fun (1m2f-1m5f; 2m hurdle), Kifaaya (1m2f/1m4f; 2m/2m4f jumps) and Kitty's Cove (2m/2m2f Flat); dam 7.4f-2m2f winner; stable gets bumper winners and worth checking in the betting.
+📊 **RANKS AND FLAGS**
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: nan → Score: 0.0 (Rank: 13)
+------------------------------------------------------------------------------------------
+🐎 8 | Loveatfirstglance🐎 5 years old  mare, b, 156 lbs.
+📊 Race Record: 0/2 total wins (🏅 0% SR) | At this age & race type: 0/2 wins (🎯 0% SR)
+⚠️ Not enough data to assess trends — only 2 run(s).
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +2.0
+   • This type: avg runs 1.5, Unexposed rating -0.5
+🧮 Furlings/sec Overall: 2 runs | 🏁 Fastest: 0.1339 | 🐢 Slowest: 0.1335 | 📊 Furlings/sec Avg: 0.1337 | 🎯 Median: 0.1337
+📏 Furlings/sec - This Trip (1 runs): 🏁 0.1335 best, 📊 0.1335 avg
+🎖️ Furlings/sec - This Class (1 runs): 🏁 0.1339 best, 📊 0.1339 avg
+🦄 Sire: Passing Glance (Overall SR: 70.0/606.0 = 11.6% | Rank: 14, Turf Rank: 13, AW Rank: 11)
+   • Turf: 70.0/585.0 = 12%
+🌿 Dam: Our Ethel (Overall SR: nan/nan = N/A | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: nan/nan = N/A
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 34.0 (Rank: 15)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Encouraging fourth at Kelso last time and she's bred to keep on improving
+🔦 Spotlight: Finished closer second time out at Kelso (good to soft) in a bumper dominated by southern raiders; bred to keep on improving.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: N Ruth Jefferson
+🏠 Owner: M Mathews & R Jefferson (Overall SR: nan/nan = N/A% | Rank: nan, Turf Rank: ?, AW Rank: ?)
+   • Turf: nan/nan = 0.0%
+(No previous owner(s))
+👤 Trainer: Ruth Jefferson 1 runners this race. (Overall SR: 29/171 = 0.17% | Conn Rank: 4.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 29/169 = 0.17%
+   • 14-day form: (0/3 runs) (Rank: 9) RTF: 67.0 (OVR: 0%)
+(No previous trainer(s))
+🏇 Jockey: Jamie Hamilton(14d rank: 14, 5Y rank: 16 | Turf: ? | AW: ?) 🏇 Jamie Hamilton winSR: 0.0% (No better alternative found.)
+   • 14-day form: 11% (2.0/18.0 runs) RTF: N/A (OVR: 25%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 83.0/836.0 = 9.9%
+🗞️ **PRESS OPINION**
+💬 Comment: Encouraging fourth at Kelso last time and she's bred to keep on improving
+🔦 Spotlight: Finished closer second time out at Kelso (good to soft) in a bumper dominated by southern raiders; bred to keep on improving.
+📊 **RANKS AND FLAGS**
+📈 RPR: 102.0 (Rank: 6)
+📉 TS: 83.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: 34 → Score: 0.18 (Rank: 6)
+------------------------------------------------------------------------------------------
+🐎 12 | Six Blue🐎 5 years old  mare, b, 156 lbs.
+📊 Race Record: 0/0 total wins (🏅 0% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
+nan
+🧮 Runs: 0.0
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +4.0
+   • This type: avg runs 1.5, Unexposed rating +1.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Blue Bresil (Overall SR: 149.0/1101.0 = 13.5% | Rank: 8, Turf Rank: 7, AW Rank: 1)
+   • Turf: 148.0/1096.0 = 13.5%
+🌿 Dam: Sanjida (Overall SR: nan/nan = N/A | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: nan/nan = N/A
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 34.0 (Rank: 15)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: £34,000 3yo; likely best watched unless there's money around for her
+🔦 Spotlight: £34,000 3yo; seventh foal; half-sister to six winners including Sanaija (French 1m4f Flat, RPR 101; 2m2f hurdle), National Wealth (1m6f) and Swertia (French 1m4f/12.5f); dam Group-placed 1m 2yo winner (109); likely best watched unless there's money around for her.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Blythe Park Stud
+🏠 Owner: Colin Pocock (Overall SR: nan/nan = N/A% | Rank: nan, Turf Rank: ?, AW Rank: ?)
+   • Turf: nan/nan = 0.0%
+(No previous owner(s))
+👤 Trainer: Richard Phillips 1 runners this race. (Overall SR: 15/238 = 0.06% | Conn Rank: 20.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 14/182 = 0.08%
+   • 14-day form: (1/2 runs) (Rank: 3) RTF: 50.0 (OVR: 0%)
+(No previous trainer(s))
+🏇 Jockey: Finn Lambert(14d rank: 4, 5Y rank: 18 | Turf: ? | AW: ?) !! No race history available for this horse.
+   • 14-day form: 50% (1.0/2.0 runs) RTF: N/A (OVR: 0%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 36.0/368.0 = 9.8%
+🗞️ **PRESS OPINION**
+💬 Comment: £34,000 3yo; likely best watched unless there's money around for her
+🔦 Spotlight: £34,000 3yo; seventh foal; half-sister to six winners including Sanaija (French 1m4f Flat, RPR 101; 2m2f hurdle), National Wealth (1m6f) and Swertia (French 1m4f/12.5f); dam Group-placed 1m 2yo winner (109); likely best watched unless there's money around for her.
+📊 **RANKS AND FLAGS**
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: nan → Score: 0.0 (Rank: 13)
+------------------------------------------------------------------------------------------
+🐎 1 | Riviera Walk💤🐎 5 years old  mare, gr, 160 lbs.
+📊 Race Record: 1/2 total wins (🏅 50% SR) | At this age & race type: 1/2 wins (🎯 50% SR)
+⚠️ Not enough data to assess trends — only 2 run(s).
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +2.0
+   • This type: avg runs 1.5, Unexposed rating -0.5
+🧮 Furlings/sec Overall: 2 runs | 🏁 Fastest: 0.1372 | 🐢 Slowest: 0.1346 | 📊 Furlings/sec Avg: 0.1359 | 🎯 Median: 0.1359
+📏 Furlings/sec - This Trip (1 runs): 🏁 0.1372 best, 📊 0.1372 avg
+🦄 Sire: Walk In The Park (Overall SR: 401.0/2543.0 = 15.8% | Rank: 3, Turf Rank: 4, AW Rank: nan)
+   • Turf: 401.0/2541.0 = 15.8%
+🌿 Dam: Breve De Comptoir (Overall SR: 1.0/3.0 = 33.3% | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: 1.0/3.0 = 33.3%
+🛠️ Gear: h
+🩺 Medical History: None
+🎲 Early market: 34.0 (Rank: 15)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 12th | ⚡ Speed: 100.11% | 📊 Rank: 8338.5 | 🔺 AvgDiff: 5.25 | 🔼 MaxDiff: -367.13 | 🔽 MinDiff: 22.20 | 🟢 1st Sect: + (17.275s) | 🟢 Last Sect: + (16.165s)
+🗞️ **PRESS OPINION**
+💬 Comment: Sedgefield winner but 33-1 when finishing last in a Listed race here in November
+🔦 Spotlight: Made a winning start at Sedgefield (good to soft; 3-1) in October but still went off at 33-1 for a Listed race here the following month and finished last; returns from a lengthy break with a hood added.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Ballinaroone Stud Ltd
+🏠 Owner: Anne, Harriet & Lucinda Bond (Overall SR: nan/nan = N/A% | Rank: nan, Turf Rank: ?, AW Rank: ?)
+   • Turf: nan/nan = 0.0%
+(No previous owner(s))
+👤 Trainer: Jonjo & A J Oneill 1 runners this race. (Overall SR: 72/553 = 0.13% | Conn Rank: 13.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 72/547 = 0.13%
+   • 14-day form: (5/33 runs) (Rank: 7) RTF: 44.0 (OVR: 6%)
+(No previous trainer(s))
+🏇 Jockey: Jonjo Oneill Jr(14d rank: 7, 5Y rank: 9 | Turf: ? | AW: ?) 🏇 Jonjo Oneill Jr winSR: 100.0% (No better alternative found.)
+   • 14-day form: 24% (4.0/17.0 runs) RTF: N/A (OVR: 6%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 162.0/1094.0 = 14.8%
+🗞️ **PRESS OPINION**
+💬 Comment: Sedgefield winner but 33-1 when finishing last in a Listed race here in November
+🔦 Spotlight: Made a winning start at Sedgefield (good to soft; 3-1) in October but still went off at 33-1 for a Listed race here the following month and finished last; returns from a lengthy break with a hood added.
+📊 **RANKS AND FLAGS**
+📈 RPR: 100.0 (Rank: 7)
+📉 TS: 62.0 (Rank: 6)
+🏟️ Course Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 1/2 | SR: 0.5
+🌱 Going Wins/Runs: 0/1 | SR: 0.0
+📊 Form: 10 → Score: 3.33 (Rank: 1)
+------------------------------------------------------------------------------------------
+🐎 4 | Full Of Charm💤🐎 5 years old  mare, b, 156 lbs.
+📊 Race Record: 0/1 total wins (🏅 0% SR) | At this age & race type: 0/1 wins (🎯 0% SR)
+⚠️ Not enough data to assess trends — only 1 run(s).
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +3.0
+   • This type: avg runs 1.5, Unexposed rating +0.5
+🧮 Furlings/sec Overall: 1 runs | 🏁 Fastest: 0.1333 | 🐢 Slowest: 0.1333 | 📊 Furlings/sec Avg: 0.1333 | 🎯 Median: 0.1333
+🦄 Sire: Harzand (Overall SR: 34.0/234.0 = 14.5% | Rank: 6, Turf Rank: 2, AW Rank: 10)
+   • Turf: 32.0/198.0 = 16.2%
+🌿 Dam: Silver Charmer (Overall SR: nan/nan = N/A | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: nan/nan = N/A
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 34.0 (Rank: 15)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 9th | ⚡ Speed: 101.56% | 📊 Rank: 8984.0 | 🔺 AvgDiff: -3.80 | 🔼 MaxDiff: -376.18 | 🔽 MinDiff: 13.15 | 🔴 1st Sect: – (13.15s) | 🔴 Last Sect: – (15.56s)
+🗞️ **PRESS OPINION**
+💬 Comment: Led at one point but ultimately beaten about 20l on good to soft at Ffos Las (20-1)
+🔦 Spotlight: Led at one point but ultimately beaten about 20l on good to soft at Ffos Las (20-1); best watched for now.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Boardsmill Stud
+🏠 Owner: The Real Partnership (Overall SR: 6.0/30.0 = 20%% | Rank: 2, Turf Rank: ?, AW Rank: ?)
+   • Turf: 6.0/30.0 = 0.2%
+(No previous owner(s))
+👤 Trainer: Jeremy Scott 1 runners this race. (Overall SR: 65/470 = 0.14% | Conn Rank: 8.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 63/458 = 0.14%
+   • 14-day form: (0/7 runs) (Rank: 9) RTF: 56.0 (OVR: 14%)
+(No previous trainer(s))
+🏇 Jockey: Lorcan Williams(14d rank: 17, 5Y rank: 14 | Turf: ? | AW: ?) 🏇 Lorcan Williams winSR: 0.0% (No better alternative found.)
+   • 14-day form: 0% (0.0/3.0 runs) RTF: N/A (OVR: 20%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 59.0/443.0 = 13.3%
+🗞️ **PRESS OPINION**
+💬 Comment: Led at one point but ultimately beaten about 20l on good to soft at Ffos Las (20-1)
+🔦 Spotlight: Led at one point but ultimately beaten about 20l on good to soft at Ffos Las (20-1); best watched for now.
+📊 **RANKS AND FLAGS**
+📈 RPR: 92.0 (Rank: 8)
+📉 TS: 37.0 (Rank: 7)
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: 9 → Score: 0.11 (Rank: 11)
+------------------------------------------------------------------------------------------
+🐎 20 | Topsout🐎 4 years old  filly, b, 148 lbs.
+📊 Race Record: 0/1 total wins (🏅 0% SR) | At this age & race type: 0/1 wins (🎯 0% SR)
+⚠️ Not enough data to assess trends — only 1 run(s).
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.1, Unexposed rating +3.1
+   • This type: avg runs 1.5, Unexposed rating +0.5
+🧮 Furlings/sec Overall: 1 runs | 🏁 Fastest: 0.1266 | 🐢 Slowest: 0.1266 | 📊 Furlings/sec Avg: 0.1266 | 🎯 Median: 0.1266
+🎖️ Furlings/sec - This Class (1 runs): 🏁 0.1266 best, 📊 0.1266 avg
+🦄 Sire: Telescope (Overall SR: 73.0/778.0 = 9.4% | Rank: 17, Turf Rank: 17, AW Rank: 11)
+   • Turf: 73.0/759.0 = 9.6%
+🌿 Dam: Osokenda (Overall SR: nan/nan = N/A | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: nan/nan = N/A
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 51.0 (Rank: 19)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Finished midfield at Uttoxeter (good to soft) when a 50-1 chance
+🔦 Spotlight: Finished midfield at Uttoxeter (good to soft) when a 50-1 chance; looks the yard's second string here.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Mrs Jane Organ
+🏠 Owner: Mrs Jane Organ (Overall SR: 0.0/1.0 = 0%% | Rank: nan, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0.0/1.0 = 0.0%
+(No previous owner(s))
+👤 Trainer: Nigel Twiston-Davies 2 runners this race. (Overall SR: 203/1277 = 0.16% | Conn Rank: 6.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 201/1252 = 0.16%
+   • 14-day form: (1/15 runs) (Rank: 1) RTF: 20.0 (OVR: 10%)
+(No previous trainer(s))
+🏇 Jockey: Nico De Boinville(14d rank: 14, 5Y rank: 2 | Turf: ? | AW: ?) 🏇 Nico De Boinville winSR: 0.0% (No better alternative found.)
+   • 14-day form: 11% (2.0/18.0 runs) RTF: N/A (OVR: 19%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 171.0/745.0 = 23%
+🗞️ **PRESS OPINION**
+💬 Comment: Finished midfield at Uttoxeter (good to soft) when a 50-1 chance
+🔦 Spotlight: Finished midfield at Uttoxeter (good to soft) when a 50-1 chance; looks the yard's second string here.
+📊 **RANKS AND FLAGS**
+📈 RPR: 88.0 (Rank: 9)
+📉 TS: 23.0 (Rank: 9)
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: 7 → Score: 0.14 (Rank: 8)
+------------------------------------------------------------------------------------------
+🐎 16 | Lady Dapple Rose🐎 4 years old  filly, gr/ro, 148 lbs.
+📊 Race Record: 0/0 total wins (🏅 0% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
+nan
+🧮 Runs: 0.0
+🧪 Unexposed for age
+   • All races: avg runs 4.1, Unexposed rating +4.1
+   • This type: avg runs 1.5, Unexposed rating +1.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Kingston Hill (Overall SR: 49.0/475.0 = 10.3% | Rank: 15, Turf Rank: 15, AW Rank: 8)
+   • Turf: 48.0/460.0 = 10.4%
+🌿 Dam: My Viking Bay (Overall SR: 0.0/3.0 = 0% | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: 0.0/3.0 = 0%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 101.0 (Rank: 20)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: 8,000euros 3yo; half-sister to bumper winner Meadowsweet; dam 2m hurdle winner
+🔦 Spotlight: 8,000euros 3yo; eighth foal; half-sister to bumper winner Meadowsweet; dam 2m hurdle winner and half-sister to bumper/useful 2m-2m4f jumps winner Emcon; stable 0-22 in bumpers the last five seasons.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Mrs Mary O'Connor
+🏠 Owner: Royal Arch Racing Ldr (Overall SR: nan/nan = N/A% | Rank: nan, Turf Rank: ?, AW Rank: ?)
+   • Turf: nan/nan = 0.0%
+(No previous owner(s))
+👤 Trainer: Harriet Dickin 1 runners this race. (Overall SR: 20/309 = 0.06% | Conn Rank: 19.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 20/301 = 0.07%
+   • 14-day form: (0/2 runs) (Rank: 9) RTF: N/A (OVR: 0%)
+(No previous trainer(s))
+🏇 Jockey: James Best(14d rank: 17, 5Y rank: 20 | Turf: ? | AW: ?) !! No race history available for this horse.
+   • 14-day form: 0% (0.0/22.0 runs) RTF: N/A (OVR: 5%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 56.0/1012.0 = 5.5%
+🗞️ **PRESS OPINION**
+💬 Comment: 8,000euros 3yo; half-sister to bumper winner Meadowsweet; dam 2m hurdle winner
+🔦 Spotlight: 8,000euros 3yo; eighth foal; half-sister to bumper winner Meadowsweet; dam 2m hurdle winner and half-sister to bumper/useful 2m-2m4f jumps winner Emcon; stable 0-22 in bumpers the last five seasons.
+📊 **RANKS AND FLAGS**
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: nan → Score: 0.0 (Rank: 13)
+------------------------------------------------------------------------------------------

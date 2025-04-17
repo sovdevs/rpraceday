@@ -98,7 +98,7 @@ Legend:
 📊 Career Trend: Speed is improving (last 3: [82.0, 92.0, 122.0]), Results are declining (last 3: [2.0, 6.0, 2.0]), Official ratings are not enough data, Odds are improving (career: consistent in band 0.3–5.5 | recent: consistent in band 0.4–5.5)
 📉 Recent vs Career: Speed is improving, Results are about the same, Odds are about the same (last 3: [1.5, 1.875, 5.5])
 📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 4
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 4.2, Unexposed rating +1.2
    • This type: avg runs 2.9, Unexposed rating -0.1
@@ -119,11 +119,11 @@ Legend:
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: Mrs L Mohammed
 🏠 Owner: Garry Wilson (Overall SR: 14.0/51.0 = 27.5%% | Rank: 1, Turf Rank: ?, AW Rank: ?)
-   • Turf: 14.0/51.0 = 27.5%
+   • Turf: 14.0/51.0 = 0.28%
 (No previous owner(s))
-👤 Trainer: Dan Skelton 2 runners this race.(Overall SR: 399.0/2373.0 = 16.8%% | Conn Rank: 1, Turf Rank: ?, AW Rank: ?)
-   • Turf: 399.0/2373.0 = 16.8%
-   • 14-day form: (7.0/44.0 runs) (Rank: 3) RTF: 50.0 (OVR: 13%)
+👤 Trainer: Dan Skelton 2 runners this race. (Overall SR: 399/2373 = 0.17% | Conn Rank: 1.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 399/2373 = 0.17%
+   • 14-day form: (7/44 runs) (Rank: 3) RTF: 50.0 (OVR: 13%)
 (No previous trainer(s))
 🏇 Jockey: Harry Skelton(14d rank: 7, 5Y rank: 2 | Turf: ? | AW: ?) 🏇 Harry Skelton winSR: 33.0% (No better alternative found.)
    • 14-day form: 13% (4.0/32.0 runs) RTF: N/A (OVR: 14%) | 5Y: 0/0 (SR: 0.0)
@@ -135,44 +135,17 @@ Legend:
 📉 OFR: 123.0 (Rank: 1)
 📈 RPR: 129.0 (Rank: 10)
 📉 TS: 122.0 (Rank: 1)
-🏟️ Course Wins/Runs: 0/1 | SR: 0.0%
-📏 Distance Wins/Runs: 0/1 | SR: 0.0%
-🌱 Going Wins/Runs: 0/1 | SR: 0.0%
+🏟️ Course Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 12-262 → Score: 0.11 (Rank: 8)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-03-08 16:10:00 | ⏳ Time between runs: 39 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/1P/0U
-🥇L1 Result: 2 🥈 / 🏇 6 runners. 
-💰L1 Odds: 5.5 🔥
-📝L1 Comment: 🔄 held up in rear, headway after 3 out, went second last, soon pressed winner, no extra towards finish
-🏆L1 RaceName: Betfair Exchange Novices' Limited Handicap Chase (GBB Race)
-📋L1 Type: 3NvHcCh
-🎽 L1 Jockey: H Skelton- (⚖️ Weight: 158.0 lbs (71.8 kg) carried -- Allowance: 0.0)
-🏟️ Course: Sandown (right-handed, galloping, testing track)
-📏 Distance: 20.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: G
-👜 Prize: 💰 11K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2024-12-14 13:13:00 | ⏳ Time between runs: 84 days ago
-🏆 1st: No runs since, 2nd: 3, 3rd: 3 -  ❓ | 📊 1-3: 0W/2P/0U | 🐴 Also rans: 0W/2P/1U
-🥇L2 Result: 6 / 🏇 13 runners. 
-💰L2 Odds: 1.875 🔥🔥
-📝L2 Comment: 🔄 midfield, ridden and headway before 2 out, 5 lengths fourth last, ❄️ weakened run-in
-🏆L2 RaceName: Quintessentially Mares' Handicap Chase (Challenger Mares' Chase Series Qualifier)
-📋L2 Type: 3HcChM
-🎽 L2 Jockey: H Skelton- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0)
-🏟️ Course: Cheltenham (left-handed, galloping, undulating and testing track with stiff fences)
-📏 Distance: 20.5 furlongs (🔼 Up to 25.5 today)
-🌱 Going: GS
-👜 Prize: 💰 11K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 2 | Sainte Doctor🐎 9 years old  mare, gr, 168 lbs.
 📊 Race Record: 9/26 total wins (🏅 35% SR) | At this age & race type: 5/14 wins (🎯 36% SR)
 📊 Career Trend: Speed is improving (last 3: [65.0, 78.0, 110.0]), Results are stable (last 3: [1.0, 1.0, 1.0]), Official ratings are not enough data, Odds are declining (career: erratic in band 0.7–80.0 | recent: erratic in band 0.8–80.0)
 📉 Recent vs Career: Speed is improving, Results are about the same, Odds are worsening (last 3: [4.0, 8.0, 0.833])
 📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 9
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 3.9, Unexposed rating -10.1
    • This type: avg runs 3.0, Unexposed rating -11.0
@@ -192,11 +165,11 @@ Horse quote: 2025-02-14 at Fakenham (21f): "It's very satisfying to get Sainte D
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: Jean-Marc Godefroy
 🏠 Owner: John P Mcmanus (Overall SR: 452.0/3139.0 = 14.4%% | Rank: 6, Turf Rank: ?, AW Rank: ?)
-   • Turf: 451.0/3105.0 = 14.5%
+   • Turf: 451.0/3105.0 = 0.14%
 (No previous owner(s))
-👤 Trainer: Neil Mulholland 2 runners this race.(Overall SR: 170.0/1347.0 = 12.6%% | Conn Rank: 7, Turf Rank: ?, AW Rank: ?)
-   • Turf: 164.0/1281.0 = 12.8%
-   • 14-day form: (2.0/13.0 runs) (Rank: 5) RTF: 47.0 (OVR: 12%)
+👤 Trainer: Neil Mulholland 2 runners this race. (Overall SR: 170/1347 = 0.13% | Conn Rank: 7.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 164/1281 = 0.13%
+   • 14-day form: (2/13 runs) (Rank: 5) RTF: 47.0 (OVR: 12%)
 (No previous trainer(s))
 🏇 Jockey: Richie Mclernon(14d rank: 4, 5Y rank: 8 | Turf: ? | AW: ?) 🏇 Richie Mclernon winSR: 36.0% (No better alternative found.)
    • 14-day form: 22% (2.0/9.0 runs) RTF: N/A (OVR: 5%) | 5Y: 0/0 (SR: 0.0)
@@ -210,42 +183,15 @@ Horse quote: 2025-02-14 at Fakenham (21f): "It's very satisfying to get Sainte D
 📉 TS: 110.0 (Rank: 7)
 🏟️ Course Wins/Runs: 0/0 | SR: N/A
 📏 Distance Wins/Runs: 0/0 | SR: N/A
-🌱 Going Wins/Runs: 5/13 | SR: 38.5%
+🌱 Going Wins/Runs: 5/13 | SR: 0.38
 📊 Form: 353111 → Score: 0.11 (Rank: 6)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-04-02 13:45:00 | ⏳ Time between runs: 14 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 1 🥇 / 🏇 4 runners. 
-💰L1 Odds: 0.833 🔥🔥
-📝L1 Comment: 🔄 held up in last, went third 10th, went second home turn, pushed along 4 out, challenging 2 out, soon 🎯 led, 2 1/2 lengths ahead last, comfortably
-🏆L1 RaceName: Birthday Bonanza Mares' Handicap Chase (GBB Race)
-📋L1 Type: 4HcChM
-🎽 L1 Jockey: R McLernon- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0)
-🏟️ Course: Ludlow (right-handed, sharp track)
-📏 Distance: 20.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: G
-👜 Prize: 💰 6K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2025-03-10 14:20:00 | ⏳ Time between runs: 22 days ago
-🏆 1st: 1, 2nd: No runs since, 3rd: No runs since 🥇 -  ✅ | 📊 1-3: 1W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L2 Result: 1 🥇 / 🏇 6 runners. 
-💰L2 Odds: 8.0 📉
-📝L2 Comment: 🎯 prominent, not fluent when pressed leader 3 out, going okay when 🎯 led approaching last, ridden and kept on well run-in
-🏆L2 RaceName: DragonBet Backing Our Opinion At Cheltenham Handicap Chase (GBB Race)
-📋L2 Type: 4HcCh
-🎽 L2 Jockey: R McLernon- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0)
-🏟️ Course: Stratford (left-handed, sharp, flat track)
-📏 Distance: 22.5 furlongs (🔼 Up to 25.5 today)
-🌱 Going: GS
-👜 Prize: 💰 5K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 2 | Sainte Doctor🐎 9 years old  mare, gr, 168 lbs.
 📊 Race Record: 9/26 total wins (🏅 35% SR) | At this age & race type: 5/14 wins (🎯 36% SR)
 📊 Career Trend: Speed is improving (last 3: [65.0, 78.0, 110.0]), Results are stable (last 3: [1.0, 1.0, 1.0]), Official ratings are not enough data, Odds are declining (career: erratic in band 0.7–80.0 | recent: erratic in band 0.8–80.0)
 📉 Recent vs Career: Speed is improving, Results are about the same, Odds are worsening (last 3: [4.0, 8.0, 0.833])
 📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 9
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 3.9, Unexposed rating -10.1
    • This type: avg runs 3.0, Unexposed rating -11.0
@@ -265,11 +211,11 @@ Horse quote: 2025-02-14 at Fakenham (21f): "It's very satisfying to get Sainte D
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: Jean-Marc Godefroy
 🏠 Owner: John P Mcmanus (Overall SR: 452.0/3139.0 = 14.4%% | Rank: 6, Turf Rank: ?, AW Rank: ?)
-   • Turf: 451.0/3105.0 = 14.5%
+   • Turf: 451.0/3105.0 = 0.14%
 (No previous owner(s))
-👤 Trainer: Neil Mulholland 2 runners this race.(Overall SR: 170.0/1347.0 = 12.6%% | Conn Rank: 7, Turf Rank: ?, AW Rank: ?)
-   • Turf: 164.0/1281.0 = 12.8%
-   • 14-day form: (2.0/13.0 runs) (Rank: 5) RTF: 47.0 (OVR: 12%)
+👤 Trainer: Neil Mulholland 2 runners this race. (Overall SR: 170/1347 = 0.13% | Conn Rank: 7.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 164/1281 = 0.13%
+   • 14-day form: (2/13 runs) (Rank: 5) RTF: 47.0 (OVR: 12%)
 (No previous trainer(s))
 🏇 Jockey: Richie Mclernon(14d rank: 4, 5Y rank: 8 | Turf: ? | AW: ?) 🏇 Richie Mclernon winSR: 36.0% (No better alternative found.)
    • 14-day form: 22% (2.0/9.0 runs) RTF: N/A (OVR: 5%) | 5Y: 0/0 (SR: 0.0)
@@ -283,42 +229,15 @@ Horse quote: 2025-02-14 at Fakenham (21f): "It's very satisfying to get Sainte D
 📉 TS: 110.0 (Rank: 7)
 🏟️ Course Wins/Runs: 0/0 | SR: N/A
 📏 Distance Wins/Runs: 0/0 | SR: N/A
-🌱 Going Wins/Runs: 5/13 | SR: 38.5%
+🌱 Going Wins/Runs: 5/13 | SR: 0.38
 📊 Form: 353111 → Score: 0.11 (Rank: 6)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-04-02 13:45:00 | ⏳ Time between runs: 14 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 1 🥇 / 🏇 4 runners. 
-💰L1 Odds: 0.833 🔥🔥
-📝L1 Comment: 🔄 held up in last, went third 10th, went second home turn, pushed along 4 out, challenging 2 out, soon 🎯 led, 2 1/2 lengths ahead last, comfortably
-🏆L1 RaceName: Birthday Bonanza Mares' Handicap Chase (GBB Race)
-📋L1 Type: 4HcChM
-🎽 L1 Jockey: R McLernon- (⚖️ Weight: 166.0 lbs (75.5 kg) carried -- Allowance: 0.0)
-🏟️ Course: Ludlow (right-handed, sharp track)
-📏 Distance: 20.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: G
-👜 Prize: 💰 6K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2025-03-10 14:20:00 | ⏳ Time between runs: 22 days ago
-🏆 1st: 1, 2nd: No runs since, 3rd: No runs since 🥇 -  ✅ | 📊 1-3: 1W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L2 Result: 1 🥇 / 🏇 6 runners. 
-💰L2 Odds: 8.0 📉
-📝L2 Comment: 🎯 prominent, not fluent when pressed leader 3 out, going okay when 🎯 led approaching last, ridden and kept on well run-in
-🏆L2 RaceName: DragonBet Backing Our Opinion At Cheltenham Handicap Chase (GBB Race)
-📋L2 Type: 4HcCh
-🎽 L2 Jockey: R McLernon- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0)
-🏟️ Course: Stratford (left-handed, sharp, flat track)
-📏 Distance: 22.5 furlongs (🔼 Up to 25.5 today)
-🌱 Going: GS
-👜 Prize: 💰 5K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 5 | Lady Jago🔁🐎 6 years old  mare, ch, 157 lbs.
 📊 Race Record: 4/12 total wins (🏅 33% SR) | At this age & race type: 2/5 wins (🎯 40% SR)
 📊 Career Trend: Speed is improving (last 3: [43.0, 51.0, 47.0]), Results are stable (last 3: [6.0, 1.0, 1.0]), Official ratings are not enough data, Odds are declining (career: consistent in band 0.4–11.0 | recent: consistent in band 0.4–9.0)
 📉 Recent vs Career: Speed is improving, Results are about the same, Odds are about the same (last 3: [6.5, 7.0, 0.4])
 📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 4
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 4.2, Unexposed rating -0.8
    • This type: avg runs 2.7, Unexposed rating -2.3
@@ -338,11 +257,11 @@ Past runs with non-runs:
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: D Condon
 🏠 Owner: Robert Kirkland (Overall SR: 21.0/87.0 = 24.1%% | Rank: 3, Turf Rank: ?, AW Rank: ?)
-   • Turf: 21.0/87.0 = 24.1%
+   • Turf: 21.0/87.0 = 0.24%
 (No previous owner(s))
-👤 Trainer: Dan Skelton 2 runners this race.(Overall SR: 399.0/2373.0 = 16.8%% | Conn Rank: 1, Turf Rank: ?, AW Rank: ?)
-   • Turf: 399.0/2373.0 = 16.8%
-   • 14-day form: (7.0/44.0 runs) (Rank: 3) RTF: 50.0 (OVR: 13%)
+👤 Trainer: Dan Skelton 2 runners this race. (Overall SR: 399/2373 = 0.17% | Conn Rank: 1.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 399/2373 = 0.17%
+   • 14-day form: (7/44 runs) (Rank: 3) RTF: 50.0 (OVR: 13%)
 (No previous trainer(s))
 🏇 Jockey: Charlie Todd(14d rank: 10, 5Y rank: 14 | Turf: ? | AW: ?) 🏇 Charlie Todd winSR: 0.0% | 🏆 Better Alternative: H Skelton (1/7 - 14.0%)
    • 14-day form: 0% (0.0/1.0 runs) RTF: N/A (OVR: 6%) | 5Y: 0/0 (SR: 0.0)
@@ -355,43 +274,16 @@ Past runs with non-runs:
 📈 RPR: 129.0 (Rank: 10)
 📉 TS: 95.0 (Rank: 10)
 🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 1/1 | SR: 100.0%
-🌱 Going Wins/Runs: 3/5 | SR: 60.0%
+📏 Distance Wins/Runs: 1/1 | SR: 1.0
+🌱 Going Wins/Runs: 3/5 | SR: 0.6
 📊 Form: 236P11 → Score: 0.11 (Rank: 7)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-04-14 16:10:00 | ⏳ Time between runs: 2 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 1 🥇 / 🏇 4 runners. 
-💰L1 Odds: 0.4 🔥🔥
-📝L1 Comment: travelled strongly, in touch with leaders, headway after 3 out, shaken up to lead approaching last, went well clear run-in, easily
-🏆L1 RaceName: eventmasters.co.uk Mares' Handicap Chase (Queen Boudicca Mares' Chase Series Qualifier)
-📋L1 Type: 5HcChM
-🎽 L1 Jockey: H Skelton- (⚖️ Weight: 168.0 lbs (76.4 kg) carried -- Allowance: 0.0)
-🏟️ Course: Warwick (left-handed, sharp track)
-📏 Distance: 20.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: G
-👜 Prize: 💰 4K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2025-03-31 13:45:00 | ⏳ Time between runs: 14 days ago
-🏆 1st: 1, 2nd: No runs since, 3rd: No runs since 🥇 -  ✅ | 📊 1-3: 1W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L2 Result: 1 🥇 / 🏇 4 runners. 
-💰L2 Odds: 7.0 📉
-📝L2 Comment: raced in last but in touch with leaders, jumped left and 🚧 bumped rival 16th, headway and went second on turn before 2 out, 🎯 led narrowly approaching last, kept on well and went clear run-in (trainer's rep said, regarding the apparent improvement in form, that mare appeared to be suited by the faster ground on this occasion)
-🏆L2 RaceName: We Put The Win In Wincanton Mares' Handicap Chase (Challenger Mares' Chase Qualifier) (GBB Race)
-📋L2 Type: 4HcChM
-🎽 L2 Jockey: T Durrell- (⚖️ Weight: 151.0 lbs (68.6 kg) carried -- Allowance: 3.0)
-🏟️ Course: Wincanton (right-handed, galloping track)
-📏 Distance: 25.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: G
-👜 Prize: 💰 6K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 6 | Minniemum🐎 8 years old  mare, b, 156 lbs.
 📊 Race Record: 2/21 total wins (🏅 10% SR) | At this age & race type: 1/2 wins (🎯 50% SR)
 📊 Career Trend: Speed is declining (last 3: [78.0, 31.0, 57.0]), Results are declining (last 3: [3.0, 1.0, 2.0]), Official ratings are not enough data, Odds are declining (career: erratic in band 1.4–66.0 | recent: erratic in band 1.4–14.0)
 📉 Recent vs Career: Speed is about the same, Results are about the same, Odds are improving (last 3: [5.5, 2.125, 1.375])
 📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 2
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 4.1, Unexposed rating +2.1
    • This type: avg runs 3.0, Unexposed rating +1.0
@@ -412,11 +304,11 @@ Horse quote: 2024-01-11 at Catterick (25.5f): "It's just unfortunate, one of tho
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: R Johnson
 🏠 Owner: Strachan, Corbett, Salwey, Inkin, Griffith, Graham (Overall SR: nan/nan = N/A% | Rank: nan, Turf Rank: ?, AW Rank: ?)
-   • Turf: nan/nan = N/A
+   • Turf: nan/nan = 0.0%
 (No previous owner(s))
-👤 Trainer: Henry Daly 1 runners this race.(Overall SR: 86.0/553.0 = 15.6%% | Conn Rank: 3, Turf Rank: ?, AW Rank: ?)
-   • Turf: 86.0/553.0 = 15.6%
-   • 14-day form: (1.0/6.0 runs) (Rank: 2) RTF: 33.0 (OVR: 15%)
+👤 Trainer: Henry Daly 1 runners this race. (Overall SR: 86/553 = 0.16% | Conn Rank: 3.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 86/553 = 0.16%
+   • 14-day form: (1/6 runs) (Rank: 2) RTF: 33.0 (OVR: 15%)
 (No previous trainer(s))
 🏇 Jockey: Sam Twiston-Davies(14d rank: 8, 5Y rank: 3 | Turf: ? | AW: ?) 🏇 Sam Twiston-Davies winSR: 50.0% (No better alternative found.)
    • 14-day form: 12% (2.0/17.0 runs) RTF: N/A (OVR: 12%) | 5Y: 0/0 (SR: 0.0)
@@ -428,44 +320,17 @@ Horse quote: 2024-01-11 at Catterick (25.5f): "It's just unfortunate, one of tho
 📉 OFR: 111.0 (Rank: 6)
 📈 RPR: 130.0 (Rank: 8)
 📉 TS: 69.0 (Rank: 14)
-🏟️ Course Wins/Runs: 0/1 | SR: 0.0%
-📏 Distance Wins/Runs: 0/8 | SR: 0.0%
-🌱 Going Wins/Runs: 1/7 | SR: 14.3%
+🏟️ Course Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 0/8 | SR: 0.0
+🌱 Going Wins/Runs: 1/7 | SR: 0.14
 📊 Form: 763312 → Score: 0.06 (Rank: 13)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-03-31 13:45:00 | ⏳ Time between runs: 16 days ago
-🏆 1st: 1, 2nd: No runs since, 3rd: No runs since 🥇 -  ✅ | 📊 1-3: 1W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 2 🥈 / 🏇 4 runners. 
-💰L1 Odds: 1.375 🔥🔥
-📝L1 Comment: 🎯 led, headed approaching last, kept on but no match for winner
-🏆L1 RaceName: We Put The Win In Wincanton Mares' Handicap Chase (Challenger Mares' Chase Qualifier) (GBB Race)
-📋L1 Type: 4HcChM
-🎽 L1 Jockey: S Twiston-Davies- (⚖️ Weight: 165.0 lbs (75.0 kg) carried -- Allowance: 0.0)
-🏟️ Course: Wincanton (right-handed, galloping track)
-📏 Distance: 25.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: G
-👜 Prize: 💰 6K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2025-03-23 16:48:00 | ⏳ Time between runs: 7 days ago
-🏆 1st: 2, 2nd: No runs since, 3rd: No runs since -  ✅ | 📊 1-3: 0W/1P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L2 Result: 1 🥇 / 🏇 4 runners. 
-💰L2 Odds: 2.125 🔥
-📝L2 Comment: jumped right throughout, 🎯 made all, clear from 3 out, comfortably
-🏆L2 RaceName: Bet At racingtv.com Mares' Handicap Chase (Queen Boudicca Mares' Chase Series Qualifier)
-📋L2 Type: 5HcChM
-🎽 L2 Jockey: S Twiston-Davies- (⚖️ Weight: 158.0 lbs (71.8 kg) carried -- Allowance: 0.0)
-🏟️ Course: Exeter (right-handed, very undulating, testing track)
-📏 Distance: 24.5 furlongs (🔼 Up to 25.5 today)
-🌱 Going: GF
-👜 Prize: 💰 4K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 7 | Moviddy🐎 9 years old  mare, b, 155 lbs.
 📊 Race Record: 4/19 total wins (🏅 21% SR) | At this age & race type: 1/11 wins (🎯 9% SR)
 📊 Career Trend: Speed is declining (last 3: [73.0, 59.0, 61.0]), Results are declining (last 3: [2.0, 2.0, 1.0]), Official ratings are not enough data, Odds are declining (career: erratic in band 0.8–25.0 | recent: consistent in band 0.8–12.0)
 📉 Recent vs Career: Speed is worsening, Results are about the same, Odds are about the same (last 3: [12.0, 0.8, 2.0])
 📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 4
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 3.9, Unexposed rating -7.1
    • This type: avg runs 3.0, Unexposed rating -8.0
@@ -487,11 +352,11 @@ Horse quote: 2025-03-24 at Wincanton (25f): "Moviddy has put in a lot of good ef
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: Donal Brazil
 🏠 Owner: Noel Fehily Racing Syndicates - Moviddy (Overall SR: nan/nan = N/A% | Rank: nan, Turf Rank: ?, AW Rank: ?)
-   • Turf: nan/nan = N/A
+   • Turf: nan/nan = 0.0%
 (No previous owner(s))
-👤 Trainer: Noel Williams 1 runners this race.(Overall SR: 17.0/168.0 = 10.1%% | Conn Rank: 10, Turf Rank: ?, AW Rank: ?)
-   • Turf: 17.0/165.0 = 10.3%
-   • 14-day form: (0.0/2.0 runs) (Rank: 7) RTF: nan (OVR: 0%)
+👤 Trainer: Noel Williams 1 runners this race. (Overall SR: 17/168 = 0.1% | Conn Rank: 10.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 17/165 = 0.1%
+   • 14-day form: (0/2 runs) (Rank: 7) RTF: N/A (OVR: 0%)
 (No previous trainer(s))
 🏇 Jockey: Jonathan Burke(14d rank: 6, 5Y rank: 4 | Turf: ? | AW: ?) 🏇 Jonathan Burke winSR: 0.0% | 🏆 Better Alternative: J Hogan (1/1 - 100.0%)
    • 14-day form: 15% (3.0/20.0 runs) RTF: N/A (OVR: 9%) | 5Y: 0/0 (SR: 0.0)
@@ -503,44 +368,17 @@ Horse quote: 2025-03-24 at Wincanton (25f): "Moviddy has put in a lot of good ef
 📉 OFR: 110.0 (Rank: 7)
 📈 RPR: 132.0 (Rank: 1)
 📉 TS: 109.0 (Rank: 9)
-🏟️ Course Wins/Runs: 0/1 | SR: 0.0%
-📏 Distance Wins/Runs: 1/2 | SR: 50.0%
-🌱 Going Wins/Runs: 1/9 | SR: 11.1%
+🏟️ Course Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 1/2 | SR: 0.5
+🌱 Going Wins/Runs: 1/9 | SR: 0.11
 📊 Form: 683221 → Score: 0.06 (Rank: 14)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-03-24 16:00:00 | ⏳ Time between runs: 23 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 1 🥇 / 🏇 4 runners. 
-💰L1 Odds: 2.0 🔥🔥
-📝L1 Comment: 🎯 made all, hit 3 out, soon ridden, kept on well
-🏆L1 RaceName: Wincanton Supports The RSA Mares' Handicap Chase (Challenger Mares' Chase Series Qual') (GBB Race)
-📋L1 Type: 4HcChM
-🎽 L1 Jockey: J J Burke- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0)
-🏟️ Course: Wincanton (right-handed, galloping track)
-📏 Distance: 25.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: G
-👜 Prize: 💰 7K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2025-02-14 14:08:00 | ⏳ Time between runs: 38 days ago
-🏆 1st: 1, 2nd: 1, 3rd: No runs since 🥇 -  ✅ | 📊 1-3: 2W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L2 Result: 2 🥈 / 🏇 4 runners. 
-💰L2 Odds: 0.8 🔥🔥
-📝L2 Comment: 🎯 led, hit 4 out, rallied when headed before last, no extra inside final 110yds
-🏆L2 RaceName: £50,000 Queen Boudicca Series Qualifier Mares' Handicap Chase (Series Qualifier) (GBB Race)
-📋L2 Type: 4HcChM
-🎽 L2 Jockey: J J Burke- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0)
-🏟️ Course: Fakenham (left-handed, sharp, undulating track)
-📏 Distance: 21.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: G
-👜 Prize: 💰 4K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 12 | So Said I🐎 9 years old  mare, gr, 150 lbs.
 📊 Race Record: 4/26 total wins (🏅 15% SR) | At this age & race type: 1/13 wins (🎯 8% SR)
 📊 Career Trend: Speed is declining (last 3: [76.0, 80.0, 42.0]), Results are stable (last 3: [3.0, 3.0, 3.0]), Official ratings are not enough data, Odds are declining (career: consistent in band 1.6–14.0 | recent: consistent in band 2.2–14.0)
 📉 Recent vs Career: Speed is worsening, Results are about the same, Odds are worsening (last 3: [6.0, 5.0, 2.25])
 📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 4
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 3.9, Unexposed rating -9.1
    • This type: avg runs 3.0, Unexposed rating -10.0
@@ -560,11 +398,11 @@ Past runs with non-runs:
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: Barrow Hill
 🏠 Owner: And So Say All Of Us Partnership (Overall SR: 1.0/16.0 = 6.2%% | Rank: 12, Turf Rank: ?, AW Rank: ?)
-   • Turf: 1.0/16.0 = 6.2%
+   • Turf: 1.0/16.0 = 0.06%
 (No previous owner(s))
-👤 Trainer: Joe Tizzard 1 runners this race.(Overall SR: 148.0/1134.0 = 13.1%% | Conn Rank: 6, Turf Rank: ?, AW Rank: ?)
-   • Turf: 147.0/1122.0 = 13.1%
-   • 14-day form: (1.0/10.0 runs) (Rank: 6) RTF: 40.0 (OVR: 5%)
+👤 Trainer: Joe Tizzard 1 runners this race. (Overall SR: 148/1134 = 0.13% | Conn Rank: 6.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 147/1122 = 0.13%
+   • 14-day form: (1/10 runs) (Rank: 6) RTF: 40.0 (OVR: 5%)
 (No previous trainer(s))
 🏇 Jockey: Harry Cobden(14d rank: 4, 5Y rank: 1 | Turf: ? | AW: ?) 🏇 Harry Cobden winSR: 0.0% | 🏆 Better Alternative: T Scudamore (1/1 - 100.0%)
    • 14-day form: 22% (7.0/32.0 runs) RTF: N/A (OVR: 11%) | 5Y: 0/0 (SR: 0.0)
@@ -576,44 +414,17 @@ Past runs with non-runs:
 📉 OFR: 105.0 (Rank: 12)
 📈 RPR: 131.0 (Rank: 3)
 📉 TS: 116.0 (Rank: 5)
-🏟️ Course Wins/Runs: 0/2 | SR: 0.0%
-📏 Distance Wins/Runs: 0/2 | SR: 0.0%
-🌱 Going Wins/Runs: 1/8 | SR: 12.5%
+🏟️ Course Wins/Runs: 0/2 | SR: 0.0
+📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🌱 Going Wins/Runs: 1/8 | SR: 0.12
 📊 Form: 223P33 → Score: 0.15 (Rank: 3)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-03-31 13:45:00 | ⏳ Time between runs: 16 days ago
-🏆 1st: 1, 2nd: No runs since, 3rd: No runs since 🥇 -  ✅ | 📊 1-3: 1W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 3 🥉 / 🏇 4 runners. 
-💰L1 Odds: 2.25 🔥
-📝L1 Comment: 🎯 prominent, jumped slightly right 8th, raced in second from 4th, 🚧 bumped and lost second 16th, outpaced 5 out, dropped to last 4 out, not fluent 3 out, no chance from 2 out, went modest third towards finish
-🏆L1 RaceName: We Put The Win In Wincanton Mares' Handicap Chase (Challenger Mares' Chase Qualifier) (GBB Race)
-📋L1 Type: 4HcChM
-🎽 L1 Jockey: B Powell- (⚖️ Weight: 162.0 lbs (73.6 kg) carried -- Allowance: 0.0)
-🏟️ Course: Wincanton (right-handed, galloping track)
-📏 Distance: 25.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: G
-👜 Prize: 💰 6K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2025-02-27 16:10:00 | ⏳ Time between runs: 31 days ago
-🏆 1st: No runs since, 2nd: 4, 3rd: 3 -  ❓ | 📊 1-3: 0W/1P/1U | 🐴 Also rans: 0W/0P/0U
-🥇L2 Result: 3 🥉 / 🏇 5 runners. 
-💰L2 Odds: 5.0 🔥
-📝L2 Comment: in touch with leaders, some headway before 3 out, outpaced after 2 out, jumped right last
-🏆L2 RaceName: Freda Woolley Memorial Mares' Handicap Chase (Challenger Mares' Series Qualifier) (GBB Race)
-📋L2 Type: 4HcChM
-🎽 L2 Jockey: B Powell- (⚖️ Weight: 157.0 lbs (71.4 kg) carried -- Allowance: 0.0)
-🏟️ Course: Taunton (right-handed, sharp track)
-📏 Distance: 23.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: S
-👜 Prize: 💰 7K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 3 | Malaita🐎 9 years old  mare, b, 165 lbs.
 📊 Race Record: 5/25 total wins (🏅 20% SR) | At this age & race type: 2/11 wins (🎯 18% SR)
 📊 Career Trend: Speed is improving (last 3: [83.0, 81.0, 86.0]), Results are stable (last 3: [2.0, 7.0, 3.0]), Official ratings are not enough data, Odds are improving (career: consistent in band 0.6–20.0 | recent: consistent in band 2.2–12.0)
 📉 Recent vs Career: Speed is improving, Results are about the same, Odds are worsening (last 3: [10.0, 12.0, 12.0])
 📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 5
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 1.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 3.9, Unexposed rating -7.1
    • This type: avg runs 3.0, Unexposed rating -8.0
@@ -635,11 +446,11 @@ Horse quote: 2024-04-18 at Cheltenham (20.5f): "Malaita is a lovely mare but we'
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: D Futter &  W Kinsey
 🏠 Owner: Four Gents (Overall SR: 5.0/21.0 = 23.8%% | Rank: 4, Turf Rank: ?, AW Rank: ?)
-   • Turf: 5.0/21.0 = 23.8%
+   • Turf: 5.0/21.0 = 0.24%
 (No previous owner(s))
-👤 Trainer: Mel Rowley 1 runners this race.(Overall SR: 45.0/374.0 = 12.0%% | Conn Rank: 9, Turf Rank: ?, AW Rank: ?)
-   • Turf: 45.0/374.0 = 12%
-   • 14-day form: (0.0/11.0 runs) (Rank: 7) RTF: 27.0 (OVR: 11%)
+👤 Trainer: Mel Rowley 1 runners this race. (Overall SR: 45/374 = 0.12% | Conn Rank: 9.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 45/374 = 0.12%
+   • 14-day form: (0/11 runs) (Rank: 7) RTF: 27.0 (OVR: 11%)
 (No previous trainer(s))
 🏇 Jockey: Murray Dodd(7)(14d rank: 10, 5Y rank: 6 | Turf: ? | AW: ?) 🏇 Murray Dodd(7) winSR: 0.0% | 🏆 Better Alternative: C Hammond (1/2 - 50.0%)
    • 14-day form: 0% (0.0/5.0 runs) RTF: N/A (OVR: 25%) | 5Y: 0/0 (SR: 0.0)
@@ -651,44 +462,17 @@ Horse quote: 2024-04-18 at Cheltenham (20.5f): "Malaita is a lovely mare but we'
 📉 OFR: 120.0 (Rank: 3)
 📈 RPR: 130.0 (Rank: 8)
 📉 TS: 86.0 (Rank: 11)
-🏟️ Course Wins/Runs: 2/4 | SR: 50.0%
-📏 Distance Wins/Runs: 0/1 | SR: 0.0%
-🌱 Going Wins/Runs: 2/5 | SR: 40.0%
+🏟️ Course Wins/Runs: 2/4 | SR: 0.5
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🌱 Going Wins/Runs: 2/5 | SR: 0.4
 📊 Form: 63273P → Score: 0.06 (Rank: 12)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-02-22 13:15:00 | ⏳ Time between runs: 53 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: nan / 🏇 12 runners. 
-💰L1 Odds: 12.0 📉
-📝L1 Comment: 🎯 led, disputed lead after 1st, 🎯 prominent after 2nd, ❄️ weakened quickly after 3 out, pulled up home turn
-🏆L1 RaceName: Ladbrokes 'Big-Value You Can Bet On' Handicap Hurdle
-📋L1 Type: 3HcH
-🎽 L1 Jockey: C Deutsch- (⚖️ Weight: 150.0 lbs (68.2 kg) carried -- Allowance: 0.0)
-🏟️ Course: Kempton (right-handed, sharpish, flat track)
-📏 Distance: 21.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: GS
-👜 Prize: 💰 11K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2025-01-23 14:30:00 | ⏳ Time between runs: 29 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: - -  ❓ | 📊 1-3: 0W/0P/1U | 🐴 Also rans: 0W/0P/0U
-🥇L2 Result: 3 🥉 / 🏇 10 runners. 
-💰L2 Odds: 12.0 📉
-📝L2 Comment: 🎯 prominent, hit 6th, pressed leaders approaching last, briefly went second run-in, no extra towards finish
-🏆L2 RaceName: Pertemps Network Handicap Hurdle (Series Qualifier) (GBB Race)
-📋L2 Type: 2HcH
-🎽 L2 Jockey: C Hammond- (⚖️ Weight: 142.0 lbs (64.5 kg) carried -- Allowance: 0.0)
-🏟️ Course: Huntingdon (right-handed, flat, fast track)
-📏 Distance: 25.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: S
-👜 Prize: 💰 13K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 4 | Lagonda🐎 10 years old  mare, b, 160 lbs.
 📊 Race Record: 4/26 total wins (🏅 15% SR) | At this age & race type: 1/12 wins (🎯 8% SR)
 📊 Career Trend: Speed is declining (last 3: [47.0, 80.0, 77.0]), Results are stable (last 3: [1.0, 2.0, 2.0]), Official ratings are not enough data, Odds are improving (career: erratic in band 0.9–25.0 | recent: consistent in band 3.0–16.0)
 📉 Recent vs Career: Speed is about the same, Results are about the same, Odds are worsening (last 3: [6.0, 3.0, 6.0])
 📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 4
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 3.7, Unexposed rating -8.3
    • This type: avg runs 2.9, Unexposed rating -9.1
@@ -708,11 +492,11 @@ Past runs with non-runs:
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: Mrs S M Newell
 🏠 Owner: Mrs S M Newell (Overall SR: 3.0/29.0 = 10.3%% | Rank: 8, Turf Rank: ?, AW Rank: ?)
-   • Turf: 3.0/29.0 = 10.3%
+   • Turf: 3.0/29.0 = 0.1%
 (No previous owner(s))
-👤 Trainer: Venetia Williams 1 runners this race.(Overall SR: 135.0/927.0 = 14.6%% | Conn Rank: 5, Turf Rank: ?, AW Rank: ?)
-   • Turf: 135.0/927.0 = 14.6%
-   • 14-day form: (0.0/4.0 runs) (Rank: 7) RTF: nan (OVR: 8%)
+👤 Trainer: Venetia Williams 1 runners this race. (Overall SR: 135/927 = 0.15% | Conn Rank: 5.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 135/927 = 0.15%
+   • 14-day form: (0/4 runs) (Rank: 7) RTF: N/A (OVR: 8%)
 (No previous trainer(s))
 🏇 Jockey: Shane Quinlan(3)(14d rank: 2, 5Y rank: 11 | Turf: ? | AW: ?) 🏇 Shane Quinlan(3) winSR: 15.0% | 🏆 Better Alternative: Tommie O'Brien (2/6 - 33.0%)
    • 14-day form: 33% (1.0/3.0 runs) RTF: N/A (OVR: 0%) | 5Y: 0/0 (SR: 0.0)
@@ -724,44 +508,17 @@ Past runs with non-runs:
 📉 OFR: 115.0 (Rank: 4)
 📈 RPR: 124.0 (Rank: 14)
 📉 TS: 110.0 (Rank: 7)
-🏟️ Course Wins/Runs: 0/1 | SR: 0.0%
-📏 Distance Wins/Runs: 0/4 | SR: 0.0%
-🌱 Going Wins/Runs: 0/3 | SR: 0.0%
+🏟️ Course Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 0/4 | SR: 0.0
+🌱 Going Wins/Runs: 0/3 | SR: 0.0
 📊 Form: 323122 → Score: 0.16 (Rank: 2)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-03-16 16:32:00 | ⏳ Time between runs: 31 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/1P/0U
-🥇L1 Result: 2 🥈 / 🏇 6 runners. 
-💰L1 Odds: 6.0 📉
-📝L1 Comment: pressed leader, briefly 🎯 led 7th, 🎯 led 13th, mistake when faced challenge 3 out, soon headed, ❄️ weakened approaching last
-🏆L1 RaceName: Get Daily Tips At racingtv.com Mares' Handicap Chase (Challenger Mares' Chase Qualifier) (GBB)
-📋L1 Type: 4HcChM
-🎽 L1 Jockey: Shane Quinlan- (⚖️ Weight: 157.0 lbs (71.4 kg) carried -- Allowance: 3.0)
-🏟️ Course: Market Rasen (right-handed, sharp, undulating track with easy fences)
-📏 Distance: 24.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: G
-👜 Prize: 💰 7K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2025-02-23 15:40:00 | ⏳ Time between runs: 21 days ago
-🏆 1st: No runs since, 2nd: 2, 3rd: No runs since -  ❓ | 📊 1-3: 0W/1P/0U | 🐴 Also rans: 0W/0P/1U
-🥇L2 Result: 2 🥈 / 🏇 8 runners. 
-💰L2 Odds: 3.0 🔥
-📝L2 Comment: 🎯 led, pushed along 2 out, faced challenge last, headed run-in, soon outpaced, no match for winner
-🏆L2 RaceName: Star Sports Veterans' Handicap Chase
-📋L2 Type: 4HcCh
-🎽 L2 Jockey: Shane Quinlan- (⚖️ Weight: 159.0 lbs (72.3 kg) carried -- Allowance: 3.0)
-🏟️ Course: Hereford (right-handed, sharpish and generally flat. Suits nippy types.)
-📏 Distance: 25.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: S
-👜 Prize: 💰 5K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 10 | Another Day Out🐎 7 years old  mare, b, 151 lbs.
 📊 Race Record: 4/20 total wins (🏅 20% SR) | At this age & race type: 3/10 wins (🎯 30% SR)
 📊 Career Trend: Speed is improving (last 3: [57.0, 55.0, 79.0]), Results are declining (last 3: [4.0, 5.0, 2.0]), Official ratings are not enough data, Odds are stable (career: consistent in band 2.0–16.0 | recent: consistent in band 3.0–6.5)
 📉 Recent vs Career: Speed is improving, Results are about the same, Odds are improving (last 3: [4.5, 4.5, 4.0])
 📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 4
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 4.2, Unexposed rating -5.8
    • This type: avg runs 2.9, Unexposed rating -7.1
@@ -780,11 +537,11 @@ Past runs with non-runs:
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: Ms Linda Twomey
 🏠 Owner: Lloyd Bailey Jessup & Proctor (Overall SR: nan/nan = N/A% | Rank: nan, Turf Rank: ?, AW Rank: ?)
-   • Turf: nan/nan = N/A
+   • Turf: nan/nan = 0.0%
 (No previous owner(s))
-👤 Trainer: Martin Keighley 1 runners this race.(Overall SR: 56.0/582.0 = 9.6%% | Conn Rank: 12, Turf Rank: ?, AW Rank: ?)
-   • Turf: 56.0/578.0 = 9.7%
-   • 14-day form: (1.0/18.0 runs) (Rank: 1) RTF: 39.0 (OVR: 6%)
+👤 Trainer: Martin Keighley 1 runners this race. (Overall SR: 56/582 = 0.1% | Conn Rank: 12.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 56/578 = 0.1%
+   • 14-day form: (1/18 runs) (Rank: 1) RTF: 39.0 (OVR: 6%)
 (No previous trainer(s))
 🏇 Jockey: James Best(14d rank: 10, 5Y rank: 15 | Turf: ? | AW: ?) 🏇 James Best winSR: 33.0% (No better alternative found.)
    • 14-day form: 0% (0.0/22.0 runs) RTF: N/A (OVR: 5%) | 5Y: 0/0 (SR: 0.0)
@@ -798,42 +555,15 @@ Past runs with non-runs:
 📉 TS: 122.0 (Rank: 1)
 🏟️ Course Wins/Runs: 0/0 | SR: N/A
 📏 Distance Wins/Runs: 0/0 | SR: N/A
-🌱 Going Wins/Runs: 1/6 | SR: 16.7%
+🌱 Going Wins/Runs: 1/6 | SR: 0.17
 📊 Form: R11452 → Score: 0.09 (Rank: 9)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-04-09 14:55:00 | ⏳ Time between runs: 7 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 2 🥈 / 🏇 4 runners. 
-💰L1 Odds: 4.0 🔥
-📝L1 Comment: 🎯 led narrowly, jumped right and bad mistake 2 out, soon faced challenge, headed then not fluent approaching last, stayed on but no extra run-in
-🏆L1 RaceName: Allaho ROR Ambassador Handicap Chase (GBB Race)
-📋L1 Type: 4HcCh
-🎽 L1 Jockey: J Best- (⚖️ Weight: 164.0 lbs (74.5 kg) carried -- Allowance: 0.0)
-🏟️ Course: Taunton (right-handed, sharp track)
-📏 Distance: 28.5 furlongs (🔽 Dropping down to 25.5 today)
-🌱 Going: GF
-👜 Prize: 💰 7K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2025-03-16 16:32:00 | ⏳ Time between runs: 23 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/1P/0U
-🥇L2 Result: 5 / 🏇 6 runners. 
-💰L2 Odds: 4.5 🔥
-📝L2 Comment: 🎯 led, mistake and briefly headed 7th, headed 13th, soon rallied, ❄️ weakened before 2 out
-🏆L2 RaceName: Get Daily Tips At racingtv.com Mares' Handicap Chase (Challenger Mares' Chase Qualifier) (GBB)
-📋L2 Type: 4HcChM
-🎽 L2 Jockey: J Best- (⚖️ Weight: 155.0 lbs (70.5 kg) carried -- Allowance: 0.0)
-🏟️ Course: Market Rasen (right-handed, sharp, undulating track with easy fences)
-📏 Distance: 24.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: G
-👜 Prize: 💰 7K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 13 | Flintara🐎 10 years old  mare, b, 150 lbs.
 📊 Race Record: 4/26 total wins (🏅 15% SR) | At this age & race type: 1/8 wins (🎯 12% SR)
 📊 Career Trend: Speed is improving (last 3: [99.0, 31.0, 64.0]), Results are declining (last 3: [2.0, 4.0, 3.0]), Official ratings are not enough data, Odds are declining (career: erratic in band 0.8–200.0 | recent: consistent in band 1.8–14.0)
 📉 Recent vs Career: Speed is worsening, Results are improving, Odds are improving (last 3: [12.0, 14.0, 7.5])
 📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 4
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 3.7, Unexposed rating -4.3
    • This type: avg runs 2.9, Unexposed rating -5.1
@@ -855,11 +585,11 @@ Past runs with non-runs:
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: Leith Hill Chasers
 🏠 Owner: Leith Hill Chasers (Overall SR: 3.0/14.0 = 21.4%% | Rank: 5, Turf Rank: ?, AW Rank: ?)
-   • Turf: 3.0/14.0 = 21.4%
+   • Turf: 3.0/14.0 = 0.21%
 (No previous owner(s))
-👤 Trainer: Richard J Bandey 1 runners this race.(Overall SR: 24.0/248.0 = 9.7%% | Conn Rank: 11, Turf Rank: ?, AW Rank: ?)
-   • Turf: 24.0/242.0 = 9.9%
-   • 14-day form: (0.0/5.0 runs) (Rank: 7) RTF: 40.0 (OVR: 6%)
+👤 Trainer: Richard J Bandey 1 runners this race. (Overall SR: 24/248 = 0.1% | Conn Rank: 11.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 24/242 = 0.1%
+   • 14-day form: (0/5 runs) (Rank: 7) RTF: 40.0 (OVR: 6%)
 (No previous trainer(s))
 🏇 Jockey: Tom Cannon(14d rank: 3, 5Y rank: 5 | Turf: ? | AW: ?) 🏇 Tom Cannon winSR: 0.0% | 🏆 Better Alternative: H Bannister (3/13 - 23.0%)
    • 14-day form: 29% (4.0/14.0 runs) RTF: N/A (OVR: 7%) | 5Y: 0/0 (SR: 0.0)
@@ -871,44 +601,17 @@ Past runs with non-runs:
 📉 OFR: 105.0 (Rank: 12)
 📈 RPR: 131.0 (Rank: 3)
 📉 TS: 82.0 (Rank: 12)
-🏟️ Course Wins/Runs: 0/1 | SR: 0.0%
-📏 Distance Wins/Runs: 2/3 | SR: 66.7%
-🌱 Going Wins/Runs: 0/6 | SR: 0.0%
+🏟️ Course Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 2/3 | SR: 0.67
+🌱 Going Wins/Runs: 0/6 | SR: 0.0
 📊 Form: 22-P43 → Score: 0.13 (Rank: 4)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-03-16 16:32:00 | ⏳ Time between runs: 31 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/1P/0U
-🥇L1 Result: 3 🥉 / 🏇 6 runners. 
-💰L1 Odds: 7.5 📉
-📝L1 Comment: 🎯 prominent, not fluent 4th, outpaced home turn, rallied before 3 out, went third before 2 out, ❄️ weakened approaching last
-🏆L1 RaceName: Get Daily Tips At racingtv.com Mares' Handicap Chase (Challenger Mares' Chase Qualifier) (GBB)
-📋L1 Type: 4HcChM
-🎽 L1 Jockey: H Bannister- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0)
-🏟️ Course: Market Rasen (right-handed, sharp, undulating track with easy fences)
-📏 Distance: 24.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: G
-👜 Prize: 💰 7K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2025-02-07 13:42:00 | ⏳ Time between runs: 37 days ago
-🏆 1st: 2, 2nd: No runs since, 3rd: No runs since -  ✅ | 📊 1-3: 0W/1P/0U | 🐴 Also rans: 0W/1P/0U
-🥇L2 Result: 4 / 🏇 8 runners. 
-💰L2 Odds: 14.0 📉
-📝L2 Comment: 🎯 prominent, lost position and slow jump 3rd, in rear 4th, headway 3 out, ❄️ weakened 2 out
-🏆L2 RaceName: Classic Additions Limited Mares' Handicap Chase (Challenger Mares Chase Series Qualifier) (GBB Race)
-📋L2 Type: 4HcChM
-🎽 L2 Jockey: H Bannister- (⚖️ Weight: 163.0 lbs (74.1 kg) carried -- Allowance: 0.0)
-🏟️ Course: Bangor-on-Dee (left-handed, fairly sharp track)
-📏 Distance: 24.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: S
-👜 Prize: 💰 6K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 11 | Gazette Bourgeoise🐎 9 years old  mare, b, 151 lbs.
 📊 Race Record: 3/31 total wins (🏅 10% SR) | At this age & race type: 1/16 wins (🎯 6% SR)
 📊 Career Trend: Speed is improving (last 3: [73.0, 87.0, 59.0]), Results are declining (last 3: [4.0, 2.0, 4.0]), Official ratings are not enough data, Odds are declining (career: erratic in band 0.8–33.0 | recent: consistent in band 3.5–11.0)
 📉 Recent vs Career: Speed is about the same, Results are about the same, Odds are improving (last 3: [11.0, 4.0, 4.0])
 📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 3
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 3.9, Unexposed rating -12.1
    • This type: avg runs 3.0, Unexposed rating -13.0
@@ -931,11 +634,11 @@ Horse quote: 2025-01-01 at Fakenham (21f): "We have not long had Gazette Bourgeo
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: Jean-Paul Bannier & Michele Bannier
 🏠 Owner: A H Harvey (Overall SR: 3.0/31.0 = 9.7%% | Rank: 9, Turf Rank: ?, AW Rank: ?)
-   • Turf: 3.0/31.0 = 9.7%
+   • Turf: 3.0/31.0 = 0.1%
 (No previous owner(s))
-👤 Trainer: Ben Case 1 runners this race.(Overall SR: 29.0/352.0 = 8.2%% | Conn Rank: 13, Turf Rank: ?, AW Rank: ?)
-   • Turf: 29.0/336.0 = 8.6%
-   • 14-day form: (0.0/2.0 runs) (Rank: 7) RTF: 33.0 (OVR: 0%)
+👤 Trainer: Ben Case 1 runners this race. (Overall SR: 29/352 = 0.08% | Conn Rank: 13.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 29/336 = 0.09%
+   • 14-day form: (0/2 runs) (Rank: 7) RTF: 33.0 (OVR: 0%)
 (No previous trainer(s))
 🏇 Jockey: Jack Quinlan(14d rank: 9, 5Y rank: 10 | Turf: ? | AW: ?) 🏇 Jack Quinlan winSR: 0.0% | 🏆 Better Alternative: H Bannister (3/18 - 17.0%)
    • 14-day form: 11% (1.0/9.0 runs) RTF: N/A (OVR: 7%) | 5Y: 0/0 (SR: 0.0)
@@ -947,44 +650,17 @@ Horse quote: 2025-01-01 at Fakenham (21f): "We have not long had Gazette Bourgeo
 📉 OFR: 106.0 (Rank: 10)
 📈 RPR: 132.0 (Rank: 1)
 📉 TS: 119.0 (Rank: 4)
-🏟️ Course Wins/Runs: 0/3 | SR: 0.0%
-📏 Distance Wins/Runs: 1/7 | SR: 14.3%
-🌱 Going Wins/Runs: 1/13 | SR: 7.7%
+🏟️ Course Wins/Runs: 0/3 | SR: 0.0
+📏 Distance Wins/Runs: 1/7 | SR: 0.14
+🌱 Going Wins/Runs: 1/13 | SR: 0.08
 📊 Form: 241424 → Score: 0.07 (Rank: 11)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-03-16 16:32:00 | ⏳ Time between runs: 31 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/1P/0U
-🥇L1 Result: 4 / 🏇 6 runners. 
-💰L1 Odds: 4.0 🔥
-📝L1 Comment: 🎯 prominent, outpaced and lost ground after 4 out, rallied before 3 out, ❄️ weakened after 2 out
-🏆L1 RaceName: Get Daily Tips At racingtv.com Mares' Handicap Chase (Challenger Mares' Chase Qualifier) (GBB)
-📋L1 Type: 4HcChM
-🎽 L1 Jockey: J Quinlan- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0)
-🏟️ Course: Market Rasen (right-handed, sharp, undulating track with easy fences)
-📏 Distance: 24.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: G
-👜 Prize: 💰 7K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2025-02-27 16:10:00 | ⏳ Time between runs: 17 days ago
-🏆 1st: No runs since, 2nd: 4, 3rd: 3 -  ❓ | 📊 1-3: 0W/1P/1U | 🐴 Also rans: 0W/0P/0U
-🥇L2 Result: 2 🥈 / 🏇 5 runners. 
-💰L2 Odds: 4.0 🔥
-📝L2 Comment: raced in second throughout, not pace to challenge
-🏆L2 RaceName: Freda Woolley Memorial Mares' Handicap Chase (Challenger Mares' Series Qualifier) (GBB Race)
-📋L2 Type: 4HcChM
-🎽 L2 Jockey: H Bannister- (⚖️ Weight: 157.0 lbs (71.4 kg) carried -- Allowance: 0.0)
-🏟️ Course: Taunton (right-handed, sharp track)
-📏 Distance: 23.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: S
-👜 Prize: 💰 7K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 14 | Getbazoutofhere🐎 9 years old  mare, ch, 142 lbs.
 📊 Race Record: 2/21 total wins (🏅 10% SR) | At this age & race type: 2/9 wins (🎯 22% SR)
 📊 Career Trend: Speed is improving (last 3: [94.0, 72.0, 43.0]), Results are stable (last 3: [2.0, 3.0, 3.0]), Official ratings are not enough data, Odds are declining (career: erratic in band 3.0–28.0 | recent: consistent in band 3.0–10.0)
 📉 Recent vs Career: Speed is improving, Results are improving, Odds are improving (last 3: [9.0, 3.5, 3.5])
 📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 2
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 3.9, Unexposed rating -5.1
    • This type: avg runs 3.0, Unexposed rating -6.0
@@ -1004,11 +680,11 @@ Past runs with non-runs:
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: Yorton Farm Stud
 🏠 Owner: I M Lewis (Overall SR: 2.0/24.0 = 8.3%% | Rank: 11, Turf Rank: ?, AW Rank: ?)
-   • Turf: 2.0/24.0 = 8.3%
+   • Turf: 2.0/24.0 = 0.08%
 (No previous owner(s))
-👤 Trainer: Tom Gretton 1 runners this race.(Overall SR: 12.0/231.0 = 5.2%% | Conn Rank: 15, Turf Rank: ?, AW Rank: ?)
-   • Turf: 12.0/230.0 = 5.2%
-   • 14-day form: (0.0/0.0 runs) (Rank: 14) RTF: nan (OVR: 0%)
+👤 Trainer: Tom Gretton 1 runners this race. (Overall SR: 12/231 = 0.05% | Conn Rank: 15.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 12/230 = 0.05%
+   • 14-day form:  (Rank: 14) RTF: N/A (OVR: 0%)
 (No previous trainer(s))
 🏇 Jockey: David Noonan(14d rank: 10, 5Y rank: 12 | Turf: ? | AW: ?) 🏇 David Noonan winSR: 29.0% | 🏆 Better Alternative: D Noonan (2/7 - 29.0%)
    • 14-day form: 0% (0.0/12.0 runs) RTF: N/A (OVR: 2%) | 5Y: 0/0 (SR: 0.0)
@@ -1020,44 +696,17 @@ Past runs with non-runs:
 📉 OFR: 97.0 (Rank: 14)
 📈 RPR: 131.0 (Rank: 3)
 📉 TS: 115.0 (Rank: 6)
-🏟️ Course Wins/Runs: 0/1 | SR: 0.0%
-📏 Distance Wins/Runs: 2/5 | SR: 40.0%
-🌱 Going Wins/Runs: 2/6 | SR: 33.3%
+🏟️ Course Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 2/5 | SR: 0.4
+🌱 Going Wins/Runs: 2/6 | SR: 0.33
 📊 Form: 1123P3 → Score: 0.22 (Rank: 1)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-03-24 16:00:00 | ⏳ Time between runs: 23 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 3 🥉 / 🏇 4 runners. 
-💰L1 Odds: 3.5 🔥
-📝L1 Comment: raced in second, pressed winner from 17th, lost second after 2 out, no extra approaching last
-🏆L1 RaceName: Wincanton Supports The RSA Mares' Handicap Chase (Challenger Mares' Chase Series Qual') (GBB Race)
-📋L1 Type: 4HcChM
-🎽 L1 Jockey: D Noonan- (⚖️ Weight: 146.0 lbs (66.4 kg) carried -- Allowance: 0.0)
-🏟️ Course: Wincanton (right-handed, galloping track)
-📏 Distance: 25.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: G
-👜 Prize: 💰 7K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2025-01-19 15:20:00 | ⏳ Time between runs: 64 days ago
-🏆 1st: No runs since, 2nd: 1, 3rd: 3 🥇 -  ❓ | 📊 1-3: 1W/1P/0U | 🐴 Also rans: 0W/2P/1U
-🥇L2 Result: nan / 🏇 11 runners. 
-💰L2 Odds: 3.5 🔥
-📝L2 Comment: 🔄 midfield, not fluent 7th, outpaced and dropped to rear 8th, struggling 9th, bad mistake and pulled up quickly 10th
-🏆L2 RaceName: Sky Bet Queen Boudicca Series Final Mares' Handicap Chase (GBB Race)
-📋L2 Type: 2HcChM
-🎽 L2 Jockey: S Bowen- (⚖️ Weight: 142.0 lbs (64.5 kg) carried -- Allowance: 0.0)
-🏟️ Course: Fakenham (left-handed, sharp, undulating track)
-📏 Distance: 21.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: G
-👜 Prize: 💰 26K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 8 | Kosasiempre🐎 7 years old  mare, b, 154 lbs.
 📊 Race Record: 3/16 total wins (🏅 19% SR) | At this age & race type: 1/4 wins (🎯 25% SR)
 📊 Career Trend: Speed is declining (last 3: [103.0, 108.0, 63.0]), Results are stable (last 3: [1.0, 2.0, 4.0]), Official ratings are not enough data, Odds are declining (career: erratic in band 0.9–125.0 | recent: consistent in band 0.9–4.0)
 📉 Recent vs Career: Speed is improving, Results are improving, Odds are improving (last 3: [0.909, 2.75, 3.0])
 📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 3
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 4.2, Unexposed rating +0.2
    • This type: avg runs 2.9, Unexposed rating -1.1
@@ -1078,11 +727,11 @@ Horse quote: 2024-12-01 at Leicester (22.5f): "Kosasiempre did it well and we we
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: Ecurie Biraben, D Biraben & A Biraben
 🏠 Owner: Fakenham Race Club (Overall SR: 8.0/32.0 = 25%% | Rank: 2, Turf Rank: ?, AW Rank: ?)
-   • Turf: 8.0/32.0 = 25%
+   • Turf: 8.0/32.0 = 0.25%
 (No previous owner(s))
-👤 Trainer: Stuart Edmunds 1 runners this race.(Overall SR: 80.0/526.0 = 15.2%% | Conn Rank: 4, Turf Rank: ?, AW Rank: ?)
-   • Turf: 76.0/505.0 = 15%
-   • 14-day form: (0.0/1.0 runs) (Rank: 7) RTF: 100.0 (OVR: 0%)
+👤 Trainer: Stuart Edmunds 1 runners this race. (Overall SR: 80/526 = 0.15% | Conn Rank: 4.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 76/505 = 0.15%
+   • 14-day form: (0/1 runs) (Rank: 7) RTF: 100.0 (OVR: 0%)
 (No previous trainer(s))
 🏇 Jockey: Harry Reed(14d rank: 1, 5Y rank: 13 | Turf: ? | AW: ?) 🏇 Harry Reed winSR: 0.0% | 🏆 Better Alternative: C Hammond (2/4 - 50.0%)
    • 14-day form: 38% (3.0/8.0 runs) RTF: N/A (OVR: 0%) | 5Y: 0/0 (SR: 0.0)
@@ -1096,42 +745,15 @@ Horse quote: 2024-12-01 at Leicester (22.5f): "Kosasiempre did it well and we we
 📉 TS: 122.0 (Rank: 1)
 🏟️ Course Wins/Runs: 0/0 | SR: N/A
 📏 Distance Wins/Runs: 0/0 | SR: N/A
-🌱 Going Wins/Runs: 2/6 | SR: 33.3%
+🌱 Going Wins/Runs: 2/6 | SR: 0.33
 📊 Form: 2312P4 → Score: 0.13 (Rank: 5)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-03-07 15:55:00 | ⏳ Time between runs: 40 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 4 / 🏇 6 runners. 
-💰L1 Odds: 3.0 🔥
-📝L1 Comment: jumped left on occasions, took keen hold, 🔄 held up in rear, headway 9th, left in fourth 3 out, ❄️ weakened approaching last
-🏆L1 RaceName: Defence Medical Rehabilitation Centre Mares Handicap Chase (Challenger Mares Chase Series Qual)(GBB)
-📋L1 Type: 4HcChM
-🎽 L1 Jockey: C Hammond- (⚖️ Weight: 158.0 lbs (71.8 kg) carried -- Allowance: 0.0)
-🏟️ Course: Leicester (right-handed, galloping, testing track)
-📏 Distance: 20.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: GS
-👜 Prize: 💰 5K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2025-01-23 15:40:00 | ⏳ Time between runs: 43 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: 3 -  ❓ | 📊 1-3: 0W/1P/0U | 🐴 Also rans: 0W/1P/1U
-🥇L2 Result: nan / 🏇 8 runners. 
-💰L2 Odds: 2.75 🔥
-📝L2 Comment: 🔄 held up in rear, outpaced 3 out, soon lost touch, pulled up before 2 out
-🏆L2 RaceName: Pertemps Network Mares' Handicap Chase (Challenger Mares' Chase Series Qualifier) (GBB Race)
-📋L2 Type: 4HcChM
-🎽 L2 Jockey: C Gethings- (⚖️ Weight: 165.0 lbs (75.0 kg) carried -- Allowance: 0.0)
-🏟️ Course: Huntingdon (right-handed, flat, fast track)
-📏 Distance: 23.5 furlongs (🔼 Up to 25.5 today)
-🌱 Going: S
-👜 Prize: 💰 6K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 9 | Happy Dex🐎 8 years old  mare, gr, 152 lbs.
 📊 Race Record: 3/17 total wins (🏅 18% SR) | At this age & race type: 0/10 wins (🎯 0% SR)
 📊 Career Trend: Speed is declining (last 3: [77.0, 66.0, 23.0]), Results are improving (last 3: [6.0, 6.0, 3.0]), Official ratings are not enough data, Odds are improving (career: erratic in band 0.1–200.0 | recent: erratic in band 2.5–200.0)
 📉 Recent vs Career: Speed is worsening, Results are worsening, Odds are worsening (last 3: [80.0, 8.5, 28.0])
 📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 3
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 1.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 4.1, Unexposed rating -5.9
    • This type: avg runs 3.0, Unexposed rating -7.0
@@ -1151,11 +773,11 @@ Horse quote: 2022-08-07 at Downpatrick (19f): "Happy D'Ex has been a bit disappo
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: S C E A De La Chaussee
 🏠 Owner: Graham Wilson (Overall SR: 6.0/67.0 = 9.0%% | Rank: 10, Turf Rank: ?, AW Rank: ?)
-   • Turf: 6.0/67.0 = 9%
+   • Turf: 6.0/67.0 = 0.09%
 (No previous owner(s))
-👤 Trainer: Sheila Lewis 1 runners this race.(Overall SR: 19.0/296.0 = 6.4%% | Conn Rank: 14, Turf Rank: ?, AW Rank: ?)
-   • Turf: 19.0/296.0 = 6.4%
-   • 14-day form: (0.0/4.0 runs) (Rank: 7) RTF: 25.0 (OVR: 7%)
+👤 Trainer: Sheila Lewis 1 runners this race. (Overall SR: 19/296 = 0.06% | Conn Rank: 14.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 19/296 = 0.06%
+   • 14-day form: (0/4 runs) (Rank: 7) RTF: 25.0 (OVR: 7%)
 (No previous trainer(s))
 🏇 Jockey: Harry Kimber(14d rank: 10, 5Y rank: 7 | Turf: ? | AW: ?) 🏇 Harry Kimber winSR: 0.0% | 🏆 Better Alternative: S Bowen (1/1 - 100.0%)
    • 14-day form: 0% (0.0/3.0 runs) RTF: N/A (OVR: 13%) | 5Y: 0/0 (SR: 0.0)
@@ -1167,35 +789,8 @@ Horse quote: 2022-08-07 at Downpatrick (19f): "Happy D'Ex has been a bit disappo
 📉 OFR: 107.0 (Rank: 9)
 📈 RPR: 125.0 (Rank: 13)
 📉 TS: 82.0 (Rank: 12)
-🏟️ Course Wins/Runs: 0/1 | SR: 0.0%
+🏟️ Course Wins/Runs: 0/1 | SR: 0.0
 📏 Distance Wins/Runs: 0/0 | SR: N/A
-🌱 Going Wins/Runs: 1/4 | SR: 25.0%
+🌱 Going Wins/Runs: 1/4 | SR: 0.25
 📊 Form: P6-63U → Score: 0.07 (Rank: 10)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-04-02 13:45:00 | ⏳ Time between runs: 14 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: nan / 🏇 4 runners. 
-💰L1 Odds: 28.0 ❄️
-📝L1 Comment: 🎯 led, hit 7th, lost two places home turn, 5 lengths third when bad mistake and unseated 4 out
-🏆L1 RaceName: Birthday Bonanza Mares' Handicap Chase (GBB Race)
-📋L1 Type: 4HcChM
-🎽 L1 Jockey: S Houlihan- (⚖️ Weight: 158.0 lbs (71.8 kg) carried -- Allowance: 0.0)
-🏟️ Course: Ludlow (right-handed, sharp track)
-📏 Distance: 20.0 furlongs (🔼 Up to 25.5 today)
-🌱 Going: G
-👜 Prize: 💰 6K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2025-03-09 14:20:00 | ⏳ Time between runs: 23 days ago
-🏆 1st: No runs since, 2nd: 2, 3rd: - -  ❓ | 📊 1-3: 0W/1P/1U | 🐴 Also rans: 0W/0P/0U
-🥇L2 Result: 3 🥉 / 🏇 3 runners. 
-💰L2 Odds: 8.5 📉
-📝L2 Comment: raced in second, dropped to last and pushed along 7th, outpaced and lost touch 9th, tailed off
-🏆L2 RaceName: Kathleen Blake Memorial Mares' Handicap Chase (GBB Race)
-📋L2 Type: 3HcChM
-🎽 L2 Jockey: S Houlihan- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0)
-🏟️ Course: Warwick (left-handed, sharp track)
-📏 Distance: 16.5 furlongs (🔼 Up to 25.5 today)
-🌱 Going: G
-👜 Prize: 💰 8K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------

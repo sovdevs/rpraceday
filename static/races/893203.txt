@@ -45,7 +45,7 @@ Legend:
 📊 Career Trend: Speed is declining (last 3: [63.0, 94.0, 39.0]), Results are stable (last 3: [2.0, 3.0, 2.0]), Official ratings are not enough data, Odds are declining (career: consistent in band 0.8–5.0 | recent: consistent in band 0.8–5.0)
 📉 Recent vs Career: Speed is about the same, Results are about the same, Odds are about the same (last 3: [4.0, 1.875, 0.833])
 📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 1
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 4.2, Unexposed rating +1.2
    • This type: avg runs 3.0, Unexposed rating +0.0
@@ -66,11 +66,11 @@ Legend:
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: Mme Isabelle De Saint Anthost
 🏠 Owner: Value Racing - Jackstell (Overall SR: nan/nan = N/A% | Rank: nan, Turf Rank: ?, AW Rank: ?)
-   • Turf: nan/nan = N/A
+   • Turf: nan/nan = 0.0%
 (No previous owner(s))
-👤 Trainer: Jamie Snowden 1 runners this race.(Overall SR: 141.0/727.0 = 19.4%% | Conn Rank: 5, Turf Rank: ?, AW Rank: ?)
-   • Turf: 141.0/721.0 = 19.6%
-   • 14-day form: (2.0/14.0 runs) (Rank: 8) RTF: 43.0 (OVR: 26%)
+👤 Trainer: Jamie Snowden 1 runners this race. (Overall SR: 141/727 = 0.19% | Conn Rank: 5.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 141/721 = 0.2%
+   • 14-day form: (2/14 runs) (Rank: 8) RTF: 43.0 (OVR: 26%)
 (No previous trainer(s))
 🏇 Jockey: Gavin Sheehan(14d rank: 3, 5Y rank: 2 | Turf: ? | AW: ?) 🏇 Gavin Sheehan winSR: 0.0% (No better alternative found.)
    • 14-day form: 18% (3.0/17.0 runs) RTF: N/A (OVR: 21%) | 5Y: 0/0 (SR: 0.0)
@@ -83,41 +83,14 @@ Legend:
 📈 RPR: 113.0 (Rank: 1)
 📉 TS: 103.0 (Rank: 1)
 🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/1 | SR: 0.0%
-🌱 Going Wins/Runs: 0/1 | SR: 0.0%
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 3-1232 → Score: 0.19 (Rank: 5)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-03-30 13:10:00 | ⏳ Time between runs: 17 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 2 🥈 / 🏇 4 runners. 
-💰L1 Odds: 0.833 🔥🔥
-📝L1 Comment: raced in third, went second but outpaced before last, kept on
-🏆L1 RaceName: Howden Maiden Hurdle (GBB Race)
-📋L1 Type: 3MdH
-🎽 L1 Jockey: G Sheehan- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0)
-🏟️ Course: Ascot (right-handed, galloping, testing track with stiff fences)
-📏 Distance: 19.5 furlongs (🔽 Dropping down to 16.0 today)
-🌱 Going: G
-👜 Prize: 💰 6K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2024-12-18 11:55:00 | ⏳ Time between runs: 102 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: 2 -  ❓ | 📊 1-3: 0W/1P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L2 Result: 3 🥉 / 🏇 12 runners. 
-💰L2 Odds: 1.875 🔥🔥
-📝L2 Comment: 🎯 led, headed but pressed leader after 3rd, 🎯 led again 6th, headed after 2 out, no extra and lost second run-in
-🏆L2 RaceName: Watch Unbridled On attheraces.com Maiden Hurdle (GBB Race)
-📋L2 Type: 4MdH
-🎽 L2 Jockey: G Sheehan- (⚖️ Weight: 158.0 lbs (71.8 kg) carried -- Allowance: 0.0)
-🏟️ Course: Lingfield (left-handed, sharp, undulating track)
-📏 Distance: 19.5 furlongs (🔽 Dropping down to 16.0 today)
-🌱 Going: S
-👜 Prize: 💰 4K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 3 | Berkenshtaaap🐎 5 years old  gelding, b, 159 lbs.
 📊 Race Record: 1/3 total wins (🏅 33% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
 ⚠️ Not enough data to assess trends — only 3 run(s).
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 4.0, Unexposed rating +4.0
    • This type: avg runs 2.9, Unexposed rating +2.9
@@ -138,11 +111,11 @@ Past runs with non-runs:
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: Drombeg Stud
 🏠 Owner: Mrs Diana L Whateley (Overall SR: 44.0/180.0 = 24.4%% | Rank: 2, Turf Rank: ?, AW Rank: ?)
-   • Turf: 44.0/180.0 = 24.4%
+   • Turf: 44.0/180.0 = 0.24%
 (No previous owner(s))
-👤 Trainer: Olly Murphy 4 runners this race.(Overall SR: 302.0/1439.0 = 21.0%% | Conn Rank: 1, Turf Rank: ?, AW Rank: ?)
-   • Turf: 297.0/1388.0 = 21.4%
-   • 14-day form: (2.0/16.0 runs) (Rank: 9) RTF: 44.0 (OVR: 23%)
+👤 Trainer: Olly Murphy 4 runners this race. (Overall SR: 302/1439 = 0.21% | Conn Rank: 1.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 297/1388 = 0.21%
+   • 14-day form: (2/16 runs) (Rank: 9) RTF: 44.0 (OVR: 23%)
 (No previous trainer(s))
 🏇 Jockey: Sean Bowen(14d rank: 4, 5Y rank: 1 | Turf: ? | AW: ?) 🏇 Sean Bowen winSR: 0.0% (No better alternative found.)
    • 14-day form: 15% (4.0/27.0 runs) RTF: N/A (OVR: 19%) | 5Y: 0/0 (SR: 0.0)
@@ -152,43 +125,16 @@ Past runs with non-runs:
 🔦 Spotlight: Irish point winner (yielding) who bettered his disappointing bumper debut when third of six at Taunton (heavy) in February; probably needs to improve again to make a winning hurdle debut but riding arrangements suggest he's the pick of Olly Murphy's four runners.
 📊 **RANKS AND FLAGS**
 🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/2 | SR: 0.0%
+📏 Distance Wins/Runs: 0/2 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 153 → Score: 0.15 (Rank: 7)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-02-27 16:45:00 | ⏳ Time between runs: 48 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 3 🥉 / 🏇 6 runners. 
-💰L1 Odds: 4.5 🔥
-📝L1 Comment: 🔄 towards rear, headway home turn, short of room over 2f out, ridden over 1f out, no impression
-🏆L1 RaceName: Free Racing On Monday 10th March Open National Hunt Flat Race (Category 1 Elimination) (GBB Race)
-📋L1 Type: 5NHF
-🎽 L1 Jockey: S Bowen- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0)
-🏟️ Course: Taunton (right-handed, sharp track)
-📏 Distance: 16.5 furlongs (🔽 Dropping down to 16.0 today)
-🌱 Going: HY
-👜 Prize: 💰 3K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2024-12-03 13:15:00 | ⏳ Time between runs: 86 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/1P/0U
-🥇L2 Result: 5 / 🏇 9 runners. 
-💰L2 Odds: 2.25 🔥
-📝L2 Comment: took keen hold, in rear, headway back straight, outpaced from 4f out, lost fourth 1f out
-🏆L2 RaceName: attheraces.com/marketmovers National Hunt Flat Race (Conditional/Amateur Riders) (Cat 1 Elim') (GBB)
-📋L2 Type: 5NHF
-🎽 L2 Jockey: L Saunders- (⚖️ Weight: 142.0 lbs (64.5 kg) carried -- Allowance: 7.0)
-🏟️ Course: Southwell (left-handed, sharp, flat track)
-📏 Distance: 16.0 furlongs (➡️ Same trip as today)
-🌱 Going: GS
-👜 Prize: 💰 2K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 9 | Ronnies Rules💤🐎 6 years old  gelding, b, 159 lbs.
 📊 Race Record: 4/7 total wins (🏅 57% SR) | At this age & race type: 0/2 wins (🎯 0% SR)
 📊 Career Trend: Speed is improving (last 3: [54.0, 93.0, 66.0]), Results are stable (last 3: [1.0, 1.0, 1.0]), Official ratings are not enough data, Odds are stable (career: consistent in band 0.8–4.5 | recent: consistent in band 0.8–4.0)
 📉 Recent vs Career: Speed is about the same, Results are about the same, Odds are about the same (last 3: [1.2, 4.0, 2.75])
 📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 4
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 1.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 4.2, Unexposed rating +2.2
    • This type: avg runs 3.0, Unexposed rating +1.0
@@ -207,11 +153,11 @@ Past runs with non-runs:
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: Mrs Violet Pollard
 🏠 Owner: N Sutton And Eddie Benson (Overall SR: 1.0/3.0 = 33.3%% | Rank: nan, Turf Rank: ?, AW Rank: ?)
-   • Turf: 1.0/3.0 = 33.3%
+   • Turf: 1.0/3.0 = 0.33%
 (No previous owner(s))
-👤 Trainer: Dan Skelton 1 runners this race.(Overall SR: 399.0/2373.0 = 16.8%% | Conn Rank: 6, Turf Rank: ?, AW Rank: ?)
-   • Turf: 399.0/2373.0 = 16.8%
-   • 14-day form: (7.0/44.0 runs) (Rank: 6) RTF: 50.0 (OVR: 19%)
+👤 Trainer: Dan Skelton 1 runners this race. (Overall SR: 399/2373 = 0.17% | Conn Rank: 6.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 399/2373 = 0.17%
+   • 14-day form: (7/44 runs) (Rank: 6) RTF: 50.0 (OVR: 19%)
 (No previous trainer(s))
 🏇 Jockey: Mr Ben Sutton(5)(14d rank: 8, 5Y rank: 3 | Turf: ? | AW: ?) 🏇 Mr Ben Sutton(5) winSR: 75.0% (No better alternative found.)
    • 14-day form: 0% (0.0/2.0 runs) RTF: N/A (OVR: 14%) | 5Y: 0/0 (SR: 0.0)
@@ -221,41 +167,14 @@ Past runs with non-runs:
 🔦 Spotlight: Irish point winner who launched rules career with three Stratford bumper wins (good/good to firm) last summer; unseated rider in early stages of two novice hurdles in October but can feature if he avoids mishap here.
 📊 **RANKS AND FLAGS**
 🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 3/5 | SR: 60.0%
-🌱 Going Wins/Runs: 0/1 | SR: 0.0%
+📏 Distance Wins/Runs: 3/5 | SR: 0.6
+🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 1111UU → Score: 0.83 (Rank: 2)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2024-10-18 13:00:00 | ⏳ Time between runs: 180 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: nan / 🏇 8 runners. 
-💰L1 Odds: 2.75 🔥
-📝L1 Comment: took keen hold, 🎯 prominent, left in lead 1st, jumped right and not fluent 2nd, slipped then unseated before 3rd
-🏆L1 RaceName: £130,000 Prize Money @ Fakenham 1st January Novices' Hurdle (GBB Race)
-📋L1 Type: 4NvH
-🎽 L1 Jockey: Mr Ben Sutton- (⚖️ Weight: 146.0 lbs (66.4 kg) carried -- Allowance: 5.0)
-🏟️ Course: Fakenham (left-handed, sharp, undulating track)
-📏 Distance: 16.0 furlongs (➡️ Same trip as today)
-🌱 Going: G
-👜 Prize: 💰 4K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2024-10-07 14:17:00 | ⏳ Time between runs: 10 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/1U
-🥇L2 Result: nan / 🏇 12 runners. 
-💰L2 Odds: 4.0 🔥
-📝L2 Comment: took keen hold, pressed leader, unseated 2nd
-🏆L2 RaceName: Exim Routes Novices' Hurdle (GBB Race)
-📋L2 Type: 4NvH
-🎽 L2 Jockey: Mr Ben Sutton- (⚖️ Weight: 144.0 lbs (65.5 kg) carried -- Allowance: 5.0)
-🏟️ Course: Stratford (left-handed, sharp, flat track)
-📏 Distance: 16.5 furlongs (🔽 Dropping down to 16.0 today)
-🌱 Going: S
-👜 Prize: 💰 5K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 1 | All Well And Good🐎 5 years old  gelding, b, 159 lbs.
 📊 Race Record: 1/4 total wins (🏅 25% SR) | At this age & race type: 0/1 wins (🎯 0% SR)
 ⚠️ Not enough data to assess trends — only 4 run(s).
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 4.0, Unexposed rating +3.0
    • This type: avg runs 2.9, Unexposed rating +1.9
@@ -276,11 +195,11 @@ Past runs with non-runs:
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: Aiden Murphy
 🏠 Owner: Gary Allsopp (Overall SR: 6.0/51.0 = 11.8%% | Rank: 7, Turf Rank: ?, AW Rank: ?)
-   • Turf: 2.0/27.0 = 7.4%
+   • Turf: 2.0/27.0 = 0.07%
 (No previous owner(s))
-👤 Trainer: Olly Murphy 4 runners this race.(Overall SR: 302.0/1439.0 = 21.0%% | Conn Rank: 1, Turf Rank: ?, AW Rank: ?)
-   • Turf: 297.0/1388.0 = 21.4%
-   • 14-day form: (2.0/16.0 runs) (Rank: 9) RTF: 44.0 (OVR: 23%)
+👤 Trainer: Olly Murphy 4 runners this race. (Overall SR: 302/1439 = 0.21% | Conn Rank: 1.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 297/1388 = 0.21%
+   • 14-day form: (2/16 runs) (Rank: 9) RTF: 44.0 (OVR: 23%)
 (No previous trainer(s))
 🏇 Jockey: Beau Morgan(5)(14d rank: 8, 5Y rank: 5 | Turf: ? | AW: ?) 🏇 Beau Morgan(5) winSR: 0.0% | 🏆 Better Alternative: S Bowen (1/3 - 33.0%)
    • 14-day form: 0% (0.0/3.0 runs) RTF: N/A (OVR: 0%) | 5Y: 0/0 (SR: 0.0)
@@ -291,41 +210,14 @@ Past runs with non-runs:
 📊 **RANKS AND FLAGS**
 📈 RPR: 62.0 (Rank: 5)
 🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 1/4 | SR: 25.0%
+📏 Distance Wins/Runs: 1/4 | SR: 0.25
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 2120 → Score: 0.43 (Rank: 4)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-03-28 14:00:00 | ⏳ Time between runs: 19 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 10 / 🏇 12 runners. 
-💰L1 Odds: 1.2 🔥🔥
-📝L1 Comment: 🔄 midfield, mistake 1st, jumped left 2nd, dropped to rear 4th, lost touch before 3 out (jockey said gelding made several jumping errors)
-🏆L1 RaceName: #WearAHatDay Supporting Brain Tumour Awareness Month Maiden Hurdle (GBB Race)
-📋L1 Type: 4MdH
-🎽 L1 Jockey: S Bowen- (⚖️ Weight: 160.0 lbs (72.7 kg) carried -- Allowance: 0.0)
-🏟️ Course: Wetherby (left-handed, galloping track with stiff fences)
-📏 Distance: 16.0 furlongs (➡️ Same trip as today)
-🌱 Going: G
-👜 Prize: 💰 4K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2024-09-07 17:50:00 | ⏳ Time between runs: 201 days ago
-🏆 1st: No runs since, 2nd: 10, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/1U | 🐴 Also rans: 0W/0P/0U
-🥇L2 Result: 2 🥈 / 🏇 5 runners. 
-💰L2 Odds: 1.625 🔥🔥
-📝L2 Comment: 🎯 prominent, challenging 1f out, briefly 🎯 led final 110yds, headed final strides, just failed
-🏆L2 RaceName: Andy Townsend Memorial Open National Hunt Flat Race (Category 1 Elimination) (GBB Race)
-📋L2 Type: 5NHF
-🎽 L2 Jockey: S Bowen- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0)
-🏟️ Course: Stratford (left-handed, sharp, flat track)
-📏 Distance: 16.5 furlongs (🔽 Dropping down to 16.0 today)
-🌱 Going: G
-👜 Prize: 💰 2K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 8 | Little Ledgend🐎 5 years old  gelding, b, 159 lbs.
 📊 Race Record: 0/3 total wins (🏅 0% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
 ⚠️ Not enough data to assess trends — only 3 run(s).
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 4.0, Unexposed rating +4.0
    • This type: avg runs 2.9, Unexposed rating +2.9
@@ -347,11 +239,11 @@ Past runs with non-runs:
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: Thomas Keating
 🏠 Owner: Gracehill Uk & Partners (Overall SR: nan/nan = N/A% | Rank: nan, Turf Rank: ?, AW Rank: ?)
-   • Turf: nan/nan = N/A
+   • Turf: nan/nan = 0.0%
 (No previous owner(s))
-👤 Trainer: Olly Murphy 4 runners this race.(Overall SR: 302.0/1439.0 = 21.0%% | Conn Rank: 1, Turf Rank: ?, AW Rank: ?)
-   • Turf: 297.0/1388.0 = 21.4%
-   • 14-day form: (2.0/16.0 runs) (Rank: 9) RTF: 44.0 (OVR: 23%)
+👤 Trainer: Olly Murphy 4 runners this race. (Overall SR: 302/1439 = 0.21% | Conn Rank: 1.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 297/1388 = 0.21%
+   • 14-day form: (2/16 runs) (Rank: 9) RTF: 44.0 (OVR: 23%)
 (No previous trainer(s))
 🏇 Jockey: Lewis Stones(3)(14d rank: 8, 5Y rank: 6 | Turf: ? | AW: ?) 🏇 Lewis Stones(3) winSR: 0.0% (No better alternative found.)
    • 14-day form: 0% (0.0/8.0 runs) RTF: N/A (OVR: 33%) | 5Y: 0/0 (SR: 0.0)
@@ -361,43 +253,16 @@ Past runs with non-runs:
 🔦 Spotlight: Made the frame on Irish point debut and in both subsequent bumpers, more recently when second at Wetherby (soft) in February; should have a future over hurdles but seemingly overlooked by Sean Bowen.
 📊 **RANKS AND FLAGS**
 🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/2 | SR: 0.0%
-🌱 Going Wins/Runs: 0/1 | SR: 0.0%
+📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 4-32 → Score: 0.15 (Rank: 6)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-02-01 15:50:00 | ⏳ Time between runs: 74 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 2 🥈 / 🏇 9 runners. 
-💰L1 Odds: 1.1 🔥🔥
-📝L1 Comment: 🔄 towards rear but in touch with leaders, headway from over 3f out, soon against near rail but ⚠️ not clear run, switched left and in the clear from over 1f out, soon challenging, no extra final 110yds
-🏆L1 RaceName: Watch Race Replays At racingtv.com Open Maiden National Hunt Flat Race (Cat 3 Elim') (GBB) (Div I)
-📋L1 Type: 5MdNHF
-🎽 L1 Jockey: S Bowen- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0)
-🏟️ Course: Wetherby (left-handed, galloping track with stiff fences)
-📏 Distance: 16.0 furlongs (➡️ Same trip as today)
-🌱 Going: S
-👜 Prize: 💰 3K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2024-11-22 15:50:00 | ⏳ Time between runs: 71 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: 2 -  ❓ | 📊 1-3: 0W/1P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L2 Result: 3 🥉 / 🏇 6 runners. 
-💰L2 Odds: 7.0 📉
-📝L2 Comment: 🔄 towards rear but in touch with leaders, switched right and headway 2f out, went third and ridden over 1f out, kept on
-🏆L2 RaceName: Not Forgotten Open National Hunt Flat Race (Category 1 Elimination) (GBB Race)
-📋L2 Type: 3NHF
-🎽 L2 Jockey: S Bowen- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0)
-🏟️ Course: Ascot (right-handed, galloping, testing track with stiff fences)
-📏 Distance: 15.5 furlongs (🔼 Up to 16.0 today)
-🌱 Going: G
-👜 Prize: 💰 6K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 11 | Flirtatious Girl💤🐎 9 years old  mare, b, 152 lbs.
 📊 Race Record: 2/7 total wins (🏅 29% SR) | At this age & race type: 0/2 wins (🎯 0% SR)
 📊 Career Trend: Speed is improving (last 3: [53.0, 55.0, 79.0]), Results are stable (last 3: [6.0, 5.0, 2.0]), Official ratings are not enough data, Odds are stable (career: consistent in band 2.0–8.5 | recent: consistent in band 2.8–6.5)
 📉 Recent vs Career: Speed is improving, Results are about the same, Odds are about the same (last 3: [6.0, 2.75, 3.333])
 📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 2
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 3.9, Unexposed rating +1.9
    • This type: avg runs 2.5, Unexposed rating +0.6
@@ -418,11 +283,11 @@ Horse quote: 2021-03-13 at Sandown (16f): "Flirtatious Girl had improved at home
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: Another Gaye Syndicate
 🏠 Owner: Mrs I C Sellars And Miss D C Sellars (Overall SR: 5.0/25.0 = 20%% | Rank: 4, Turf Rank: ?, AW Rank: ?)
-   • Turf: 5.0/25.0 = 20%
+   • Turf: 5.0/25.0 = 0.2%
 (No previous owner(s))
-👤 Trainer: Kim Bailey & Mat Nicholls 4 runners this race.(Overall SR: 6.0/72.0 = 8.3%% | Conn Rank: 11, Turf Rank: ?, AW Rank: ?)
-   • Turf: 6.0/72.0 = 8.3%
-   • 14-day form: (1.0/14.0 runs) (Rank: 1) RTF: 36.0 (OVR: 0%)
+👤 Trainer: Kim Bailey & Mat Nicholls 4 runners this race. (Overall SR: 6/72 = 0.08% | Conn Rank: 11.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 6/72 = 0.08%
+   • 14-day form: (1/14 runs) (Rank: 1) RTF: 36.0 (OVR: 0%)
 (No previous trainer(s))
 🏇 Jockey: Ciaran Gethings(14d rank: 1, 5Y rank: 9 | Turf: ? | AW: ?) 🏇 Ciaran Gethings winSR: 0.0% | 🏆 Better Alternative: D Bass (2/5 - 40.0%)
    • 14-day form: 7% (1.0/14.0 runs) RTF: N/A (OVR: 14%) | 5Y: 0/0 (SR: 0.0)
@@ -432,41 +297,14 @@ Horse quote: 2021-03-13 at Sandown (16f): "Flirtatious Girl had improved at home
 🔦 Spotlight: Very lightly raced since Listed bumper win in 2021 but went close over hurdles at Doncaster (2m, good) on latest outing in March 2023 and Ciaran Gethings might well have had the pick of yard's four runners.
 📊 **RANKS AND FLAGS**
 🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 2/6 | SR: 33.3%
-🌱 Going Wins/Runs: 1/3 | SR: 33.3%
+📏 Distance Wins/Runs: 2/6 | SR: 0.33
+🌱 Going Wins/Runs: 1/3 | SR: 0.33
 📊 Form: 46/52/ → Score: 0.06 (Rank: 10)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2023-03-17 14:40:00 | ⏳ Time between runs: 761 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 2 🥈 / 🏇 13 runners. 
-💰L1 Odds: 3.333 🔥
-📝L1 Comment: 🔄 towards rear, not fluent and shaken up 3 out, headway before 2 out, went second approaching last, kept on strongly run-in, promising
-🏆L1 RaceName: Roofdec Industrial Cladding Mares' Maiden Hurdle (GBB Race)
-📋L1 Type: 4MdHM
-🎽 L1 Jockey: R Dunne- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0)
-🏟️ Course: Doncaster (left-handed, galloping, flat track)
-📏 Distance: 16.5 furlongs (🔽 Dropping down to 16.0 today)
-🌱 Going: G
-👜 Prize: 💰 5K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2022-11-15 14:45:00 | ⏳ Time between runs: 121 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/1P/1U
-🥇L2 Result: 5 / 🏇 16 runners. 
-💰L2 Odds: 2.75 🔥
-📝L2 Comment: in touch with leaders, went second 7th, no chance with winner when ridden 2 out, ❄️ weakened and lost second approaching last
-🏆L2 RaceName: Jackson Property Mares' Maiden Hurdle (GBB Race)
-📋L2 Type: 4MdHM
-🎽 L2 Jockey: D Bass- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0)
-🏟️ Course: Hereford (right-handed, sharpish and generally flat. Suits nippy types.)
-📏 Distance: 19.5 furlongs (🔽 Dropping down to 16.0 today)
-🌱 Going: GS
-👜 Prize: 💰 5K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 13 | White Noise🐎 5 years old  mare, br, 152 lbs.
 📊 Race Record: 0/1 total wins (🏅 0% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
 ⚠️ Not enough data to assess trends — only 1 run(s).
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 4.0, Unexposed rating +4.0
    • This type: avg runs 2.9, Unexposed rating +2.9
@@ -485,11 +323,11 @@ Past runs with non-runs:
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: John & Jimmy Lawler
 🏠 Owner: J Perriss (Overall SR: 8.0/65.0 = 12.3%% | Rank: 6, Turf Rank: ?, AW Rank: ?)
-   • Turf: 8.0/65.0 = 12.3%
+   • Turf: 8.0/65.0 = 0.12%
 (No previous owner(s))
-👤 Trainer: Kim Bailey & Mat Nicholls 4 runners this race.(Overall SR: 6.0/72.0 = 8.3%% | Conn Rank: 11, Turf Rank: ?, AW Rank: ?)
-   • Turf: 6.0/72.0 = 8.3%
-   • 14-day form: (1.0/14.0 runs) (Rank: 1) RTF: 36.0 (OVR: 0%)
+👤 Trainer: Kim Bailey & Mat Nicholls 4 runners this race. (Overall SR: 6/72 = 0.08% | Conn Rank: 11.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 6/72 = 0.08%
+   • 14-day form: (1/14 runs) (Rank: 1) RTF: 36.0 (OVR: 0%)
 (No previous trainer(s))
 🏇 Jockey: Harry Bannister(14d rank: 8, 5Y rank: 10 | Turf: ? | AW: ?) 🏇 Harry Bannister winSR: 0.0% (No better alternative found.)
    • 14-day form: 0% (0.0/10.0 runs) RTF: N/A (OVR: 3%) | 5Y: 0/0 (SR: 0.0)
@@ -502,27 +340,13 @@ Past runs with non-runs:
 📏 Distance Wins/Runs: 0/0 | SR: N/A
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 2 → Score: 1.0 (Rank: 1)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-02-02 14:00:00 | ⏳ Time between runs: 73 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 2 🥈 / 🏇 9 runners. 
-💰L1 Odds: 2.0 🔥🔥
-📝L1 Comment: mid-div, mstk 6th & drpd twrds rr, slgtly hmprd 9th, rdn bef 3out, went 2nd 2out & kow run-in, nt rch wnr
-🏆L1 RaceName: Coolbawn Gallops & Robert Tector Racing 5&6yo Mares Maiden
-📋L1 Type: MdPTP
-🎽 L1 Jockey: J Scallan- (⚖️ Weight: 165.0 lbs (75.0 kg) carried -- Allowance: 0.0)
-🏟️ Course: Ballinaboola (LH, flat, slight rise to finish)
-📏 Distance: 24.0 furlongs (🔽 Dropping down to 16.0 today)
-🌱 Going: S
-👜 Prize: 💰 0K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 4 | High Tea🐎 6 years old  gelding, b, 159 lbs.
 📊 Race Record: 1/5 total wins (🏅 20% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
 📊 Career Trend: Speed is not enough data (last 3: []), Results are declining (last 3: [3.0, 7.0, 1.0]), Official ratings are not enough data, Odds are improving (career: consistent in band 4.0–7.0 | recent: consistent in band 4.0–7.0)
 📉 Recent vs Career: Speed is not enough data, Results are about the same, Odds are about the same (last 3: [4.0, 5.0, 7.0])
 📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 1
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 4.2, Unexposed rating +4.2
    • This type: avg runs 3.0, Unexposed rating +3.0
@@ -541,11 +365,11 @@ Past runs with non-runs:
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: Edmond Kent
 🏠 Owner: Park View (Overall SR: 4.0/15.0 = 26.7%% | Rank: 1, Turf Rank: ?, AW Rank: ?)
-   • Turf: 4.0/15.0 = 26.7%
+   • Turf: 4.0/15.0 = 0.27%
 (No previous owner(s))
-👤 Trainer: Kim Bailey & Mat Nicholls 4 runners this race.(Overall SR: 6.0/72.0 = 8.3%% | Conn Rank: 11, Turf Rank: ?, AW Rank: ?)
-   • Turf: 6.0/72.0 = 8.3%
-   • 14-day form: (1.0/14.0 runs) (Rank: 1) RTF: 36.0 (OVR: 0%)
+👤 Trainer: Kim Bailey & Mat Nicholls 4 runners this race. (Overall SR: 6/72 = 0.08% | Conn Rank: 11.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 6/72 = 0.08%
+   • 14-day form: (1/14 runs) (Rank: 1) RTF: 36.0 (OVR: 0%)
 (No previous trainer(s))
 🏇 Jockey: Nathan Andrews(10)(14d rank: 8, 5Y rank: 12 | Turf: ? | AW: ?) 🏇 Nathan Andrews(10) winSR: 0.0% (No better alternative found.)
    • 14-day form: 0% (0.0/1.0 runs) RTF: N/A (OVR: 0%) | 5Y: 0/0 (SR: 0.0)
@@ -558,38 +382,11 @@ Past runs with non-runs:
 📏 Distance Wins/Runs: 0/0 | SR: N/A
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 53-7F1 → Score: 0.07 (Rank: 9)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-02-15 15:30:00 | ⏳ Time between runs: 60 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 1 🥇 / 🏇 6 runners. 
-💰L1 Odds: 7.0 📉
-📝L1 Comment: mid-div, slw jmp 2nd, 5l 4th by 9th, prog to 2l 4th 4out, rdn in rr 3out, kow aftr 2out, ev ch last, wo flat
-🏆L1 RaceName: Beechlawn Motors Ltd & The INHSC 6yo+ Geldings Maiden
-📋L1 Type: MdPTP
-🎽 L1 Jockey: D McGill- (⚖️ Weight: 170.0 lbs (77.3 kg) carried -- Allowance: 0.0)
-🏟️ Course: Oldtown (RH, undulating, galloping)
-📏 Distance: 24.0 furlongs (🔽 Dropping down to 16.0 today)
-🌱 Going: Y
-👜 Prize: 💰 0K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2024-12-30 12:00:00 | ⏳ Time between runs: 47 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 1W/0P/0U
-🥇L2 Result: nan / 🏇 11 runners. 
-💰L2 Odds: 5.0 🔥
-📝L2 Comment: twrds rr of mid-div, 9th from 4th & 7th bef 5out, sl prog well bef 3out & fair 6th when fell 3out
-🏆L2 RaceName: Green Valley Transport 5yo Geldings Maiden
-📋L2 Type: MdPTP
-🎽 L2 Jockey: N McParlan- (⚖️ Weight: 170.0 lbs (77.3 kg) carried -- Allowance: 0.0)
-🏟️ Course: Dromahane (LH, galloping, steady rise home straight)
-📏 Distance: 24.0 furlongs (🔽 Dropping down to 16.0 today)
-🌱 Going: YS
-👜 Prize: 💰 0K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 6 | Kenzoko💤🐎 5 years old  gelding, b, 159 lbs.
 📊 Race Record: 0/1 total wins (🏅 0% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
 ⚠️ Not enough data to assess trends — only 1 run(s).
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 4.0, Unexposed rating +4.0
    • This type: avg runs 2.9, Unexposed rating +2.9
@@ -608,11 +405,11 @@ Past runs with non-runs:
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: Mme Karine Perreau
 🏠 Owner: Adrian Butler (Overall SR: 7.0/70.0 = 10%% | Rank: 8, Turf Rank: ?, AW Rank: ?)
-   • Turf: 5.0/55.0 = 9.1%
+   • Turf: 5.0/55.0 = 0.09%
 (No previous owner(s))
-👤 Trainer: Olly Murphy 4 runners this race.(Overall SR: 302.0/1439.0 = 21.0%% | Conn Rank: 1, Turf Rank: ?, AW Rank: ?)
-   • Turf: 297.0/1388.0 = 21.4%
-   • 14-day form: (2.0/16.0 runs) (Rank: 9) RTF: 44.0 (OVR: 23%)
+👤 Trainer: Olly Murphy 4 runners this race. (Overall SR: 302/1439 = 0.21% | Conn Rank: 1.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 297/1388 = 0.21%
+   • 14-day form: (2/16 runs) (Rank: 9) RTF: 44.0 (OVR: 23%)
 (No previous trainer(s))
 🏇 Jockey: Brendan Powell(14d rank: 1, 5Y rank: 8 | Turf: ? | AW: ?) 🏇 Brendan Powell winSR: 0.0% (No better alternative found.)
    • 14-day form: 7% (1.0/15.0 runs) RTF: N/A (OVR: 17%) | 5Y: 0/0 (SR: 0.0)
@@ -625,27 +422,13 @@ Past runs with non-runs:
 📏 Distance Wins/Runs: 0/0 | SR: N/A
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 9 → Score: 0.11 (Rank: 8)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2024-04-28 13:00:00 | ⏳ Time between runs: 353 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 9 / 🏇 12 runners. 
-💰L1 Odds: 4.0 🔥
-📝L1 Comment: mid-div & kn, 7th from 6th, no ex bef 2out, wknd aftr 2out
-🏆L1 RaceName: Goffs Punchestown Sale 4yo Geldings Maiden
-📋L1 Type: 4yMdPTP
-🎽 L1 Jockey: J G Murphy- (⚖️ Weight: 165.0 lbs (75.0 kg) carried -- Allowance: 0.0)
-🏟️ Course: Dromahane (LH, galloping, steady rise home straight)
-📏 Distance: 24.0 furlongs (🔽 Dropping down to 16.0 today)
-🌱 Going: G
-👜 Prize: 💰 0K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 7 | Linden Lane🐎 5 years old  gelding, b, 159 lbs.
 📊 Race Record: 0/5 total wins (🏅 0% SR) | At this age & race type: 0/1 wins (🎯 0% SR)
 📊 Career Trend: Speed is not enough data (last 3: [31.0]), Results are not enough data (last 3: [3.0]), Official ratings are not enough data, Odds are improving (career: consistent in band 6.0–14.0 | recent: consistent in band 6.0–14.0)
 📉 Recent vs Career: Speed is about the same, Results are about the same, Odds are about the same (last 3: [8.0, 8.0, 14.0])
 📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 0
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 4.0, Unexposed rating +3.0
    • This type: avg runs 2.9, Unexposed rating +1.9
@@ -666,11 +449,11 @@ Past runs with non-runs:
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: Carla Collins
 🏠 Owner: Baytree (Overall SR: 2.0/38.0 = 5.3%% | Rank: 10, Turf Rank: ?, AW Rank: ?)
-   • Turf: 2.0/38.0 = 5.3%
+   • Turf: 2.0/38.0 = 0.05%
 (No previous owner(s))
-👤 Trainer: Evan Williams 2 runners this race.(Overall SR: 115.0/1179.0 = 9.8%% | Conn Rank: 9, Turf Rank: ?, AW Rank: ?)
-   • Turf: 115.0/1178.0 = 9.8%
-   • 14-day form: (3.0/19.0 runs) (Rank: 6) RTF: 32.0 (OVR: 10%)
+👤 Trainer: Evan Williams 2 runners this race. (Overall SR: 115/1179 = 0.1% | Conn Rank: 9.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 115/1178 = 0.1%
+   • 14-day form: (3/19 runs) (Rank: 6) RTF: 32.0 (OVR: 10%)
 (No previous trainer(s))
 🏇 Jockey: Conor Ring(14d rank: 5, 5Y rank: 14 | Turf: ? | AW: ?) 🏇 Conor Ring winSR: 0.0% (No better alternative found.)
    • 14-day form: 11% (1.0/9.0 runs) RTF: N/A (OVR: 4%) | 5Y: 0/0 (SR: 0.0)
@@ -682,43 +465,16 @@ Past runs with non-runs:
 📈 RPR: 97.0 (Rank: 2)
 📉 TS: 40.0 (Rank: 3)
 🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/1 | SR: 0.0%
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: F-UPF3 → Score: 0.67 (Rank: 3)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-03-14 13:35:00 | ⏳ Time between runs: 33 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 3 🥉 / 🏇 7 runners. 
-💰L1 Odds: 14.0 📉
-📝L1 Comment: took keen hold, 🎯 prominent, pressed winner after 3 out, ❄️ weakened after 2 out
-🏆L1 RaceName: Robert Case Memorial Maiden Hurdle (GBB Race)
-📋L1 Type: 4MdH
-🎽 L1 Jockey: Mr B T Stone- (⚖️ Weight: 146.0 lbs (66.4 kg) carried -- Allowance: 7.0)
-🏟️ Course: Fakenham (left-handed, sharp, undulating track)
-📏 Distance: 16.0 furlongs (➡️ Same trip as today)
-🌱 Going: GS
-👜 Prize: 💰 4K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2025-01-18 12:30:00 | ⏳ Time between runs: 55 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/1P/0U
-🥇L2 Result: nan / 🏇 6 runners. 
-💰L2 Odds: 8.0 📉
-📝L2 Comment: ld, hdd 3out, rdn & drpd to 4th bef next where sltly hmprd & fell
-🏆L2 RaceName: David Harry Kelly 5yo Geldings Maiden
-📋L2 Type: MdPTP
-🎽 L2 Jockey: R Sugrue- (⚖️ Weight: 160.0 lbs (72.7 kg) carried -- Allowance: 5.0)
-🏟️ Course: Turtulla (RH, sharp, flat)
-📏 Distance: 24.0 furlongs (🔽 Dropping down to 16.0 today)
-🌱 Going: Y
-👜 Prize: 💰 0K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 7 | Linden Lane🐎 5 years old  gelding, b, 159 lbs.
 📊 Race Record: 0/5 total wins (🏅 0% SR) | At this age & race type: 0/1 wins (🎯 0% SR)
 📊 Career Trend: Speed is not enough data (last 3: [31.0]), Results are not enough data (last 3: [3.0]), Official ratings are not enough data, Odds are improving (career: consistent in band 6.0–14.0 | recent: consistent in band 6.0–14.0)
 📉 Recent vs Career: Speed is about the same, Results are about the same, Odds are about the same (last 3: [8.0, 8.0, 14.0])
 📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 0
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 4.0, Unexposed rating +3.0
    • This type: avg runs 2.9, Unexposed rating +1.9
@@ -739,11 +495,11 @@ Past runs with non-runs:
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: Carla Collins
 🏠 Owner: Baytree (Overall SR: 2.0/38.0 = 5.3%% | Rank: 10, Turf Rank: ?, AW Rank: ?)
-   • Turf: 2.0/38.0 = 5.3%
+   • Turf: 2.0/38.0 = 0.05%
 (No previous owner(s))
-👤 Trainer: Evan Williams 2 runners this race.(Overall SR: 115.0/1179.0 = 9.8%% | Conn Rank: 9, Turf Rank: ?, AW Rank: ?)
-   • Turf: 115.0/1178.0 = 9.8%
-   • 14-day form: (3.0/19.0 runs) (Rank: 6) RTF: 32.0 (OVR: 10%)
+👤 Trainer: Evan Williams 2 runners this race. (Overall SR: 115/1179 = 0.1% | Conn Rank: 9.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 115/1178 = 0.1%
+   • 14-day form: (3/19 runs) (Rank: 6) RTF: 32.0 (OVR: 10%)
 (No previous trainer(s))
 🏇 Jockey: Conor Ring(14d rank: 5, 5Y rank: 14 | Turf: ? | AW: ?) 🏇 Conor Ring winSR: 0.0% (No better alternative found.)
    • 14-day form: 11% (1.0/9.0 runs) RTF: N/A (OVR: 4%) | 5Y: 0/0 (SR: 0.0)
@@ -755,41 +511,14 @@ Past runs with non-runs:
 📈 RPR: 97.0 (Rank: 2)
 📉 TS: 40.0 (Rank: 3)
 🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/1 | SR: 0.0%
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: F-UPF3 → Score: 0.67 (Rank: 3)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-03-14 13:35:00 | ⏳ Time between runs: 33 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 3 🥉 / 🏇 7 runners. 
-💰L1 Odds: 14.0 📉
-📝L1 Comment: took keen hold, 🎯 prominent, pressed winner after 3 out, ❄️ weakened after 2 out
-🏆L1 RaceName: Robert Case Memorial Maiden Hurdle (GBB Race)
-📋L1 Type: 4MdH
-🎽 L1 Jockey: Mr B T Stone- (⚖️ Weight: 146.0 lbs (66.4 kg) carried -- Allowance: 7.0)
-🏟️ Course: Fakenham (left-handed, sharp, undulating track)
-📏 Distance: 16.0 furlongs (➡️ Same trip as today)
-🌱 Going: GS
-👜 Prize: 💰 4K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2025-01-18 12:30:00 | ⏳ Time between runs: 55 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/1P/0U
-🥇L2 Result: nan / 🏇 6 runners. 
-💰L2 Odds: 8.0 📉
-📝L2 Comment: ld, hdd 3out, rdn & drpd to 4th bef next where sltly hmprd & fell
-🏆L2 RaceName: David Harry Kelly 5yo Geldings Maiden
-📋L2 Type: MdPTP
-🎽 L2 Jockey: R Sugrue- (⚖️ Weight: 160.0 lbs (72.7 kg) carried -- Allowance: 5.0)
-🏟️ Course: Turtulla (RH, sharp, flat)
-📏 Distance: 24.0 furlongs (🔽 Dropping down to 16.0 today)
-🌱 Going: Y
-👜 Prize: 💰 0K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 12 | Ourbrowneyedgirl🐎 6 years old  mare, b, 152 lbs.
 📊 Race Record: 0/3 total wins (🏅 0% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
 ⚠️ Not enough data to assess trends — only 3 run(s).
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 4.2, Unexposed rating +4.2
    • This type: avg runs 3.0, Unexposed rating +3.0
@@ -810,11 +539,11 @@ Past runs with non-runs:
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: S Collins
 🏠 Owner: Woodhayes Racing Club (Overall SR: 6.0/26.0 = 23.1%% | Rank: 3, Turf Rank: ?, AW Rank: ?)
-   • Turf: 6.0/26.0 = 23.1%
+   • Turf: 6.0/26.0 = 0.23%
 (No previous owner(s))
-👤 Trainer: Sue Gardner 1 runners this race.(Overall SR: 11.0/217.0 = 5.1%% | Conn Rank: 15, Turf Rank: ?, AW Rank: ?)
-   • Turf: 11.0/194.0 = 5.7%
-   • 14-day form: (0.0/2.0 runs) (Rank: 13) RTF: 33.0 (OVR: 0%)
+👤 Trainer: Sue Gardner 1 runners this race. (Overall SR: 11/217 = 0.05% | Conn Rank: 15.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 11/194 = 0.06%
+   • 14-day form: (0/2 runs) (Rank: 13) RTF: 33.0 (OVR: 0%)
 (No previous trainer(s))
 🏇 Jockey: Sean Houlihan(14d rank: 7, 5Y rank: 13 | Turf: ? | AW: ?) 🏇 Sean Houlihan winSR: 0.0% (No better alternative found.)
    • 14-day form: 10% (1.0/10.0 runs) RTF: N/A (OVR: 5%) | 5Y: 0/0 (SR: 0.0)
@@ -824,41 +553,14 @@ Past runs with non-runs:
 🔦 Spotlight: Outran 80-1 odds when second of 12 in soft-ground Exeter bumper in December but was no threat to the easy winner there and was soundly beaten in a deeper bumper at Warwick in February; improvement required.
 📊 **RANKS AND FLAGS**
 🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/3 | SR: 0.0%
-🌱 Going Wins/Runs: 0/2 | SR: 0.0%
+📏 Distance Wins/Runs: 0/3 | SR: 0.0
+🌱 Going Wins/Runs: 0/2 | SR: 0.0
 📊 Form: 828 → Score: 0.06 (Rank: 11)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-02-08 16:23:00 | ⏳ Time between runs: 67 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 8 / 🏇 13 runners. 
-💰L1 Odds: 22.0 ❄️
-📝L1 Comment: took keen hold, 🔄 midfield, in touch with leaders halfway, outpaced and lost ground quickly 3f out, no impression from 2f out
-🏆L1 RaceName: Fancave Cheltenham Preview Here 6th March Mares' Open NH Flat Race (Category 1 Elimination) (GBB)
-📋L1 Type: 2NHFM
-🎽 L1 Jockey: Lucy Gardner- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0)
-🏟️ Course: Warwick (left-handed, sharp track)
-📏 Distance: 16.0 furlongs (➡️ Same trip as today)
-🌱 Going: S
-👜 Prize: 💰 9K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2024-12-06 15:55:00 | ⏳ Time between runs: 64 days ago
-🏆 1st: No runs since, 2nd: 8, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/1U | 🐴 Also rans: 0W/0P/0U
-🥇L2 Result: 2 🥈 / 🏇 12 runners. 
-💰L2 Odds: 80.0 ❄️❄️
-📝L2 Comment: took keen hold, in touch with leaders, 🎯 prominent over 5f out, outpaced from over 2f out, rallied from over 1f out, kept on well inside final furlong, went second towards finish
-🏆L2 RaceName: Southwest Rail Solutions Open National Hunt Flat Race (Category 1 Elimination) (GBB Race)
-📋L2 Type: 5NHF
-🎽 L2 Jockey: Lucy Gardner- (⚖️ Weight: 149.0 lbs (67.7 kg) carried -- Allowance: 0.0)
-🏟️ Course: Exeter (right-handed, very undulating, testing track)
-📏 Distance: 16.5 furlongs (🔽 Dropping down to 16.0 today)
-🌱 Going: S
-👜 Prize: 💰 2K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 2 | Amazing Cleni🐎 5 years old  gelding, gr, 159 lbs.
 📊 Race Record: 0/3 total wins (🏅 0% SR) | At this age & race type: 0/1 wins (🎯 0% SR)
 ⚠️ Not enough data to assess trends — only 3 run(s).
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 4.0, Unexposed rating +3.0
    • This type: avg runs 2.9, Unexposed rating +1.9
@@ -879,11 +581,11 @@ Past runs with non-runs:
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: S C E A De La Metairie
 🏠 Owner: May We Never Be Found Out Partnership 2 (Overall SR: 1.0/15.0 = 6.7%% | Rank: 9, Turf Rank: ?, AW Rank: ?)
-   • Turf: 1.0/15.0 = 6.7%
+   • Turf: 1.0/15.0 = 0.07%
 (No previous owner(s))
-👤 Trainer: Kim Bailey & Mat Nicholls 4 runners this race.(Overall SR: 6.0/72.0 = 8.3%% | Conn Rank: 11, Turf Rank: ?, AW Rank: ?)
-   • Turf: 6.0/72.0 = 8.3%
-   • 14-day form: (1.0/14.0 runs) (Rank: 1) RTF: 36.0 (OVR: 0%)
+👤 Trainer: Kim Bailey & Mat Nicholls 4 runners this race. (Overall SR: 6/72 = 0.08% | Conn Rank: 11.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 6/72 = 0.08%
+   • 14-day form: (1/14 runs) (Rank: 1) RTF: 36.0 (OVR: 0%)
 (No previous trainer(s))
 🏇 Jockey: Jack Hogan(3)(14d rank: 8, 5Y rank: 4 | Turf: ? | AW: ?) 🏇 Jack Hogan(3) winSR: 0.0% (No better alternative found.)
    • 14-day form: 0% (0.0/15.0 runs) RTF: N/A (OVR: 25%) | 5Y: 0/0 (SR: 0.0)
@@ -895,41 +597,14 @@ Past runs with non-runs:
 📈 RPR: 90.0 (Rank: 4)
 📉 TS: 45.0 (Rank: 2)
 🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/3 | SR: 0.0%
-🌱 Going Wins/Runs: 0/3 | SR: 0.0%
+📏 Distance Wins/Runs: 0/3 | SR: 0.0
+🌱 Going Wins/Runs: 0/3 | SR: 0.0
 📊 Form: 468 → Score: 0.06 (Rank: 12)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-02-27 14:35:00 | ⏳ Time between runs: 48 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 8 / 🏇 12 runners. 
-💰L1 Odds: 50.0 ❄️❄️
-📝L1 Comment: 🔄 midfield, ❄️ weakened from 3 out
-🏆L1 RaceName: Good Life Plus Free Prize Draws Novices' Hurdle (GBB Race)
-📋L1 Type: 4NvH
-🎽 L1 Jockey: T Bellamy- (⚖️ Weight: 154.0 lbs (70.0 kg) carried -- Allowance: 0.0)
-🏟️ Course: Ludlow (right-handed, sharp track)
-📏 Distance: 16.0 furlongs (➡️ Same trip as today)
-🌱 Going: S
-👜 Prize: 💰 4K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2025-02-07 16:33:00 | ⏳ Time between runs: 19 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/1U
-🥇L2 Result: 6 / 🏇 8 runners. 
-💰L2 Odds: 16.0 📉
-📝L2 Comment: 🎯 prominent, ❄️ weakened 3f out
-🏆L2 RaceName: Racing TV Open Maiden National Hunt Flat Race (Category 3 Elimination) (GBB Race) (Div II)
-📋L2 Type: 4MdNHF
-🎽 L2 Jockey: T Bellamy- (⚖️ Weight: 161.0 lbs (73.2 kg) carried -- Allowance: 0.0)
-🏟️ Course: Kempton (right-handed, sharpish, flat track)
-📏 Distance: 16.0 furlongs (➡️ Same trip as today)
-🌱 Going: S
-👜 Prize: 💰 3K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 10 | Dellahay🐎 5 years old  mare, b, 152 lbs.
 📊 Race Record: 0/3 total wins (🏅 0% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
 ⚠️ Not enough data to assess trends — only 3 run(s).
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 4.0, Unexposed rating +4.0
    • This type: avg runs 2.9, Unexposed rating +2.9
@@ -950,11 +625,11 @@ Past runs with non-runs:
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: Sarah Carter
 🏠 Owner: Miss Courtney Carter (Overall SR: 0.0/3.0 = 0%% | Rank: nan, Turf Rank: ?, AW Rank: ?)
-   • Turf: 0.0/3.0 = 0%
+   • Turf: 0.0/3.0 = 0.0%
 (No previous owner(s))
-👤 Trainer: Rebecca Curtis 1 runners this race.(Overall SR: 33.0/272.0 = 12.1%% | Conn Rank: 8, Turf Rank: ?, AW Rank: ?)
-   • Turf: 33.0/272.0 = 12.1%
-   • 14-day form: (3.0/5.0 runs) (Rank: 5) RTF: 60.0 (OVR: 12%)
+👤 Trainer: Rebecca Curtis 1 runners this race. (Overall SR: 33/272 = 0.12% | Conn Rank: 8.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 33/272 = 0.12%
+   • 14-day form: (3/5 runs) (Rank: 5) RTF: 60.0 (OVR: 12%)
 (No previous trainer(s))
 🏇 Jockey: Robert Dunne(14d rank: 5, 5Y rank: 11 | Turf: ? | AW: ?) 🏇 Robert Dunne winSR: 0.0% (No better alternative found.)
    • 14-day form: 11% (1.0/9.0 runs) RTF: N/A (OVR: 11%) | 5Y: 0/0 (SR: 0.0)
@@ -963,42 +638,15 @@ Past runs with non-runs:
 💬 Comment: Didn't show enough in bumpers to warrant serious consideration on hurdle debut
 🔦 Spotlight: Not disgraced in her first two bumpers but was well beaten at Hereford last month and can only be watched on this hurdling debut.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/1 | SR: 0.0%
-📏 Distance Wins/Runs: 0/3 | SR: 0.0%
+🏟️ Course Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 0/3 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 757 → Score: 0.05 (Rank: 13)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-03-08 16:55:00 | ⏳ Time between runs: 39 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 7 / 🏇 12 runners. 
-💰L1 Odds: 12.0 📉
-📝L1 Comment: 🎯 led, headed over 4f out, ❄️ weakened 3f out
-🏆L1 RaceName: Hereford Ladies Evening Friday 9th May Mares' Open Maiden National Hunt Flat Race (Cat 3 Elim) (GBB)
-📋L1 Type: 5MdNHFM
-🎽 L1 Jockey: J Brace- (⚖️ Weight: 146.0 lbs (66.4 kg) carried -- Allowance: 5.0)
-🏟️ Course: Hereford (right-handed, sharpish and generally flat. Suits nippy types.)
-📏 Distance: 16.0 furlongs (➡️ Same trip as today)
-🌱 Going: G
-👜 Prize: 💰 2K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2025-01-30 15:55:00 | ⏳ Time between runs: 37 days ago
-🏆 1st: No runs since, 2nd: 6, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/1U | 🐴 Also rans: 0W/0P/2U
-🥇L2 Result: 5 / 🏇 8 runners. 
-💰L2 Odds: 20.0 ❄️
-📝L2 Comment: in touch with leaders, outpaced over 3f out, ❄️ weakened and lost touch 2f out
-🏆L2 RaceName: Start Your Irish Racing Journey Mares' Open Maiden National Hunt Flat Race (Cat 3) (GBB) (Div I)
-📋L2 Type: 5MdNHFM
-🎽 L2 Jockey: J Bowen- (⚖️ Weight: 156.0 lbs (70.9 kg) carried -- Allowance: 0.0)
-🏟️ Course: Wincanton (right-handed, galloping track)
-📏 Distance: 15.0 furlongs (🔼 Up to 16.0 today)
-🌱 Going: HY
-👜 Prize: 💰 2K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 🐎 14 | Adaay Dancing🐎 4 years old  filly, b, 144 lbs.
 📊 Race Record: 0/3 total wins (🏅 0% SR) | At this age & race type: 0/1 wins (🎯 0% SR)
 ⚠️ Not enough data to assess trends — only 3 run(s).
-🧮 Runs: 0.0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
 🧪 Unexposed for age
    • All races: avg runs 4.1, Unexposed rating +3.1
    • This type: avg runs 2.6, Unexposed rating +1.6
@@ -1018,11 +666,11 @@ Past runs with non-runs:
 🧑‍🤝‍🧑**CONNECTIONS**
 🌱 Breeder: M Harris
 🏠 Owner: The Adaay Dancing Partnership (Overall SR: 0.0/3.0 = 0%% | Rank: nan, Turf Rank: ?, AW Rank: ?)
-   • Turf: 0.0/3.0 = 0%
+   • Turf: 0.0/3.0 = 0.0%
 (No previous owner(s))
-👤 Trainer: Stuart Kittow 1 runners this race.(Overall SR: 40.0/323.0 = 12.4%% | Conn Rank: 7, Turf Rank: ?, AW Rank: ?)
-   • Turf: 23.0/216.0 = 10.6%
-   • 14-day form: (0.0/0.0 runs) (Rank: 14) RTF: 86.0 (OVR: 0%)
+👤 Trainer: Stuart Kittow 1 runners this race. (Overall SR: 40/323 = 0.12% | Conn Rank: 7.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 23/216 = 0.11%
+   • 14-day form:  (Rank: 14) RTF: 86.0 (OVR: 0%)
 (No previous trainer(s))
 🏇 Jockey: Ben Godfrey(14d rank: 8, 5Y rank: 7 | Turf: ? | AW: ?) 🏇 Ben Godfrey winSR: 0.0% (No better alternative found.)
    • 14-day form: 0% (0.0/7.0 runs) RTF: N/A (OVR: 12%) | 5Y: 0/0 (SR: 0.0)
@@ -1033,34 +681,7 @@ Past runs with non-runs:
 📊 **RANKS AND FLAGS**
 📈 RPR: 96.0 (Rank: 3)
 🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/3 | SR: 0.0%
-🌱 Going Wins/Runs: 0/1 | SR: 0.0%
+📏 Distance Wins/Runs: 0/3 | SR: 0.0
+🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 976 → Score: 0.05 (Rank: 14)
----------------------------------------------------------------------------
-Past runs with non-runs:
-🏁 Past Race L1 📅 2025-03-10 14:05:00 | ⏳ Time between runs: 37 days ago
-🏆 1st: No runs since, 2nd: No runs since, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/0U | 🐴 Also rans: 0W/0P/0U
-🥇L1 Result: 6 / 🏇 9 runners. 
-💰L1 Odds: 200.0 ❄️❄️
-📝L1 Comment: took keen hold, 🔄 held up in rear, jumped left 1st, detached 5th, some headway before 2 out, never dangerous
-🏆L1 RaceName: DragonBet Proud Sponsors Of Taunton Racecourse EBF Junior "National Hunt" Hurdle (GBB Race)
-📋L1 Type: 44yH
-🎽 L1 Jockey: B Godfrey- (⚖️ Weight: 147.0 lbs (66.8 kg) carried -- Allowance: 0.0)
-🏟️ Course: Taunton (right-handed, sharp track)
-📏 Distance: 16.5 furlongs (🔽 Dropping down to 16.0 today)
-🌱 Going: G
-👜 Prize: 💰 5K
----------------------------------------------------------------------------
-🏁 Past Race L2 📅 2025-01-30 15:55:00 | ⏳ Time between runs: 38 days ago
-🏆 1st: No runs since, 2nd: 6, 3rd: No runs since -  ❓ | 📊 1-3: 0W/0P/1U | 🐴 Also rans: 0W/0P/2U
-🥇L2 Result: 7 / 🏇 8 runners. 
-💰L2 Odds: 100.0 ❄️❄️
-📝L2 Comment: took keen hold, 🔄 held up in rear, outpaced over 4f out, lost touch over 2f out
-🏆L2 RaceName: Start Your Irish Racing Journey Mares' Open Maiden National Hunt Flat Race (Cat 3) (GBB) (Div I)
-📋L2 Type: 5MdNHFM
-🎽 L2 Jockey: D Noonan- (⚖️ Weight: 143.0 lbs (65.0 kg) carried -- Allowance: 0.0)
-🏟️ Course: Wincanton (right-handed, galloping track)
-📏 Distance: 15.0 furlongs (🔼 Up to 16.0 today)
-🌱 Going: HY
-👜 Prize: 💰 2K
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------

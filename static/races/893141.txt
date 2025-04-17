@@ -20,3 +20,693 @@
 🔷 shared_race_id   🧾 horse_name1   📜 horse_name2
 📉 perfDiff         ⚖️ weight_diff   🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
+++++++++++ Dynamic Performance Table ++++++++++
+#️⃣      | 🐎                         | 🆔        | 📈        | 🎯        | 🏟️      
+number   | horse_name                | horse_id | RPR      | J-All-Prf | CRSE    
+---------------------------------------------------------------------------------
+3        | Cosmos Dainay             | 5864634  | N/A      | 9.0      | 1.0     
+14       | Arctic Flame              | 6859991  | 1.0      | 13.0     | N/A     
+8        | Minella Sergeant          | 5523783  | 4.0      | 5.0      | 1.0     
+10       | Red Or White              | 7339086  | 6.0      | 11.0     | N/A     
+13       | Alaskan View              | 6202573  | 2.0      | 8.0      | N/A     
+5        | Installment               | 6175425  | N/A      | 15.0     | N/A     
+4        | Flip Away                 | 6398076  | N/A      | 12.0     | N/A     
+11       | Sharp As Glass            | 7409426  | N/A      | 13.0     | N/A     
+15       | Pottersville              | 7409425  | N/A      | 1.0      | N/A     
+12       | Shudawudacuddagh          | 7409427  | N/A      | 1.0      | N/A     
+6        | Jacadi St Georges         | 4893320  | N/A      | 5.0      | N/A     
+1        | Astley                    | 6604816  | 3.0      | 1.0      | N/A     
+2        | Ballinaboola Jet          | 4711774  | N/A      | 10.0     | N/A     
+7        | Lion Of The Desert        | 7209401  | 5.0      | 1.0      | N/A     
+9        | Nohilltoosteep            | 4942603  | 7.0      | 5.0      | 1.0     
+
+Legend:
+⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank
+🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 🏟️ CRSE: stats_course_ratio_rank
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 3 | Cosmos Dainay🐎 5 years old  gelding, ch, 168 lbs.
+📊 Race Record: 1/5 total wins (🏅 20% SR) | At this age & race type: 0/1 wins (🎯 0% SR)
+📊 Career Trend: Speed is not enough data (last 3: []), Results are declining (last 3: [3.0, 1.0]), Official ratings are not enough data, Odds are improving (career: consistent in band 1.8–8.0 | recent: consistent in band 1.8–8.0)
+📉 Recent vs Career: Speed is not enough data, Results are about the same, Odds are about the same (last 3: [4.0, 1.75, 8.0])
+📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 1
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 1.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +3.0
+   • This type: avg runs 1.5, Unexposed rating +0.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Muhtathir (Overall SR: 30.0/245.0 = 12.2% | Rank: 6, Turf Rank: 6, AW Rank: 2)
+   • Turf: 29.0/236.0 = 12.3%
+🌿 Dam: Eclipse Dainay (Overall SR: nan/nan = N/A | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: nan/nan = N/A
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 3.0 (Rank: 1)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Point winner; carried out when 8-1 for 2m course bumper; trip fine and high on shortlist
+🔦 Spotlight: Point winner; was carried out when 8-1 for a 2m course bumper three weeks ago; will be fine with this trip and has to be high on the shortlist.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: E A R L Elevage D Ainay
+🏠 Owner: Ktda Racing (Overall SR: 12.0/85.0 = 14.1%% | Rank: 2, Turf Rank: ?, AW Rank: ?)
+   • Turf: 12.0/83.0 = 0.14%
+(No previous owner(s))
+👤 Trainer: Gordon Elliott 1 runners this race. (Overall SR: 569/3965 = 0.14% | Conn Rank: 1.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 567/3930 = 0.14%
+   • 14-day form: (10/66 runs) (Rank: 4) RTF: 51.0 (OVR: 21%)
+(No previous trainer(s))
+🏇 Jockey: Mr H C Swan(14d rank: 3, 5Y rank: 2 | Turf: ? | AW: ?) 🏇 Mr H C Swan winSR: 0.0% (No better alternative found.)
+   • 14-day form: 25% (2.0/8.0 runs) RTF: N/A (OVR: 14%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 50.0/362.0 = 13.8%
+🗞️ **PRESS OPINION**
+💬 Comment: Point winner; carried out when 8-1 for 2m course bumper; trip fine and high on shortlist
+🔦 Spotlight: Point winner; was carried out when 8-1 for a 2m course bumper three weeks ago; will be fine with this trip and has to be high on the shortlist.
+📊 **RANKS AND FLAGS**
+🏟️ Course Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/1 | SR: 0.0
+📊 Form: F-3P1C → Score: 0.56 (Rank: 1)
+------------------------------------------------------------------------------------------
+🐎 14 | Arctic Flame🐎 5 years old  mare, b, 161 lbs.
+📊 Race Record: 0/2 total wins (🏅 0% SR) | At this age & race type: 0/2 wins (🎯 0% SR)
+⚠️ Not enough data to assess trends — only 2 run(s).
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +2.0
+   • This type: avg runs 1.5, Unexposed rating -0.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Walk In The Park (Overall SR: 401.0/2543.0 = 15.8% | Rank: 2, Turf Rank: 2, AW Rank: nan)
+   • Turf: 401.0/2541.0 = 15.8%
+🌿 Dam: Arctic Lady (Overall SR: 0.0/2.0 = 0% | Rank: 2, Turf Rank: 2, AW Rank: nan)
+   • Turf: 0.0/2.0 = 0%
+🛠️ Gear: t
+🩺 Medical History: None
+🎲 Early market: 4.5 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 8th | ⚡ Speed: 100.37% | 📊 Rank: 8021.5 | 🔺 AvgDiff: -0.27 | 🔼 MaxDiff: -372.65 | 🔽 MinDiff: 16.68 | 🔴 1st Sect: – (17.205s) | 🟢 Last Sect: + (15.31s)
+🗞️ **PRESS OPINION**
+💬 Comment: Promise in both bumper runs so far and tongue-tie/new trip could both help
+🔦 Spotlight: Very green when fifth of 18 in a Thurles bumper on debut and ran to a similar level in a Leopardstown bumper last month when beaten 8l; new trip and first-time tongue-tie could both help; ought to go well.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Edward Kearney Ltd
+🏠 Owner: Miss S Foley (Overall SR: 0.0/9.0 = 0%% | Rank: 5, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0.0/9.0 = 0.0%
+(No previous owner(s))
+👤 Trainer: Patrick T Foley 3 runners this race. (Overall SR: 23/251 = 0.09% | Conn Rank: 4.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 23/246 = 0.09%
+   • 14-day form: (1/7 runs) (Rank: 5) RTF: 50.0 (OVR: 21%)
+(No previous trainer(s))
+🏇 Jockey: Mr Finian Maguire(14d rank: 5, 5Y rank: 4 | Turf: ? | AW: ?) 🏇 Mr Finian Maguire winSR: 0.0% (No better alternative found.)
+   • 14-day form: 0% (0.0/5.0 runs) RTF: N/A (OVR: 6%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 17.0/233.0 = 7.3%
+🗞️ **PRESS OPINION**
+💬 Comment: Promise in both bumper runs so far and tongue-tie/new trip could both help
+🔦 Spotlight: Very green when fifth of 18 in a Thurles bumper on debut and ran to a similar level in a Leopardstown bumper last month when beaten 8l; new trip and first-time tongue-tie could both help; ought to go well.
+📊 **RANKS AND FLAGS**
+📈 RPR: 107.0 (Rank: 1)
+📉 TS: 81.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/1 | SR: 0.0
+📊 Form: 58 → Score: 0.08 (Rank: 4)
+------------------------------------------------------------------------------------------
+🐎 14 | Arctic Flame🐎 5 years old  mare, b, 161 lbs.
+📊 Race Record: 0/2 total wins (🏅 0% SR) | At this age & race type: 0/2 wins (🎯 0% SR)
+⚠️ Not enough data to assess trends — only 2 run(s).
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +2.0
+   • This type: avg runs 1.5, Unexposed rating -0.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Walk In The Park (Overall SR: 401.0/2543.0 = 15.8% | Rank: 2, Turf Rank: 2, AW Rank: nan)
+   • Turf: 401.0/2541.0 = 15.8%
+🌿 Dam: Arctic Lady (Overall SR: 0.0/2.0 = 0% | Rank: 2, Turf Rank: 2, AW Rank: nan)
+   • Turf: 0.0/2.0 = 0%
+🛠️ Gear: t
+🩺 Medical History: None
+🎲 Early market: 4.5 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 8th | ⚡ Speed: 100.37% | 📊 Rank: 8021.5 | 🔺 AvgDiff: -0.27 | 🔼 MaxDiff: -372.65 | 🔽 MinDiff: 16.68 | 🔴 1st Sect: – (17.205s) | 🟢 Last Sect: + (15.31s)
+🗞️ **PRESS OPINION**
+💬 Comment: Promise in both bumper runs so far and tongue-tie/new trip could both help
+🔦 Spotlight: Very green when fifth of 18 in a Thurles bumper on debut and ran to a similar level in a Leopardstown bumper last month when beaten 8l; new trip and first-time tongue-tie could both help; ought to go well.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Edward Kearney Ltd
+🏠 Owner: Miss S Foley (Overall SR: 0.0/9.0 = 0%% | Rank: 5, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0.0/9.0 = 0.0%
+(No previous owner(s))
+👤 Trainer: Patrick T Foley 3 runners this race. (Overall SR: 23/251 = 0.09% | Conn Rank: 4.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 23/246 = 0.09%
+   • 14-day form: (1/7 runs) (Rank: 5) RTF: 50.0 (OVR: 21%)
+(No previous trainer(s))
+🏇 Jockey: Mr Finian Maguire(14d rank: 5, 5Y rank: 4 | Turf: ? | AW: ?) 🏇 Mr Finian Maguire winSR: 0.0% (No better alternative found.)
+   • 14-day form: 0% (0.0/5.0 runs) RTF: N/A (OVR: 6%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 17.0/233.0 = 7.3%
+🗞️ **PRESS OPINION**
+💬 Comment: Promise in both bumper runs so far and tongue-tie/new trip could both help
+🔦 Spotlight: Very green when fifth of 18 in a Thurles bumper on debut and ran to a similar level in a Leopardstown bumper last month when beaten 8l; new trip and first-time tongue-tie could both help; ought to go well.
+📊 **RANKS AND FLAGS**
+📈 RPR: 107.0 (Rank: 1)
+📉 TS: 81.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/1 | SR: 0.0
+📊 Form: 58 → Score: 0.08 (Rank: 4)
+------------------------------------------------------------------------------------------
+🐎 8 | Minella Sergeant🐎 6 years old  gelding, br, 168 lbs.
+📊 Race Record: 0/6 total wins (🏅 0% SR) | At this age & race type: 0/2 wins (🎯 0% SR)
+📊 Career Trend: Speed is improving (last 3: [16.0, 33.0]), Results are stable (last 3: [5.0, 8.0, 7.0]), Official ratings are not enough data, Odds are improving (career: erratic in band 4.0–66.0 | recent: erratic in band 6.0–66.0)
+📉 Recent vs Career: Speed is about the same, Results are about the same, Odds are worsening (last 3: [10.0, 40.0, 66.0])
+📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.2, Unexposed rating +2.2
+   • This type: avg runs 1.5, Unexposed rating -0.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Soldier Of Fortune (Overall SR: 208.0/1882.0 = 11.1% | Rank: 9, Turf Rank: 9, AW Rank: 4)
+   • Turf: 208.0/1877.0 = 11.1%
+🌿 Dam: Fashion Target (Overall SR: 0.0/8.0 = 0% | Rank: 5, Turf Rank: 5, AW Rank: nan)
+   • Turf: 0.0/8.0 = 0%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 6.0 (Rank: 3)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: 0-4 in points and tailed off in two bumpers; needs major progress for the step up in trip
+🔦 Spotlight: 0-4 in points and tailed off in two bumpers; needs major progress for the step up in trip; check market.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Mrs Deborah Hobson
+🏠 Owner: Michael Joseph Oneill (Overall SR: 0.0/4.0 = 0%% | Rank: nan, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0.0/4.0 = 0.0%
+(No previous owner(s))
+👤 Trainer: Emmet Mullins 1 runners this race. (Overall SR: 61/439 = 0.14% | Conn Rank: 2.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 61/429 = 0.14%
+   • 14-day form: (1/6 runs) (Rank: 3) RTF: 43.0 (OVR: 17%)
+(No previous trainer(s))
+🏇 Jockey: Mr M J Oneill(7)(14d rank: 11, 5Y rank: 11 | Turf: ? | AW: ?) 🏇 Mr M J Oneill(7) winSR: 0.0% (No better alternative found.)
+   • 14-day form: -% (0.0/0.0 runs) RTF: N/A (OVR: 0%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0.0/7.0 = 0%
+🗞️ **PRESS OPINION**
+💬 Comment: 0-4 in points and tailed off in two bumpers; needs major progress for the step up in trip
+🔦 Spotlight: 0-4 in points and tailed off in two bumpers; needs major progress for the step up in trip; check market.
+📊 **RANKS AND FLAGS**
+📈 RPR: 86.0 (Rank: 4)
+📉 TS: 33.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/1 | SR: 0.0
+📊 Form: 74-587 → Score: 0.03 (Rank: 8)
+------------------------------------------------------------------------------------------
+🐎 10 | Red Or White🐎 6 years old  gelding, b, 168 lbs.
+📊 Race Record: 0/1 total wins (🏅 0% SR) | At this age & race type: 0/1 wins (🎯 0% SR)
+⚠️ Not enough data to assess trends — only 1 run(s).
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.2, Unexposed rating +3.2
+   • This type: avg runs 1.5, Unexposed rating +0.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Arctic Cosmos (Overall SR: 26.0/340.0 = 7.6% | Rank: 14, Turf Rank: 13, AW Rank: nan)
+   • Turf: 26.0/340.0 = 7.6%
+🌿 Dam: Siobhans Belle (Overall SR: 0.0/1.0 = 0% | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: 0.0/1.0 = 0%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 6.0 (Rank: 3)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Tried to run out when 7th in a bumper on debut; was only 16-1 that day; may do better
+🔦 Spotlight: Tried to run out when seventh of 13 for a Limerick bumper 16 days ago; was only 16-1 that day and may do better if he's straighter for that experience.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: T Meere
+🏠 Owner: Thomas Meere (Overall SR: 0.0/1.0 = 0%% | Rank: nan, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0.0/1.0 = 0.0%
+(No previous owner(s))
+👤 Trainer: John Patrick Ryan 1 runners this race. (Overall SR: 44/822 = 0.05% | Conn Rank: 12.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 44/822 = 0.05%
+   • 14-day form: (1/10 runs) (Rank: 7) RTF: 60.0 (OVR: 11%)
+(No previous trainer(s))
+🏇 Jockey: Mr B Barry(7)(14d rank: 11, 5Y rank: 11 | Turf: ? | AW: ?) 🏇 Mr B Barry(7) winSR: 0.0% (No better alternative found.)
+   • 14-day form: -% (0.0/0.0 runs) RTF: N/A (OVR: 0%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0.0/24.0 = 0%
+🗞️ **PRESS OPINION**
+💬 Comment: Tried to run out when 7th in a bumper on debut; was only 16-1 that day; may do better
+🔦 Spotlight: Tried to run out when seventh of 13 for a Limerick bumper 16 days ago; was only 16-1 that day and may do better if he's straighter for that experience.
+📊 **RANKS AND FLAGS**
+📈 RPR: 74.0 (Rank: 6)
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🌱 Going Wins/Runs: 0/1 | SR: 0.0
+📊 Form: 7 → Score: 0.14 (Rank: 3)
+------------------------------------------------------------------------------------------
+🐎 13 | Alaskan View🐎 5 years old  mare, b, 161 lbs.
+📊 Race Record: 0/4 total wins (🏅 0% SR) | At this age & race type: 0/3 wins (🎯 0% SR)
+⚠️ Not enough data to assess trends — only 4 run(s).
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +1.0
+   • This type: avg runs 1.5, Unexposed rating -1.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Kodi Bear (Overall SR: 76.0/772.0 = 9.8% | Rank: 11, Turf Rank: 11, AW Rank: 3)
+   • Turf: 44.0/426.0 = 10.3%
+🌿 Dam: Fey (Overall SR: nan/nan = N/A | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: nan/nan = N/A
+🛠️ Gear: t
+🩺 Medical History: None
+🎲 Early market: 7.0 (Rank: 5)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 5th | ⚡ Speed: 107.28% | 📊 Rank: 6492.5 | 🔺 AvgDiff: 2.87 | 🔼 MaxDiff: -369.51 | 🔽 MinDiff: 19.82 | 🟢 1st Sect: + (18.805s) | 🟢 Last Sect: + (15.525s)
+🗞️ **PRESS OPINION**
+💬 Comment: 2nd in Tramore bumper on debut; shown ability without threatening 3 runs since; new trip
+🔦 Spotlight: Runner-up in a Tramore bumper on debut and has shown ability without threatening in three runs since; needs improvement for step up in trip.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Coster Mack
+🏠 Owner: W J Martin (Overall SR: 2.0/49.0 = 4.1%% | Rank: 4, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0.0/27.0 = 0.0%
+(No previous owner(s))
+👤 Trainer: W J Martin 1 runners this race. (Overall SR: 3/85 = 0.04% | Conn Rank: 16.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 1/57 = 0.02%
+   • 14-day form: (0/2 runs) (Rank: 8) RTF: 50.0 (OVR: 0%)
+(No previous trainer(s))
+🏇 Jockey: Mr B T Stone(7)(14d rank: 5, 5Y rank: 7 | Turf: ? | AW: ?) 🏇 Mr B T Stone(7) winSR: 0.0% (No better alternative found.)
+   • 14-day form: 0% (0.0/1.0 runs) RTF: N/A (OVR: 0%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 2.0/30.0 = 6.7%
+🗞️ **PRESS OPINION**
+💬 Comment: 2nd in Tramore bumper on debut; shown ability without threatening 3 runs since; new trip
+🔦 Spotlight: Runner-up in a Tramore bumper on debut and has shown ability without threatening in three runs since; needs improvement for step up in trip.
+📊 **RANKS AND FLAGS**
+📈 RPR: 102.0 (Rank: 2)
+📉 TS: 66.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/3 | SR: 0.0
+📊 Form: 2695 → Score: 0.05 (Rank: 6)
+------------------------------------------------------------------------------------------
+🐎 5 | Installment🐎 5 years old  gelding, b, 168 lbs.
+📊 Race Record: 0/0 total wins (🏅 0% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
+nan
+🧮 Runs: 0.0
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +4.0
+   • This type: avg runs 1.5, Unexposed rating +1.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Doyen (Overall SR: 175.0/1403.0 = 12.5% | Rank: 4, Turf Rank: 4, AW Rank: 4)
+   • Turf: 175.0/1398.0 = 12.5%
+🌿 Dam: Harvard Girl (Overall SR: 3.0/12.0 = 25% | Rank: 1, Turf Rank: 1, AW Rank: nan)
+   • Turf: 3.0/12.0 = 25%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 21.0 (Rank: 6)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Doyen gelding; half-brother to 2 winners over jumps; check market
+🔦 Spotlight: Doyen gelding; half-brother to winners Extrapolation (useful bumper and 2m1f-2m4f hurdle/chase) and Cats For Cash (2m3f hurdle); dam unraced half-sister to 1m2f-12.5f Flat and top-class 2m hurdle winner Harchibald; interesting pedigree; yard 1-12 in bumpers last five years; check market.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Mr H McDaid
+🏠 Owner: Joseph S Cooper (Overall SR: nan/nan = N/A% | Rank: nan, Turf Rank: ?, AW Rank: ?)
+   • Turf: nan/nan = 0.0%
+(No previous owner(s))
+👤 Trainer: W J Lanigan 1 runners this race. (Overall SR: 5/103 = 0.05% | Conn Rank: 13.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 5/100 = 0.05%
+   • 14-day form:  (Rank: 13) RTF: N/A (OVR: 5%)
+(No previous trainer(s))
+🏇 Jockey: Mr R W Barron(5)(14d rank: 2, 5Y rank: 3 | Turf: ? | AW: ?) !! No race history available for this horse.
+   • 14-day form: 50% (1.0/2.0 runs) RTF: N/A (OVR: 0%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 23.0/174.0 = 13.2%
+🗞️ **PRESS OPINION**
+💬 Comment: Doyen gelding; half-brother to 2 winners over jumps; check market
+🔦 Spotlight: Doyen gelding; half-brother to winners Extrapolation (useful bumper and 2m1f-2m4f hurdle/chase) and Cats For Cash (2m3f hurdle); dam unraced half-sister to 1m2f-12.5f Flat and top-class 2m hurdle winner Harchibald; interesting pedigree; yard 1-12 in bumpers last five years; check market.
+📊 **RANKS AND FLAGS**
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: nan → Score: 0.0 (Rank: 9)
+------------------------------------------------------------------------------------------
+🐎 4 | Flip Away🐎 5 years old  gelding, b, 168 lbs.
+📊 Race Record: 0/0 total wins (🏅 0% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
+nan
+🧮 Runs: 0.0
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +4.0
+   • This type: avg runs 1.5, Unexposed rating +1.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Dawn Approach (Overall SR: 30.0/324.0 = 9.3% | Rank: 12, Turf Rank: 15, AW Rank: 1)
+   • Turf: 15.0/212.0 = 7.1%
+🌿 Dam: Hollybrowne (Overall SR: 0.0/1.0 = 0% | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: 0.0/1.0 = 0%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 21.0 (Rank: 6)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Dawn Approach gelding; related to Flat winners but yard gets bumper winners
+🔦 Spotlight: Dawn Approach gelding; half-brother to winners Indigo Five (7f/1m; RPR 99) and Laoch Liath (Scandinavian 6f/8.7f); dam 6f-1m maiden (64), half-sister to 7f Group 3 winners Bounce The Blues and Jazz Princess; yard gets bumper winners and worth a 📊 market check.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Kilnamoragh Stud
+🏠 Owner: J Browne (Overall SR: 8.0/46.0 = 17.4%% | Rank: 1, Turf Rank: ?, AW Rank: ?)
+   • Turf: 8.0/42.0 = 0.19%
+(No previous owner(s))
+👤 Trainer: Patrick T Foley 3 runners this race. (Overall SR: 23/251 = 0.09% | Conn Rank: 4.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 23/246 = 0.09%
+   • 14-day form: (1/7 runs) (Rank: 5) RTF: 50.0 (OVR: 21%)
+(No previous trainer(s))
+🏇 Jockey: Mr Alan Osullivan(7)(14d rank: 3, 5Y rank: 10 | Turf: ? | AW: ?) !! No race history available for this horse.
+   • 14-day form: 25% (1.0/4.0 runs) RTF: N/A (OVR: 0%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 7.0/124.0 = 5.6%
+🗞️ **PRESS OPINION**
+💬 Comment: Dawn Approach gelding; related to Flat winners but yard gets bumper winners
+🔦 Spotlight: Dawn Approach gelding; half-brother to winners Indigo Five (7f/1m; RPR 99) and Laoch Liath (Scandinavian 6f/8.7f); dam 6f-1m maiden (64), half-sister to 7f Group 3 winners Bounce The Blues and Jazz Princess; yard gets bumper winners and worth a 📊 market check.
+📊 **RANKS AND FLAGS**
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: nan → Score: 0.0 (Rank: 9)
+------------------------------------------------------------------------------------------
+🐎 11 | Sharp As Glass🐎 5 years old  gelding, gr, 168 lbs.
+📊 Race Record: 0/0 total wins (🏅 0% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
+nan
+🧮 Runs: 0.0
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +4.0
+   • This type: avg runs 1.5, Unexposed rating +1.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Arctic Cosmos (Overall SR: 26.0/340.0 = 7.6% | Rank: 14, Turf Rank: 13, AW Rank: nan)
+   • Turf: 26.0/340.0 = 7.6%
+🌿 Dam: Ballymartintheatre (Overall SR: 1.0/14.0 = 7.1% | Rank: 4, Turf Rank: 4, AW Rank: nan)
+   • Turf: 1.0/14.0 = 7.1%
+🛠️ Gear: h
+🩺 Medical History: None
+🎲 Early market: 21.0 (Rank: 6)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Arctic Cosmos gelding; half-brother to 2 winners inc' Panda Boy; hood may not be good sign
+🔦 Spotlight: Arctic Cosmos gelding; half-brother to winners Panda Boy (useful 2m4f-3m hurdle/chase) and Lahinch Wave (2m4f hurdle); dam unraced half-sister to bumper and smart 2m5f-3m3f hurdle/chase winner Garruth; hood for debut probably not a good sign.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Pat Canavan
+🏠 Owner: G Burke (Overall SR: nan/nan = N/A% | Rank: nan, Turf Rank: ?, AW Rank: ?)
+   • Turf: nan/nan = 0.0%
+(No previous owner(s))
+👤 Trainer: S Curling 1 runners this race. (Overall SR: 25/289 = 0.09% | Conn Rank: 8.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 25/289 = 0.09%
+   • 14-day form: (0/2 runs) (Rank: 8) RTF: 50.0 (OVR: 9%)
+(No previous trainer(s))
+🏇 Jockey: Mr D Doyle(7)(14d rank: 5, 5Y rank: 9 | Turf: ? | AW: ?) !! No race history available for this horse.
+   • 14-day form: 0% (0.0/2.0 runs) RTF: N/A (OVR: 6%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 16.0/274.0 = 5.8%
+🗞️ **PRESS OPINION**
+💬 Comment: Arctic Cosmos gelding; half-brother to 2 winners inc' Panda Boy; hood may not be good sign
+🔦 Spotlight: Arctic Cosmos gelding; half-brother to winners Panda Boy (useful 2m4f-3m hurdle/chase) and Lahinch Wave (2m4f hurdle); dam unraced half-sister to bumper and smart 2m5f-3m3f hurdle/chase winner Garruth; hood for debut probably not a good sign.
+📊 **RANKS AND FLAGS**
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: nan → Score: 0.0 (Rank: 9)
+------------------------------------------------------------------------------------------
+🐎 15 | Pottersville🐎 6 years old  mare, ch, 161 lbs.
+📊 Race Record: 0/0 total wins (🏅 0% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
+nan
+🧮 Runs: 0.0
+🧪 Unexposed for age
+   • All races: avg runs 4.2, Unexposed rating +4.2
+   • This type: avg runs 1.5, Unexposed rating +1.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Ocovango (Overall SR: 120.0/1094.0 = 11.0% | Rank: 10, Turf Rank: 10, AW Rank: nan)
+   • Turf: 120.0/1092.0 = 11%
+🌿 Dam: Bunglasha Lady (Overall SR: 1.0/6.0 = 16.7% | Rank: 3, Turf Rank: 3, AW Rank: nan)
+   • Turf: 1.0/6.0 = 16.7%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 21.0 (Rank: 6)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Half-sister to 2m1f-3m1f hurdle winner Scarpia; yard 1-6 in bumpers last 5 years
+🔦 Spotlight: Ocovango mare; half-sister to 2m1f-3m1f hurdle winner Scarpia; dam 2m3f-3m1f hurdle winner, half-sister to 3m1f/3m2f chase winner Uallrightharry, out of unraced half-sister to useful staying chaser Torduff Express; yard 1-6 in bumpers last five years.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Desmond Devereux
+🏠 Owner: R P Okeeffe (Overall SR: 1.0/8.0 = 12.5%% | Rank: 3, Turf Rank: ?, AW Rank: ?)
+   • Turf: 1.0/8.0 = 0.12%
+(No previous owner(s))
+👤 Trainer: R P Okeeffe 1 runners this race. (Overall SR: 1/8 = 0.12% | Conn Rank: 3.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 1/8 = 0.12%
+   • 14-day form:  (Rank: 13) RTF: N/A (OVR: 0%)
+(No previous trainer(s))
+🏇 Jockey: Mr C M Moore(7)(14d rank: 11, 5Y rank: nan | Turf: ? | AW: ?) !! No race history available for this horse.
+   • 14-day form: -% (0.0/0.0 runs) RTF: N/A (OVR: -) | 5Y: 0/0 (SR: 0.0)
+   • Turf: nan/nan = N/A
+🗞️ **PRESS OPINION**
+💬 Comment: Half-sister to 2m1f-3m1f hurdle winner Scarpia; yard 1-6 in bumpers last 5 years
+🔦 Spotlight: Ocovango mare; half-sister to 2m1f-3m1f hurdle winner Scarpia; dam 2m3f-3m1f hurdle winner, half-sister to 3m1f/3m2f chase winner Uallrightharry, out of unraced half-sister to useful staying chaser Torduff Express; yard 1-6 in bumpers last five years.
+📊 **RANKS AND FLAGS**
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: nan → Score: 0.0 (Rank: 9)
+------------------------------------------------------------------------------------------
+🐎 12 | Shudawudacuddagh🐎 5 years old  gelding, b, 168 lbs.
+📊 Race Record: 0/0 total wins (🏅 0% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
+nan
+🧮 Runs: 0.0
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +4.0
+   • This type: avg runs 1.5, Unexposed rating +1.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Well Chosen (Overall SR: 47.0/378.0 = 12.4% | Rank: 5, Turf Rank: 5, AW Rank: nan)
+   • Turf: 47.0/378.0 = 12.4%
+🌿 Dam: Flying Vacation (Overall SR: nan/nan = N/A | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: nan/nan = N/A
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 34.0 (Rank: 10)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Well Chosen gelding; dam unplaced 2m-2m5f hurdle/chase; yard 2-62 in bumpers last 5 years
+🔦 Spotlight: Well Chosen gelding; dam unplaced 2m-2m5f hurdle/chase, out of point winning half-sister to 2m5f/3m3f hunter chase winner Chosen Dream; yard 2-62 in bumpers last five years.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Joseph R Lalor
+🏠 Owner: Mrs H Lalor (Overall SR: 0.0/16.0 = 0%% | Rank: 5, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0.0/16.0 = 0.0%
+(No previous owner(s))
+👤 Trainer: James Andrew Fahey 1 runners this race. (Overall SR: 13/209 = 0.06% | Conn Rank: 11.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 13/208 = 0.06%
+   • 14-day form: (0/1 runs) (Rank: 8) RTF: N/A (OVR: 0%)
+(No previous trainer(s))
+🏇 Jockey: Mr S Connor(7)(14d rank: 5, 5Y rank: 6 | Turf: ? | AW: ?) !! No race history available for this horse.
+   • 14-day form: 0% (0.0/2.0 runs) RTF: N/A (OVR: -) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 9.0/126.0 = 7.1%
+🗞️ **PRESS OPINION**
+💬 Comment: Well Chosen gelding; dam unplaced 2m-2m5f hurdle/chase; yard 2-62 in bumpers last 5 years
+🔦 Spotlight: Well Chosen gelding; dam unplaced 2m-2m5f hurdle/chase, out of point winning half-sister to 2m5f/3m3f hunter chase winner Chosen Dream; yard 2-62 in bumpers last five years.
+📊 **RANKS AND FLAGS**
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: nan → Score: 0.0 (Rank: 9)
+------------------------------------------------------------------------------------------
+🐎 6 | Jacadi St Georges💤🐎 6 years old  gelding, b, 168 lbs.
+📊 Race Record: 0/2 total wins (🏅 0% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
+⚠️ Not enough data to assess trends — only 2 run(s).
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 1.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.2, Unexposed rating +4.2
+   • This type: avg runs 1.5, Unexposed rating +1.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Nidor (Overall SR: 4.0/25.0 = 16% | Rank: 1, Turf Rank: 1, AW Rank: nan)
+   • Turf: 4.0/25.0 = 16%
+🌿 Dam: Royale Malinelle (Overall SR: nan/nan = N/A | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: nan/nan = N/A
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 51.0 (Rank: 11)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Didn't threaten in two points and yard 0-14 in bumpers last five years
+🔦 Spotlight: Didn't threaten in two points and yard 0-14 in bumpers last five years.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Mme Clotilde Domenjoud & E A R L Elevage Dist
+🏠 Owner: Josh Halley (Overall SR: nan/nan = N/A% | Rank: nan, Turf Rank: ?, AW Rank: ?)
+   • Turf: nan/nan = 0.0%
+(No previous owner(s))
+👤 Trainer: Josh Halley 1 runners this race. (Overall SR: 3/83 = 0.04% | Conn Rank: 14.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 1/68 = 0.01%
+   • 14-day form: (0/2 runs) (Rank: 8) RTF: 75.0 (OVR: 100%)
+(No previous trainer(s))
+🏇 Jockey: Mr M J Kenneally(7)(14d rank: 5, 5Y rank: 8 | Turf: ? | AW: ?) 🏇 Mr M J Kenneally(7) winSR: 0.0% (No better alternative found.)
+   • 14-day form: 0% (0.0/1.0 runs) RTF: N/A (OVR: 0%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 1.0/17.0 = 5.9%
+🗞️ **PRESS OPINION**
+💬 Comment: Didn't threaten in two points and yard 0-14 in bumpers last five years
+🔦 Spotlight: Didn't threaten in two points and yard 0-14 in bumpers last five years.
+📊 **RANKS AND FLAGS**
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: 5/F- → Score: 0.2 (Rank: 2)
+------------------------------------------------------------------------------------------
+🐎 1 | Astley🐎 5 years old  gelding, b, 168 lbs.
+📊 Race Record: 0/2 total wins (🏅 0% SR) | At this age & race type: 0/1 wins (🎯 0% SR)
+⚠️ Not enough data to assess trends — only 2 run(s).
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +3.0
+   • This type: avg runs 1.5, Unexposed rating +0.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Order Of St George (Overall SR: 15.0/163.0 = 9.2% | Rank: 13, Turf Rank: 12, AW Rank: nan)
+   • Turf: 15.0/163.0 = 9.2%
+🌿 Dam: All My Judges (Overall SR: nan/nan = N/A | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: nan/nan = N/A
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 67.0 (Rank: 12)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 7th | ⚡ Speed: 97.52% | 📊 Rank: 14458.0 | 🔺 AvgDiff: 3.06 | 🔼 MaxDiff: -369.32 | 🔽 MinDiff: 20.01 | 🔴 1st Sect: – (20.01s) | 🔴 Last Sect: – (17.0s)
+🗞️ **PRESS OPINION**
+💬 Comment: Tailed off in a point and same result in a Fairyhouse bumper on February's rules bow
+🔦 Spotlight: Tailed off in a point and it was the same result in a Fairyhouse bumper on February's rules debut; enough to prove.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Neville Reid
+🏠 Owner: Miss K Mcneilly (Overall SR: 0.0/28.0 = 0%% | Rank: 5, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0.0/22.0 = 0.0%
+(No previous owner(s))
+👤 Trainer: Paul Traynor 1 runners this race. (Overall SR: 5/72 = 0.07% | Conn Rank: 10.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 5/54 = 0.09%
+   • 14-day form: (1/2 runs) (Rank: 1) RTF: 100.0 (OVR: 0%)
+(No previous trainer(s))
+🏇 Jockey: Mr R Guiney(7)(14d rank: 5, 5Y rank: nan | Turf: ? | AW: ?) 🏇 Mr R Guiney(7) winSR: 0.0% (No better alternative found.)
+   • 14-day form: 0% (0.0/1.0 runs) RTF: N/A (OVR: -) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0.0/1.0 = 0%
+🗞️ **PRESS OPINION**
+💬 Comment: Tailed off in a point and same result in a Fairyhouse bumper on February's rules bow
+🔦 Spotlight: Tailed off in a point and it was the same result in a Fairyhouse bumper on February's rules debut; enough to prove.
+📊 **RANKS AND FLAGS**
+📈 RPR: 88.0 (Rank: 3)
+📉 TS: 18.0 (Rank: 6)
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: 87 → Score: 0.07 (Rank: 5)
+------------------------------------------------------------------------------------------
+🐎 2 | Ballinaboola Jet💤🐎 8 years old  gelding, b, 168 lbs.
+📊 Race Record: 0/1 total wins (🏅 0% SR) | At this age & race type: 0/0 wins (🎯 0% SR)
+⚠️ Not enough data to assess trends — only 1 run(s).
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 1.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.1, Unexposed rating +4.1
+   • This type: avg runs 1.5, Unexposed rating +1.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Jet Away (Overall SR: 92.0/759.0 = 12.1% | Rank: 7, Turf Rank: 7, AW Rank: nan)
+   • Turf: 92.0/758.0 = 12.1%
+🌿 Dam: Carrigmore Lass (Overall SR: 0.0/1.0 = 0% | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: 0.0/1.0 = 0%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 101.0 (Rank: 13)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Beaten when coming down in a Gowran maiden hurdle in 2022 (100-1 SP) and not seen since
+🔦 Spotlight: Beaten when coming down in a Gowran maiden hurdle in 2022 (100-1 SP) and not seen since; 🆕 new yard.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Seamus Tobin
+🏠 Owner: S Tobin (Overall SR: 0.0/13.0 = 0%% | Rank: 5, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0.0/13.0 = 0.0%
+(No previous owner(s))
+👤 Trainer: R Donohoe 1 runners this race. (Overall SR: 20/257 = 0.08% | Conn Rank: 9.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 14/168 = 0.08%
+   • 14-day form: (1/2 runs) (Rank: 1) RTF: 40.0 (OVR: 0%)
+(No previous trainer(s))
+🏇 Jockey: Miss J Townend(14d rank: 1, 5Y rank: 1 | Turf: ? | AW: ?) 🏇 Miss J Townend winSR: 0.0% (No better alternative found.)
+   • 14-day form: 67% (2.0/3.0 runs) RTF: N/A (OVR: 11%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 37.0/172.0 = 21.5%
+🗞️ **PRESS OPINION**
+💬 Comment: Beaten when coming down in a Gowran maiden hurdle in 2022 (100-1 SP) and not seen since
+🔦 Spotlight: Beaten when coming down in a Gowran maiden hurdle in 2022 (100-1 SP) and not seen since; 🆕 new yard.
+📊 **RANKS AND FLAGS**
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: F/ → Score: 0.0 (Rank: 9)
+------------------------------------------------------------------------------------------
+🐎 7 | Lion Of The Desert🐎 5 years old  gelding, b, 168 lbs.
+📊 Race Record: 0/1 total wins (🏅 0% SR) | At this age & race type: 0/1 wins (🎯 0% SR)
+⚠️ Not enough data to assess trends — only 1 run(s).
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +3.0
+   • This type: avg runs 1.5, Unexposed rating +0.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Valirann (Overall SR: 60.0/497.0 = 12.1% | Rank: 8, Turf Rank: 7, AW Rank: nan)
+   • Turf: 60.0/495.0 = 12.1%
+🌿 Dam: Sky Queen (Overall SR: 0.0/1.0 = 0% | Rank: nan, Turf Rank: nan, AW Rank: nan)
+   • Turf: 0.0/1.0 = 0%
+🛠️ Gear: h
+🩺 Medical History: None
+🎲 Early market: 101.0 (Rank: 13)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 15th | ⚡ Speed: 102.67% | 📊 Rank: 8187.0 | 🔺 AvgDiff: -4.40 | 🔼 MaxDiff: -376.78 | 🔽 MinDiff: 12.55 | 🔴 1st Sect: – (12.55s) | 🔴 Last Sect: – (15.37s)
+🗞️ **PRESS OPINION**
+💬 Comment: Tailed off when 150-1 for a Thurles bumper last month and hard to recommend
+🔦 Spotlight: Tailed off when 150-1 for a Thurles bumper last month and hard to recommend on the back of that.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Ms Debbie O'Neill
+🏠 Owner: Ghulam Abbas (Overall SR: nan/nan = N/A% | Rank: nan, Turf Rank: ?, AW Rank: ?)
+   • Turf: nan/nan = 0.0%
+(No previous owner(s))
+👤 Trainer: Patrick J Flynn 1 runners this race. (Overall SR: 27/308 = 0.09% | Conn Rank: 7.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 18/238 = 0.08%
+   • 14-day form:  (Rank: 13) RTF: 33.0 (OVR: 5%)
+(No previous trainer(s))
+🏇 Jockey: Mr G Abbas(7)(14d rank: 11, 5Y rank: 11 | Turf: ? | AW: ?) 🏇 Mr G Abbas(7) winSR: 0.0% (No better alternative found.)
+   • 14-day form: -% (0.0/0.0 runs) RTF: N/A (OVR: -) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0.0/5.0 = 0%
+🗞️ **PRESS OPINION**
+💬 Comment: Tailed off when 150-1 for a Thurles bumper last month and hard to recommend
+🔦 Spotlight: Tailed off when 150-1 for a Thurles bumper last month and hard to recommend on the back of that.
+📊 **RANKS AND FLAGS**
+📈 RPR: 78.0 (Rank: 5)
+📉 TS: 25.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: N/A
+🌱 Going Wins/Runs: 0/1 | SR: 0.0
+📊 Form: 0 → Score: 0.0 (Rank: 9)
+------------------------------------------------------------------------------------------
+🐎 9 | Nohilltoosteep🐎 6 years old  gelding, b, 168 lbs.
+📊 Race Record: 0/10 total wins (🏅 0% SR) | At this age & race type: 0/6 wins (🎯 0% SR)
+📊 Career Trend: Speed is not enough data (last 3: [38.0]), Results are improving (last 3: [5.0, 7.0, 8.0]), Official ratings are not enough data, Odds are improving (career: erratic in band 4.0–250.0 | recent: erratic in band 150.0–250.0)
+📉 Recent vs Career: Speed is about the same, Results are improving, Odds are worsening (last 3: [200.0, 200.0, 150.0])
+📉 Last win rating: No rating data | Latest rating: No rating data | Total wins: 0
+🪂 FallRate: 0.0 | 🐢 PU Rate: 0.0 | ❌ DNF Rate: 0.0 | 🧮 Runs: 1.0
+🧪 Unexposed for age
+   • All races: avg runs 4.2, Unexposed rating -1.8
+   • This type: avg runs 1.5, Unexposed rating -4.5
+🧮 Furlings/sec Overall: 0 runs | 🏁 Fastest: None | 🐢 Slowest: None | 📊 Furlings/sec Avg: None | 🎯 Median: None
+🦄 Sire: Hillstar (Overall SR: 14.0/227.0 = 6.2% | Rank: 16, Turf Rank: 16, AW Rank: nan)
+   • Turf: 14.0/227.0 = 6.2%
+🌿 Dam: Little Luv (Overall SR: 0.0/11.0 = 0% | Rank: 5, Turf Rank: 5, AW Rank: nan)
+   • Turf: 0.0/11.0 = 0%
+🛠️ Gear: t
+🩺 Medical History: None
+🎲 Early market: 101.0 (Rank: 13)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Tailed off at huge prices in bumpers and maiden hurdles so far
+🔦 Spotlight: Tailed off at huge prices in bumpers and maiden hurdles so far, including at this sort of trip on his last couple of runs.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: B Poots
+🏠 Owner: Sam Elliot Cottrill (Overall SR: 0.0/3.0 = 0%% | Rank: nan, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0.0/3.0 = 0.0%
+(No previous owner(s))
+👤 Trainer: James M Barcoe 1 runners this race. (Overall SR: 11/305 = 0.04% | Conn Rank: 15.0, Turf Rank: , AW Rank: N/A)
+   • Turf: 11/296 = 0.04%
+   • 14-day form: (0/5 runs) (Rank: 8) RTF: 13.0 (OVR: 6%)
+(No previous trainer(s))
+🏇 Jockey: Mr S E Cottrill(7)(14d rank: 11, 5Y rank: 11 | Turf: ? | AW: ?) 🏇 Mr S E Cottrill(7) winSR: 0.0% (No better alternative found.)
+   • 14-day form: -% (0.0/0.0 runs) RTF: N/A (OVR: 0%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0.0/5.0 = 0%
+🗞️ **PRESS OPINION**
+💬 Comment: Tailed off at huge prices in bumpers and maiden hurdles so far
+🔦 Spotlight: Tailed off at huge prices in bumpers and maiden hurdles so far, including at this sort of trip on his last couple of runs.
+📊 **RANKS AND FLAGS**
+📈 RPR: 72.0 (Rank: 7)
+📉 TS: 38.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 0/3 | SR: 0.0
+🌱 Going Wins/Runs: 0/2 | SR: 0.0
+📊 Form: 0457P8 → Score: 0.04 (Rank: 7)
+------------------------------------------------------------------------------------------
