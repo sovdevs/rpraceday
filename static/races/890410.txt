@@ -89,7 +89,14 @@
 🔷 shared_race_id   🧾 horse_name1   📜 horse_name2
 📉 perfDiff         ⚖️ weight_diff   🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
-++++++++++ Dynamic Performance Table ++++++++++
+📋 Previous Runs in Same Race
+------------------------------------------------------------------------------------------
+Horse      | OldRace  | Pos  | OR  | Btn   | Odds  | Runners  | Wgt  | T.Wgt  | Jockey | Comment
+------------------------------------------------------------------------------------------
+2497891    | 1    | 80.0 |       | 4.0   | 6        | 123.0 | 131.0  | 76957.0 | slowly into stride, raced in last and pushed along, switched right over 1f out, ran on inside final furlong, ridden to lead towards finish
+2497891    | 1    | 75.0 |       | 7.0   | 13       | 130.0 | 131.0  | 85782.0 | travelled strongly, in touch with leaders towards near side, smooth headway over 2f out, pushed along to lead over 1f out, ridden and faced challenge inside final furlong, edged right but kept on well final 110yds, always doing enough, 1st of 9 in group
+1452904    | 3    | 77.0 |       | 16.0  | 13       | 132.0 | 119.0  | 92884.0 | pressed leader towards near side, led over 2f out, headed over 1f out, weakened gradually inside final furlong, no match for first two, 3rd of 9 in group
+4288065    | 11   | 78.0 | 32.0  | 10.0  | 13       | 133.0 | 129.0  | 93884.0 | held up in rear towards far side, brief headway over 2f out, weakened quickly over 1f out, 3rd of 4 in group++++++++++ Dynamic Performance Table ++++++++++
 #️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
 number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
 -----------------------------------------------------------------------------------------------------------------------------
@@ -155,8 +162,9 @@ Horse quote: 2024-08-05 at Ripon (6f): "Fortamour broke well and I got a good po
 📉 OFR: 81.0 (Rank: 7)
 📈 RPR: 99.0 (Rank: 3)
 📉 TS: 82.0 (Rank: 11)
-🏟️ Course Wins/Runs: 6/19 | SR: 0.32
-📏 Distance Wins/Runs: 6/39 | SR: 0.15
+🏟️ Course Wins/Runs: 6/20 | SR: 0.3
+📏 Distance Wins/Runs: 7/43 | SR: 0.16
+🏟️📏 Course+Distance Wins/Runs: 6/20 | SR: 0.3
 🌱 Going Wins/Runs: 4/13 | SR: 0.31
 📊 Form: 31039- → Score: 0.08 (Rank: 6)
 ------------------------------------------------------------------------------------------
@@ -205,7 +213,8 @@ Horse quote: 2023-10-28 at Doncaster (5f): "Aberama Gold seems to enjoy those co
 📈 RPR: 99.0 (Rank: 3)
 📉 TS: 84.0 (Rank: 9)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 5/53 | SR: 0.09
+📏 Distance Wins/Runs: 10/69 | SR: 0.14
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
 🌱 Going Wins/Runs: 1/15 | SR: 0.07
 📊 Form: 74022- → Score: 0.08 (Rank: 7)
 ------------------------------------------------------------------------------------------
@@ -252,8 +261,9 @@ Horse quote: 2023-08-05 at Goodwood (6f): "We are delighted with Mr Wagyu. His r
 📉 OFR: 79.0 (Rank: 9)
 📈 RPR: 99.0 (Rank: 3)
 📉 TS: 94.0 (Rank: 1)
-🏟️ Course Wins/Runs: 0/6 | SR: 0.0
-📏 Distance Wins/Runs: 6/46 | SR: 0.13
+🏟️ Course Wins/Runs: 2/12 | SR: 0.17
+📏 Distance Wins/Runs: 14/84 | SR: 0.17
+🏟️📏 Course+Distance Wins/Runs: 2/9 | SR: 0.22
 🌱 Going Wins/Runs: 3/19 | SR: 0.16
 📊 Form: 00900- → Score: 0.11 (Rank: 3)
 ------------------------------------------------------------------------------------------
@@ -299,8 +309,9 @@ Horse quote: 2023-08-05 at Goodwood (6f): "We are delighted with Mr Wagyu. His r
 📊 **RANKS AND FLAGS**
 📉 OFR: 84.0 (Rank: 2)
 📈 RPR: 98.0 (Rank: 8)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 2/18 | SR: 0.11
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 5/23 | SR: 0.22
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/4 | SR: 0.0
 📊 Form: 0/1-25 → Score: 0.16 (Rank: 2)
 ------------------------------------------------------------------------------------------
@@ -348,7 +359,8 @@ Horse quote: 2023-09-23 at Ayr (6f): "It means a lot because there was a lot of 
 📈 RPR: 94.0 (Rank: 12)
 📉 TS: 93.0 (Rank: 2)
 🏟️ Course Wins/Runs: 0/3 | SR: 0.0
-📏 Distance Wins/Runs: 2/13 | SR: 0.15
+📏 Distance Wins/Runs: 3/16 | SR: 0.19
+🏟️📏 Course+Distance Wins/Runs: 0/2 | SR: 0.0
 🌱 Going Wins/Runs: 0/8 | SR: 0.0
 📊 Form: 65790- → Score: 0.04 (Rank: 14)
 ------------------------------------------------------------------------------------------
@@ -395,8 +407,9 @@ Horse quote: 2022-10-21 at Doncaster (6f): "Dakota Gold loved the ground. He got
 📉 OFR: 85.0 (Rank: 1)
 📈 RPR: 99.0 (Rank: 3)
 📉 TS: 86.0 (Rank: 8)
-🏟️ Course Wins/Runs: 0/4 | SR: 0.0
-📏 Distance Wins/Runs: 3/16 | SR: 0.19
+🏟️ Course Wins/Runs: 1/7 | SR: 0.14
+📏 Distance Wins/Runs: 9/33 | SR: 0.27
+🏟️📏 Course+Distance Wins/Runs: 1/7 | SR: 0.14
 🌱 Going Wins/Runs: 1/8 | SR: 0.12
 📊 Form: 79502- → Score: 0.05 (Rank: 10)
 ------------------------------------------------------------------------------------------
@@ -443,8 +456,9 @@ Horse quote: 2023-10-20 at Redcar (6f): "Valentine Catcher showed enough at home
 📉 OFR: 82.0 (Rank: 5)
 📈 RPR: 101.0 (Rank: 1)
 📉 TS: 84.0 (Rank: 9)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 2/4 | SR: 0.5
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 42/15- → Score: 0.1 (Rank: 5)
 ------------------------------------------------------------------------------------------
@@ -493,6 +507,7 @@ Horse quote: 2023-10-20 at Redcar (6f): "Valentine Catcher showed enough at home
 📉 TS: 92.0 (Rank: 3)
 🏟️ Course Wins/Runs: 0/2 | SR: 0.0
 📏 Distance Wins/Runs: 3/21 | SR: 0.14
+🏟️📏 Course+Distance Wins/Runs: 0/2 | SR: 0.0
 🌱 Going Wins/Runs: 1/7 | SR: 0.14
 📊 Form: 00320- → Score: 0.4 (Rank: 1)
 ------------------------------------------------------------------------------------------
@@ -539,8 +554,9 @@ Horse quote: 2022-11-05 at Doncaster (6f): "Tiriac ran very well at Newmarket th
 📉 OFR: 79.0 (Rank: 9)
 📈 RPR: 94.0 (Rank: 12)
 📉 TS: 91.0 (Rank: 5)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 3/17 | SR: 0.18
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/3 | SR: 0.0
 📊 Form: 45655- → Score: 0.04 (Rank: 12)
 ------------------------------------------------------------------------------------------
@@ -586,8 +602,9 @@ Horse quote: 2022-11-05 at Doncaster (6f): "Tiriac ran very well at Newmarket th
 📉 OFR: 81.0 (Rank: 7)
 📈 RPR: 100.0 (Rank: 2)
 📉 TS: 73.0 (Rank: 12)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 4/13 | SR: 0.31
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/5 | SR: 0.0
 📊 Form: 46395- → Score: 0.04 (Rank: 13)
 ------------------------------------------------------------------------------------------
@@ -635,7 +652,8 @@ Horse quote: 2022-09-16 at Ayr (6f): "That was fantastic. Danzan has been second
 📈 RPR: 97.0 (Rank: 10)
 📉 TS: 90.0 (Rank: 7)
 🏟️ Course Wins/Runs: 0/4 | SR: 0.0
-📏 Distance Wins/Runs: 1/24 | SR: 0.04
+📏 Distance Wins/Runs: 4/47 | SR: 0.09
+🏟️📏 Course+Distance Wins/Runs: 0/4 | SR: 0.0
 🌱 Going Wins/Runs: 1/18 | SR: 0.06
 📊 Form: 03325- → Score: 0.11 (Rank: 3)
 ------------------------------------------------------------------------------------------
@@ -681,8 +699,9 @@ Horse quote: 2022-09-16 at Ayr (6f): "That was fantastic. Danzan has been second
 📉 OFR: 78.0 (Rank: 13)
 📈 RPR: 98.0 (Rank: 8)
 📉 TS: 91.0 (Rank: 5)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 1/5 | SR: 0.2
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/4 | SR: 0.0
 📊 Form: 5415-6 → Score: 0.05 (Rank: 9)
 ------------------------------------------------------------------------------------------
@@ -731,6 +750,7 @@ Horse quote: 2023-07-12 at Lingfield (6f): "The Good Biscuit has backed up quite
 📉 TS: 92.0 (Rank: 3)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
 📏 Distance Wins/Runs: 2/10 | SR: 0.2
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
 🌱 Going Wins/Runs: 0/2 | SR: 0.0
 📊 Form: 24297- → Score: 0.05 (Rank: 10)
 ------------------------------------------------------------------------------------------
@@ -775,8 +795,9 @@ Horse quote: 2023-07-12 at Lingfield (6f): "The Good Biscuit has backed up quite
 📉 OFR: 82.0 (Rank: 5)
 📈 RPR: 94.0 (Rank: 12)
 📉 TS: 72.0 (Rank: 13)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 2/4 | SR: 0.5
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 0095-0 → Score: 0.07 (Rank: 8)
 ------------------------------------------------------------------------------------------

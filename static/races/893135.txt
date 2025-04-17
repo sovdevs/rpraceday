@@ -25,6 +25,8 @@
 🔷 shared_race_id   🧾 horse_name1   📜 horse_name2
 📉 perfDiff         ⚖️ weight_diff   🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
+
+🔍 No previous identical race runs found for race_id 893135.
 ++++++++++ Dynamic Performance Table ++++++++++
 #️⃣      | 🐎                         | 🆔        | 📈        | 💡        | 🎯        | 🏟️      
 number   | horse_name                | horse_id | RPR      | OFR      | J-All-Prf | CRSE    
@@ -82,8 +84,9 @@ Legend:
 📉 OFR: 113.0 (Rank: 1)
 📈 RPR: 117.0 (Rank: 2)
 📉 TS: 105.0 (Rank: 1)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/4 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 9373 → Score: 0.05 (Rank: 4)
 ------------------------------------------------------------------------------------------
@@ -127,8 +130,9 @@ Legend:
 📉 OFR: 112.0 (Rank: 2)
 📈 RPR: 128.0 (Rank: 1)
 📉 TS: 58.0 (Rank: 3)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/3 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 032 → Score: 0.4 (Rank: 1)
 ------------------------------------------------------------------------------------------
@@ -169,8 +173,9 @@ Legend:
 📊 **RANKS AND FLAGS**
 📈 RPR: 110.0 (Rank: 3)
 📉 TS: 65.0 (Rank: 2)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/3 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/3 | SR: 0.0
 📊 Form: U44 → Score: 0.12 (Rank: 2)
 ------------------------------------------------------------------------------------------
@@ -212,8 +217,9 @@ Legend:
 💬 Comment: Of some interest on hurdling debut for a 🆕 new yard so check for market confidence
 🔦 Spotlight: Maiden on the Flat but ran well in defeat at times up to a mile; of some interest on hurdling debut for a 🆕 new yard so check for market confidence.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 5)
 ------------------------------------------------------------------------------------------
@@ -252,8 +258,9 @@ nan
 💬 Comment: Will have to be smart to take this on debut; check market
 🔦 Spotlight: First foal; dam unraced half-sister to winners Rindoon (useful 2m hurdle/chase) and Johnny Jump Up (2m1f hurdle/2m4f chase); 5,000euros 3yo is by a promising young sire but will have to be smart to take this on debut; check market.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 5)
 ------------------------------------------------------------------------------------------
@@ -292,8 +299,9 @@ nan
 💬 Comment: Tailed-off on recent hurdles debut so can't be fancied on that form
 🔦 Spotlight: Showed some ability in three AW Flat maidens for former yard; tailed-off on recent hurdles debut so can't be fancied on that form.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 0 → Score: 0.0 (Rank: 5)
 ------------------------------------------------------------------------------------------
@@ -333,8 +341,9 @@ nan
 🔦 Spotlight: Tailed-off in two maiden hurdles and can't be fancied on that form.
 📊 **RANKS AND FLAGS**
 📈 RPR: 72.0 (Rank: 4)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 09 → Score: 0.11 (Rank: 3)
 ------------------------------------------------------------------------------------------

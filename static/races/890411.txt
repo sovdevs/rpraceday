@@ -63,7 +63,12 @@
 🔷 shared_race_id   🧾 horse_name1   📜 horse_name2
 📉 perfDiff         ⚖️ weight_diff   🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
-++++++++++ Dynamic Performance Table ++++++++++
+📋 Previous Runs in Same Race
+------------------------------------------------------------------------------------------
+Horse      | OldRace  | Pos  | OR  | Btn   | Odds  | Runners  | Wgt  | T.Wgt  | Jockey | Comment
+------------------------------------------------------------------------------------------
+4507210    | 2    | 78.0 | 5.0   | 3.5   | 8        | 128.0 | 133.0  | 90103.0 | led, headed 4f out, lost position 3f out, rallied over 2f out, went second again over 1f out, kept on but no impression inside final furlong, no match for winner
+1813523    | 6    | 85.0 | 13.0  | 28.0  | 8        | 132.0 | 127.0  | 100783.0 | prominent, pressed leaders briefly 3f out, lost position gradually over 2f out, hung left and weakened over 1f out++++++++++ Dynamic Performance Table ++++++++++
 #️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
 number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
 -----------------------------------------------------------------------------------------------------------------------------
@@ -126,7 +131,8 @@ Legend:
 📈 RPR: 95.0 (Rank: 11)
 📉 TS: 82.0 (Rank: 5)
 🏟️ Course Wins/Runs: 2/8 | SR: 0.25
-📏 Distance Wins/Runs: 3/11 | SR: 0.27
+📏 Distance Wins/Runs: 3/9 | SR: 0.33
+🏟️📏 Course+Distance Wins/Runs: 2/6 | SR: 0.33
 🌱 Going Wins/Runs: 4/8 | SR: 0.5
 📊 Form: 32013- → Score: 0.23 (Rank: 1)
 ------------------------------------------------------------------------------------------
@@ -175,7 +181,8 @@ Horse quote: 2022-06-10 at Sandown (10f): "I think it was a smart performance an
 📈 RPR: 102.0 (Rank: 1)
 📉 TS: 56.0 (Rank: 11)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 4/20 | SR: 0.2
+📏 Distance Wins/Runs: 4/17 | SR: 0.24
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 3/9 | SR: 0.33
 📊 Form: 9950-2 → Score: 0.04 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -223,7 +230,8 @@ Horse quote: 2022-05-06 at Chester (10.5f): ""I was delighted to see Amy's horse
 📈 RPR: 100.0 (Rank: 4)
 📉 TS: 76.0 (Rank: 7)
 🏟️ Course Wins/Runs: 1/5 | SR: 0.2
-📏 Distance Wins/Runs: 3/27 | SR: 0.11
+📏 Distance Wins/Runs: 4/30 | SR: 0.13
+🏟️📏 Course+Distance Wins/Runs: 1/5 | SR: 0.2
 🌱 Going Wins/Runs: 0/10 | SR: 0.0
 📊 Form: 6494-6 → Score: 0.03 (Rank: 11)
 ------------------------------------------------------------------------------------------
@@ -270,7 +278,8 @@ Horse quote: 2022-05-06 at Chester (10.5f): ""I was delighted to see Amy's horse
 📈 RPR: 98.0 (Rank: 6)
 📉 TS: 68.0 (Rank: 9)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 2/11 | SR: 0.18
+📏 Distance Wins/Runs: 2/10 | SR: 0.2
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 20019- → Score: 0.1 (Rank: 3)
 ------------------------------------------------------------------------------------------
@@ -317,7 +326,8 @@ Horse quote: 2022-05-06 at Chester (10.5f): ""I was delighted to see Amy's horse
 📈 RPR: 97.0 (Rank: 9)
 📉 TS: 66.0 (Rank: 10)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 3/9 | SR: 0.33
+📏 Distance Wins/Runs: 3/7 | SR: 0.43
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
 🌱 Going Wins/Runs: 2/2 | SR: 1.0
 📊 Form: 58015- → Score: 0.05 (Rank: 5)
 ------------------------------------------------------------------------------------------
@@ -363,8 +373,9 @@ Horse quote: 2022-05-06 at Chester (10.5f): ""I was delighted to see Amy's horse
 📉 OFR: 80.0 (Rank: 9)
 📈 RPR: 98.0 (Rank: 6)
 📉 TS: 79.0 (Rank: 6)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 1/4 | SR: 0.25
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 1/1 | SR: 1.0
 📊 Form: 13965- → Score: 0.05 (Rank: 6)
 ------------------------------------------------------------------------------------------
@@ -410,8 +421,9 @@ Horse quote: 2022-05-06 at Chester (10.5f): ""I was delighted to see Amy's horse
 📉 OFR: 80.0 (Rank: 9)
 📈 RPR: 98.0 (Rank: 6)
 📉 TS: 79.0 (Rank: 6)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 1/4 | SR: 0.25
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 1/1 | SR: 1.0
 📊 Form: 13965- → Score: 0.05 (Rank: 6)
 ------------------------------------------------------------------------------------------
@@ -459,8 +471,9 @@ Horse quote: 2022-09-15 at Ayr (10f): "That was brilliant. Yorkshire Lady is so 
 📉 OFR: 85.0 (Rank: 2)
 📈 RPR: 96.0 (Rank: 10)
 📉 TS: 74.0 (Rank: 8)
-🏟️ Course Wins/Runs: 1/2 | SR: 0.5
-📏 Distance Wins/Runs: 2/15 | SR: 0.13
+🏟️ Course Wins/Runs: 1/3 | SR: 0.33
+📏 Distance Wins/Runs: 2/11 | SR: 0.18
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
 🌱 Going Wins/Runs: 2/4 | SR: 0.5
 📊 Form: 34102- → Score: 0.15 (Rank: 2)
 ------------------------------------------------------------------------------------------
@@ -507,8 +520,9 @@ Horse quote: 2023-08-03 at Goodwood (10f): "Have Secret has run a cracking race,
 📉 OFR: 82.0 (Rank: 5)
 📈 RPR: 101.0 (Rank: 2)
 📉 TS: 87.0 (Rank: 3)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 1/16 | SR: 0.06
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 1/10 | SR: 0.1
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 1/6 | SR: 0.17
 📊 Form: 5026-0 → Score: 0.08 (Rank: 4)
 ------------------------------------------------------------------------------------------
@@ -556,7 +570,8 @@ Horse quote: 2023-08-03 at Goodwood (10f): "Have Secret has run a cracking race,
 📈 RPR: 99.0 (Rank: 5)
 📉 TS: 87.0 (Rank: 3)
 🏟️ Course Wins/Runs: 0/2 | SR: 0.0
-📏 Distance Wins/Runs: 2/14 | SR: 0.14
+📏 Distance Wins/Runs: 2/11 | SR: 0.18
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
 🌱 Going Wins/Runs: 1/8 | SR: 0.12
 📊 Form: 61764- → Score: 0.04 (Rank: 7)
 ------------------------------------------------------------------------------------------
@@ -603,8 +618,9 @@ Horse quote: 2020-10-19 at Pontefract (10f): "Cockalorum showed a glimmer of his
 📉 OFR: 77.0 (Rank: 11)
 📈 RPR: 101.0 (Rank: 2)
 📉 TS: 96.0 (Rank: 1)
-🏟️ Course Wins/Runs: 2/5 | SR: 0.4
-📏 Distance Wins/Runs: 4/29 | SR: 0.14
+🏟️ Course Wins/Runs: 3/9 | SR: 0.33
+📏 Distance Wins/Runs: 6/33 | SR: 0.18
+🏟️📏 Course+Distance Wins/Runs: 3/8 | SR: 0.38
 🌱 Going Wins/Runs: 1/10 | SR: 0.1
 📊 Form: 4706-7 → Score: 0.04 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -651,8 +667,9 @@ Horse quote: 2023-10-25 at Newmarket (10f): "High Point ran a nice race at Winds
 📉 OFR: 78.0 (Rank: 10)
 📈 RPR: 98.0 (Rank: 6)
 📉 TS: 91.0 (Rank: 2)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 3/4 | SR: 0.75
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 1/2 | SR: 0.5
 📊 Form: 681-77 → Score: 0.04 (Rank: 10)
 ------------------------------------------------------------------------------------------

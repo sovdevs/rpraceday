@@ -25,6 +25,8 @@
 🔷 shared_race_id   🧾 horse_name1   📜 horse_name2
 📉 perfDiff         ⚖️ weight_diff   🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
+
+🔍 No previous identical race runs found for race_id 890396.
 ++++++++++ Dynamic Performance Table ++++++++++
 #️⃣      | 🐎                         | 🆔        | 💶        | 📈        | 💡        | 🎯        | 🏟️       | 💰       
 number   | horse_name                | horse_id | AVG€     | RPR      | OFR      | J-All-Prf | CRSE     | OP-ODDS 
@@ -92,6 +94,7 @@ Horse quote: 2024-04-15 at Windsor (10f): "The dream is still alive, so we'll se
 📉 TS: 101.0 (Rank: 4)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
 📏 Distance Wins/Runs: 1/2 | SR: 0.5
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
 🌱 Going Wins/Runs: 1/1 | SR: 1.0
 📊 Form: 21861- → Score: 0.06 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -139,6 +142,7 @@ Horse quote: 2024-04-15 at Windsor (10f): "The dream is still alive, so we'll se
 📉 TS: 97.0 (Rank: 7)
 🏟️ Course Wins/Runs: 1/3 | SR: 0.33
 📏 Distance Wins/Runs: 1/3 | SR: 0.33
+🏟️📏 Course+Distance Wins/Runs: 1/2 | SR: 0.5
 🌱 Going Wins/Runs: 1/4 | SR: 0.25
 📊 Form: /6212- → Score: 0.12 (Rank: 3)
 ------------------------------------------------------------------------------------------
@@ -187,6 +191,7 @@ Horse quote: 2024-08-12 at Kempton (AW) (8f): "Tribal Chief has been quite a gre
 📉 TS: 85.0 (Rank: 11)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
 📏 Distance Wins/Runs: 2/5 | SR: 0.4
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
 🌱 Going Wins/Runs: 1/1 | SR: 1.0
 📊 Form: 31112- → Score: 0.29 (Rank: 2)
 ------------------------------------------------------------------------------------------
@@ -234,6 +239,7 @@ Horse quote: 2024-08-12 at Kempton (AW) (8f): "Tribal Chief has been quite a gre
 📉 TS: 84.0 (Rank: 12)
 🏟️ Course Wins/Runs: 1/1 | SR: 1.0
 📏 Distance Wins/Runs: 2/3 | SR: 0.67
+🏟️📏 Course+Distance Wins/Runs: 1/1 | SR: 1.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 54411- → Score: 0.07 (Rank: 7)
 ------------------------------------------------------------------------------------------
@@ -281,6 +287,7 @@ Horse quote: 2024-08-12 at Kempton (AW) (8f): "Tribal Chief has been quite a gre
 📉 TS: 95.0 (Rank: 9)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
 📏 Distance Wins/Runs: 1/2 | SR: 0.5
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 07210- → Score: 0.12 (Rank: 3)
 ------------------------------------------------------------------------------------------
@@ -326,6 +333,7 @@ Horse quote: 2024-08-12 at Kempton (AW) (8f): "Tribal Chief has been quite a gre
 📉 TS: 98.0 (Rank: 6)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
 📏 Distance Wins/Runs: 1/2 | SR: 0.5
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 1/2 | SR: 0.5
 📊 Form: 1635- → Score: 0.08 (Rank: 6)
 ------------------------------------------------------------------------------------------
@@ -375,6 +383,7 @@ Horse quote: 2022-05-09 at Wolverhampton (AW) (5f): "We've worked back from Roya
 📉 TS: 103.0 (Rank: 3)
 🏟️ Course Wins/Runs: 0/2 | SR: 0.0
 📏 Distance Wins/Runs: 1/5 | SR: 0.2
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
 🌱 Going Wins/Runs: 2/8 | SR: 0.25
 📊 Form: 443-65 → Score: 0.05 (Rank: 11)
 ------------------------------------------------------------------------------------------
@@ -421,8 +430,9 @@ Horse quote: 2022-09-03 at Ascot (7f): "I had no idea whether I'd won or not, bu
 📉 OFR: 82.0 (Rank: 11)
 📈 RPR: 109.0 (Rank: 12)
 📉 TS: 95.0 (Rank: 9)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 2/18 | SR: 0.11
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 2/11 | SR: 0.18
 📊 Form: 342821 → Score: 0.06 (Rank: 9)
 ------------------------------------------------------------------------------------------
@@ -472,6 +482,7 @@ Horse quote: 2022-05-09 at Wolverhampton (AW) (5f): "We've worked back from Roya
 📉 TS: 103.0 (Rank: 3)
 🏟️ Course Wins/Runs: 0/2 | SR: 0.0
 📏 Distance Wins/Runs: 1/5 | SR: 0.2
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
 🌱 Going Wins/Runs: 2/8 | SR: 0.25
 📊 Form: 443-65 → Score: 0.05 (Rank: 11)
 ------------------------------------------------------------------------------------------
@@ -518,8 +529,9 @@ Horse quote: 2024-09-08 at York (8f): "Zain Blue ran well here the last day and 
 📉 OFR: 85.0 (Rank: 7)
 📈 RPR: 110.0 (Rank: 11)
 📉 TS: 101.0 (Rank: 4)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 2/8 | SR: 0.25
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/5 | SR: 0.0
 📊 Form: 51351- → Score: 0.08 (Rank: 5)
 ------------------------------------------------------------------------------------------
@@ -567,7 +579,8 @@ Horse quote: 2023-04-18 at Newmarket (8f): "Ours were needing the run and the Li
 📈 RPR: 112.0 (Rank: 3)
 📉 TS: 97.0 (Rank: 7)
 🏟️ Course Wins/Runs: 1/5 | SR: 0.2
-📏 Distance Wins/Runs: 3/29 | SR: 0.1
+📏 Distance Wins/Runs: 5/35 | SR: 0.14
+🏟️📏 Course+Distance Wins/Runs: 1/2 | SR: 0.5
 🌱 Going Wins/Runs: 1/13 | SR: 0.08
 📊 Form: 02030- → Score: 0.4 (Rank: 1)
 ------------------------------------------------------------------------------------------
@@ -615,6 +628,7 @@ Horse quote: 2023-04-18 at Newmarket (8f): "Ours were needing the run and the Li
 📉 TS: 84.0 (Rank: 12)
 🏟️ Course Wins/Runs: 0/2 | SR: 0.0
 📏 Distance Wins/Runs: 5/14 | SR: 0.36
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
 🌱 Going Wins/Runs: 2/8 | SR: 0.25
 📊 Form: 14179- → Score: 0.05 (Rank: 12)
 ------------------------------------------------------------------------------------------
@@ -662,6 +676,7 @@ Horse quote: 2023-04-18 at Newmarket (8f): "Ours were needing the run and the Li
 📉 TS: 104.0 (Rank: 2)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
 📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
 🌱 Going Wins/Runs: 0/2 | SR: 0.0
 📊 Form: 83126- → Score: 0.06 (Rank: 10)
 ------------------------------------------------------------------------------------------
@@ -709,6 +724,7 @@ Horse quote: 2023-04-18 at Newmarket (8f): "Ours were needing the run and the Li
 📉 TS: 107.0 (Rank: 1)
 🏟️ Course Wins/Runs: 1/3 | SR: 0.33
 📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/4 | SR: 0.0
 📊 Form: 97840- → Score: 0.04 (Rank: 13)
 ------------------------------------------------------------------------------------------

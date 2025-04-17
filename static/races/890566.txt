@@ -32,6 +32,8 @@
 🔷 shared_race_id   🧾 horse_name1   📜 horse_name2
 📉 perfDiff         ⚖️ weight_diff   🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
+
+🔍 No previous identical race runs found for race_id 890566.
 ++++++++++ Dynamic Performance Table ++++++++++
 #️⃣      | 🐎                         | 🆔        | 💶        | 📈        | 🎯        | 🏟️      
 number   | horse_name                | horse_id | AVG€     | RPR      | J-All-Prf | CRSE    
@@ -91,8 +93,9 @@ Legend:
 📉 OFR: 130.0 (Rank: 1)
 📈 RPR: 139.0 (Rank: 1)
 📉 TS: 113.0 (Rank: 4)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 231 → Score: 0.36 (Rank: 1)
 ------------------------------------------------------------------------------------------
@@ -140,7 +143,8 @@ Horse quote: 2024-12-09 at Lingfield (16f): "We've got a date in March in the ba
 📈 RPR: 139.0 (Rank: 1)
 📉 TS: 126.0 (Rank: 1)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: -21525 → Score: 0.08 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -188,7 +192,8 @@ Horse quote: 2025-01-19 at Windsor (16f): "Jubilee Alpha will go straight to Che
 📈 RPR: 135.0 (Rank: 6)
 📉 TS: 112.0 (Rank: 6)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 2-3118 → Score: 0.09 (Rank: 7)
 ------------------------------------------------------------------------------------------
@@ -234,8 +239,9 @@ Horse quote: 2025-01-27 at Punchestown (19.5f): "The Great Nudie didn't like bei
 📉 OFR: 130.0 (Rank: 1)
 📈 RPR: 138.0 (Rank: 3)
 📉 TS: 113.0 (Rank: 4)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 1/1 | SR: 1.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 415126 → Score: 0.06 (Rank: 11)
 ------------------------------------------------------------------------------------------
@@ -280,8 +286,9 @@ Horse quote: 2025-01-27 at Punchestown (19.5f): "The Great Nudie didn't like bei
 📊 **RANKS AND FLAGS**
 📉 OFR: 127.0 (Rank: 4)
 📈 RPR: 137.0 (Rank: 4)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 0F69F1 → Score: 0.07 (Rank: 10)
 ------------------------------------------------------------------------------------------
@@ -328,8 +335,9 @@ Horse quote: 2025-01-23 at Huntingdon (16f): "Although she's run round Auteuil, 
 📉 OFR: 123.0 (Rank: 7)
 📈 RPR: 133.0 (Rank: 7)
 📉 TS: 117.0 (Rank: 3)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 2-2122 → Score: 0.23 (Rank: 3)
 ------------------------------------------------------------------------------------------
@@ -376,7 +384,8 @@ Horse quote: 2025-02-18 at Market Rasen (16.5f): "Bluey is in at Cheltenham and 
 📈 RPR: 137.0 (Rank: 4)
 📉 TS: 124.0 (Rank: 2)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 1/2 | SR: 0.5
 📊 Form: -4121P → Score: 0.18 (Rank: 4)
 ------------------------------------------------------------------------------------------
@@ -418,7 +427,8 @@ Horse quote: 2025-02-18 at Market Rasen (16.5f): "Bluey is in at Cheltenham and 
 🔦 Spotlight: Irish point winner (on heavy) who joined new connections for £120,000; beaten in three bumpers and had the run of things up front when second at Warwick (good), though that form was franked with the winner finishing second in a Grade 2 at Aintree; this is no easy starter over hurdles, however.
 📊 **RANKS AND FLAGS**
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/2 | SR: 0.0
 📊 Form: 1-472 → Score: 0.08 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -465,8 +475,9 @@ Horse quote: 2025-02-18 at Market Rasen (16.5f): "Bluey is in at Cheltenham and 
 📉 OFR: 115.0 (Rank: 9)
 📈 RPR: 126.0 (Rank: 9)
 📉 TS: 92.0 (Rank: 9)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 1/2 | SR: 0.5
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 1/1 | SR: 1.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 2212 → Score: 0.3 (Rank: 2)
 ------------------------------------------------------------------------------------------
@@ -513,7 +524,8 @@ Horse quote: 2025-02-18 at Market Rasen (16.5f): "Bluey is in at Cheltenham and 
 📈 RPR: 132.0 (Rank: 8)
 📉 TS: 110.0 (Rank: 7)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 1/2 | SR: 0.5
 📊 Form: 12530 → Score: 0.13 (Rank: 6)
 ------------------------------------------------------------------------------------------
@@ -556,8 +568,9 @@ Horse quote: 2025-02-18 at Market Rasen (16.5f): "Bluey is in at Cheltenham and 
 📉 OFR: 110.0 (Rank: 10)
 📈 RPR: 122.0 (Rank: 10)
 📉 TS: 103.0 (Rank: 8)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/2 | SR: 0.0
 📊 Form: 1-432 → Score: 0.15 (Rank: 5)
 ------------------------------------------------------------------------------------------

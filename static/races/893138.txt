@@ -28,6 +28,8 @@
 🔷 shared_race_id   🧾 horse_name1   📜 horse_name2
 📉 perfDiff         ⚖️ weight_diff   🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
+
+🔍 No previous identical race runs found for race_id 893138.
 ++++++++++ Dynamic Performance Table ++++++++++
 #️⃣      | 🐎                         | 🆔        | 📈        | 💡        | 🎯        | 🏟️       | 💰       
 number   | horse_name                | horse_id | RPR      | OFR      | J-All-Prf | CRSE     | OP-ODDS 
@@ -92,7 +94,8 @@ Legend:
 📈 RPR: 97.0 (Rank: 10)
 📉 TS: 51.0 (Rank: 12)
 🏟️ Course Wins/Runs: 2/3 | SR: 0.67
-📏 Distance Wins/Runs: 1/6 | SR: 0.17
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 1/2 | SR: 0.5
 📊 Form: 99P011 → Score: 0.05 (Rank: 10)
 ------------------------------------------------------------------------------------------
@@ -136,8 +139,9 @@ Legend:
 📉 OFR: 97.0 (Rank: 1)
 📈 RPR: 102.0 (Rank: 4)
 📉 TS: 75.0 (Rank: 6)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/4 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 86-022 → Score: 0.06 (Rank: 6)
 ------------------------------------------------------------------------------------------
@@ -182,7 +186,8 @@ Legend:
 📈 RPR: 101.0 (Rank: 7)
 📉 TS: 68.0 (Rank: 7)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 1/15 | SR: 0.07
+📏 Distance Wins/Runs: 0/3 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/7 | SR: 0.0
 📊 Form: 808692 → Score: 0.03 (Rank: 14)
 ------------------------------------------------------------------------------------------
@@ -227,7 +232,8 @@ Legend:
 📈 RPR: 102.0 (Rank: 4)
 📉 TS: 93.0 (Rank: 1)
 🏟️ Course Wins/Runs: 0/2 | SR: 0.0
-📏 Distance Wins/Runs: 0/9 | SR: 0.0
+📏 Distance Wins/Runs: 0/3 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/5 | SR: 0.0
 📊 Form: 324074 → Score: 0.06 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -273,7 +279,8 @@ Horse quote: 2022-11-03 at Thurles (16f): "Navy Waves is only a small filly. I h
 📈 RPR: 103.0 (Rank: 2)
 📉 TS: 83.0 (Rank: 4)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 0/10 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/3 | SR: 0.0
 📊 Form: 433203 → Score: 0.11 (Rank: 2)
 ------------------------------------------------------------------------------------------
@@ -317,8 +324,9 @@ Horse quote: 2022-11-03 at Thurles (16f): "Navy Waves is only a small filly. I h
 📉 OFR: 74.0 (Rank: 14)
 📈 RPR: 101.0 (Rank: 7)
 📉 TS: 64.0 (Rank: 9)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/12 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: F0P-95 → Score: 0.07 (Rank: 4)
 ------------------------------------------------------------------------------------------
@@ -362,8 +370,9 @@ Horse quote: 2022-11-03 at Thurles (16f): "Navy Waves is only a small filly. I h
 📉 OFR: 78.0 (Rank: 13)
 📈 RPR: 104.0 (Rank: 1)
 📉 TS: 90.0 (Rank: 2)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/5 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: U47484 → Score: 0.04 (Rank: 12)
 ------------------------------------------------------------------------------------------
@@ -409,7 +418,8 @@ Horse quote: 2022-12-26 at Down Royal (17f): "Seamus had Kalanisi Dubh in great 
 📈 RPR: 99.0 (Rank: 9)
 📉 TS: 54.0 (Rank: 11)
 🏟️ Course Wins/Runs: 1/3 | SR: 0.33
-📏 Distance Wins/Runs: 2/11 | SR: 0.18
+📏 Distance Wins/Runs: 1/4 | SR: 0.25
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/2 | SR: 0.0
 📊 Form: 18-O69 → Score: 0.04 (Rank: 11)
 ------------------------------------------------------------------------------------------
@@ -453,8 +463,9 @@ Horse quote: 2022-12-26 at Down Royal (17f): "Seamus had Kalanisi Dubh in great 
 📉 OFR: 87.0 (Rank: 6)
 📈 RPR: 88.0 (Rank: 12)
 📉 TS: 67.0 (Rank: 8)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/3 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: F88012 → Score: 0.06 (Rank: 7)
 ------------------------------------------------------------------------------------------
@@ -499,7 +510,8 @@ Horse quote: 2022-12-26 at Down Royal (17f): "Seamus had Kalanisi Dubh in great 
 📈 RPR: 102.0 (Rank: 4)
 📉 TS: 76.0 (Rank: 5)
 🏟️ Course Wins/Runs: 0/2 | SR: 0.0
-📏 Distance Wins/Runs: 0/7 | SR: 0.0
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 9P857P → Score: 0.03 (Rank: 13)
 ------------------------------------------------------------------------------------------
@@ -541,8 +553,9 @@ Horse quote: 2022-12-26 at Down Royal (17f): "Seamus had Kalanisi Dubh in great 
 📉 OFR: 90.0 (Rank: 4)
 📈 RPR: 86.0 (Rank: 13)
 📉 TS: 63.0 (Rank: 10)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/4 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/2 | SR: 0.0
 📊 Form: 0040 → Score: 0.25 (Rank: 1)
 ------------------------------------------------------------------------------------------
@@ -585,8 +598,9 @@ Horse quote: 2022-12-26 at Down Royal (17f): "Seamus had Kalanisi Dubh in great 
 📊 **RANKS AND FLAGS**
 📉 OFR: 83.0 (Rank: 11)
 📈 RPR: 96.0 (Rank: 11)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/2 | SR: 0.0
 📊 Form: 608-21 → Score: 0.07 (Rank: 5)
 ------------------------------------------------------------------------------------------
@@ -631,8 +645,9 @@ Horse quote: 2024-05-24 at Downpatrick (18f): "Pepperpots works real well at hom
 📉 OFR: 88.0 (Rank: 5)
 📈 RPR: 103.0 (Rank: 2)
 📉 TS: 89.0 (Rank: 3)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 1/10 | SR: 0.1
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 1/5 | SR: 0.2
 📊 Form: 5670PP → Score: 0.06 (Rank: 9)
 ------------------------------------------------------------------------------------------
@@ -678,7 +693,8 @@ Horse quote: 2024-05-24 at Downpatrick (18f): "Pepperpots works real well at hom
 📈 RPR: 80.0 (Rank: 14)
 📉 TS: 17.0 (Rank: 13)
 🏟️ Course Wins/Runs: 0/2 | SR: 0.0
-📏 Distance Wins/Runs: 0/2 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: -94F00 → Score: 0.08 (Rank: 3)
 ------------------------------------------------------------------------------------------

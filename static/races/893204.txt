@@ -20,6 +20,8 @@
 🔷 shared_race_id   🧾 horse_name1   📜 horse_name2
 📉 perfDiff         ⚖️ weight_diff   🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
+
+🔍 No previous identical race runs found for race_id 893204.
 ++++++++++ Dynamic Performance Table ++++++++++
 #️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
 number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
@@ -80,8 +82,9 @@ Legend:
 🔦 Spotlight: Consistent hurdler in 2024, winning three times at 2m3f-2m6f (good) and runner-up on four other occasions, including at Worcester (2m7f, soft) in September; switches to fences off career-high mark on course debut.
 📊 **RANKS AND FLAGS**
 📉 OFR: 120.0 (Rank: 2)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 211412 → Score: 0.14 (Rank: 5)
 ------------------------------------------------------------------------------------------
@@ -130,6 +133,7 @@ Legend:
 📉 TS: 100.0 (Rank: 5)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
 📏 Distance Wins/Runs: 0/3 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
 🌱 Going Wins/Runs: 0/3 | SR: 0.0
 📊 Form: 5-511P → Score: 0.09 (Rank: 6)
 ------------------------------------------------------------------------------------------
@@ -177,7 +181,8 @@ Horse quote: 2024-01-24 at Chepstow (19.5f): "I was delighted to get it as we've
 📈 RPR: 127.0 (Rank: 2)
 📉 TS: 112.0 (Rank: 2)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 0/2 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 21P-P2 → Score: 0.43 (Rank: 1)
 ------------------------------------------------------------------------------------------
@@ -225,7 +230,8 @@ Horse quote: 2024-04-07 at Exeter (21.5f): "Howaya Now has ground it out really.
 📉 OFR: 109.0 (Rank: 10)
 📈 RPR: 125.0 (Rank: 8)
 🏟️ Course Wins/Runs: 0/2 | SR: 0.0
-📏 Distance Wins/Runs: 0/7 | SR: 0.0
+📏 Distance Wins/Runs: 0/6 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
 🌱 Going Wins/Runs: 0/6 | SR: 0.0
 📊 Form: 21-465 → Score: 0.06 (Rank: 10)
 ------------------------------------------------------------------------------------------
@@ -273,8 +279,9 @@ Horse quote: 2023-02-18 at Ascot (24f): "Cap Du Nord is  unbelievable, he's only
 📉 OFR: 110.0 (Rank: 8)
 📈 RPR: 126.0 (Rank: 5)
 📉 TS: 99.0 (Rank: 6)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 3/20 | SR: 0.15
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 3/21 | SR: 0.14
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/9 | SR: 0.0
 📊 Form: 845PP4 → Score: 0.05 (Rank: 11)
 ------------------------------------------------------------------------------------------
@@ -323,6 +330,7 @@ Horse quote: 2021-11-11 at Market Rasen (16.5f): "That was pleasing from Peejayb
 📉 TS: 101.0 (Rank: 4)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
 📏 Distance Wins/Runs: 1/5 | SR: 0.2
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 3/8 | SR: 0.38
 📊 Form: 3242P6 → Score: 0.07 (Rank: 9)
 ------------------------------------------------------------------------------------------
@@ -370,8 +378,9 @@ Horse quote: 2022-01-21 at Lingfield (23.5f): "That was very good. Fantastikas i
 📉 OFR: 117.0 (Rank: 4)
 📈 RPR: 129.0 (Rank: 1)
 📉 TS: 80.0 (Rank: 8)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 2/7 | SR: 0.29
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/3 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/10 | SR: 0.0
 📊 Form: 3-P344 → Score: 0.09 (Rank: 7)
 ------------------------------------------------------------------------------------------
@@ -419,7 +428,8 @@ Horse quote: 2022-01-21 at Lingfield (23.5f): "That was very good. Fantastikas i
 📈 RPR: 127.0 (Rank: 2)
 📉 TS: 119.0 (Rank: 1)
 🏟️ Course Wins/Runs: 1/3 | SR: 0.33
-📏 Distance Wins/Runs: 1/8 | SR: 0.12
+📏 Distance Wins/Runs: 1/5 | SR: 0.2
+🏟️📏 Course+Distance Wins/Runs: 1/2 | SR: 0.5
 🌱 Going Wins/Runs: 1/10 | SR: 0.1
 📊 Form: P-2P34 → Score: 0.15 (Rank: 4)
 ------------------------------------------------------------------------------------------
@@ -467,8 +477,9 @@ Horse quote: 2022-03-23 at Ludlow (20f): "He's a lovely horse, a proper horse. I
 📉 OFR: 119.0 (Rank: 3)
 📈 RPR: 126.0 (Rank: 5)
 📉 TS: 91.0 (Rank: 7)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 1/3 | SR: 0.33
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/2 | SR: 0.0
 📊 Form: /44-4P → Score: 0.08 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -515,7 +526,8 @@ Horse quote: 2022-03-23 at Ludlow (20f): "He's a lovely horse, a proper horse. I
 📈 RPR: 123.0 (Rank: 9)
 📉 TS: 110.0 (Rank: 3)
 🏟️ Course Wins/Runs: 1/10 | SR: 0.1
-📏 Distance Wins/Runs: 1/12 | SR: 0.08
+📏 Distance Wins/Runs: 1/10 | SR: 0.1
+🏟️📏 Course+Distance Wins/Runs: 0/7 | SR: 0.0
 🌱 Going Wins/Runs: 2/9 | SR: 0.22
 📊 Form: 5377F4 → Score: 0.04 (Rank: 12)
 ------------------------------------------------------------------------------------------
@@ -562,7 +574,8 @@ Horse quote: 2022-03-23 at Ludlow (20f): "He's a lovely horse, a proper horse. I
 📈 RPR: 123.0 (Rank: 9)
 📉 TS: 110.0 (Rank: 3)
 🏟️ Course Wins/Runs: 1/10 | SR: 0.1
-📏 Distance Wins/Runs: 1/12 | SR: 0.08
+📏 Distance Wins/Runs: 1/10 | SR: 0.1
+🏟️📏 Course+Distance Wins/Runs: 0/7 | SR: 0.0
 🌱 Going Wins/Runs: 2/9 | SR: 0.22
 📊 Form: 5377F4 → Score: 0.04 (Rank: 12)
 ------------------------------------------------------------------------------------------
@@ -609,7 +622,8 @@ Horse quote: 2024-12-19 at Ffos Las (21.5f): "We put a few quid on Karuma Grey, 
 📈 RPR: 127.0 (Rank: 2)
 📉 TS: 41.0 (Rank: 9)
 🏟️ Course Wins/Runs: 1/2 | SR: 0.5
-📏 Distance Wins/Runs: 0/3 | SR: 0.0
+📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/6 | SR: 0.0
 📊 Form: P-14PP → Score: 0.23 (Rank: 2)
 ------------------------------------------------------------------------------------------

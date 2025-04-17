@@ -17,6 +17,8 @@
 🔷 shared_race_id   🧾 horse_name1   📜 horse_name2
 📉 perfDiff         ⚖️ weight_diff   🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
+
+🔍 No previous identical race runs found for race_id 893296.
 ++++++++++ Dynamic Performance Table ++++++++++
 #️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
 number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
@@ -74,8 +76,9 @@ Legend:
 📊 **RANKS AND FLAGS**
 📈 RPR: 114.0 (Rank: 1)
 📉 TS: 88.0 (Rank: 2)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 2-24 → Score: 0.17 (Rank: 5)
 ------------------------------------------------------------------------------------------
@@ -117,8 +120,9 @@ Legend:
 🔦 Spotlight: Runner-up on debut in a steadily run Doncaster bumper (2m, good; favourite) and that form has been well advertised since; has every chance of going one better.
 📊 **RANKS AND FLAGS**
 📈 RPR: 110.0 (Rank: 2)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 2 → Score: 1.0 (Rank: 1)
 ------------------------------------------------------------------------------------------
@@ -157,8 +161,9 @@ nan
 💬 Comment: 175,000euros 3yo; half-brother to two French winners; yard 26% in bumpers in last 5 years
 🔦 Spotlight: 175,000euros 3yo; sixth foal; half-brother to two French winners, notably Gage De Reussite (2m2f-2m4f hurdle/chase); dam French 1m2f-1m7f Flat/2m-2m5f hurdle (Listed) winner; interesting newcomer for yard that's 26% (79-303) in bumpers in the last five years.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -201,8 +206,9 @@ nan
 📊 **RANKS AND FLAGS**
 📈 RPR: 104.0 (Rank: 5)
 📉 TS: 69.0 (Rank: 4)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 4 → Score: 0.25 (Rank: 4)
 ------------------------------------------------------------------------------------------
@@ -241,8 +247,9 @@ nan
 💬 Comment: Bought for £40,000 after being placed in a 3m Irish point; likely to find a few sharper.
 🔦 Spotlight: Placed in an Irish point (3m, yielding; winner has since won a Cork maiden hurdle) last March; sold for £40,000 the following month; dam unraced half-sister to two winners, including bumper scorer Now Is The Winter; likely to find a few sharper on rules and stable debut.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 3- → Score: 0.67 (Rank: 2)
 ------------------------------------------------------------------------------------------
@@ -284,8 +291,9 @@ nan
 📊 **RANKS AND FLAGS**
 📈 RPR: 107.0 (Rank: 3)
 📉 TS: 56.0 (Rank: 5)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 3 → Score: 0.67 (Rank: 2)
 ------------------------------------------------------------------------------------------
@@ -328,8 +336,9 @@ nan
 📊 **RANKS AND FLAGS**
 📈 RPR: 106.0 (Rank: 4)
 📉 TS: 95.0 (Rank: 1)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 25 → Score: 0.17 (Rank: 5)
 ------------------------------------------------------------------------------------------
@@ -370,8 +379,9 @@ nan
 📊 **RANKS AND FLAGS**
 📈 RPR: 101.0 (Rank: 6)
 📉 TS: 72.0 (Rank: 3)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 66 → Score: 0.08 (Rank: 7)
 ------------------------------------------------------------------------------------------
@@ -410,8 +420,9 @@ nan
 💬 Comment: 50,000euros 3yo; half-brother to three winners, including Shear Rock (2m-2m2f hurdle).
 🔦 Spotlight: 50,000euros 3yo; ninth foal; half-brother to three winners, including Shear Rock (useful 2m-2m2f hurdle) and Clear The Clouds (2m3f hurdle); dam unraced but well related; trainer gets bumper winners but 0-8 in them this season.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -450,8 +461,9 @@ nan
 💬 Comment: 10,000euros yearling; half-brother to three French Flat winners (7.5f-1m2f).
 🔦 Spotlight: 10,000euros yearling; sixth foal; half-brother to three French Flat winners (7.5f-1m2f) out of French 6f-7.5f Flat and 1m7f-2m1f hurdle/chase winner; trainer 0-6 in bumpers this season; safer options elsewhere.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 8)
 ------------------------------------------------------------------------------------------

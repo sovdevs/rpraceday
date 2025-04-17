@@ -70,6 +70,8 @@
 🔷 shared_race_id   🧾 horse_name1   📜 horse_name2
 📉 perfDiff         ⚖️ weight_diff   🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
+
+🔍 No previous identical race runs found for race_id 890561.
 ++++++++++ Dynamic Performance Table ++++++++++
 #️⃣      | 🐎                         | 🆔        | 💶        | 📈        | 💡        | 🎯        | 🏟️       | 💰       
 number   | horse_name                | horse_id | AVG€     | RPR      | OFR      | J-All-Prf | CRSE     | OP-ODDS 
@@ -136,7 +138,8 @@ Legend:
 📈 RPR: 129.0 (Rank: 10)
 📉 TS: 122.0 (Rank: 1)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 12-262 → Score: 0.11 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -181,8 +184,9 @@ Horse quote: 2025-02-14 at Fakenham (21f): "It's very satisfying to get Sainte D
 📉 OFR: 123.0 (Rank: 1)
 📈 RPR: 127.0 (Rank: 12)
 📉 TS: 110.0 (Rank: 7)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 5/13 | SR: 0.38
 📊 Form: 353111 → Score: 0.11 (Rank: 6)
 ------------------------------------------------------------------------------------------
@@ -227,8 +231,9 @@ Horse quote: 2025-02-14 at Fakenham (21f): "It's very satisfying to get Sainte D
 📉 OFR: 123.0 (Rank: 1)
 📈 RPR: 127.0 (Rank: 12)
 📉 TS: 110.0 (Rank: 7)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 5/13 | SR: 0.38
 📊 Form: 353111 → Score: 0.11 (Rank: 6)
 ------------------------------------------------------------------------------------------
@@ -273,8 +278,9 @@ Horse quote: 2025-02-14 at Fakenham (21f): "It's very satisfying to get Sainte D
 📉 OFR: 112.0 (Rank: 5)
 📈 RPR: 129.0 (Rank: 10)
 📉 TS: 95.0 (Rank: 10)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 1/1 | SR: 1.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 3/5 | SR: 0.6
 📊 Form: 236P11 → Score: 0.11 (Rank: 7)
 ------------------------------------------------------------------------------------------
@@ -321,7 +327,8 @@ Horse quote: 2024-01-11 at Catterick (25.5f): "It's just unfortunate, one of tho
 📈 RPR: 130.0 (Rank: 8)
 📉 TS: 69.0 (Rank: 14)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 0/8 | SR: 0.0
+📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 1/7 | SR: 0.14
 📊 Form: 763312 → Score: 0.06 (Rank: 13)
 ------------------------------------------------------------------------------------------
@@ -369,7 +376,8 @@ Horse quote: 2025-03-24 at Wincanton (25f): "Moviddy has put in a lot of good ef
 📈 RPR: 132.0 (Rank: 1)
 📉 TS: 109.0 (Rank: 9)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 1/2 | SR: 0.5
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
 🌱 Going Wins/Runs: 1/9 | SR: 0.11
 📊 Form: 683221 → Score: 0.06 (Rank: 14)
 ------------------------------------------------------------------------------------------
@@ -415,7 +423,8 @@ Horse quote: 2025-03-24 at Wincanton (25f): "Moviddy has put in a lot of good ef
 📈 RPR: 131.0 (Rank: 3)
 📉 TS: 116.0 (Rank: 5)
 🏟️ Course Wins/Runs: 0/2 | SR: 0.0
-📏 Distance Wins/Runs: 0/2 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 1/8 | SR: 0.12
 📊 Form: 223P33 → Score: 0.15 (Rank: 3)
 ------------------------------------------------------------------------------------------
@@ -463,7 +472,8 @@ Horse quote: 2024-04-18 at Cheltenham (20.5f): "Malaita is a lovely mare but we'
 📈 RPR: 130.0 (Rank: 8)
 📉 TS: 86.0 (Rank: 11)
 🏟️ Course Wins/Runs: 2/4 | SR: 0.5
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 2/5 | SR: 0.4
 📊 Form: 63273P → Score: 0.06 (Rank: 12)
 ------------------------------------------------------------------------------------------
@@ -509,7 +519,8 @@ Horse quote: 2024-04-18 at Cheltenham (20.5f): "Malaita is a lovely mare but we'
 📈 RPR: 124.0 (Rank: 14)
 📉 TS: 110.0 (Rank: 7)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 0/4 | SR: 0.0
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
 🌱 Going Wins/Runs: 0/3 | SR: 0.0
 📊 Form: 323122 → Score: 0.16 (Rank: 2)
 ------------------------------------------------------------------------------------------
@@ -553,8 +564,9 @@ Horse quote: 2024-04-18 at Cheltenham (20.5f): "Malaita is a lovely mare but we'
 📉 OFR: 106.0 (Rank: 10)
 📈 RPR: 131.0 (Rank: 3)
 📉 TS: 122.0 (Rank: 1)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 1/6 | SR: 0.17
 📊 Form: R11452 → Score: 0.09 (Rank: 9)
 ------------------------------------------------------------------------------------------
@@ -602,7 +614,8 @@ Horse quote: 2024-04-18 at Cheltenham (20.5f): "Malaita is a lovely mare but we'
 📈 RPR: 131.0 (Rank: 3)
 📉 TS: 82.0 (Rank: 12)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 2/3 | SR: 0.67
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
 🌱 Going Wins/Runs: 0/6 | SR: 0.0
 📊 Form: 22-P43 → Score: 0.13 (Rank: 4)
 ------------------------------------------------------------------------------------------
@@ -651,7 +664,8 @@ Horse quote: 2025-01-01 at Fakenham (21f): "We have not long had Gazette Bourgeo
 📈 RPR: 132.0 (Rank: 1)
 📉 TS: 119.0 (Rank: 4)
 🏟️ Course Wins/Runs: 0/3 | SR: 0.0
-📏 Distance Wins/Runs: 1/7 | SR: 0.14
+📏 Distance Wins/Runs: 1/3 | SR: 0.33
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
 🌱 Going Wins/Runs: 1/13 | SR: 0.08
 📊 Form: 241424 → Score: 0.07 (Rank: 11)
 ------------------------------------------------------------------------------------------
@@ -697,7 +711,8 @@ Horse quote: 2025-01-01 at Fakenham (21f): "We have not long had Gazette Bourgeo
 📈 RPR: 131.0 (Rank: 3)
 📉 TS: 115.0 (Rank: 6)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 2/5 | SR: 0.4
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 2/6 | SR: 0.33
 📊 Form: 1123P3 → Score: 0.22 (Rank: 1)
 ------------------------------------------------------------------------------------------
@@ -743,8 +758,9 @@ Horse quote: 2024-12-01 at Leicester (22.5f): "Kosasiempre did it well and we we
 📉 OFR: 109.0 (Rank: 8)
 📈 RPR: 131.0 (Rank: 3)
 📉 TS: 122.0 (Rank: 1)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 2/6 | SR: 0.33
 📊 Form: 2312P4 → Score: 0.13 (Rank: 5)
 ------------------------------------------------------------------------------------------
@@ -790,7 +806,8 @@ Horse quote: 2022-08-07 at Downpatrick (19f): "Happy D'Ex has been a bit disappo
 📈 RPR: 125.0 (Rank: 13)
 📉 TS: 82.0 (Rank: 12)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 1/4 | SR: 0.25
 📊 Form: P6-63U → Score: 0.07 (Rank: 10)
 ------------------------------------------------------------------------------------------

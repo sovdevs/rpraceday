@@ -20,6 +20,8 @@
 🔷 shared_race_id   🧾 horse_name1   📜 horse_name2
 📉 perfDiff         ⚖️ weight_diff   🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
+
+🔍 No previous identical race runs found for race_id 893141.
 ++++++++++ Dynamic Performance Table ++++++++++
 #️⃣      | 🐎                         | 🆔        | 📈        | 🎯        | 🏟️      
 number   | horse_name                | horse_id | RPR      | J-All-Prf | CRSE    
@@ -82,7 +84,8 @@ Legend:
 🔦 Spotlight: Point winner; was carried out when 8-1 for a 2m course bumper three weeks ago; will be fine with this trip and has to be high on the shortlist.
 📊 **RANKS AND FLAGS**
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: F-3P1C → Score: 0.56 (Rank: 1)
 ------------------------------------------------------------------------------------------
@@ -124,8 +127,9 @@ Legend:
 📊 **RANKS AND FLAGS**
 📈 RPR: 107.0 (Rank: 1)
 📉 TS: 81.0 (Rank: 1)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 58 → Score: 0.08 (Rank: 4)
 ------------------------------------------------------------------------------------------
@@ -167,8 +171,9 @@ Legend:
 📊 **RANKS AND FLAGS**
 📈 RPR: 107.0 (Rank: 1)
 📉 TS: 81.0 (Rank: 1)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 58 → Score: 0.08 (Rank: 4)
 ------------------------------------------------------------------------------------------
@@ -212,7 +217,8 @@ Legend:
 📈 RPR: 86.0 (Rank: 4)
 📉 TS: 33.0 (Rank: 4)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 74-587 → Score: 0.03 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -252,8 +258,9 @@ Legend:
 🔦 Spotlight: Tried to run out when seventh of 13 for a Limerick bumper 16 days ago; was only 16-1 that day and may do better if he's straighter for that experience.
 📊 **RANKS AND FLAGS**
 📈 RPR: 74.0 (Rank: 6)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 7 → Score: 0.14 (Rank: 3)
 ------------------------------------------------------------------------------------------
@@ -295,8 +302,9 @@ Legend:
 📊 **RANKS AND FLAGS**
 📈 RPR: 102.0 (Rank: 2)
 📉 TS: 66.0 (Rank: 2)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/3 | SR: 0.0
 📊 Form: 2695 → Score: 0.05 (Rank: 6)
 ------------------------------------------------------------------------------------------
@@ -335,8 +343,9 @@ nan
 💬 Comment: Doyen gelding; half-brother to 2 winners over jumps; check market
 🔦 Spotlight: Doyen gelding; half-brother to winners Extrapolation (useful bumper and 2m1f-2m4f hurdle/chase) and Cats For Cash (2m3f hurdle); dam unraced half-sister to 1m2f-12.5f Flat and top-class 2m hurdle winner Harchibald; interesting pedigree; yard 1-12 in bumpers last five years; check market.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 9)
 ------------------------------------------------------------------------------------------
@@ -375,8 +384,9 @@ nan
 💬 Comment: Dawn Approach gelding; related to Flat winners but yard gets bumper winners
 🔦 Spotlight: Dawn Approach gelding; half-brother to winners Indigo Five (7f/1m; RPR 99) and Laoch Liath (Scandinavian 6f/8.7f); dam 6f-1m maiden (64), half-sister to 7f Group 3 winners Bounce The Blues and Jazz Princess; yard gets bumper winners and worth a 📊 market check.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 9)
 ------------------------------------------------------------------------------------------
@@ -415,8 +425,9 @@ nan
 💬 Comment: Arctic Cosmos gelding; half-brother to 2 winners inc' Panda Boy; hood may not be good sign
 🔦 Spotlight: Arctic Cosmos gelding; half-brother to winners Panda Boy (useful 2m4f-3m hurdle/chase) and Lahinch Wave (2m4f hurdle); dam unraced half-sister to bumper and smart 2m5f-3m3f hurdle/chase winner Garruth; hood for debut probably not a good sign.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 9)
 ------------------------------------------------------------------------------------------
@@ -455,8 +466,9 @@ nan
 💬 Comment: Half-sister to 2m1f-3m1f hurdle winner Scarpia; yard 1-6 in bumpers last 5 years
 🔦 Spotlight: Ocovango mare; half-sister to 2m1f-3m1f hurdle winner Scarpia; dam 2m3f-3m1f hurdle winner, half-sister to 3m1f/3m2f chase winner Uallrightharry, out of unraced half-sister to useful staying chaser Torduff Express; yard 1-6 in bumpers last five years.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 9)
 ------------------------------------------------------------------------------------------
@@ -495,8 +507,9 @@ nan
 💬 Comment: Well Chosen gelding; dam unplaced 2m-2m5f hurdle/chase; yard 2-62 in bumpers last 5 years
 🔦 Spotlight: Well Chosen gelding; dam unplaced 2m-2m5f hurdle/chase, out of point winning half-sister to 2m5f/3m3f hunter chase winner Chosen Dream; yard 2-62 in bumpers last five years.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 9)
 ------------------------------------------------------------------------------------------
@@ -535,8 +548,9 @@ nan
 💬 Comment: Didn't threaten in two points and yard 0-14 in bumpers last five years
 🔦 Spotlight: Didn't threaten in two points and yard 0-14 in bumpers last five years.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 5/F- → Score: 0.2 (Rank: 2)
 ------------------------------------------------------------------------------------------
@@ -578,8 +592,9 @@ nan
 📊 **RANKS AND FLAGS**
 📈 RPR: 88.0 (Rank: 3)
 📉 TS: 18.0 (Rank: 6)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 87 → Score: 0.07 (Rank: 5)
 ------------------------------------------------------------------------------------------
@@ -618,8 +633,9 @@ nan
 💬 Comment: Beaten when coming down in a Gowran maiden hurdle in 2022 (100-1 SP) and not seen since
 🔦 Spotlight: Beaten when coming down in a Gowran maiden hurdle in 2022 (100-1 SP) and not seen since; 🆕 new yard.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: F/ → Score: 0.0 (Rank: 9)
 ------------------------------------------------------------------------------------------
@@ -661,8 +677,9 @@ nan
 📊 **RANKS AND FLAGS**
 📈 RPR: 78.0 (Rank: 5)
 📉 TS: 25.0 (Rank: 5)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 0 → Score: 0.0 (Rank: 9)
 ------------------------------------------------------------------------------------------
@@ -706,7 +723,8 @@ nan
 📈 RPR: 72.0 (Rank: 7)
 📉 TS: 38.0 (Rank: 3)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 0/3 | SR: 0.0
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/2 | SR: 0.0
 📊 Form: 0457P8 → Score: 0.04 (Rank: 7)
 ------------------------------------------------------------------------------------------

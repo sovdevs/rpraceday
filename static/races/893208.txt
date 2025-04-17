@@ -17,6 +17,8 @@
 🔷 shared_race_id   🧾 horse_name1   📜 horse_name2
 📉 perfDiff         ⚖️ weight_diff   🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
+
+🔍 No previous identical race runs found for race_id 893208.
 ++++++++++ Dynamic Performance Table ++++++++++
 #️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
 number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
@@ -75,8 +77,9 @@ Legend:
 📊 **RANKS AND FLAGS**
 📈 RPR: 110.0 (Rank: 2)
 📉 TS: 63.0 (Rank: 4)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 1/1 | SR: 1.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 1 → Score: 3.33 (Rank: 1)
 ------------------------------------------------------------------------------------------
@@ -118,8 +121,9 @@ Legend:
 📊 **RANKS AND FLAGS**
 📈 RPR: 113.0 (Rank: 1)
 📉 TS: 29.0 (Rank: 5)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 2 → Score: 1.0 (Rank: 3)
 ------------------------------------------------------------------------------------------
@@ -161,8 +165,9 @@ Legend:
 📊 **RANKS AND FLAGS**
 📈 RPR: 113.0 (Rank: 1)
 📉 TS: 29.0 (Rank: 5)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 2 → Score: 1.0 (Rank: 3)
 ------------------------------------------------------------------------------------------
@@ -201,8 +206,9 @@ Legend:
 💬 Comment: Irish point win last May; mixed signals from that form but 🆕 new yard does well in bumpers
 🔦 Spotlight: Cost £80,000 after winning a 3m Irish point (yielding) last May; while the second and third haven't done much for that form the fourth and fifth have won maiden hurdles since; the betting should guide for a stable that gets plenty of bumper winners.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 1 → Score: 3.33 (Rank: 1)
 ------------------------------------------------------------------------------------------
@@ -245,8 +251,9 @@ Legend:
 📊 **RANKS AND FLAGS**
 📈 RPR: 107.0 (Rank: 3)
 📉 TS: 93.0 (Rank: 1)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 3 → Score: 0.67 (Rank: 6)
 ------------------------------------------------------------------------------------------
@@ -285,8 +292,9 @@ Legend:
 💬 Comment: Second in Irish point but yard only 2-40 in bumpers in last five seasons; has had wind op
 🔦 Spotlight: 6l second in a 3m Irish point (yielding to soft) in October; has had wind surgery ahead of bumper debut for yard with a 2-40 record in similar races to this in the last five seasons.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 2 → Score: 1.0 (Rank: 3)
 ------------------------------------------------------------------------------------------
@@ -328,8 +336,9 @@ Legend:
 🔦 Spotlight: Irish point winner in October but always towards the rear on his Huntingdon bumper debut (2m, good to soft) ten weeks ago; will need to leave that well behind.
 📊 **RANKS AND FLAGS**
 📈 RPR: 105.0 (Rank: 4)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 2-10 → Score: 0.77 (Rank: 5)
 ------------------------------------------------------------------------------------------
@@ -372,8 +381,9 @@ Legend:
 📊 **RANKS AND FLAGS**
 📈 RPR: 95.0 (Rank: 5)
 📉 TS: 76.0 (Rank: 2)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 6 → Score: 0.17 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -415,8 +425,9 @@ Legend:
 📊 **RANKS AND FLAGS**
 📈 RPR: 89.0 (Rank: 6)
 📉 TS: 71.0 (Rank: 3)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 4 → Score: 0.25 (Rank: 7)
 ------------------------------------------------------------------------------------------
@@ -455,8 +466,9 @@ nan
 💬 Comment: Best watched on debut unless the betting strongly hints otherwise
 🔦 Spotlight: By Telescope out of winner at 1m1f-1m4f whose sibling Bobs Pride won a Group 3 over 1m2f before adding hurdle and chase successes; best watched on debut unless the betting strongly hints otherwise.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 9)
 ------------------------------------------------------------------------------------------

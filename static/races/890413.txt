@@ -23,6 +23,8 @@
 🔷 shared_race_id   🧾 horse_name1   📜 horse_name2
 📉 perfDiff         ⚖️ weight_diff   🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
+
+🔍 No previous identical race runs found for race_id 890413.
 ++++++++++ Dynamic Performance Table ++++++++++
 #️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
 number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
@@ -83,8 +85,9 @@ Legend:
 📉 OFR: 74.0 (Rank: 5)
 📈 RPR: 94.0 (Rank: 1)
 📉 TS: 75.0 (Rank: 6)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 1/4 | SR: 0.25
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 1/3 | SR: 0.33
 📊 Form: 0376-1 → Score: 0.07 (Rank: 7)
 ------------------------------------------------------------------------------------------
@@ -130,8 +133,9 @@ Legend:
 📉 OFR: 81.0 (Rank: 1)
 📈 RPR: 89.0 (Rank: 2)
 📉 TS: 67.0 (Rank: 8)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 1/2 | SR: 0.5
 📊 Form: 63106- → Score: 0.07 (Rank: 6)
 ------------------------------------------------------------------------------------------
@@ -177,8 +181,9 @@ Legend:
 📉 OFR: 78.0 (Rank: 3)
 📈 RPR: 87.0 (Rank: 4)
 📉 TS: 79.0 (Rank: 4)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 0/5 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 1/3 | SR: 0.33
 📊 Form: 22019- → Score: 0.09 (Rank: 5)
 ------------------------------------------------------------------------------------------
@@ -224,8 +229,9 @@ Legend:
 📉 OFR: 76.0 (Rank: 4)
 📈 RPR: 87.0 (Rank: 4)
 📉 TS: 78.0 (Rank: 5)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 1/4 | SR: 0.25
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/2 | SR: 0.0
 📊 Form: 31333- → Score: 0.16 (Rank: 1)
 ------------------------------------------------------------------------------------------
@@ -268,8 +274,9 @@ Legend:
 📉 OFR: 80.0 (Rank: 2)
 📈 RPR: 85.0 (Rank: 8)
 📉 TS: 69.0 (Rank: 7)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 2127- → Score: 0.11 (Rank: 4)
 ------------------------------------------------------------------------------------------
@@ -317,6 +324,7 @@ Legend:
 📉 TS: 64.0 (Rank: 9)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
 📏 Distance Wins/Runs: 1/6 | SR: 0.17
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
 🌱 Going Wins/Runs: 0/2 | SR: 0.0
 📊 Form: 45129- → Score: 0.05 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -362,6 +370,7 @@ Legend:
 📉 TS: 80.0 (Rank: 2)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
 📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 3035- → Score: 0.12 (Rank: 3)
 ------------------------------------------------------------------------------------------
@@ -407,8 +416,9 @@ Legend:
 📉 OFR: 74.0 (Rank: 5)
 📈 RPR: 87.0 (Rank: 4)
 📉 TS: 81.0 (Rank: 1)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 0/3 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 63726- → Score: 0.05 (Rank: 9)
 ------------------------------------------------------------------------------------------
@@ -457,6 +467,7 @@ Horse quote: 2024-09-04 at Hamilton (5f): "Invincible Annice was idling a bit in
 📉 TS: 80.0 (Rank: 2)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
 📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 21430- → Score: 0.15 (Rank: 2)
 ------------------------------------------------------------------------------------------

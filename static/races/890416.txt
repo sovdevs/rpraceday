@@ -17,6 +17,8 @@
 🔷 shared_race_id   🧾 horse_name1   📜 horse_name2
 📉 perfDiff         ⚖️ weight_diff   🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
+
+🔍 No previous identical race runs found for race_id 890416.
 ++++++++++ Dynamic Performance Table ++++++++++
 #️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
 number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
@@ -76,8 +78,9 @@ Legend:
 🔦 Spotlight: Two starts in 6f AW novices towards the end of last year, winning at Kempton; has a 7lb penalty and needs to prove himself on turf, but should have more to give for good yard.
 📊 **RANKS AND FLAGS**
 📈 RPR: 74.0 (Rank: 2)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 1/2 | SR: 0.5
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 21- → Score: 0.77 (Rank: 2)
 ------------------------------------------------------------------------------------------
@@ -118,8 +121,9 @@ Legend:
 🔦 Spotlight: Dwelt start and didn't get a clear run before finishing well for second in 7f AW Newcastle novice on debut in October; that was a weak race, she's been off since and is now down in trip, but she's a sister to a fair winner so may confirm the promise.
 📊 **RANKS AND FLAGS**
 📈 RPR: 78.0 (Rank: 1)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 2- → Score: 1.0 (Rank: 1)
 ------------------------------------------------------------------------------------------
@@ -160,8 +164,9 @@ Legend:
 📊 **RANKS AND FLAGS**
 📈 RPR: 61.0 (Rank: 4)
 📉 TS: 58.0 (Rank: 1)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 4- → Score: 0.25 (Rank: 3)
 ------------------------------------------------------------------------------------------
@@ -200,8 +205,9 @@ nan
 💬 Comment: 22,000gns buy last May; makes some appeal on paper; already ✂️ gelded, but could figure
 🔦 Spotlight: 22,000gns buy last May; makes some appeal on paper; already ✂️ gelded, but may not need to be anything out of the ordinary to figure on debut.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -240,8 +246,9 @@ nan
 💬 Comment: 45,000gns yearling; has a good pedigree; interesting newcomer for respected stable
 🔦 Spotlight: 45,000gns yearling; dam won on turf and later on dirt in the UAE 1,000 Guineas and UAE Oaks, and she's produced some decent types; interesting newcomer for respected stable.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -280,8 +287,9 @@ nan
 💬 Comment: 17,000euros; related to plenty of winners, but looks stable second string on jockeys
 🔦 Spotlight: 17,000euros yearling; late May foal; related to plenty of winners, but looks stable second string on jockeys for debut.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -321,8 +329,9 @@ nan
 💬 Comment: 50-1, struggled in the Brocklesby at Doncaster (5f, soft) on debut last March; off since
 🔦 Spotlight: 50-1 when struggling in the Brocklesby at Doncaster (5f, soft) on debut last March; absent since.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 0- → Score: 0.0 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -365,8 +374,9 @@ nan
 🔦 Spotlight: Moderate in two 7f/6f AW starts last year; unappealing for now; newly ✂️ gelded.
 📊 **RANKS AND FLAGS**
 📈 RPR: 49.0 (Rank: 5)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 99- → Score: 0.06 (Rank: 6)
 ------------------------------------------------------------------------------------------
@@ -409,8 +419,9 @@ nan
 📊 **RANKS AND FLAGS**
 📈 RPR: 20.0 (Rank: 6)
 📉 TS: 20.0 (Rank: 3)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
 📏 Distance Wins/Runs: 0/3 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 9-757 → Score: 0.04 (Rank: 7)
 ------------------------------------------------------------------------------------------
@@ -458,6 +469,7 @@ nan
 📉 TS: 52.0 (Rank: 2)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
 📏 Distance Wins/Runs: 0/10 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 650-00 → Score: 0.09 (Rank: 5)
 ------------------------------------------------------------------------------------------
@@ -498,8 +510,9 @@ nan
 🔦 Spotlight: Well beaten in two 5f-7f AW/turf starts; look elsewhere.
 📊 **RANKS AND FLAGS**
 📈 RPR: 15.0 (Rank: 7)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 70 → Score: 0.14 (Rank: 4)
 ------------------------------------------------------------------------------------------

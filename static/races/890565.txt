@@ -20,6 +20,8 @@
 🔷 shared_race_id   🧾 horse_name1   📜 horse_name2
 📉 perfDiff         ⚖️ weight_diff   🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
+
+🔍 No previous identical race runs found for race_id 890565.
 ++++++++++ Dynamic Performance Table ++++++++++
 #️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
 number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
@@ -80,6 +82,7 @@ Horse quote: 2024-04-18 at Cheltenham (16.5f): "That was very good. Somespring S
 📉 TS: 93.0 (Rank: 6)
 🏟️ Course Wins/Runs: 1/1 | SR: 1.0
 📏 Distance Wins/Runs: 1/2 | SR: 0.5
+🏟️📏 Course+Distance Wins/Runs: 1/1 | SR: 1.0
 🌱 Going Wins/Runs: 4/8 | SR: 0.5
 📊 Form: 1-5401 → Score: 0.1 (Rank: 2)
 ------------------------------------------------------------------------------------------
@@ -127,7 +130,8 @@ Horse quote: 2024-04-18 at Cheltenham (16.5f): "That was very good. Somespring S
 📈 RPR: 121.0 (Rank: 4)
 📉 TS: 113.0 (Rank: 2)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 0/6 | SR: 0.0
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 1/4 | SR: 0.25
 📊 Form: 264042 → Score: 0.06 (Rank: 6)
 ------------------------------------------------------------------------------------------
@@ -175,7 +179,8 @@ Horse quote: 2024-04-18 at Cheltenham (16.5f): "That was very good. Somespring S
 📈 RPR: 121.0 (Rank: 4)
 📉 TS: 105.0 (Rank: 5)
 🏟️ Course Wins/Runs: 0/2 | SR: 0.0
-📏 Distance Wins/Runs: 8/19 | SR: 0.42
+📏 Distance Wins/Runs: 2/5 | SR: 0.4
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 3/12 | SR: 0.25
 📊 Form: 132151 → Score: 0.12 (Rank: 1)
 ------------------------------------------------------------------------------------------
@@ -221,8 +226,9 @@ Horse quote: 2024-04-18 at Cheltenham (16.5f): "That was very good. Somespring S
 📉 OFR: 109.0 (Rank: 3)
 📈 RPR: 125.0 (Rank: 2)
 📉 TS: 112.0 (Rank: 4)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 1/7 | SR: 0.14
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/3 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 1/7 | SR: 0.14
 📊 Form: 157322 → Score: 0.06 (Rank: 5)
 ------------------------------------------------------------------------------------------
@@ -267,8 +273,9 @@ Horse quote: 2024-04-18 at Cheltenham (16.5f): "That was very good. Somespring S
 📉 OFR: 97.0 (Rank: 6)
 📈 RPR: 125.0 (Rank: 2)
 📉 TS: 113.0 (Rank: 2)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 1/5 | SR: 0.2
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 1-2273 → Score: 0.09 (Rank: 3)
 ------------------------------------------------------------------------------------------
@@ -315,8 +322,9 @@ Horse quote: 2024-04-18 at Cheltenham (16.5f): "That was very good. Somespring S
 📉 OFR: 104.0 (Rank: 5)
 📈 RPR: 121.0 (Rank: 4)
 📉 TS: 114.0 (Rank: 1)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/7 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 642313 → Score: 0.07 (Rank: 4)
 ------------------------------------------------------------------------------------------

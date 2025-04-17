@@ -21,6 +21,8 @@
 🔷 shared_race_id   🧾 horse_name1   📜 horse_name2
 📉 perfDiff         ⚖️ weight_diff   🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
+
+🔍 No previous identical race runs found for race_id 890564.
 ++++++++++ Dynamic Performance Table ++++++++++
 #️⃣      | 🐎                         | 🆔        | 💶        | 📈        | 💡        | 🎯        | 🏟️       | 💰       
 number   | horse_name                | horse_id | AVG€     | RPR      | OFR      | J-All-Prf | CRSE     | OP-ODDS 
@@ -82,7 +84,8 @@ Horse quote: 2024-12-31 at Punchestown (16.5f): "Sainte Lucie looks one out of t
 📈 RPR: 121.0 (Rank: 1)
 📉 TS: 108.0 (Rank: 2)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 1/3 | SR: 0.33
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 3-188 → Score: 0.06 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -130,8 +133,9 @@ Horse quote: 2024-12-29 at Doncaster (16.5f): "Even if David's [Pipe] horse stoo
 📉 OFR: 117.0 (Rank: 3)
 📈 RPR: 120.0 (Rank: 2)
 📉 TS: 115.0 (Rank: 1)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 2/5 | SR: 0.4
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 1/1 | SR: 1.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 1/2 | SR: 0.5
 📊 Form: 24121 → Score: 0.15 (Rank: 3)
 ------------------------------------------------------------------------------------------
@@ -176,8 +180,9 @@ Horse quote: 2024-12-29 at Doncaster (16.5f): "Even if David's [Pipe] horse stoo
 📉 OFR: 105.0 (Rank: 6)
 📈 RPR: 120.0 (Rank: 2)
 📉 TS: 72.0 (Rank: 8)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 1/4 | SR: 0.25
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 000F1 → Score: 3.33 (Rank: 1)
 ------------------------------------------------------------------------------------------
@@ -223,8 +228,9 @@ Horse quote: 2024-12-08 at Huntingdon (16f): "We expected Clotilda to win and we
 📉 OFR: 114.0 (Rank: 4)
 📈 RPR: 119.0 (Rank: 4)
 📉 TS: 98.0 (Rank: 4)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/7 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 231438 → Score: 0.06 (Rank: 7)
 ------------------------------------------------------------------------------------------
@@ -270,8 +276,9 @@ Horse quote: 2024-12-08 at Huntingdon (16f): "We expected Clotilda to win and we
 📉 OFR: 125.0 (Rank: 2)
 📈 RPR: 117.0 (Rank: 6)
 📉 TS: 91.0 (Rank: 6)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/5 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 42251F → Score: 0.09 (Rank: 6)
 ------------------------------------------------------------------------------------------
@@ -316,8 +323,9 @@ Horse quote: 2024-12-08 at Huntingdon (16f): "We expected Clotilda to win and we
 📉 OFR: 108.0 (Rank: 5)
 📈 RPR: 113.0 (Rank: 8)
 📉 TS: 98.0 (Rank: 4)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/3 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 596 → Score: 0.05 (Rank: 9)
 ------------------------------------------------------------------------------------------
@@ -362,8 +370,9 @@ Horse quote: 2024-12-08 at Huntingdon (16f): "We expected Clotilda to win and we
 📉 OFR: 105.0 (Rank: 6)
 📈 RPR: 114.0 (Rank: 7)
 📉 TS: 74.0 (Rank: 7)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 1/3 | SR: 0.33
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 1/2 | SR: 0.5
 📊 Form: 431 → Score: 0.17 (Rank: 2)
 ------------------------------------------------------------------------------------------
@@ -407,8 +416,9 @@ Horse quote: 2024-12-08 at Huntingdon (16f): "We expected Clotilda to win and we
 📉 OFR: 105.0 (Rank: 6)
 📈 RPR: 118.0 (Rank: 5)
 📉 TS: 102.0 (Rank: 3)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 1/2 | SR: 0.5
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 414 → Score: 0.12 (Rank: 5)
 ------------------------------------------------------------------------------------------
@@ -451,8 +461,9 @@ Horse quote: 2024-12-08 at Huntingdon (16f): "We expected Clotilda to win and we
 📉 OFR: 105.0 (Rank: 6)
 📈 RPR: 104.0 (Rank: 9)
 📉 TS: 71.0 (Rank: 9)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: P44P → Score: 0.12 (Rank: 4)
 ------------------------------------------------------------------------------------------

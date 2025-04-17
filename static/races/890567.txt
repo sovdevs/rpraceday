@@ -18,6 +18,8 @@
 🔷 shared_race_id   🧾 horse_name1   📜 horse_name2
 📉 perfDiff         ⚖️ weight_diff   🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
+
+🔍 No previous identical race runs found for race_id 890567.
 ++++++++++ Dynamic Performance Table ++++++++++
 #️⃣      | 🐎                         | 🆔        | 💶        | 📈        | 🎯        | 🏟️      
 number   | horse_name                | horse_id | AVG€     | RPR      | J-All-Prf | CRSE    
@@ -82,8 +84,9 @@ nan
 💬 Comment: 60,000euros 3yo; eighth foal; half-sister to French 2m1f-2m6f hurdle/chase winner Plougala
 🔦 Spotlight: 60,000euros 3yo; eighth foal; half-sister to French 2m1f-2m6f hurdle/chase winner Plougala (Listed class); dam placed French 7.5f 2yo/1m, half-sister to smart 2m2f-3m3f hurdle/chase winner Aerial; respected newcomer for title-chasing trainer.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 13)
 ------------------------------------------------------------------------------------------
@@ -126,8 +129,9 @@ nan
 📊 **RANKS AND FLAGS**
 📈 RPR: 117.0 (Rank: 1)
 📉 TS: 90.0 (Rank: 1)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 323 → Score: 0.25 (Rank: 5)
 ------------------------------------------------------------------------------------------
@@ -170,8 +174,9 @@ nan
 📊 **RANKS AND FLAGS**
 📈 RPR: 117.0 (Rank: 1)
 📉 TS: 90.0 (Rank: 1)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 323 → Score: 0.25 (Rank: 5)
 ------------------------------------------------------------------------------------------
@@ -210,8 +215,9 @@ nan
 💬 Comment: Hooded for debut but stable does well in bumpers and she's an interesting newcomer
 🔦 Spotlight: 70,000euros 3yo; fifth foal; dam well beaten in bumpers, sister to Flat winner/useful jumper Head Waiter, half-sister to Champion Hurdle winner Annie Power; hooded for debut but trainer (also runs Queens Abbey) does well in bumpers; interesting newcomer.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 13)
 ------------------------------------------------------------------------------------------
@@ -253,8 +259,9 @@ nan
 📊 **RANKS AND FLAGS**
 📈 RPR: 107.0 (Rank: 4)
 📉 TS: 82.0 (Rank: 3)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 32 → Score: 0.4 (Rank: 4)
 ------------------------------------------------------------------------------------------
@@ -296,8 +303,9 @@ nan
 📊 **RANKS AND FLAGS**
 📈 RPR: 103.0 (Rank: 5)
 📉 TS: 29.0 (Rank: 8)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 2 → Score: 1.0 (Rank: 3)
 ------------------------------------------------------------------------------------------
@@ -336,8 +344,9 @@ nan
 💬 Comment: Third foal out of a 2m4f hurdle winner and half-sister to four point winners
 🔦 Spotlight: Third foal out of a 2m4f hurdle winner and half-sister to four point winners; may find this an unsufficient test of stamina.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 13)
 ------------------------------------------------------------------------------------------
@@ -376,8 +385,9 @@ nan
 💬 Comment: Smooth winner of a point bumper on good ground at Maisemore Park only 18 days ago
 🔦 Spotlight: Smooth winner of a point bumper on good ground at Maisemore Park only 18 days ago; clearly has ability.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 1 → Score: 3.33 (Rank: 1)
 ------------------------------------------------------------------------------------------
@@ -420,8 +430,9 @@ nan
 📊 **RANKS AND FLAGS**
 📈 RPR: 115.0 (Rank: 2)
 📉 TS: 63.0 (Rank: 5)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 26 → Score: 0.14 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -460,8 +471,9 @@ nan
 💬 Comment: £42,000 3yo; fourth foal; half-sister to useful bumper/2m3f-3m hurdle winner Queenohearts
 🔦 Spotlight: £42,000 3yo; fourth foal; half-sister to useful bumper/2m3f-3m hurdle winner Queenohearts; dam unraced sister to useful 2m hurdle/3m chase winner Sea Of Thunder; one of two runners for the yard and Brian Hughes (1-4 for the stable this season) is booked.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 13)
 ------------------------------------------------------------------------------------------
@@ -503,8 +515,9 @@ nan
 📊 **RANKS AND FLAGS**
 📈 RPR: 114.0 (Rank: 3)
 📉 TS: 75.0 (Rank: 4)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: U83 → Score: 0.11 (Rank: 12)
 ------------------------------------------------------------------------------------------
@@ -545,8 +558,9 @@ nan
 🔦 Spotlight: Tailed off on heavy ground at Wincanton in January when well behind Gaelic Saint; has since had wind surgery and is now tongue tied.
 📊 **RANKS AND FLAGS**
 📈 RPR: 61.0 (Rank: 10)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 7 → Score: 0.14 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -585,8 +599,9 @@ nan
 💬 Comment: Dam is well related and stable has had two bumper winners this campaign
 🔦 Spotlight: Dam point winner/well held in bumpers, half-sister to useful winners Real Steel (2m-2m3f hurdle/chase), Grangeclare Gold (1m6f Flat and 2m-2m4f hurdle) and Up For The Match (2m3f-2m4f hurdle); trainer has had two bumper winners this campaign and also runs Poetisa.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 13)
 ------------------------------------------------------------------------------------------
@@ -625,8 +640,9 @@ nan
 💬 Comment: Left clear to win an Irish point and then changed hands for £20,000
 🔦 Spotlight: Left clear when winning her final Irish point by over a distance and then changed hands for £20,000; should have a future under rules.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 431 → Score: 0.17 (Rank: 7)
 ------------------------------------------------------------------------------------------
@@ -665,8 +681,9 @@ nan
 💬 Comment: Newcomer related to winners under both codes; stable gets bumper winners
 🔦 Spotlight: Half-sister to winners Forced Family Fun (1m2f-1m5f; 2m hurdle), Kifaaya (1m2f/1m4f; 2m/2m4f jumps) and Kitty's Cove (2m/2m2f Flat); dam 7.4f-2m2f winner; stable gets bumper winners and worth checking in the betting.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 13)
 ------------------------------------------------------------------------------------------
@@ -709,8 +726,9 @@ nan
 📊 **RANKS AND FLAGS**
 📈 RPR: 102.0 (Rank: 6)
 📉 TS: 83.0 (Rank: 2)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 34 → Score: 0.18 (Rank: 6)
 ------------------------------------------------------------------------------------------
@@ -749,8 +767,9 @@ nan
 💬 Comment: £34,000 3yo; likely best watched unless there's money around for her
 🔦 Spotlight: £34,000 3yo; seventh foal; half-sister to six winners including Sanaija (French 1m4f Flat, RPR 101; 2m2f hurdle), National Wealth (1m6f) and Swertia (French 1m4f/12.5f); dam Group-placed 1m 2yo winner (109); likely best watched unless there's money around for her.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 13)
 ------------------------------------------------------------------------------------------
@@ -794,7 +813,8 @@ nan
 📈 RPR: 100.0 (Rank: 7)
 📉 TS: 62.0 (Rank: 6)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 1/2 | SR: 0.5
+📏 Distance Wins/Runs: 1/1 | SR: 1.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 10 → Score: 3.33 (Rank: 1)
 ------------------------------------------------------------------------------------------
@@ -836,8 +856,9 @@ nan
 📊 **RANKS AND FLAGS**
 📈 RPR: 92.0 (Rank: 8)
 📉 TS: 37.0 (Rank: 7)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 9 → Score: 0.11 (Rank: 11)
 ------------------------------------------------------------------------------------------
@@ -879,8 +900,9 @@ nan
 📊 **RANKS AND FLAGS**
 📈 RPR: 88.0 (Rank: 9)
 📉 TS: 23.0 (Rank: 9)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 7 → Score: 0.14 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -919,8 +941,9 @@ nan
 💬 Comment: 8,000euros 3yo; half-sister to bumper winner Meadowsweet; dam 2m hurdle winner
 🔦 Spotlight: 8,000euros 3yo; eighth foal; half-sister to bumper winner Meadowsweet; dam 2m hurdle winner and half-sister to bumper/useful 2m-2m4f jumps winner Emcon; stable 0-22 in bumpers the last five seasons.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 13)
 ------------------------------------------------------------------------------------------

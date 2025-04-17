@@ -22,6 +22,8 @@
 🔷 shared_race_id   🧾 horse_name1   📜 horse_name2
 📉 perfDiff         ⚖️ weight_diff   🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
+
+🔍 No previous identical race runs found for race_id 893137.
 ++++++++++ Dynamic Performance Table ++++++++++
 #️⃣      | 🐎                         | 🆔        | 📈        | 💡        | 🎯        | 🏟️      
 number   | horse_name                | horse_id | RPR      | OFR      | J-All-Prf | CRSE    
@@ -85,7 +87,8 @@ Legend:
 📈 RPR: 109.0 (Rank: 5)
 📉 TS: 91.0 (Rank: 1)
 🏟️ Course Wins/Runs: 0/2 | SR: 0.0
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 554 → Score: 0.07 (Rank: 4)
 ------------------------------------------------------------------------------------------
@@ -127,8 +130,9 @@ Legend:
 📊 **RANKS AND FLAGS**
 📈 RPR: 111.0 (Rank: 2)
 📉 TS: 56.0 (Rank: 5)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 5085 → Score: 0.06 (Rank: 7)
 ------------------------------------------------------------------------------------------
@@ -172,7 +176,8 @@ Legend:
 📈 RPR: 110.0 (Rank: 4)
 📉 TS: 44.0 (Rank: 10)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 004 → Score: 0.25 (Rank: 1)
 ------------------------------------------------------------------------------------------
@@ -218,7 +223,8 @@ Legend:
 📈 RPR: 109.0 (Rank: 5)
 📉 TS: 40.0 (Rank: 12)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 0-06P5 → Score: 0.09 (Rank: 3)
 ------------------------------------------------------------------------------------------
@@ -261,7 +267,8 @@ Legend:
 📈 RPR: 101.0 (Rank: 7)
 📉 TS: 79.0 (Rank: 3)
 🏟️ Course Wins/Runs: 0/2 | SR: 0.0
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: 0558 → Score: 0.06 (Rank: 7)
 ------------------------------------------------------------------------------------------
@@ -303,8 +310,9 @@ Legend:
 📉 OFR: 103.0 (Rank: 3)
 📈 RPR: 112.0 (Rank: 1)
 📉 TS: 77.0 (Rank: 4)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 446 → Score: 0.07 (Rank: 4)
 ------------------------------------------------------------------------------------------
@@ -346,8 +354,9 @@ Legend:
 📊 **RANKS AND FLAGS**
 📈 RPR: 90.0 (Rank: 11)
 📉 TS: 46.0 (Rank: 9)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: P550 → Score: 0.1 (Rank: 2)
 ------------------------------------------------------------------------------------------
@@ -391,8 +400,9 @@ Legend:
 📊 **RANKS AND FLAGS**
 📈 RPR: 111.0 (Rank: 2)
 📉 TS: 80.0 (Rank: 2)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: -2551D5 → Score: 0.06 (Rank: 6)
 ------------------------------------------------------------------------------------------
@@ -434,7 +444,8 @@ Legend:
 📈 RPR: 100.0 (Rank: 8)
 📉 TS: 17.0 (Rank: 14)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 0/2 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 0875 → Score: 0.05 (Rank: 10)
 ------------------------------------------------------------------------------------------
@@ -479,8 +490,9 @@ Legend:
 📉 OFR: 98.0 (Rank: 5)
 📈 RPR: 95.0 (Rank: 10)
 📉 TS: 52.0 (Rank: 8)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 70-788 → Score: 0.03 (Rank: 12)
 ------------------------------------------------------------------------------------------
@@ -526,7 +538,8 @@ Legend:
 📈 RPR: 97.0 (Rank: 9)
 📉 TS: 56.0 (Rank: 5)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 0/2 | SR: 0.0
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/3 | SR: 0.0
 📊 Form: P9-940 → Score: 0.05 (Rank: 11)
 ------------------------------------------------------------------------------------------
@@ -570,7 +583,8 @@ Legend:
 📈 RPR: 67.0 (Rank: 13)
 📉 TS: 41.0 (Rank: 11)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 0/2 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/2 | SR: 0.0
 📊 Form: P65800 → Score: 0.05 (Rank: 9)
 ------------------------------------------------------------------------------------------
@@ -612,7 +626,8 @@ Legend:
 📈 RPR: 67.0 (Rank: 13)
 📉 TS: 54.0 (Rank: 7)
 🏟️ Course Wins/Runs: 0/1 | SR: 0.0
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 0-00 → Score: 0.0 (Rank: 13)
 ------------------------------------------------------------------------------------------
@@ -653,8 +668,9 @@ Legend:
 📊 **RANKS AND FLAGS**
 📈 RPR: 83.0 (Rank: 12)
 📉 TS: 21.0 (Rank: 13)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 0000 → Score: 0.0 (Rank: 13)
 ------------------------------------------------------------------------------------------

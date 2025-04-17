@@ -18,6 +18,8 @@
 🔷 shared_race_id   🧾 horse_name1   📜 horse_name2
 📉 perfDiff         ⚖️ weight_diff   🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
 
+
+🔍 No previous identical race runs found for race_id 893136.
 ++++++++++ Dynamic Performance Table ++++++++++
 #️⃣      | 🐎                         | 🆔        | 📈        | 💡        | 🎯        | 🏟️      
 number   | horse_name                | horse_id | RPR      | OFR      | J-All-Prf | CRSE    
@@ -78,7 +80,8 @@ Legend:
 📈 RPR: 119.0 (Rank: 2)
 📉 TS: 104.0 (Rank: 1)
 🏟️ Course Wins/Runs: 1/1 | SR: 1.0
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 4-1542 → Score: 0.07 (Rank: 6)
 ------------------------------------------------------------------------------------------
@@ -121,8 +124,9 @@ Legend:
 📉 OFR: 113.0 (Rank: 2)
 📈 RPR: 113.0 (Rank: 3)
 📉 TS: 97.0 (Rank: 2)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 333 → Score: 0.22 (Rank: 1)
 ------------------------------------------------------------------------------------------
@@ -166,8 +170,9 @@ Legend:
 📉 OFR: 113.0 (Rank: 2)
 📈 RPR: 120.0 (Rank: 1)
 📉 TS: 83.0 (Rank: 3)
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 0/3657 → Score: 0.05 (Rank: 7)
 ------------------------------------------------------------------------------------------
@@ -206,8 +211,9 @@ nan
 💬 Comment: By a leading jumps sire out of a mainly Flat damline; worth a market look
 🔦 Spotlight: Second runner for yard; half-brother to Polish 6.5f 2yo/1m winner Bush Brother; dam unraced sister to French 1m3f winner Maknoon, half-sister to 7f winner Monaadema; by a leading jumps sire out of a mainly Flat damline; worth a market look.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -246,8 +252,9 @@ nan
 💬 Comment: Weakening when falling on recent hurdles debut; best watched for the time being
 🔦 Spotlight: Didn't show much in two point starts; was weakening when falling on recent hurdles debut; best watched for the time being.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: P7-F → Score: 0.14 (Rank: 2)
 ------------------------------------------------------------------------------------------
@@ -286,8 +293,9 @@ nan
 💬 Comment: By a useful sire and a decent damline; worth a 📊 market check
 🔦 Spotlight: Sixth foal; half-brother to point winners Oaks Empress and Champagne Pop; dam bumper and 2m1f/2m4f hurdle winner, half-sister to bumper/2m-3m hurdle winner Bebop Boru; unsold for 13,000euros as a foal; by a useful sire and a decent damline; worth a 📊 market check.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: nan → Score: 0.0 (Rank: 8)
 ------------------------------------------------------------------------------------------
@@ -326,8 +334,9 @@ nan
 💬 Comment: Soundly beaten in two bumpers but showed a glimpse of ability; needs lots of improvement
 🔦 Spotlight: Pulled-up on sole point start; soundly beaten in two bumpers but showed a glimpse of ability; needs lots of improvement.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: P46 → Score: 0.1 (Rank: 4)
 ------------------------------------------------------------------------------------------
@@ -366,8 +375,9 @@ nan
 💬 Comment: Soundly beaten in a bumper on debut for this yard; best watched for future reference
 🔦 Spotlight: Pulled-up in two points and soundly beaten in a bumper on debut for this yard; best watched for future reference.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/0 | SR: N/A
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/0 | SR: N/A
 📊 Form: P-P8 → Score: 0.12 (Rank: 3)
 ------------------------------------------------------------------------------------------
@@ -406,8 +416,9 @@ nan
 💬 Comment: Well beaten in three bumpers at triple figure odds and not easy to fancy on hurdles debut
 🔦 Spotlight: Well beaten in three bumpers at triple figure odds and isn't easy to fancy on hurdles debut.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/3 | SR: 0.0
 📊 Form: 086 → Score: 0.07 (Rank: 5)
 ------------------------------------------------------------------------------------------
@@ -446,8 +457,9 @@ nan
 💬 Comment: Tailed-off in a bumper on recent debut and can't be fancied
 🔦 Spotlight: Tailed-off in a bumper on recent debut and can't be fancied.
 📊 **RANKS AND FLAGS**
-🏟️ Course Wins/Runs: 0/0 | SR: N/A
-📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
 🌱 Going Wins/Runs: 0/1 | SR: 0.0
 📊 Form: 0 → Score: 0.0 (Rank: 8)
 ------------------------------------------------------------------------------------------
