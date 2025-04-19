@@ -12,14 +12,14 @@
 No H2H data available for this race.
 🔍 No previous identical race runs found for race_id 890575.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
-number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📈     |    📊     |    💡     |    🎯     |    📓     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |   RPR    |    TS    |   OFR    | J-All-Prf |  FSCRE   |   CRSE   | OP-ODDS 
 -----------------------------------------------------------------------------------------------------------------------------
-1        | Homme Dun Soir            | 2975526  | 1.0      | 2.0      | 1.0      | 4.0      | 3.0      | 2.0      | 1.0     
-3        | Coup De Coeur             | 3495434  | 5.0      | 5.0      | 2.0      | 5.0      | 1.0      | N/A      | 2.0     
-5        | Clean Getaway             | 3536950  | 4.0      | 3.0      | 5.0      | 3.0      | 2.0      | N/A      | 3.0     
-4        | Five Dollar Fine          | 3039419  | 3.0      | 1.0      | 4.0      | 1.0      | 4.0      | 1.0      | 4.0     
-2        | Grey Diamond              | 1969652  | 1.0      | 4.0      | 2.0      | 2.0      | 5.0      | N/A      | 5.0     
+       1 | Homme Dun Soir            |  2975526 |      1.0 |      2.0 |      1.0 |      4.0 |      3.0 |      2.0 |      1.0
+       3 | Coup De Coeur             |  3495434 |      5.0 |      5.0 |      2.0 |      5.0 |      1.0 |      N/A |      2.0
+       5 | Clean Getaway             |  3536950 |      4.0 |      3.0 |      5.0 |      3.0 |      2.0 |      N/A |      3.0
+       4 | Five Dollar Fine          |  3039419 |      3.0 |      1.0 |      4.0 |      1.0 |      4.0 |      1.0 |      4.0
+       2 | Grey Diamond              |  1969652 |      1.0 |      4.0 |      2.0 |      2.0 |      5.0 |      N/A |      5.0
 
 Legend:
 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank

@@ -12,14 +12,14 @@
 No H2H data available for this race.
 🔍 No previous identical race runs found for race_id 890587.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
-number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📈     |    📊     |    💡     |    🎯     |    📓     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |   RPR    |    TS    |   OFR    | J-All-Prf |  FSCRE   |   CRSE   | OP-ODDS 
 -----------------------------------------------------------------------------------------------------------------------------
-3        | Mahler Moon               | 4211315  | 1.0      | 1.0      | 3.0      | 4.0      | 4.0      | N/A      | 1.0     
-1        | Queens Venture            | 5689584  | 4.0      | 2.0      | 1.0      | 5.0      | 1.0      | N/A      | 2.0     
-4        | Elusiveness               | 5383836  | 5.0      | 5.0      | 4.0      | 1.0      | 5.0      | N/A      | 2.0     
-5        | Star Vantage              | 3837474  | 3.0      | 4.0      | 5.0      | 3.0      | 3.0      | N/A      | 4.0     
-2        | Born In The West          | 5398592  | 2.0      | 2.0      | 2.0      | 2.0      | 2.0      | N/A      | 5.0     
+       3 | Mahler Moon               |  4211315 |      1.0 |      1.0 |      3.0 |      4.0 |      4.0 |      N/A |      1.0
+       1 | Queens Venture            |  5689584 |      4.0 |      2.0 |      1.0 |      5.0 |      1.0 |      N/A |      2.0
+       4 | Elusiveness               |  5383836 |      5.0 |      5.0 |      4.0 |      1.0 |      5.0 |      N/A |      2.0
+       5 | Star Vantage              |  3837474 |      3.0 |      4.0 |      5.0 |      3.0 |      3.0 |      N/A |      4.0
+       2 | Born In The West          |  5398592 |      2.0 |      2.0 |      2.0 |      2.0 |      2.0 |      N/A |      5.0
 
 Legend:
 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank

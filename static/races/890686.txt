@@ -12,21 +12,21 @@
 No H2H data available for this race.
 🔍 No previous identical race runs found for race_id 890686.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
-number   | horse_name                | horse_id | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📊     |    💡     |    🎯     |    📓     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |    TS    |   OFR    | J-All-Prf |  FSCRE   |   CRSE   | OP-ODDS 
 ------------------------------------------------------------------------------------------------------------------
-2        | Red Sand                  | 5884205  | N/A      | N/A      | 7.0      | 2.0      | N/A      | 1.0     
-1        | Jolly Roger               | 6564395  | 3.0      | N/A      | 3.0      | 4.0      | N/A      | 2.0     
-10       | Wave Rider                | 6215362  | N/A      | N/A      | 10.0     | 7.0      | N/A      | 3.0     
-3        | Warrior Mode              | 7258534  | 2.0      | N/A      | 12.0     | 1.0      | 1.0      | 4.0     
-9        | Skibo                     | 6278723  | N/A      | N/A      | 2.0      | 5.0      | N/A      | 5.0     
-6        | Kentucky River            | 6679882  | 1.0      | N/A      | 5.0      | 9.0      | N/A      | 6.0     
-7        | Kilima                    | 7426986  | N/A      | N/A      | 8.0      | 10.0     | N/A      | 7.0     
-5        | Bowfell                   | 7426987  | N/A      | N/A      | 9.0      | 10.0     | N/A      | 8.0     
-4        | Arundel                   | 6649586  | 5.0      | N/A      | 6.0      | 3.0      | N/A      | 9.0     
-8        | Reds And Wolves           | 7365412  | 5.0      | N/A      | 11.0     | 6.0      | 2.0      | 10.0    
-11       | Zero Zero                 | 6710704  | N/A      | N/A      | 1.0      | 10.0     | N/A      | 11.0    
-12       | Skyler                    | 7238300  | 4.0      | N/A      | 4.0      | 8.0      | 2.0      | 12.0    
+       2 | Red Sand                  |  5884205 |      N/A |      N/A |      7.0 |      2.0 |      N/A |      1.0
+       1 | Jolly Roger               |  6564395 |      3.0 |      N/A |      3.0 |      4.0 |      N/A |      2.0
+      10 | Wave Rider                |  6215362 |      N/A |      N/A |     10.0 |      7.0 |      N/A |      3.0
+       3 | Warrior Mode              |  7258534 |      2.0 |      N/A |     12.0 |      1.0 |      1.0 |      4.0
+       9 | Skibo                     |  6278723 |      N/A |      N/A |      2.0 |      5.0 |      N/A |      5.0
+       6 | Kentucky River            |  6679882 |      1.0 |      N/A |      5.0 |      9.0 |      N/A |      6.0
+       7 | Kilima                    |  7426986 |      N/A |      N/A |      8.0 |     10.0 |      N/A |      7.0
+       5 | Bowfell                   |  7426987 |      N/A |      N/A |      9.0 |     10.0 |      N/A |      8.0
+       4 | Arundel                   |  6649586 |      5.0 |      N/A |      6.0 |      3.0 |      N/A |      9.0
+       8 | Reds And Wolves           |  7365412 |      5.0 |      N/A |     11.0 |      6.0 |      2.0 |     10.0
+      11 | Zero Zero                 |  6710704 |      N/A |      N/A |      1.0 |     10.0 |      N/A |     11.0
+      12 | Skyler                    |  7238300 |      4.0 |      N/A |      4.0 |      8.0 |      2.0 |     12.0
 
 Legend:
 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📊 TS: ts_rank | 💡 OFR: ofr_rank

@@ -86,30 +86,30 @@
 
 🔍 No previous identical race runs found for race_id 893304.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 💡        | 🎯        | 🏟️       | 💰       
-number   | horse_name                | horse_id | RPR      | OFR      | J-All-Prf | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📈     |    💡     |    🎯     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |   RPR    |   OFR    | J-All-Prf |   CRSE   | OP-ODDS 
 -------------------------------------------------------------------------------------------------------
-2        | Genuine Jim               | 4584375  | 18.0     | 1.0      | 7.0      | 3.0      | 1.0     
-4        | Royal Pippen              | 3126607  | 4.0      | 1.0      | 15.0     | N/A      | 2.0     
-7        | Notforalongtime           | 2645561  | 8.0      | 5.0      | 3.0      | 3.0      | 3.0     
-15       | Sayfa Fad                 | 5889855  | 10.0     | 16.0     | 18.0     | N/A      | 4.0     
-9        | Higher Kingdom            | 2645439  | 13.0     | 9.0      | 2.0      | 3.0      | 5.0     
-11       | Harry The Rogue           | 5100007  | 13.0     | 11.0     | 9.0      | N/A      | 6.0     
-3        | Hemight                   | 5385896  | 10.0     | 1.0      | 4.0      | N/A      | 7.0     
-8        | Ive Been Dreaming         | 5287718  | 21.0     | 8.0      | 19.0     | N/A      | 8.0     
-17       | Bucky Larson              | 1897844  | 8.0      | 19.0     | 13.0     | 3.0      | 8.0     
-12       | Manhattan Dandy           | 2787193  | 2.0      | 11.0     | 1.0      | 3.0      | 10.0    
-13       | Poppadom                  | 5100010  | 18.0     | 14.0     | 9.0      | 3.0      | 11.0    
-5        | Limestone Red             | 5141793  | 10.0     | 5.0      | 6.0      | 3.0      | 12.0    
-14       | Han Solo                  | 2181259  | 4.0      | 15.0     | 7.0      | 1.0      | 12.0    
-6        | May Night                 | 2996822  | 1.0      | 5.0      | 11.0     | 1.0      | 14.0    
-1        | Carvalhal                 | 5021359  | 20.0     | 1.0      | 17.0     | N/A      | 15.0    
-10       | Feature This              | 4084643  | 4.0      | 10.0     | 16.0     | N/A      | 16.0    
-18       | So Messi                  | 4934670  | 2.0      | 19.0     | 4.0      | 3.0      | 17.0    
-16       | Sofia Tesoro              | 5329091  | 16.0     | 18.0     | 12.0     | N/A      | 18.0    
-19       | Swiss Army Officer        | 2724425  | 4.0      | 21.0     | N/A      | N/A      | N/A     
-20       | Share The Treasure        | 5357867  | 13.0     | 11.0     | N/A      | N/A      | N/A     
-21       | Chou Chou                 | 5085187  | 16.0     | 16.0     | 14.0     | 3.0      | N/A     
+       2 | Genuine Jim               |  4584375 |     18.0 |      1.0 |      7.0 |      3.0 |      1.0
+       4 | Royal Pippen              |  3126607 |      4.0 |      1.0 |     15.0 |      N/A |      2.0
+       7 | Notforalongtime           |  2645561 |      8.0 |      5.0 |      3.0 |      3.0 |      3.0
+      15 | Sayfa Fad                 |  5889855 |     10.0 |     16.0 |     18.0 |      N/A |      4.0
+       9 | Higher Kingdom            |  2645439 |     13.0 |      9.0 |      2.0 |      3.0 |      5.0
+      11 | Harry The Rogue           |  5100007 |     13.0 |     11.0 |      9.0 |      N/A |      6.0
+       3 | Hemight                   |  5385896 |     10.0 |      1.0 |      4.0 |      N/A |      7.0
+       8 | Ive Been Dreaming         |  5287718 |     21.0 |      8.0 |     19.0 |      N/A |      8.0
+      17 | Bucky Larson              |  1897844 |      8.0 |     19.0 |     13.0 |      3.0 |      8.0
+      12 | Manhattan Dandy           |  2787193 |      2.0 |     11.0 |      1.0 |      3.0 |     10.0
+      13 | Poppadom                  |  5100010 |     18.0 |     14.0 |      9.0 |      3.0 |     11.0
+       5 | Limestone Red             |  5141793 |     10.0 |      5.0 |      6.0 |      3.0 |     12.0
+      14 | Han Solo                  |  2181259 |      4.0 |     15.0 |      7.0 |      1.0 |     12.0
+       6 | May Night                 |  2996822 |      1.0 |      5.0 |     11.0 |      1.0 |     14.0
+       1 | Carvalhal                 |  5021359 |     20.0 |      1.0 |     17.0 |      N/A |     15.0
+      10 | Feature This              |  4084643 |      4.0 |     10.0 |     16.0 |      N/A |     16.0
+      18 | So Messi                  |  4934670 |      2.0 |     19.0 |      4.0 |      3.0 |     17.0
+      16 | Sofia Tesoro              |  5329091 |     16.0 |     18.0 |     12.0 |      N/A |     18.0
+      19 | Swiss Army Officer        |  2724425 |      4.0 |     21.0 |      N/A |      N/A |      N/A
+      20 | Share The Treasure        |  5357867 |     13.0 |     11.0 |      N/A |      N/A |      N/A
+      21 | Chou Chou                 |  5085187 |     16.0 |     16.0 |     14.0 |      3.0 |      N/A
 
 Legend:
 ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 💡 OFR: ofr_rank

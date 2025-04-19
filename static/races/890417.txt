@@ -45,18 +45,18 @@
 
 🔍 No previous identical race runs found for race_id 890417.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 💡        | 🎯        | 🏟️       | 💰       
-number   | horse_name                | horse_id | RPR      | OFR      | J-All-Prf | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📈     |    💡     |    🎯     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |   RPR    |   OFR    | J-All-Prf |   CRSE   | OP-ODDS 
 -------------------------------------------------------------------------------------------------------
-3        | American Affair           | 5029048  | 1.0      | 3.0      | 7.0      | 1.0      | 1.0     
-1        | Cover Up                  | 5160468  | 7.0      | 1.0      | 4.0      | N/A      | 2.0     
-6        | Jer Batt                  | 4507242  | 2.0      | 6.0      | 1.0      | 1.0      | 2.0     
-8        | Mon Na Slieve             | 5063782  | 5.0      | 8.0      | 2.0      | 1.0      | 4.0     
-5        | Jm Jungle                 | 4274011  | 5.0      | 4.0      | 5.0      | 4.0      | 5.0     
-4        | Tatterstall               | 4175423  | 8.0      | 4.0      | 6.0      | N/A      | 6.0     
-9        | Vince Lamour              | 5134070  | 3.0      | 8.0      | 8.0      | N/A      | 7.0     
-2        | Vintage Clarets           | 3366905  | 3.0      | 2.0      | 3.0      | 4.0      | 8.0     
-7        | Twilight Fun              | 4547883  | N/A      | 7.0      | N/A      | N/A      | N/A     
+       3 | American Affair           |  5029048 |      1.0 |      3.0 |      7.0 |      1.0 |      1.0
+       1 | Cover Up                  |  5160468 |      7.0 |      1.0 |      4.0 |      N/A |      2.0
+       6 | Jer Batt                  |  4507242 |      2.0 |      6.0 |      1.0 |      1.0 |      2.0
+       8 | Mon Na Slieve             |  5063782 |      5.0 |      8.0 |      2.0 |      1.0 |      4.0
+       5 | Jm Jungle                 |  4274011 |      5.0 |      4.0 |      5.0 |      4.0 |      5.0
+       4 | Tatterstall               |  4175423 |      8.0 |      4.0 |      6.0 |      N/A |      6.0
+       9 | Vince Lamour              |  5134070 |      3.0 |      8.0 |      8.0 |      N/A |      7.0
+       2 | Vintage Clarets           |  3366905 |      3.0 |      2.0 |      3.0 |      4.0 |      8.0
+       7 | Twilight Fun              |  4547883 |      N/A |      7.0 |      N/A |      N/A |      N/A
 
 Legend:
 ⏱️ SPD-AVG: rank_avgSecs | 💶 AVG€: avgPrizeEuro_rank | 📈 RPR: rpr_rank | 💡 OFR: ofr_rank

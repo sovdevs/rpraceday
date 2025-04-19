@@ -32,22 +32,22 @@
 
 🔍 No previous identical race runs found for race_id 890691.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 💡        | 🎯        | 💰       
-number   | horse_name                | horse_id | OFR      | J-All-Prf | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    💡     |    🎯     |    💰    
+ number  |        horse_name         | horse_id |   OFR    | J-All-Prf | OP-ODDS 
 ---------------------------------------------------------------------------------
-1        | Saffredi                  | 5301542  | 1.0      | 2.0      | 1.0     
-3        | Kensington Agent          | 3648390  | 2.0      | 9.0      | 2.0     
-5        | Southbank                 | 5021337  | 5.0      | 5.0      | 3.0     
-6        | Radiant Angel             | 4827090  | 5.0      | 3.0      | 4.0     
-8        | Agent Mayfair             | 4705231  | 8.0      | 1.0      | 5.0     
-11       | Black Cab                 | 7117382  | 11.0     | 10.0     | 6.0     
-9        | Heartrate                 | 4465613  | 9.0      | 11.0     | 7.0     
-2        | Aljezur                   | 5154294  | 2.0      | 4.0      | 8.0     
-10       | Candy Warhol              | 3677979  | 10.0     | 12.0     | 9.0     
-7        | Beaumadier                | 4249769  | 7.0      | 8.0      | 9.0     
-12       | Miss Moonshine            | 4272413  | 12.0     | 7.0      | 9.0     
-4        | Nazca                     | 3437693  | 4.0      | 6.0      | 12.0    
-13       | Stoneacre Girl            | 5120124  | 13.0     | 13.0     | 12.0    
+       1 | Saffredi                  |  5301542 |      1.0 |      2.0 |      1.0
+       3 | Kensington Agent          |  3648390 |      2.0 |      9.0 |      2.0
+       5 | Southbank                 |  5021337 |      5.0 |      5.0 |      3.0
+       6 | Radiant Angel             |  4827090 |      5.0 |      3.0 |      4.0
+       8 | Agent Mayfair             |  4705231 |      8.0 |      1.0 |      5.0
+      11 | Black Cab                 |  7117382 |     11.0 |     10.0 |      6.0
+       9 | Heartrate                 |  4465613 |      9.0 |     11.0 |      7.0
+       2 | Aljezur                   |  5154294 |      2.0 |      4.0 |      8.0
+      10 | Candy Warhol              |  3677979 |     10.0 |     12.0 |      9.0
+       7 | Beaumadier                |  4249769 |      7.0 |      8.0 |      9.0
+      12 | Miss Moonshine            |  4272413 |     12.0 |      7.0 |      9.0
+       4 | Nazca                     |  3437693 |      4.0 |      6.0 |     12.0
+      13 | Stoneacre Girl            |  5120124 |     13.0 |     13.0 |     12.0
 
 Legend:
 💡 OFR: ofr_rank | 🎯 J-All-Prf: stats_jockey_ovr_profit_rank

@@ -24,14 +24,14 @@
 
 🔍 No previous identical race runs found for race_id 890574.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
-number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📈     |    📊     |    💡     |    🎯     |    📓     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |   RPR    |    TS    |   OFR    | J-All-Prf |  FSCRE   |   CRSE   | OP-ODDS 
 -----------------------------------------------------------------------------------------------------------------------------
-5        | Hello Judge               | 3232216  | 3.0      | 4.0      | 5.0      | 2.0      | 3.0      | 1.0      | 1.0     
-4        | Jet Legs                  | 3918372  | 3.0      | 1.0      | 4.0      | 3.0      | 4.0      | 2.0      | 2.0     
-3        | Geryville                 | 2864263  | 1.0      | 2.0      | 3.0      | 5.0      | 5.0      | 2.0      | 3.0     
-1        | Special Rate              | 3891072  | 5.0      | 5.0      | 1.0      | 4.0      | 2.0      | N/A      | 3.0     
-2        | Bleu Denfer               | 4217580  | 2.0      | 3.0      | 2.0      | 1.0      | 1.0      | 4.0      | 5.0     
+       5 | Hello Judge               |  3232216 |      3.0 |      4.0 |      5.0 |      2.0 |      3.0 |      1.0 |      1.0
+       4 | Jet Legs                  |  3918372 |      3.0 |      1.0 |      4.0 |      3.0 |      4.0 |      2.0 |      2.0
+       3 | Geryville                 |  2864263 |      1.0 |      2.0 |      3.0 |      5.0 |      5.0 |      2.0 |      3.0
+       1 | Special Rate              |  3891072 |      5.0 |      5.0 |      1.0 |      4.0 |      2.0 |      N/A |      3.0
+       2 | Bleu Denfer               |  4217580 |      2.0 |      3.0 |      2.0 |      1.0 |      1.0 |      4.0 |      5.0
 
 Legend:
 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank

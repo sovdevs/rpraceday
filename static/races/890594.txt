@@ -12,18 +12,18 @@
 No H2H data available for this race.
 🔍 No previous identical race runs found for race_id 890594.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
-number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📈     |    📊     |    💡     |    🎯     |    📓     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |   RPR    |    TS    |   OFR    | J-All-Prf |  FSCRE   |   CRSE   | OP-ODDS 
 -----------------------------------------------------------------------------------------------------------------------------
-8        | Wondering Why             | 7205083  | 3.0      | 1.0      | N/A      | 1.0      | 2.0      | N/A      | 1.0     
-2        | Johnny Hooves             | 7263139  | N/A      | N/A      | N/A      | 6.0      | 6.0      | N/A      | 2.0     
-9        | Amber Waves               | 7276575  | 1.0      | N/A      | N/A      | 5.0      | 1.0      | 1.0      | 3.0     
-1        | Chatty Girl               | 6868951  | 1.0      | 2.0      | N/A      | 7.0      | 4.0      | N/A      | 4.0     
-3        | Laurier Des Obeaux        | 7409491  | N/A      | N/A      | N/A      | 4.0      | 6.0      | N/A      | 5.0     
-5        | Royal Mark                | 7329755  | 4.0      | 4.0      | N/A      | 2.0      | 3.0      | N/A      | 6.0     
-4        | Pic N Mix                 | 7312407  | N/A      | N/A      | N/A      | 9.0      | 6.0      | N/A      | 7.0     
-6        | Saint Terry               | 5338290  | N/A      | N/A      | N/A      | 3.0      | 6.0      | N/A      | 8.0     
-7        | Urban Isle                | 6891017  | 5.0      | 3.0      | N/A      | 8.0      | 5.0      | 1.0      | 9.0     
+       8 | Wondering Why             |  7205083 |      3.0 |      1.0 |      N/A |      1.0 |      2.0 |      N/A |      1.0
+       2 | Johnny Hooves             |  7263139 |      N/A |      N/A |      N/A |      6.0 |      6.0 |      N/A |      2.0
+       9 | Amber Waves               |  7276575 |      1.0 |      N/A |      N/A |      5.0 |      1.0 |      1.0 |      3.0
+       1 | Chatty Girl               |  6868951 |      1.0 |      2.0 |      N/A |      7.0 |      4.0 |      N/A |      4.0
+       3 | Laurier Des Obeaux        |  7409491 |      N/A |      N/A |      N/A |      4.0 |      6.0 |      N/A |      5.0
+       5 | Royal Mark                |  7329755 |      4.0 |      4.0 |      N/A |      2.0 |      3.0 |      N/A |      6.0
+       4 | Pic N Mix                 |  7312407 |      N/A |      N/A |      N/A |      9.0 |      6.0 |      N/A |      7.0
+       6 | Saint Terry               |  5338290 |      N/A |      N/A |      N/A |      3.0 |      6.0 |      N/A |      8.0
+       7 | Urban Isle                |  6891017 |      5.0 |      3.0 |      N/A |      8.0 |      5.0 |      1.0 |      9.0
 
 Legend:
 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank

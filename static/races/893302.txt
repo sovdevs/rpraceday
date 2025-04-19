@@ -22,30 +22,30 @@
 
 🔍 No previous identical race runs found for race_id 893302.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 💡        | 🎯        | 🏟️      
-number   | horse_name                | horse_id | RPR      | OFR      | J-All-Prf | CRSE    
+  #️⃣    |             🐎             |    🆔     |    📈     |    💡     |    🎯     |    🏟️   
+ number  |        horse_name         | horse_id |   RPR    |   OFR    | J-All-Prf |   CRSE  
 --------------------------------------------------------------------------------------------
-8        | Omni Man                  | 6640602  | 2.0      | N/A      | 14.0     | N/A     
-13       | Tashir                    | 6398071  | 1.0      | N/A      | 19.0     | N/A     
-6        | Jagged Edge               | 7134166  | 2.0      | N/A      | 20.0     | N/A     
-14       | Washington Street         | 6388848  | 5.0      | N/A      | 18.0     | N/A     
-3        | Collecting Coin           | 6528822  | N/A      | N/A      | 10.0     | N/A     
-9        | Omon Vase                 | 7431606  | N/A      | N/A      | 15.0     | N/A     
-1        | Ben Lawers                | 7431602  | N/A      | N/A      | 9.0      | N/A     
-2        | Cecco                     | 7293759  | 10.0     | N/A      | 17.0     | N/A     
-18       | Offshore Bay              | 7431605  | N/A      | N/A      | 11.0     | N/A     
-11       | Sidney Reilly             | 7409414  | N/A      | N/A      | 4.0      | N/A     
-17       | Missing Socks             | 7431604  | N/A      | N/A      | 16.0     | N/A     
-4        | Far Eclipse               | 6318962  | 11.0     | N/A      | 3.0      | N/A     
-16       | Love Sonnet               | 6838448  | 7.0      | N/A      | 1.0      | N/A     
-7        | Kasper Hauser             | 6604812  | 6.0      | N/A      | 5.0      | N/A     
-12       | Summer Island             | 7431607  | N/A      | N/A      | 2.0      | N/A     
-10       | Sheamus Seimhiu           | 5864550  | 14.0     | N/A      | 6.0      | N/A     
-15       | Curroy Lady               | 6609343  | 9.0      | N/A      | 13.0     | N/A     
-5        | Gold Dublooms             | 7195643  | 12.0     | N/A      | 12.0     | N/A     
-19       | Cabot Sq                  | 7298731  | 8.0      | N/A      | 7.0      | N/A     
-20       | Starford                  | 7360539  | 4.0      | N/A      | 8.0      | N/A     
-21       | Bungle Lichious           | 7365368  | 12.0     | N/A      | N/A      | N/A     
+       8 | Omni Man                  |  6640602 |      2.0 |      N/A |     14.0 |      N/A
+      13 | Tashir                    |  6398071 |      1.0 |      N/A |     19.0 |      N/A
+       6 | Jagged Edge               |  7134166 |      2.0 |      N/A |     20.0 |      N/A
+      14 | Washington Street         |  6388848 |      5.0 |      N/A |     18.0 |      N/A
+       3 | Collecting Coin           |  6528822 |      N/A |      N/A |     10.0 |      N/A
+       9 | Omon Vase                 |  7431606 |      N/A |      N/A |     15.0 |      N/A
+       1 | Ben Lawers                |  7431602 |      N/A |      N/A |      9.0 |      N/A
+       2 | Cecco                     |  7293759 |     10.0 |      N/A |     17.0 |      N/A
+      18 | Offshore Bay              |  7431605 |      N/A |      N/A |     11.0 |      N/A
+      11 | Sidney Reilly             |  7409414 |      N/A |      N/A |      4.0 |      N/A
+      17 | Missing Socks             |  7431604 |      N/A |      N/A |     16.0 |      N/A
+       4 | Far Eclipse               |  6318962 |     11.0 |      N/A |      3.0 |      N/A
+      16 | Love Sonnet               |  6838448 |      7.0 |      N/A |      1.0 |      N/A
+       7 | Kasper Hauser             |  6604812 |      6.0 |      N/A |      5.0 |      N/A
+      12 | Summer Island             |  7431607 |      N/A |      N/A |      2.0 |      N/A
+      10 | Sheamus Seimhiu           |  5864550 |     14.0 |      N/A |      6.0 |      N/A
+      15 | Curroy Lady               |  6609343 |      9.0 |      N/A |     13.0 |      N/A
+       5 | Gold Dublooms             |  7195643 |     12.0 |      N/A |     12.0 |      N/A
+      19 | Cabot Sq                  |  7298731 |      8.0 |      N/A |      7.0 |      N/A
+      20 | Starford                  |  7360539 |      4.0 |      N/A |      8.0 |      N/A
+      21 | Bungle Lichious           |  7365368 |     12.0 |      N/A |      N/A |      N/A
 
 Legend:
 ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 💡 OFR: ofr_rank

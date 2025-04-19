@@ -30,17 +30,17 @@
 
 🔍 No previous identical race runs found for race_id 890601.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
-number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📈     |    📊     |    💡     |    🎯     |    📓     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |   RPR    |    TS    |   OFR    | J-All-Prf |  FSCRE   |   CRSE   | OP-ODDS 
 -----------------------------------------------------------------------------------------------------------------------------
-2        | Puddlesinthepark          | 4144682  | 1.0      | 1.0      | 2.0      | 8.0      | 3.0      | 4.0      | 1.0     
-4        | Jikala                    | 4798080  | 6.0      | 2.0      | 4.0      | 5.0      | 8.0      | N/A      | 2.0     
-8        | Elpologreg                | 4827265  | 5.0      | 7.0      | 8.0      | 4.0      | 7.0      | N/A      | 2.0     
-5        | Williamdeconqueror        | 3284480  | 2.0      | 5.0      | 5.0      | 7.0      | 6.0      | N/A      | 4.0     
-1        | Felton Bellevue           | 2617675  | 4.0      | 3.0      | 1.0      | 3.0      | 4.0      | N/A      | 5.0     
-3        | Lightonthewing            | 2935719  | 2.0      | 6.0      | 3.0      | 6.0      | 2.0      | 2.0      | 6.0     
-6        | Firefly Lane              | 3550749  | 6.0      | 3.0      | 6.0      | 1.0      | 5.0      | 1.0      | 6.0     
-7        | Janeslittlevoice          | 2429111  | N/A      | N/A      | 7.0      | 2.0      | 1.0      | 2.0      | 8.0     
+       2 | Puddlesinthepark          |  4144682 |      1.0 |      1.0 |      2.0 |      8.0 |      3.0 |      4.0 |      1.0
+       4 | Jikala                    |  4798080 |      6.0 |      2.0 |      4.0 |      5.0 |      8.0 |      N/A |      2.0
+       8 | Elpologreg                |  4827265 |      5.0 |      7.0 |      8.0 |      4.0 |      7.0 |      N/A |      2.0
+       5 | Williamdeconqueror        |  3284480 |      2.0 |      5.0 |      5.0 |      7.0 |      6.0 |      N/A |      4.0
+       1 | Felton Bellevue           |  2617675 |      4.0 |      3.0 |      1.0 |      3.0 |      4.0 |      N/A |      5.0
+       3 | Lightonthewing            |  2935719 |      2.0 |      6.0 |      3.0 |      6.0 |      2.0 |      2.0 |      6.0
+       6 | Firefly Lane              |  3550749 |      6.0 |      3.0 |      6.0 |      1.0 |      5.0 |      1.0 |      6.0
+       7 | Janeslittlevoice          |  2429111 |      N/A |      N/A |      7.0 |      2.0 |      1.0 |      2.0 |      8.0
 
 Legend:
 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank

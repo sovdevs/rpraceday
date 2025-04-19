@@ -12,14 +12,14 @@
 No H2H data available for this race.
 🔍 No previous identical race runs found for race_id 890418.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 💡        | 🎯        | 🏟️      
-number   | horse_name                | horse_id | RPR      | OFR      | J-All-Prf | CRSE    
+  #️⃣    |             🐎             |    🆔     |    📈     |    💡     |    🎯     |    🏟️   
+ number  |        horse_name         | horse_id |   RPR    |   OFR    | J-All-Prf |   CRSE  
 --------------------------------------------------------------------------------------------
-2        | Ivatt                     | 6613676  | 1.0      | N/A      | 3.0      | N/A     
-4        | Amalfina                  | 6560233  | 3.0      | N/A      | 1.0      | N/A     
-5        | Caspi Star                | 6340639  | 2.0      | 1.0      | 2.0      | N/A     
-3        | Wise Counsellor           | 7191402  | 3.0      | N/A      | 5.0      | N/A     
-1        | Canavan                   | 6340641  | 5.0      | 2.0      | 4.0      | 1.0     
+       2 | Ivatt                     |  6613676 |      1.0 |      N/A |      3.0 |      N/A
+       4 | Amalfina                  |  6560233 |      3.0 |      N/A |      1.0 |      N/A
+       5 | Caspi Star                |  6340639 |      2.0 |      1.0 |      2.0 |      N/A
+       3 | Wise Counsellor           |  7191402 |      3.0 |      N/A |      5.0 |      N/A
+       1 | Canavan                   |  6340641 |      5.0 |      2.0 |      4.0 |      1.0
 
 Legend:
 ⏱️ SPD-AVG: rank_avgSecs | 💶 AVG€: avgPrizeEuro_rank | 📈 RPR: rpr_rank

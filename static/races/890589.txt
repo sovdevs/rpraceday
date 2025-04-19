@@ -12,17 +12,17 @@
 No H2H data available for this race.
 🔍 No previous identical race runs found for race_id 890589.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
-number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📈     |    📊     |    💡     |    🎯     |    📓     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |   RPR    |    TS    |   OFR    | J-All-Prf |  FSCRE   |   CRSE   | OP-ODDS 
 -----------------------------------------------------------------------------------------------------------------------------
-7        | Indemnity                 | 4002062  | 2.0      | 4.0      | 7.0      | 1.0      | 2.0      | N/A      | 1.0     
-6        | Tara Iti                  | 3197365  | 2.0      | 3.0      | 7.0      | 3.0      | 3.0      | 2.0      | 2.0     
-8        | Mill Street               | 5287658  | 7.0      | 6.0      | 3.0      | 5.0      | 4.0      | N/A      | 3.0     
-5        | Aotano                    | 6574977  | 5.0      | 1.0      | 1.0      | 3.0      | 6.0      | 3.0      | 3.0     
-3        | Book Of Tales             | 4607022  | 1.0      | 2.0      | 3.0      | 6.0      | 1.0      | N/A      | 5.0     
-4        | Casi Crudo                | 3835621  | 2.0      | 8.0      | 6.0      | 7.0      | 5.0      | 3.0      | 6.0     
-2        | Lexies Moon               | 4853579  | 6.0      | 5.0      | 3.0      | 2.0      | 7.0      | 1.0      | 7.0     
-1        | Leading Lion              | 4001986  | 7.0      | 7.0      | 2.0      | 8.0      | 8.0      | N/A      | 8.0     
+       7 | Indemnity                 |  4002062 |      2.0 |      4.0 |      7.0 |      1.0 |      2.0 |      N/A |      1.0
+       6 | Tara Iti                  |  3197365 |      2.0 |      3.0 |      7.0 |      3.0 |      3.0 |      2.0 |      2.0
+       8 | Mill Street               |  5287658 |      7.0 |      6.0 |      3.0 |      5.0 |      4.0 |      N/A |      3.0
+       5 | Aotano                    |  6574977 |      5.0 |      1.0 |      1.0 |      3.0 |      6.0 |      3.0 |      3.0
+       3 | Book Of Tales             |  4607022 |      1.0 |      2.0 |      3.0 |      6.0 |      1.0 |      N/A |      5.0
+       4 | Casi Crudo                |  3835621 |      2.0 |      8.0 |      6.0 |      7.0 |      5.0 |      3.0 |      6.0
+       2 | Lexies Moon               |  4853579 |      6.0 |      5.0 |      3.0 |      2.0 |      7.0 |      1.0 |      7.0
+       1 | Leading Lion              |  4001986 |      7.0 |      7.0 |      2.0 |      8.0 |      8.0 |      N/A |      8.0
 
 Legend:
 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank

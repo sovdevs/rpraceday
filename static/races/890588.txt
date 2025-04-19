@@ -20,13 +20,13 @@
 
 🔍 No previous identical race runs found for race_id 890588.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
-number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📈     |    📊     |    💡     |    🎯     |    📓     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |   RPR    |    TS    |   OFR    | J-All-Prf |  FSCRE   |   CRSE   | OP-ODDS 
 -----------------------------------------------------------------------------------------------------------------------------
-2        | Muskoka                   | 4747047  | 1.0      | 1.0      | 2.0      | 1.0      | 3.0      | 2.0      | 1.0     
-1        | Law Of Supply             | 4117825  | 4.0      | 1.0      | 1.0      | 2.0      | 2.0      | N/A      | 2.0     
-3        | Pearly Island             | 3459574  | 3.0      | 3.0      | 3.0      | 3.0      | 4.0      | 1.0      | 3.0     
-4        | Safe Destination          | 4117792  | 1.0      | N/A      | 4.0      | N/A      | 1.0      | N/A      | N/A     
+       2 | Muskoka                   |  4747047 |      1.0 |      1.0 |      2.0 |      1.0 |      3.0 |      2.0 |      1.0
+       1 | Law Of Supply             |  4117825 |      4.0 |      1.0 |      1.0 |      2.0 |      2.0 |      N/A |      2.0
+       3 | Pearly Island             |  3459574 |      3.0 |      3.0 |      3.0 |      3.0 |      4.0 |      1.0 |      3.0
+       4 | Safe Destination          |  4117792 |      1.0 |      N/A |      4.0 |      N/A |      1.0 |      N/A |      N/A
 
 Legend:
 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank

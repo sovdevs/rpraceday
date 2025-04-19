@@ -22,30 +22,30 @@
 
 🔍 No previous identical race runs found for race_id 893305.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 💡        | 🎯        | 🏟️      
-number   | horse_name                | horse_id | RPR      | OFR      | J-All-Prf | CRSE    
+  #️⃣    |             🐎             |    🆔     |    📈     |    💡     |    🎯     |    🏟️   
+ number  |        horse_name         | horse_id |   RPR    |   OFR    | J-All-Prf |   CRSE  
 --------------------------------------------------------------------------------------------
-16       | Nautical Force            | 6350091  | 1.0      | N/A      | 18.0     | N/A     
-17       | Red King                  | 6362963  | 1.0      | 1.0      | 2.0      | N/A     
-13       | Kasgani                   | 6362962  | N/A      | N/A      | 19.0     | N/A     
-18       | Waterford Flow            | 6868930  | 3.0      | 2.0      | 12.0     | N/A     
-14       | Kilmeaden                 | 6710719  | N/A      | N/A      | 13.0     | N/A     
-9        | Arouet                    | 7431608  | N/A      | N/A      | 1.0      | N/A     
-15       | Kingstonian               | 6265718  | 5.0      | N/A      | 8.0      | N/A     
-10       | Bear Creek                | 7195642  | N/A      | N/A      | 6.0      | N/A     
-11       | Crooked Path              | 7267905  | 8.0      | N/A      | 16.0     | N/A     
-12       | Happy Pharoah             | 7431610  | N/A      | N/A      | 9.0      | N/A     
-6        | Auburn Avenue             | 5258507  | 5.0      | 3.0      | 17.0     | N/A     
-3        | So Scottish               | 3481868  | 8.0      | N/A      | 10.0     | N/A     
-8        | The Mighty Penny          | 5915795  | 3.0      | N/A      | 4.0      | N/A     
-1        | First Ascent              | 7431609  | N/A      | N/A      | 3.0      | N/A     
-2        | Man Of Destiny            | 7431611  | N/A      | N/A      | 14.0     | N/A     
-5        | Zuzukel                   | 5141719  | 10.0     | N/A      | 15.0     | N/A     
-7        | Liss Eile                 | 6446580  | N/A      | N/A      | 4.0      | N/A     
-4        | Super Fly                 | 6864634  | N/A      | N/A      | 11.0     | N/A     
-19       | Glowing Bird              | 5831366  | 12.0     | N/A      | N/A      | N/A     
-20       | Awakening                 | 6514084  | 7.0      | N/A      | 7.0      | N/A     
-21       | Irish Boyo                | 7087014  | 11.0     | N/A      | N/A      | N/A     
+      16 | Nautical Force            |  6350091 |      1.0 |      N/A |     18.0 |      N/A
+      17 | Red King                  |  6362963 |      1.0 |      1.0 |      2.0 |      N/A
+      13 | Kasgani                   |  6362962 |      N/A |      N/A |     19.0 |      N/A
+      18 | Waterford Flow            |  6868930 |      3.0 |      2.0 |     12.0 |      N/A
+      14 | Kilmeaden                 |  6710719 |      N/A |      N/A |     13.0 |      N/A
+       9 | Arouet                    |  7431608 |      N/A |      N/A |      1.0 |      N/A
+      15 | Kingstonian               |  6265718 |      5.0 |      N/A |      8.0 |      N/A
+      10 | Bear Creek                |  7195642 |      N/A |      N/A |      6.0 |      N/A
+      11 | Crooked Path              |  7267905 |      8.0 |      N/A |     16.0 |      N/A
+      12 | Happy Pharoah             |  7431610 |      N/A |      N/A |      9.0 |      N/A
+       6 | Auburn Avenue             |  5258507 |      5.0 |      3.0 |     17.0 |      N/A
+       3 | So Scottish               |  3481868 |      8.0 |      N/A |     10.0 |      N/A
+       8 | The Mighty Penny          |  5915795 |      3.0 |      N/A |      4.0 |      N/A
+       1 | First Ascent              |  7431609 |      N/A |      N/A |      3.0 |      N/A
+       2 | Man Of Destiny            |  7431611 |      N/A |      N/A |     14.0 |      N/A
+       5 | Zuzukel                   |  5141719 |     10.0 |      N/A |     15.0 |      N/A
+       7 | Liss Eile                 |  6446580 |      N/A |      N/A |      4.0 |      N/A
+       4 | Super Fly                 |  6864634 |      N/A |      N/A |     11.0 |      N/A
+      19 | Glowing Bird              |  5831366 |     12.0 |      N/A |      N/A |      N/A
+      20 | Awakening                 |  6514084 |      7.0 |      N/A |      7.0 |      N/A
+      21 | Irish Boyo                |  7087014 |     11.0 |      N/A |      N/A |      N/A
 
 Legend:
 ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 💡 OFR: ofr_rank

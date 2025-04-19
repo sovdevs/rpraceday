@@ -84,21 +84,21 @@ Horse      | OldRace  | Pos  | OR  | Btn   | Odds  | Runners  | Wgt  | T.Wgt  | 
 ------------------------------------------------------------------------------------------
 3588751    | 2    | 69.0 |       | 9.0   | 11       | 122.0 | 119.0  | 92695.0 | slowly into stride, took keen hold, held up in last, pushed along and headway when raced awkwardly 2f out, keeping on when short of room against near rail over 1f out, soon switched left, ridden and kept on well inside final furlong, just held
 3588751    | 6    | 69.0 | 4.0   | 3.333 | 9        | 129.0 | 119.0  | 79371.0 | slowly away, took keen hold, raced in last, hung left but headway towards near side 2f out, no extra and nudged out final 110yds (jockey said gelding was slow away)++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
-number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📈     |    📊     |    💡     |    🎯     |    📓     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |   RPR    |    TS    |   OFR    | J-All-Prf |  FSCRE   |   CRSE   | OP-ODDS 
 -----------------------------------------------------------------------------------------------------------------------------
-3        | Zarzyni                   | 2710303  | 1.0      | 2.0      | 3.0      | 9.0      | 10.0     | 3.0      | 1.0     
-10       | Only Spoofing             | 1094546  | 7.0      | 11.0     | 8.0      | 1.0      | 3.0      | 1.0      | 1.0     
-9        | Knicks                    | 5104289  | 2.0      | 9.0      | 8.0      | 12.0     | 7.0      | 7.0      | 3.0     
-2        | Balon Dor                 | 4990390  | 7.0      | 8.0      | 2.0      | 7.0      | 6.0      | 4.0      | 4.0     
-5        | Profitable Edge           | 4263194  | 3.0      | 6.0      | 3.0      | 4.0      | 4.0      | 4.0      | 5.0     
-7        | Eternal Sunshine          | 5309181  | 10.0     | 12.0     | 6.0      | 10.0     | 5.0      | 6.0      | 6.0     
-6        | Water Of Leith            | 3138941  | 10.0     | 7.0      | 6.0      | 11.0     | 12.0     | 7.0      | 7.0     
-1        | Moonstone Boy             | 4924550  | 7.0      | 10.0     | 1.0      | 2.0      | 2.0      | 7.0      | 7.0     
-8        | Our Absent Friends        | 2996828  | 3.0      | 3.0      | 8.0      | 3.0      | 11.0     | 7.0      | 7.0     
-4        | Arecibo                   | 1482139  | 3.0      | 1.0      | 3.0      | 6.0      | 1.0      | 7.0      | 10.0    
-11       | Zaphea                    | 4924813  | 3.0      | 3.0      | 11.0     | 5.0      | 9.0      | 2.0      | 11.0    
-12       | Classy Al                 | 3588751  | 12.0     | 5.0      | 12.0     | 8.0      | 8.0      | 7.0      | 12.0    
+       3 | Zarzyni                   |  2710303 |      1.0 |      2.0 |      3.0 |      9.0 |     10.0 |      3.0 |      1.0
+      10 | Only Spoofing             |  1094546 |      7.0 |     11.0 |      8.0 |      1.0 |      3.0 |      1.0 |      1.0
+       9 | Knicks                    |  5104289 |      2.0 |      9.0 |      8.0 |     12.0 |      7.0 |      7.0 |      3.0
+       2 | Balon Dor                 |  4990390 |      7.0 |      8.0 |      2.0 |      7.0 |      6.0 |      4.0 |      4.0
+       5 | Profitable Edge           |  4263194 |      3.0 |      6.0 |      3.0 |      4.0 |      4.0 |      4.0 |      5.0
+       7 | Eternal Sunshine          |  5309181 |     10.0 |     12.0 |      6.0 |     10.0 |      5.0 |      6.0 |      6.0
+       6 | Water Of Leith            |  3138941 |     10.0 |      7.0 |      6.0 |     11.0 |     12.0 |      7.0 |      7.0
+       1 | Moonstone Boy             |  4924550 |      7.0 |     10.0 |      1.0 |      2.0 |      2.0 |      7.0 |      7.0
+       8 | Our Absent Friends        |  2996828 |      3.0 |      3.0 |      8.0 |      3.0 |     11.0 |      7.0 |      7.0
+       4 | Arecibo                   |  1482139 |      3.0 |      1.0 |      3.0 |      6.0 |      1.0 |      7.0 |     10.0
+      11 | Zaphea                    |  4924813 |      3.0 |      3.0 |     11.0 |      5.0 |      9.0 |      2.0 |     11.0
+      12 | Classy Al                 |  3588751 |     12.0 |      5.0 |     12.0 |      8.0 |      8.0 |      7.0 |     12.0
 
 Legend:
 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank

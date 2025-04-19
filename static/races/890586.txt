@@ -20,16 +20,16 @@
 
 🔍 No previous identical race runs found for race_id 890586.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
-number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📈     |    📊     |    💡     |    🎯     |    📓     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |   RPR    |    TS    |   OFR    | J-All-Prf |  FSCRE   |   CRSE   | OP-ODDS 
 -----------------------------------------------------------------------------------------------------------------------------
-2        | Captain Ivan              | 2565006  | 2.0      | 2.0      | 2.0      | 7.0      | 7.0      | N/A      | 1.0     
-5        | The Paddy Pie             | 1332670  | 3.0      | 1.0      | 5.0      | 1.0      | 1.0      | 1.0      | 2.0     
-7        | Kings Justice             | 4185054  | 5.0      | 5.0      | 7.0      | 3.0      | 3.0      | N/A      | 3.0     
-4        | Red Hugh                  | 4609247  | N/A      | N/A      | 4.0      | 4.0      | 5.0      | N/A      | 4.0     
-6        | Special Dragon            | 5017655  | 3.0      | 3.0      | 6.0      | 6.0      | 5.0      | N/A      | 5.0     
-1        | Artic Row                 | 4015709  | 1.0      | 4.0      | 1.0      | 2.0      | 4.0      | N/A      | 5.0     
-3        | Catchim                   | 4936811  | N/A      | N/A      | 3.0      | 5.0      | 2.0      | N/A      | 7.0     
+       2 | Captain Ivan              |  2565006 |      2.0 |      2.0 |      2.0 |      7.0 |      7.0 |      N/A |      1.0
+       5 | The Paddy Pie             |  1332670 |      3.0 |      1.0 |      5.0 |      1.0 |      1.0 |      1.0 |      2.0
+       7 | Kings Justice             |  4185054 |      5.0 |      5.0 |      7.0 |      3.0 |      3.0 |      N/A |      3.0
+       4 | Red Hugh                  |  4609247 |      N/A |      N/A |      4.0 |      4.0 |      5.0 |      N/A |      4.0
+       6 | Special Dragon            |  5017655 |      3.0 |      3.0 |      6.0 |      6.0 |      5.0 |      N/A |      5.0
+       1 | Artic Row                 |  4015709 |      1.0 |      4.0 |      1.0 |      2.0 |      4.0 |      N/A |      5.0
+       3 | Catchim                   |  4936811 |      N/A |      N/A |      3.0 |      5.0 |      2.0 |      N/A |      7.0
 
 Legend:
 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank

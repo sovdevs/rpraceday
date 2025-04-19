@@ -12,13 +12,13 @@
 No H2H data available for this race.
 🔍 No previous identical race runs found for race_id 890585.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
-number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📈     |    📊     |    💡     |    🎯     |    📓     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |   RPR    |    TS    |   OFR    | J-All-Prf |  FSCRE   |   CRSE   | OP-ODDS 
 -----------------------------------------------------------------------------------------------------------------------------
-4        | Safe Destination          | 4117792  | 3.0      | 2.0      | 4.0      | 3.0      | 1.0      | N/A      | 1.0     
-1        | Duke Of Deception         | 3549441  | 1.0      | 1.0      | 1.0      | 2.0      | 2.0      | 1.0      | 2.0     
-2        | Impatient                 | 4261339  | 3.0      | 4.0      | 2.0      | 4.0      | 4.0      | N/A      | 3.0     
-3        | Good Work                 | 3444998  | 2.0      | 3.0      | 3.0      | 1.0      | 3.0      | 2.0      | 4.0     
+       4 | Safe Destination          |  4117792 |      3.0 |      2.0 |      4.0 |      3.0 |      1.0 |      N/A |      1.0
+       1 | Duke Of Deception         |  3549441 |      1.0 |      1.0 |      1.0 |      2.0 |      2.0 |      1.0 |      2.0
+       2 | Impatient                 |  4261339 |      3.0 |      4.0 |      2.0 |      4.0 |      4.0 |      N/A |      3.0
+       3 | Good Work                 |  3444998 |      2.0 |      3.0 |      3.0 |      1.0 |      3.0 |      2.0 |      4.0
 
 Legend:
 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank

@@ -33,19 +33,19 @@
 
 🔍 No previous identical race runs found for race_id 890692.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 💡        | 🎯        | 💰       
-number   | horse_name                | horse_id | OFR      | J-All-Prf | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    💡     |    🎯     |    💰    
+ number  |        horse_name         | horse_id |   OFR    | J-All-Prf | OP-ODDS 
 ---------------------------------------------------------------------------------
-1        | Royal Accord              | 5809881  | 1.0      | 2.0      | 1.0     
-4        | Wee Mary                  | 5947083  | 4.0      | 4.0      | 2.0     
-7        | Trust Sergei              | 6692973  | 6.0      | 7.0      | 3.0     
-6        | Kameko Spirit             | 6247256  | 6.0      | 5.0      | 4.0     
-2        | Auntie Jo                 | 5982525  | 2.0      | 3.0      | 5.0     
-8        | Sunny Time                | 5758989  | 8.0      | 10.0     | 6.0     
-3        | Watkins                   | 6233786  | 3.0      | 6.0      | 7.0     
-5        | Hidden Verse              | 58956159 | 5.0      | 9.0      | 7.0     
-9        | Baby Rover                | 6046805  | 9.0      | 1.0      | 7.0     
-10       | Miss Campanella           | 5968915  | 9.0      | 8.0      | 10.0    
+       1 | Royal Accord              |  5809881 |      1.0 |      2.0 |      1.0
+       4 | Wee Mary                  |  5947083 |      4.0 |      4.0 |      2.0
+       7 | Trust Sergei              |  6692973 |      6.0 |      7.0 |      3.0
+       6 | Kameko Spirit             |  6247256 |      6.0 |      5.0 |      4.0
+       2 | Auntie Jo                 |  5982525 |      2.0 |      3.0 |      5.0
+       8 | Sunny Time                |  5758989 |      8.0 |     10.0 |      6.0
+       3 | Watkins                   |  6233786 |      3.0 |      6.0 |      7.0
+       5 | Hidden Verse              | 58956159 |      5.0 |      9.0 |      7.0
+       9 | Baby Rover                |  6046805 |      9.0 |      1.0 |      7.0
+      10 | Miss Campanella           |  5968915 |      9.0 |      8.0 |     10.0
 
 Legend:
 💡 OFR: ofr_rank | 🎯 J-All-Prf: stats_jockey_ovr_profit_rank

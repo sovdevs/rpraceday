@@ -12,17 +12,17 @@
 No H2H data available for this race.
 🔍 No previous identical race runs found for race_id 893303.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 🎯        | 🏟️      
-number   | horse_name                | horse_id | RPR      | J-All-Prf | CRSE    
+  #️⃣    |             🐎             |    🆔     |    📈     |    🎯     |    🏟️   
+ number  |        horse_name         | horse_id |   RPR    | J-All-Prf |   CRSE  
 ---------------------------------------------------------------------------------
-1        | Currawood                 | 5978011  | 5.0      | 1.0      | N/A     
-3        | Rowdy Yeats               | 5746543  | 2.0      | 8.0      | N/A     
-2        | Green Triangle            | 58956382 | 1.0      | 6.0      | N/A     
-7        | Va Va Vroom               | 6037404  | 3.0      | 5.0      | N/A     
-4        | Honeysuckle Rose          | 5845609  | 4.0      | 4.0      | N/A     
-5        | Minella Study             | 6429624  | 6.0      | 7.0      | N/A     
-8        | Dress Dance               | 6087991  | N/A      | 2.0      | N/A     
-6        | Radial Symmetry           | 7329763  | 7.0      | 3.0      | N/A     
+       1 | Currawood                 |  5978011 |      5.0 |      1.0 |      N/A
+       3 | Rowdy Yeats               |  5746543 |      2.0 |      8.0 |      N/A
+       2 | Green Triangle            | 58956382 |      1.0 |      6.0 |      N/A
+       7 | Va Va Vroom               |  6037404 |      3.0 |      5.0 |      N/A
+       4 | Honeysuckle Rose          |  5845609 |      4.0 |      4.0 |      N/A
+       5 | Minella Study             |  6429624 |      6.0 |      7.0 |      N/A
+       8 | Dress Dance               |  6087991 |      N/A |      2.0 |      N/A
+       6 | Radial Symmetry           |  7329763 |      7.0 |      3.0 |      N/A
 
 Legend:
 ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank

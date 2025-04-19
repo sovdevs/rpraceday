@@ -29,18 +29,18 @@
 
 🔍 No previous identical race runs found for race_id 890596.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
-number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📈     |    📊     |    💡     |    🎯     |    📓     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |   RPR    |    TS    |   OFR    | J-All-Prf |  FSCRE   |   CRSE   | OP-ODDS 
 -----------------------------------------------------------------------------------------------------------------------------
-1        | Time To Bite              | 2653194  | 5.0      | 4.0      | 1.0      | 1.0      | 6.0      | 1.0      | 1.0     
-4        | Kadex                     | 4197086  | 6.0      | 6.0      | 4.0      | 5.0      | 1.0      | N/A      | 2.0     
-3        | Lady Pretender            | 4954016  | 3.0      | 2.0      | 3.0      | 6.0      | 3.0      | N/A      | 3.0     
-5        | Tribesmans Glory          | 1939932  | 1.0      | 1.0      | 5.0      | 4.0      | 4.0      | 3.0      | 4.0     
-2        | Begin The Luck            | 3308182  | 2.0      | 5.0      | 2.0      | 2.0      | 2.0      | 2.0      | 5.0     
-6        | Universal Secret          | 3577259  | 4.0      | 2.0      | 6.0      | 6.0      | 5.0      | 3.0      | 6.0     
-7        | Poets Reflection          | 2418436  | 7.0      | 7.0      | 7.0      | 8.0      | 8.0      | 3.0      | 6.0     
-8        | Pooroldmackley            | 5630673  | 8.0      | 9.0      | 7.0      | 9.0      | 9.0      | N/A      | 8.0     
-9        | Master Mikey Dee          | 3265190  | 9.0      | 8.0      | 7.0      | 3.0      | 7.0      | 3.0      | 9.0     
+       1 | Time To Bite              |  2653194 |      5.0 |      4.0 |      1.0 |      1.0 |      6.0 |      1.0 |      1.0
+       4 | Kadex                     |  4197086 |      6.0 |      6.0 |      4.0 |      5.0 |      1.0 |      N/A |      2.0
+       3 | Lady Pretender            |  4954016 |      3.0 |      2.0 |      3.0 |      6.0 |      3.0 |      N/A |      3.0
+       5 | Tribesmans Glory          |  1939932 |      1.0 |      1.0 |      5.0 |      4.0 |      4.0 |      3.0 |      4.0
+       2 | Begin The Luck            |  3308182 |      2.0 |      5.0 |      2.0 |      2.0 |      2.0 |      2.0 |      5.0
+       6 | Universal Secret          |  3577259 |      4.0 |      2.0 |      6.0 |      6.0 |      5.0 |      3.0 |      6.0
+       7 | Poets Reflection          |  2418436 |      7.0 |      7.0 |      7.0 |      8.0 |      8.0 |      3.0 |      6.0
+       8 | Pooroldmackley            |  5630673 |      8.0 |      9.0 |      7.0 |      9.0 |      9.0 |      N/A |      8.0
+       9 | Master Mikey Dee          |  3265190 |      9.0 |      8.0 |      7.0 |      3.0 |      7.0 |      3.0 |      9.0
 
 Legend:
 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank

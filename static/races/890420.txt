@@ -21,17 +21,17 @@
 
 🔍 No previous identical race runs found for race_id 890420.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
-number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📈     |    📊     |    💡     |    🎯     |    📓     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |   RPR    |    TS    |   OFR    | J-All-Prf |  FSCRE   |   CRSE   | OP-ODDS 
 -----------------------------------------------------------------------------------------------------------------------------
-5        | Wiltshire Lad             | 6088044  | 1.0      | 6.0      | 5.0      | 4.0      | 5.0      | N/A      | 1.0     
-3        | Invited                   | 6014822  | 2.0      | 2.0      | 2.0      | 5.0      | 1.0      | N/A      | 2.0     
-8        | Hot Dancer                | 6247229  | 6.0      | 4.0      | 8.0      | 3.0      | 3.0      | N/A      | 3.0     
-1        | Castle Stuart             | 5991305  | 6.0      | 4.0      | 1.0      | 1.0      | 6.0      | N/A      | 4.0     
-4        | Zowal                     | 6640468  | 8.0      | 6.0      | 2.0      | 6.0      | 4.0      | 1.0      | 4.0     
-6        | We Dare To Dream          | 6102260  | 4.0      | 8.0      | 6.0      | 7.0      | 2.0      | N/A      | 6.0     
-2        | Thunder Wonder            | 5982510  | 3.0      | 3.0      | 2.0      | 8.0      | 8.0      | N/A      | 7.0     
-7        | Our Mighty Mo             | 5845567  | 5.0      | 1.0      | 6.0      | 2.0      | 7.0      | N/A      | 8.0     
+       5 | Wiltshire Lad             |  6088044 |      1.0 |      6.0 |      5.0 |      4.0 |      5.0 |      N/A |      1.0
+       3 | Invited                   |  6014822 |      2.0 |      2.0 |      2.0 |      5.0 |      1.0 |      N/A |      2.0
+       8 | Hot Dancer                |  6247229 |      6.0 |      4.0 |      8.0 |      3.0 |      3.0 |      N/A |      3.0
+       1 | Castle Stuart             |  5991305 |      6.0 |      4.0 |      1.0 |      1.0 |      6.0 |      N/A |      4.0
+       4 | Zowal                     |  6640468 |      8.0 |      6.0 |      2.0 |      6.0 |      4.0 |      1.0 |      4.0
+       6 | We Dare To Dream          |  6102260 |      4.0 |      8.0 |      6.0 |      7.0 |      2.0 |      N/A |      6.0
+       2 | Thunder Wonder            |  5982510 |      3.0 |      3.0 |      2.0 |      8.0 |      8.0 |      N/A |      7.0
+       7 | Our Mighty Mo             |  5845567 |      5.0 |      1.0 |      6.0 |      2.0 |      7.0 |      N/A |      8.0
 
 Legend:
 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank

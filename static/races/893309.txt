@@ -30,22 +30,22 @@
 
 🔍 No previous identical race runs found for race_id 893309.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 💡        | 🎯        | 🏟️       | 💰       
-number   | horse_name                | horse_id | RPR      | OFR      | J-All-Prf | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📈     |    💡     |    🎯     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |   RPR    |   OFR    | J-All-Prf |   CRSE   | OP-ODDS 
 -------------------------------------------------------------------------------------------------------
-11       | Tatum                     | 5092879  | 9.0      | 10.0     | 12.0     | N/A      | 1.0     
-8        | Plunkett Street           | 4871376  | 8.0      | 6.0      | 8.0      | N/A      | 2.0     
-7        | Noble Andy                | 5342153  | 11.0     | 6.0      | 6.0      | N/A      | 3.0     
-6        | Crypto Crash              | 58950409 | 1.0      | 6.0      | 10.0     | 1.0      | 3.0     
-1        | Arthur Rose               | 5379842  | 12.0     | 1.0      | 5.0      | N/A      | 5.0     
-9        | Gardone                   | 4755582  | 9.0      | 9.0      | 13.0     | N/A      | 6.0     
-13       | Tyder                     | 5373978  | 4.0      | 13.0     | 9.0      | 1.0      | 7.0     
-10       | Highland King             | 3866962  | 4.0      | 10.0     | 7.0      | N/A      | 7.0     
-5        | Picpoul                   | 3142156  | 4.0      | 4.0      | 2.0      | N/A      | 9.0     
-4        | Man Is King               | 3839266  | 2.0      | 4.0      | 4.0      | 1.0      | 9.0     
-3        | Grizabella                | 3765234  | 4.0      | 3.0      | 11.0     | N/A      | 11.0    
-2        | Fascinating Shadow        | 3147773  | 2.0      | 1.0      | 1.0      | N/A      | 12.0    
-12       | No Memory                 | 1980769  | N/A      | 12.0     | 3.0      | N/A      | 13.0    
+      11 | Tatum                     |  5092879 |      9.0 |     10.0 |     12.0 |      N/A |      1.0
+       8 | Plunkett Street           |  4871376 |      8.0 |      6.0 |      8.0 |      N/A |      2.0
+       7 | Noble Andy                |  5342153 |     11.0 |      6.0 |      6.0 |      N/A |      3.0
+       6 | Crypto Crash              | 58950409 |      1.0 |      6.0 |     10.0 |      1.0 |      3.0
+       1 | Arthur Rose               |  5379842 |     12.0 |      1.0 |      5.0 |      N/A |      5.0
+       9 | Gardone                   |  4755582 |      9.0 |      9.0 |     13.0 |      N/A |      6.0
+      13 | Tyder                     |  5373978 |      4.0 |     13.0 |      9.0 |      1.0 |      7.0
+      10 | Highland King             |  3866962 |      4.0 |     10.0 |      7.0 |      N/A |      7.0
+       5 | Picpoul                   |  3142156 |      4.0 |      4.0 |      2.0 |      N/A |      9.0
+       4 | Man Is King               |  3839266 |      2.0 |      4.0 |      4.0 |      1.0 |      9.0
+       3 | Grizabella                |  3765234 |      4.0 |      3.0 |     11.0 |      N/A |     11.0
+       2 | Fascinating Shadow        |  3147773 |      2.0 |      1.0 |      1.0 |      N/A |     12.0
+      12 | No Memory                 |  1980769 |      N/A |     12.0 |      3.0 |      N/A |     13.0
 
 Legend:
 ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 💡 OFR: ofr_rank

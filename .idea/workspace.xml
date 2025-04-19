@@ -4,32 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="Dynamic Performance Table improved- new cols added.">
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="Minor fixes to horses UI">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hash_codes.json" beforeDir="false" afterPath="$PROJECT_DIR$/hash_codes.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890665.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890666.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890667.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890668.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890669.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890670.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890671.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890672.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890673.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890674.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890675.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890676.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890677.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890678.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890679.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890680.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890681.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890682.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890683.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890684.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890685.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/893419.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,15 +104,7 @@
       <workItem from="1743788996007" duration="22220000" />
       <workItem from="1744353573721" duration="2789000" />
       <workItem from="1744614807891" duration="85000" />
-      <workItem from="1744871690822" duration="7097000" />
-    </task>
-    <task id="LOCAL-00053" summary="added banner for real. Fixed issue with TXT file display too narrow for perf table">
-      <option name="closed" value="true" />
-      <created>1740675997601</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1740675997602</updated>
+      <workItem from="1744871690822" duration="8731000" />
     </task>
     <task id="LOCAL-00054" summary="erduced size of headers to reduce table width">
       <option name="closed" value="true" />
@@ -522,14 +490,21 @@
       <option name="project" value="LOCAL" />
       <updated>1744975972604</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="Minor fixes to horses UI">
+      <option name="closed" value="true" />
+      <created>1745051131102</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1745051131102</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="New data. First course-spec stats index.html." />
     <MESSAGE value="Course race type stats fix" />
     <MESSAGE value="new data- minor changes before big update v.0.5 (RP statistics)" />
     <MESSAGE value="new data. no major changes till v 1.0" />
@@ -554,6 +529,7 @@
     <MESSAGE value="added reliability. Various fixes/refactoring of horse output." />
     <MESSAGE value="C, D, CD stats improvement- new function based on hh" />
     <MESSAGE value="Dynamic Performance Table improved- new cols added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Dynamic Performance Table improved- new cols added." />
+    <MESSAGE value="Minor fixes to horses UI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor fixes to horses UI" />
   </component>
 </project>

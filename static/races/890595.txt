@@ -29,20 +29,20 @@
 
 🔍 No previous identical race runs found for race_id 890595.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
-number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📈     |    📊     |    💡     |    🎯     |    📓     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |   RPR    |    TS    |   OFR    | J-All-Prf |  FSCRE   |   CRSE   | OP-ODDS 
 -----------------------------------------------------------------------------------------------------------------------------
-2        | Scarface                  | 3877107  | 4.0      | 3.0      | 2.0      | 7.0      | 6.0      | N/A      | 1.0     
-5        | Bucksy Des Epeires        | 4187553  | 9.0      | 7.0      | 4.0      | 8.0      | 10.0     | N/A      | 1.0     
-10       | Royal Jewel               | 4994591  | 4.0      | 5.0      | 10.0     | 10.0     | 5.0      | 1.0      | 1.0     
-9        | Sheldon                   | 2969896  | 7.0      | 9.0      | 8.0      | 11.0     | 9.0      | N/A      | 4.0     
-1        | Heltenham                 | 3960806  | 1.0      | 8.0      | 1.0      | 5.0      | 11.0     | N/A      | 5.0     
-11       | Eaton Collina             | 2984474  | 7.0      | 4.0      | 10.0     | 2.0      | 7.0      | N/A      | 6.0     
-6        | Happy And Fine            | 3600680  | 2.0      | 2.0      | 6.0      | 1.0      | 4.0      | N/A      | 6.0     
-4        | Mount Tempest             | 4185066  | 4.0      | 1.0      | 4.0      | 6.0      | 7.0      | 1.0      | 8.0     
-7        | Equus Dancer              | 1922298  | N/A      | 11.0     | 7.0      | 3.0      | 1.0      | N/A      | 9.0     
-8        | Smarty Wild               | 1969659  | 10.0     | 10.0     | 8.0      | 9.0      | 2.0      | N/A      | 9.0     
-3        | Galop De Chasse           | 3224050  | 2.0      | 6.0      | 3.0      | 4.0      | 3.0      | N/A      | 11.0    
+       2 | Scarface                  |  3877107 |      4.0 |      3.0 |      2.0 |      7.0 |      6.0 |      N/A |      1.0
+       5 | Bucksy Des Epeires        |  4187553 |      9.0 |      7.0 |      4.0 |      8.0 |     10.0 |      N/A |      1.0
+      10 | Royal Jewel               |  4994591 |      4.0 |      5.0 |     10.0 |     10.0 |      5.0 |      1.0 |      1.0
+       9 | Sheldon                   |  2969896 |      7.0 |      9.0 |      8.0 |     11.0 |      9.0 |      N/A |      4.0
+       1 | Heltenham                 |  3960806 |      1.0 |      8.0 |      1.0 |      5.0 |     11.0 |      N/A |      5.0
+      11 | Eaton Collina             |  2984474 |      7.0 |      4.0 |     10.0 |      2.0 |      7.0 |      N/A |      6.0
+       6 | Happy And Fine            |  3600680 |      2.0 |      2.0 |      6.0 |      1.0 |      4.0 |      N/A |      6.0
+       4 | Mount Tempest             |  4185066 |      4.0 |      1.0 |      4.0 |      6.0 |      7.0 |      1.0 |      8.0
+       7 | Equus Dancer              |  1922298 |      N/A |     11.0 |      7.0 |      3.0 |      1.0 |      N/A |      9.0
+       8 | Smarty Wild               |  1969659 |     10.0 |     10.0 |      8.0 |      9.0 |      2.0 |      N/A |      9.0
+       3 | Galop De Chasse           |  3224050 |      2.0 |      6.0 |      3.0 |      4.0 |      3.0 |      N/A |     11.0
 
 Legend:
 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank

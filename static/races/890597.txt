@@ -22,19 +22,19 @@
 
 🔍 No previous identical race runs found for race_id 890597.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
-number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📈     |    📊     |    💡     |    🎯     |    📓     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |   RPR    |    TS    |   OFR    | J-All-Prf |  FSCRE   |   CRSE   | OP-ODDS 
 -----------------------------------------------------------------------------------------------------------------------------
-5        | Moonset                   | 4217508  | 7.0      | 7.0      | 5.0      | 1.0      | 1.0      | N/A      | 1.0     
-7        | Coconut Twist             | 4217510  | 4.0      | 3.0      | 7.0      | 4.0      | 2.0      | 1.0      | 2.0     
-2        | Rickety Bridge            | 4950334  | 9.0      | 9.0      | 2.0      | 9.0      | 6.0      | N/A      | 3.0     
-10       | Barricane                 | 3326361  | 1.0      | 8.0      | 9.0      | 3.0      | 5.0      | N/A      | 3.0     
-8        | Copshill Lad              | 4129100  | 1.0      | 1.0      | 7.0      | 2.0      | 7.0      | N/A      | 5.0     
-1        | Kruger Park               | 4735725  | 7.0      | 4.0      | 1.0      | 6.0      | 4.0      | 2.0      | 6.0     
-9        | Despereaux                | 4622315  | 4.0      | 5.0      | 9.0      | 10.0     | 3.0      | 2.0      | 6.0     
-4        | Rockadenn                 | 2746619  | 4.0      | 2.0      | 4.0      | 5.0      | 9.0      | N/A      | 6.0     
-3        | Christopher Wood          | 1504664  | N/A      | N/A      | 2.0      | 7.0      | 10.0     | N/A      | 9.0     
-6        | Striking A Pose           | 3038171  | 3.0      | 5.0      | 5.0      | 8.0      | 8.0      | 2.0      | 10.0    
+       5 | Moonset                   |  4217508 |      7.0 |      7.0 |      5.0 |      1.0 |      1.0 |      N/A |      1.0
+       7 | Coconut Twist             |  4217510 |      4.0 |      3.0 |      7.0 |      4.0 |      2.0 |      1.0 |      2.0
+       2 | Rickety Bridge            |  4950334 |      9.0 |      9.0 |      2.0 |      9.0 |      6.0 |      N/A |      3.0
+      10 | Barricane                 |  3326361 |      1.0 |      8.0 |      9.0 |      3.0 |      5.0 |      N/A |      3.0
+       8 | Copshill Lad              |  4129100 |      1.0 |      1.0 |      7.0 |      2.0 |      7.0 |      N/A |      5.0
+       1 | Kruger Park               |  4735725 |      7.0 |      4.0 |      1.0 |      6.0 |      4.0 |      2.0 |      6.0
+       9 | Despereaux                |  4622315 |      4.0 |      5.0 |      9.0 |     10.0 |      3.0 |      2.0 |      6.0
+       4 | Rockadenn                 |  2746619 |      4.0 |      2.0 |      4.0 |      5.0 |      9.0 |      N/A |      6.0
+       3 | Christopher Wood          |  1504664 |      N/A |      N/A |      2.0 |      7.0 |     10.0 |      N/A |      9.0
+       6 | Striking A Pose           |  3038171 |      3.0 |      5.0 |      5.0 |      8.0 |      8.0 |      2.0 |     10.0
 
 Legend:
 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank

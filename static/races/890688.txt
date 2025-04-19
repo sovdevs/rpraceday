@@ -12,15 +12,15 @@
 No H2H data available for this race.
 🔍 No previous identical race runs found for race_id 890688.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
-number   | horse_name                | horse_id | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📊     |    💡     |    🎯     |    📓     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |    TS    |   OFR    | J-All-Prf |  FSCRE   |   CRSE   | OP-ODDS 
 ------------------------------------------------------------------------------------------------------------------
-2        | Magic Runner              | 6582583  | 2.0      | 1.0      | 5.0      | 5.0      | 2.0      | 1.0     
-5        | Romantic Spirit           | 5708691  | 1.0      | 5.0      | 4.0      | 3.0      | 1.0      | 2.0     
-1        | Ill Give It A Go          | 6988872  | 4.0      | 1.0      | 3.0      | 1.0      | N/A      | 3.0     
-3        | Zaraquelle                | 6388819  | N/A      | 3.0      | 1.0      | 6.0      | N/A      | 4.0     
-4        | Silent Affair             | 6283432  | 3.0      | 4.0      | 6.0      | 2.0      | 2.0      | 5.0     
-6        | Its Life                  | 58956133 | 5.0      | 6.0      | 2.0      | 4.0      | N/A      | 6.0     
+       2 | Magic Runner              |  6582583 |      2.0 |      1.0 |      5.0 |      5.0 |      2.0 |      1.0
+       5 | Romantic Spirit           |  5708691 |      1.0 |      5.0 |      4.0 |      3.0 |      1.0 |      2.0
+       1 | Ill Give It A Go          |  6988872 |      4.0 |      1.0 |      3.0 |      1.0 |      N/A |      3.0
+       3 | Zaraquelle                |  6388819 |      N/A |      3.0 |      1.0 |      6.0 |      N/A |      4.0
+       4 | Silent Affair             |  6283432 |      3.0 |      4.0 |      6.0 |      2.0 |      2.0 |      5.0
+       6 | Its Life                  | 58956133 |      5.0 |      6.0 |      2.0 |      4.0 |      N/A |      6.0
 
 Legend:
 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📊 TS: ts_rank | 💡 OFR: ofr_rank

@@ -12,21 +12,21 @@
 No H2H data available for this race.
 🔍 No previous identical race runs found for race_id 890599.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
-number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📈     |    📊     |    💡     |    🎯     |    📓     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |   RPR    |    TS    |   OFR    | J-All-Prf |  FSCRE   |   CRSE   | OP-ODDS 
 -----------------------------------------------------------------------------------------------------------------------------
-6        | Walk On High              | 3908384  | 1.0      | 1.0      | 1.0      | 2.0      | 8.0      | N/A      | 1.0     
-5        | Southfield Finale         | 6820600  | N/A      | N/A      | N/A      | 1.0      | 1.0      | N/A      | 2.0     
-4        | Lokis Mischief            | 5419096  | 2.0      | 2.0      | 2.0      | 12.0     | 12.0     | N/A      | 3.0     
-8        | Chique Angel              | 5447230  | 4.0      | 5.0      | N/A      | 11.0     | 9.0      | N/A      | 4.0     
-10       | Neon Madonna              | 6928465  | N/A      | N/A      | N/A      | 8.0      | 7.0      | N/A      | 5.0     
-12       | Field Of Aces             | 6547836  | N/A      | N/A      | N/A      | 9.0      | 3.0      | N/A      | 6.0     
-7        | Barford Groover           | 4928747  | 3.0      | 3.0      | N/A      | 10.0     | 10.0     | N/A      | 7.0     
-1        | Devon Blue                | 5695284  | N/A      | 6.0      | N/A      | 7.0      | 3.0      | N/A      | 8.0     
-9        | Daisy Me Rollin           | 6023323  | N/A      | N/A      | N/A      | 3.0      | 11.0     | 1.0      | 8.0     
-2        | Gorcombe And Wise         | 6979105  | 5.0      | 4.0      | N/A      | 6.0      | 3.0      | N/A      | 8.0     
-11       | Sea Thrift                | 5864625  | N/A      | N/A      | N/A      | 5.0      | 2.0      | N/A      | 8.0     
-3        | Lantic Bay                | 5120128  | N/A      | N/A      | N/A      | 4.0      | 3.0      | N/A      | 12.0    
+       6 | Walk On High              |  3908384 |      1.0 |      1.0 |      1.0 |      2.0 |      8.0 |      N/A |      1.0
+       5 | Southfield Finale         |  6820600 |      N/A |      N/A |      N/A |      1.0 |      1.0 |      N/A |      2.0
+       4 | Lokis Mischief            |  5419096 |      2.0 |      2.0 |      2.0 |     12.0 |     12.0 |      N/A |      3.0
+       8 | Chique Angel              |  5447230 |      4.0 |      5.0 |      N/A |     11.0 |      9.0 |      N/A |      4.0
+      10 | Neon Madonna              |  6928465 |      N/A |      N/A |      N/A |      8.0 |      7.0 |      N/A |      5.0
+      12 | Field Of Aces             |  6547836 |      N/A |      N/A |      N/A |      9.0 |      3.0 |      N/A |      6.0
+       7 | Barford Groover           |  4928747 |      3.0 |      3.0 |      N/A |     10.0 |     10.0 |      N/A |      7.0
+       1 | Devon Blue                |  5695284 |      N/A |      6.0 |      N/A |      7.0 |      3.0 |      N/A |      8.0
+       9 | Daisy Me Rollin           |  6023323 |      N/A |      N/A |      N/A |      3.0 |     11.0 |      1.0 |      8.0
+       2 | Gorcombe And Wise         |  6979105 |      5.0 |      4.0 |      N/A |      6.0 |      3.0 |      N/A |      8.0
+      11 | Sea Thrift                |  5864625 |      N/A |      N/A |      N/A |      5.0 |      2.0 |      N/A |      8.0
+       3 | Lantic Bay                |  5120128 |      N/A |      N/A |      N/A |      4.0 |      3.0 |      N/A |     12.0
 
 Legend:
 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank

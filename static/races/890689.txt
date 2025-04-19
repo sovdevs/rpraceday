@@ -26,16 +26,16 @@
 Horse      | OldRace  | Pos  | OR  | Btn   | Odds  | Runners  | Wgt  | T.Wgt  | Jockey | Comment
 ------------------------------------------------------------------------------------------
 4908679    | 2    | 62.0 | 5.0   | 7.5   | 7        | 142.0 | 122.0  | 92620.0 | pressed leader early, prominent after 2f, led over 4f out, headed under 2f out, kept on but no extra inside final furlong++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 💡        | 🎯        | 💰       
-number   | horse_name                | horse_id | OFR      | J-All-Prf | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    💡     |    🎯     |    💰    
+ number  |        horse_name         | horse_id |   OFR    | J-All-Prf | OP-ODDS 
 ---------------------------------------------------------------------------------
-1        | Slowdownbarney            | 6010545  | 1.0      | 5.0      | 1.0     
-6        | Moon Over The Sea         | 3813243  | 6.0      | 4.0      | 2.0     
-4        | Payment Plan              | 5692661  | 4.0      | 1.0      | 3.0     
-5        | Grand Duchess Olga        | 4908679  | 5.0      | 2.0      | 4.0     
-7        | Black Smoke               | 4320843  | 7.0      | 3.0      | 5.0     
-2        | Emaculate Soldier         | 4994500  | 2.0      | 7.0      | 6.0     
-3        | Laser Focus               | 3986092  | 2.0      | 6.0      | 6.0     
+       1 | Slowdownbarney            |  6010545 |      1.0 |      5.0 |      1.0
+       6 | Moon Over The Sea         |  3813243 |      6.0 |      4.0 |      2.0
+       4 | Payment Plan              |  5692661 |      4.0 |      1.0 |      3.0
+       5 | Grand Duchess Olga        |  4908679 |      5.0 |      2.0 |      4.0
+       7 | Black Smoke               |  4320843 |      7.0 |      3.0 |      5.0
+       2 | Emaculate Soldier         |  4994500 |      2.0 |      7.0 |      6.0
+       3 | Laser Focus               |  3986092 |      2.0 |      6.0 |      6.0
 
 Legend:
 💡 OFR: ofr_rank | 🎯 J-All-Prf: stats_jockey_ovr_profit_rank

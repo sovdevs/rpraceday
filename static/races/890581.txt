@@ -35,19 +35,19 @@ Horse      | OldRace  | Pos  | OR  | Btn   | Odds  | Runners  | Wgt  | T.Wgt  | 
 ------------------------------------------------------------------------------------------
 2583898    | 1    | 129.0 |       | 3.333 | 9        | 161.0 | 167.0  | 93186.0 | prominent, pressed leader 10th, led when mistake 4 out, mistake 3 out, ridden 2 out, went clear approaching last, kept on well
 2579309    | 2    | 125.0 | 5.0   | 4.5   | 9        | 154.0 | 152.0  | 95504.0 | towards rear, jumped right 2nd, headway 3 out, went second 2 out, kept on but no match for winner++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 💡        | 🎯        | 🏟️       | 💰       
-number   | horse_name                | horse_id | RPR      | OFR      | J-All-Prf | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📈     |    💡     |    🎯     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |   RPR    |   OFR    | J-All-Prf |   CRSE   | OP-ODDS 
 -------------------------------------------------------------------------------------------------------
-1        | Eldorado Allen            | 1875006  | 2.0      | 1.0      | 9.0      | 4.0      | 1.0     
-3        | Le Milos                  | 2245164  | 2.0      | 3.0      | 7.0      | N/A      | 2.0     
-4        | Glynn                     | 2378955  | 5.0      | 4.0      | 8.0      | N/A      | 2.0     
-6        | Dubai Days                | 2579309  | 8.0      | 6.0      | 1.0      | 3.0      | 2.0     
-2        | Numitor                   | 2583898  | 10.0     | 2.0      | 4.0      | 1.0      | 5.0     
-5        | Flic Ou Voyou             | 1900091  | 1.0      | 5.0      | 6.0      | 4.0      | 6.0     
-8        | The Flier Begley          | 2618958  | 2.0      | 8.0      | 3.0      | 4.0      | 6.0     
-7        | Spyglass Hill             | 1909799  | 8.0      | 7.0      | 10.0     | 1.0      | 8.0     
-9        | The Widdow Maker          | 2935720  | 6.0      | 9.0      | 2.0      | N/A      | 8.0     
-10       | Whistleinthedark          | 3265209  | 6.0      | 10.0     | 5.0      | 4.0      | 10.0    
+       1 | Eldorado Allen            |  1875006 |      2.0 |      1.0 |      9.0 |      4.0 |      1.0
+       3 | Le Milos                  |  2245164 |      2.0 |      3.0 |      7.0 |      N/A |      2.0
+       4 | Glynn                     |  2378955 |      5.0 |      4.0 |      8.0 |      N/A |      2.0
+       6 | Dubai Days                |  2579309 |      8.0 |      6.0 |      1.0 |      3.0 |      2.0
+       2 | Numitor                   |  2583898 |     10.0 |      2.0 |      4.0 |      1.0 |      5.0
+       5 | Flic Ou Voyou             |  1900091 |      1.0 |      5.0 |      6.0 |      4.0 |      6.0
+       8 | The Flier Begley          |  2618958 |      2.0 |      8.0 |      3.0 |      4.0 |      6.0
+       7 | Spyglass Hill             |  1909799 |      8.0 |      7.0 |     10.0 |      1.0 |      8.0
+       9 | The Widdow Maker          |  2935720 |      6.0 |      9.0 |      2.0 |      N/A |      8.0
+      10 | Whistleinthedark          |  3265209 |      6.0 |     10.0 |      5.0 |      4.0 |     10.0
 
 Legend:
 ⏱️ SPD-AVG: rank_avgSecs | 💶 AVG€: avgPrizeEuro_rank | 📈 RPR: rpr_rank | 💡 OFR: ofr_rank

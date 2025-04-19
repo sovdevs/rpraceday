@@ -20,13 +20,13 @@
 
 🔍 No previous identical race runs found for race_id 890592.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
-number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📈     |    📊     |    💡     |    🎯     |    📓     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |   RPR    |    TS    |   OFR    | J-All-Prf |  FSCRE   |   CRSE   | OP-ODDS 
 -----------------------------------------------------------------------------------------------------------------------------
-2        | Give It To Me Oj          | 5900733  | 1.0      | 1.0      | 1.0      | 1.0      | 1.0      | N/A      | 1.0     
-4        | Alvesta                   | 5431091  | N/A      | N/A      | N/A      | 3.0      | 3.0      | N/A      | 2.0     
-3        | Bradshaw                  | 6595600  | 2.0      | 2.0      | N/A      | 2.0      | 2.0      | N/A      | 3.0     
-1        | Mint Edition              | 4273986  | N/A      | N/A      | N/A      | N/A      | 3.0      | N/A      | N/A     
+       2 | Give It To Me Oj          |  5900733 |      1.0 |      1.0 |      1.0 |      1.0 |      1.0 |      N/A |      1.0
+       4 | Alvesta                   |  5431091 |      N/A |      N/A |      N/A |      3.0 |      3.0 |      N/A |      2.0
+       3 | Bradshaw                  |  6595600 |      2.0 |      2.0 |      N/A |      2.0 |      2.0 |      N/A |      3.0
+       1 | Mint Edition              |  4273986 |      N/A |      N/A |      N/A |      N/A |      3.0 |      N/A |      N/A
 
 Legend:
 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank

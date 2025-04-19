@@ -36,21 +36,21 @@
 
 🔍 No previous identical race runs found for race_id 890690.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 💡        | 🎯        | 💰       
-number   | horse_name                | horse_id | OFR      | J-All-Prf | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    💡     |    🎯     |    💰    
+ number  |        horse_name         | horse_id |   OFR    | J-All-Prf | OP-ODDS 
 ---------------------------------------------------------------------------------
-1        | Billy Mcgarry             | 3906273  | 1.0      | 8.0      | 1.0     
-3        | Enzos Angel               | 3880898  | 3.0      | 1.0      | 1.0     
-2        | Wyvern                    | 3916381  | 2.0      | 4.0      | 3.0     
-5        | Dappled Light             | 4383454  | 4.0      | 1.0      | 4.0     
-6        | King Of The Dance         | 3437792  | 6.0      | 12.0     | 4.0     
-4        | Northbound                | 3048874  | 4.0      | 9.0      | 6.0     
-9        | Gatsby Cap                | 2426404  | 9.0      | 6.0      | 7.0     
-7        | Olympic Quest             | 4705229  | 7.0      | 11.0     | 8.0     
-11       | Juan Cool Dude            | 4825002  | 10.0     | 5.0      | 8.0     
-8        | Genta                     | 6283459  | 8.0      | 6.0      | 10.0    
-10       | Rebel Cove                | 6829618  | 10.0     | 3.0      | 11.0    
-12       | Mykonos St John           | 3095756  | 12.0     | 10.0     | 12.0    
+       1 | Billy Mcgarry             |  3906273 |      1.0 |      8.0 |      1.0
+       3 | Enzos Angel               |  3880898 |      3.0 |      1.0 |      1.0
+       2 | Wyvern                    |  3916381 |      2.0 |      4.0 |      3.0
+       5 | Dappled Light             |  4383454 |      4.0 |      1.0 |      4.0
+       6 | King Of The Dance         |  3437792 |      6.0 |     12.0 |      4.0
+       4 | Northbound                |  3048874 |      4.0 |      9.0 |      6.0
+       9 | Gatsby Cap                |  2426404 |      9.0 |      6.0 |      7.0
+       7 | Olympic Quest             |  4705229 |      7.0 |     11.0 |      8.0
+      11 | Juan Cool Dude            |  4825002 |     10.0 |      5.0 |      8.0
+       8 | Genta                     |  6283459 |      8.0 |      6.0 |     10.0
+      10 | Rebel Cove                |  6829618 |     10.0 |      3.0 |     11.0
+      12 | Mykonos St John           |  3095756 |     12.0 |     10.0 |     12.0
 
 Legend:
 💡 OFR: ofr_rank | 🎯 J-All-Prf: stats_jockey_ovr_profit_rank

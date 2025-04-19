@@ -22,19 +22,19 @@
 
 🔍 No previous identical race runs found for race_id 890578.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
-number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📈     |    📊     |    💡     |    🎯     |    📓     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |   RPR    |    TS    |   OFR    | J-All-Prf |  FSCRE   |   CRSE   | OP-ODDS 
 -----------------------------------------------------------------------------------------------------------------------------
-3        | Lady Babs                 | 1978732  | 6.0      | 4.0      | 3.0      | 3.0      | 5.0      | 1.0      | 1.0     
-2        | Russian Virtue            | 3096607  | 6.0      | 5.0      | 1.0      | 3.0      | 7.0      | 1.0      | 2.0     
-9        | Arctic Fox                | 2163734  | 4.0      | N/A      | 9.0      | 10.0     | 2.0      | N/A      | 3.0     
-7        | Bodygroove                | 4642867  | 2.0      | 2.0      | 7.0      | 7.0      | 3.0      | 3.0      | 4.0     
-8        | Ambassador                | 2815620  | 4.0      | 6.0      | 7.0      | 8.0      | 10.0     | N/A      | 5.0     
-5        | The Navigator             | 1666309  | 2.0      | 1.0      | 5.0      | 6.0      | 8.0      | 3.0      | 6.0     
-4        | Caramelo Rapido           | 5761791  | 8.0      | 7.0      | 4.0      | 5.0      | 6.0      | 3.0      | 7.0     
-1        | Quaresome                 | 4597366  | 1.0      | 3.0      | 1.0      | 2.0      | 9.0      | N/A      | 8.0     
-10       | Woodys Boy                | 6064600  | N/A      | N/A      | 10.0     | 9.0      | 4.0      | N/A      | 9.0     
-6        | Gandhi Maker              | 3499211  | N/A      | 8.0      | 6.0      | 1.0      | 1.0      | 3.0      | 10.0    
+       3 | Lady Babs                 |  1978732 |      6.0 |      4.0 |      3.0 |      3.0 |      5.0 |      1.0 |      1.0
+       2 | Russian Virtue            |  3096607 |      6.0 |      5.0 |      1.0 |      3.0 |      7.0 |      1.0 |      2.0
+       9 | Arctic Fox                |  2163734 |      4.0 |      N/A |      9.0 |     10.0 |      2.0 |      N/A |      3.0
+       7 | Bodygroove                |  4642867 |      2.0 |      2.0 |      7.0 |      7.0 |      3.0 |      3.0 |      4.0
+       8 | Ambassador                |  2815620 |      4.0 |      6.0 |      7.0 |      8.0 |     10.0 |      N/A |      5.0
+       5 | The Navigator             |  1666309 |      2.0 |      1.0 |      5.0 |      6.0 |      8.0 |      3.0 |      6.0
+       4 | Caramelo Rapido           |  5761791 |      8.0 |      7.0 |      4.0 |      5.0 |      6.0 |      3.0 |      7.0
+       1 | Quaresome                 |  4597366 |      1.0 |      3.0 |      1.0 |      2.0 |      9.0 |      N/A |      8.0
+      10 | Woodys Boy                |  6064600 |      N/A |      N/A |     10.0 |      9.0 |      4.0 |      N/A |      9.0
+       6 | Gandhi Maker              |  3499211 |      N/A |      8.0 |      6.0 |      1.0 |      1.0 |      3.0 |     10.0
 
 Legend:
 🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank

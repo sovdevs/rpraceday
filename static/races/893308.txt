@@ -32,22 +32,22 @@
 
 🔍 No previous identical race runs found for race_id 893308.
 ++++++++++ Dynamic Performance Table ++++++++++
-#️⃣      | 🐎                         | 🆔        | 📈        | 💡        | 🎯        | 🏟️       | 💰       
-number   | horse_name                | horse_id | RPR      | OFR      | J-All-Prf | CRSE     | OP-ODDS 
+  #️⃣    |             🐎             |    🆔     |    📈     |    💡     |    🎯     |    🏟️    |    💰    
+ number  |        horse_name         | horse_id |   RPR    |   OFR    | J-All-Prf |   CRSE   | OP-ODDS 
 -------------------------------------------------------------------------------------------------------
-2        | Happiest                  | 6175452  | 13.0     | 2.0      | 1.0      | 1.0      | 1.0     
-4        | Junkyard Dog              | 6550740  | 4.0      | 4.0      | 10.0     | N/A      | 2.0     
-6        | Whats Your Game           | 6582566  | 10.0     | 5.0      | 11.0     | N/A      | 3.0     
-3        | Mocking                   | 6388847  | 6.0      | 3.0      | 12.0     | N/A      | 4.0     
-1        | William F Browne          | 5864553  | 1.0      | 1.0      | 9.0      | N/A      | 5.0     
-7        | Birdie Time               | 6514075  | 6.0      | 7.0      | 7.0      | N/A      | 6.0     
-5        | Pallatine Hills           | 6388851  | 6.0      | 5.0      | 13.0     | N/A      | 7.0     
-12       | Enziya                    | 6609338  | 10.0     | 12.0     | 3.0      | N/A      | 8.0     
-10       | Glinka                    | 6824842  | 1.0      | 8.0      | 5.0      | N/A      | 9.0     
-8        | Booklight                 | 5933548  | 10.0     | 8.0      | 2.0      | N/A      | 10.0    
-9        | Georg Zhukov              | 5911353  | 6.0      | 8.0      | 6.0      | N/A      | 11.0    
-13       | Longwinded Lady           | 6197888  | 3.0      | 13.0     | 8.0      | N/A      | 11.0    
-11       | Nakatomi                  | 6256643  | 4.0      | 8.0      | 4.0      | N/A      | 13.0    
+       2 | Happiest                  |  6175452 |     13.0 |      2.0 |      1.0 |      1.0 |      1.0
+       4 | Junkyard Dog              |  6550740 |      4.0 |      4.0 |     10.0 |      N/A |      2.0
+       6 | Whats Your Game           |  6582566 |     10.0 |      5.0 |     11.0 |      N/A |      3.0
+       3 | Mocking                   |  6388847 |      6.0 |      3.0 |     12.0 |      N/A |      4.0
+       1 | William F Browne          |  5864553 |      1.0 |      1.0 |      9.0 |      N/A |      5.0
+       7 | Birdie Time               |  6514075 |      6.0 |      7.0 |      7.0 |      N/A |      6.0
+       5 | Pallatine Hills           |  6388851 |      6.0 |      5.0 |     13.0 |      N/A |      7.0
+      12 | Enziya                    |  6609338 |     10.0 |     12.0 |      3.0 |      N/A |      8.0
+      10 | Glinka                    |  6824842 |      1.0 |      8.0 |      5.0 |      N/A |      9.0
+       8 | Booklight                 |  5933548 |     10.0 |      8.0 |      2.0 |      N/A |     10.0
+       9 | Georg Zhukov              |  5911353 |      6.0 |      8.0 |      6.0 |      N/A |     11.0
+      13 | Longwinded Lady           |  6197888 |      3.0 |     13.0 |      8.0 |      N/A |     11.0
+      11 | Nakatomi                  |  6256643 |      4.0 |      8.0 |      4.0 |      N/A |     13.0
 
 Legend:
 ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 💡 OFR: ofr_rank
