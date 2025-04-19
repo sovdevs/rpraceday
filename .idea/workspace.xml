@@ -4,44 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="C, D, CD stats improvement- new function based on hh">
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="Dynamic Performance Table improved- new cols added.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hash_codes.json" beforeDir="false" afterPath="$PROJECT_DIR$/hash_codes.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890396.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890397.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890398.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890399.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890400.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890401.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890402.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890410.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890411.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890412.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890413.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890414.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890415.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890416.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890561.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890562.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890563.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890564.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890565.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890566.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/890567.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/893135.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/893136.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/893137.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/893138.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/893139.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/893141.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/893203.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/893204.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/893205.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/893206.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/893207.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/893208.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/893295.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/races/893296.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890665.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890666.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890667.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890668.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890669.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890670.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890671.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890672.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890673.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890674.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890675.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890676.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890677.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890678.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890679.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890680.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890681.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890682.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890683.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890684.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/890685.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/races/893419.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,15 +128,7 @@
       <workItem from="1743788996007" duration="22220000" />
       <workItem from="1744353573721" duration="2789000" />
       <workItem from="1744614807891" duration="85000" />
-      <workItem from="1744871690822" duration="5787000" />
-    </task>
-    <task id="LOCAL-00052" summary="new index wider + banner">
-      <option name="closed" value="true" />
-      <created>1740674507632</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1740674507632</updated>
+      <workItem from="1744871690822" duration="7097000" />
     </task>
     <task id="LOCAL-00053" summary="added banner for real. Fixed issue with TXT file display too narrow for perf table">
       <option name="closed" value="true" />
@@ -535,14 +514,21 @@
       <option name="project" value="LOCAL" />
       <updated>1744902160544</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="Dynamic Performance Table improved- new cols added.">
+      <option name="closed" value="true" />
+      <created>1744975972604</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1744975972604</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new data. WinSR fixed." />
     <MESSAGE value="New data. First course-spec stats index.html." />
     <MESSAGE value="Course race type stats fix" />
     <MESSAGE value="new data- minor changes before big update v.0.5 (RP statistics)" />
@@ -567,6 +553,7 @@
     <MESSAGE value="Added horse Career and Recent Trends, clean ups." />
     <MESSAGE value="added reliability. Various fixes/refactoring of horse output." />
     <MESSAGE value="C, D, CD stats improvement- new function based on hh" />
-    <option name="LAST_COMMIT_MESSAGE" value="C, D, CD stats improvement- new function based on hh" />
+    <MESSAGE value="Dynamic Performance Table improved- new cols added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Dynamic Performance Table improved- new cols added." />
   </component>
 </project>
