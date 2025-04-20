@@ -1,0 +1,505 @@
+⏰ Off Time: 2025-04-20 15:06
+📍 Venue: Bath (left-handed galloping track)
+🏁 Race ID: 890426 - 🏆 Name: Showcasing Standing At Whitsbury Manor Handicap
+🏇 Type: Flat
+📏 Distance: 5.0 furlongs
+🏇 Class/Grade: Class 5
+🎂 Age Band: 3yo
+💰 Prize money: 💰 4K
+🌥️ Weather: Mostly cloudy
+🔥 Going: Good To Firm
+10 runners declared
+
+📊 Head to Head History for Race 890426:
+
+🔷            🧾            📜            📉            ⚖️           🧮            💰            🧷           
+868219       monomyth     think-of-a-n 1.0          0.0          0.0          3.1          0.3         
+871137       monomyth     solar-edge   3.0          0.0          0.0          10.7         0.3         
+875828       lady-dorches beautiful-th -7.0         -6.0         -6.0         1.3          -4.4        
+876846       over-spiced  toolatetoneg -4.0         4.0          8.0          4.0          -1.3        
+880335       over-spiced  toolatetoneg -2.0         11.0         5.0          0.5          -7.6        
+881528       toolatetoneg solar-edge   6.0          -7.0         -7.0         0.8          9.2         
+885474       monomyth     sunshine-sou 2.0          -8.0         -8.0         0.6          6.2         
+886395       over-spiced  monomyth     1.0          1.0          1.0          0.2          4.6         
+886395       over-spiced  toolatetoneg -3.0         5.0          5.0          0.3          -13.3       
+886395       monomyth     toolatetoneg -4.0         4.0          4.0          1.7          -2.8        
+887464       over-spiced  alashos      -3.0         -3.0         -3.0         0.1          -20.2       
+889556       over-spiced  toolatetoneg -3.0         8.0          2.0          0.4          -9.8        
+889556       over-spiced  solar-edge   3.0          -6.0         -6.0         0.3          14.9        
+889556       toolatetoneg solar-edge   6.0          -14.0        -8.0         0.7          11.8        
+🔷 shared_race_id   🧾 horse_name1   📜 horse_name2
+📉 perfDiff         ⚖️ weight_diff   🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
+
+
+🔍 No previous identical race runs found for race_id 890426.
+++++++++++++++++++++++++++++++++++++++++++++++++++ Dynamic Performance Table ++++++++++++++++++++++++++++++++++++++++++++++++++
+#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰        | 🏃       
+number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS  | furlSecTrip_FAST
+------------------------------------------------------------------------------------------------------------------------------------------------
+2        | Think Of A Name           | 5973420  | 📈 10.0   | 📊 8.0    | 💡 1.0    | 🎯 2.0    | 📓 5.0    | 🏟️ 1.0    | 💰 1.0    | 🏃 10.0  
+9        | Toolatetonegotiate        | 5884206  | 📈 1.0    | 📊 3.0    | 💡 8.0    | 🎯 4.0    | 📓 1.0    | 🏟️ 2.0    | 💰 2.0    | 🏃 3.0   
+4        | Alashos                   | 5951752  | 📈 3.0    | 📊 1.0    | 💡 4.0    | 🎯 7.0    | 📓 2.0    | 🏟️ N/A    | 💰 3.0    | 🏃 7.0   
+6        | Monomyth                  | 5870115  | 📈 8.0    | 📊 4.0    | 💡 6.0    | 🎯 10.0   | 📓 9.0    | 🏟️ N/A    | 💰 4.0    | 🏃 8.0   
+1        | Kinetic Force             | 5991242  | 📈 9.0    | 📊 2.0    | 💡 1.0    | 🎯 5.0    | 📓 6.0    | 🏟️ N/A    | 💰 5.0    | 🏃 1.0   
+3        | Sunshine Soul             | 5920301  | 📈 5.0    | 📊 6.0    | 💡 3.0    | 🎯 3.0    | 📓 8.0    | 🏟️ N/A    | 💰 6.0    | 🏃 2.0   
+10       | Over Spiced               | 5837057  | 📈 2.0    | 📊 5.0    | 💡 10.0   | 🎯 9.0    | 📓 10.0   | 🏟️ N/A    | 💰 7.0    | 🏃 4.0   
+5        | Solar Edge                | 6032411  | 📈 3.0    | 📊 10.0   | 💡 4.0    | 🎯 1.0    | 📓 3.0    | 🏟️ 2.0    | 💰 8.0    | 🏃 4.0   
+8        | Lady Dorchester           | 5708978  | 📈 5.0    | 📊 8.0    | 💡 8.0    | 🎯 8.0    | 📓 4.0    | 🏟️ 2.0    | 💰 9.0    | 🏃 9.0   
+7        | Beautiful Things          | 5968910  | 📈 5.0    | 📊 6.0    | 💡 7.0    | 🎯 6.0    | 📓 6.0    | 🏟️ 2.0    | 💰 10.0   | 🏃 6.0   
+
+Legend:
+🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank
+🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 📓 FSCRE: formScore_rank | 🏟️ CRSE: stats_course_ratio_rank | 💰 OP-ODDS: opDec_rank | 🏃 furlSecTrip_FAST: furlings_sec_thistrip_fastest_rank
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 2 | Think Of A Name💤🐎 3 years old  gelding, b, 135 lbs.
+📊 Race Record: 1/5 total wins (🏅 20% SR) | At this age & race type: 1/5 wins (🎯 20% SR)
+Career Trend: Speed is improving (last 5: [21.0, 45.0, 44.0, 56.0, 47.0]), Results are declining (last 5: [8.0, 2.0, 5.0, 1.0, 5.0]), Official ratings are not enough data, Odds are declining (career: erratic in band 2.0–50.0 | recent: erratic in band 2.0–50.0)
+Recent vs Career: Speed is about the same, Results are about the same, Odds are about the same (last 5: [50.0, 28.0, 5.5, 2.0, 9.0])
+Last win rating: No rating data | Latest rating: No rating data | Total wins: 1
+No risk data available
+🧪 Unexposed for age
+   • All races: avg runs 4.2, Unexposed rating -0.8
+   • This type: avg runs 4.2, Unexposed rating -0.8
+🧮 Furlings/sec Overall: 5 runs | 🏁 Fastest: 0.1639 | 🐢 Slowest: 0.1546 | 📊 Furlings/sec Avg: 0.16 | 🎯 Median: 0.161
+📏 Furlings/sec - This Trip (2 runs): 🏁 0.158 best, 📊 0.1562 avg
+🎖️ Furlings/sec - This Class (2 runs): 🏁 0.1639 best, 📊 0.1631 avg
+🦄 Sire: Kodiac (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🌿 Dam: Hairpin (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 3.5 (Rank: 1)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: C&D win on heavy last October; opening mark not an obvious gift; ✂️ gelded since last run
+🔦 Spotlight: C&D win on heavy ground last October (the only time Oisin Murphy has ridden him); ✂️ gelded since last seen; improvement required now handicapping after six months off.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Tally-Ho Stud
+🏠 Owner: Abdulla Al Mansoori (Overall SR: 0/0 = 0%% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0.0%
+🚫 (No previous owner(s))
+👤 Trainer: William Knight 1 runners this race. (Overall SR: 0/0 = 0.0% | Conn Rank: , Turf Rank: , AW Rank: N/A)
+   • Turf: 0/0 = 0.0%
+   • 14-day form: (1/9 runs) (Rank: 5) RTF: 22.0 (OVR: 15%)
+🚫 (No previous trainer(s))
+🏇 Jockey: Oisin Murphy(14d rank: 2, 5Y rank: ? | Turf: ? | AW: ?) 🏇 Oisin Murphy winSR: 0.0% (No better alternative found.)
+   • 14-day form: 21% (12.0/58.0 runs) RTF: N/A (OVR: 32%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0/0 = 0%
+📊 **RANKS AND FLAGS**
+📉 OFR: 75.0 (Rank: 1)
+📈 RPR: 78.0 (Rank: 10)
+📉 TS: 61.0 (Rank: 8)
+🏟️ Course Wins/Runs: 1/1 | SR: 1.0
+📏 Distance Wins/Runs: 1/2 | SR: 0.5
+🏟️📏 Course+Distance Wins/Runs: 1/1 | SR: 1.0
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: 82515- → Score: 0.05 (Rank: 5)
+------------------------------------------------------------------------------------------
+🐎 9 | Toolatetonegotiate🐎 3 years old  filly, gr, 123 lbs.
+📊 Race Record: 0/10 total wins (🏅 0% SR) | At this age & race type: 0/4 wins (🎯 0% SR)
+Career Trend: Speed is declining (last 5: [40.0, 49.0, 37.0, 15.0, 43.0]), Results are stable (last 5: [4.0, 3.0, 2.0, 4.0, 2.0]), Official ratings are not enough data, Odds are declining (career: erratic in band 4.0–150.0 | recent: erratic in band 4.0–20.0)
+Recent vs Career: Speed is about the same, Results are improving, Odds are improving (last 5: [8.5, 20.0, 4.0, 6.0, 6.5])
+Last win rating: No rating data | Latest rating: No rating data | Total wins: 0
+No risk data available
+🧪 Unexposed for age
+   • All races: avg runs 4.2, Unexposed rating +0.2
+   • This type: avg runs 4.2, Unexposed rating +0.2
+🧮 Furlings/sec Overall: 10 runs | 🏁 Fastest: 0.1724 | 🐢 Slowest: 0.1531 | 📊 Furlings/sec Avg: 0.1656 | 🎯 Median: 0.1661
+📏 Furlings/sec - This Trip (9 runs): 🏁 0.1724 best, 📊 0.1658 avg
+🎖️ Furlings/sec - This Class (7 runs): 🏁 0.1724 best, 📊 0.1672 avg
+🦄 Sire: Havana Grey (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🌿 Dam: Toolatetodelegate (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 5.0 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Banging at the door on AW & placed over C&D on debut; latest 2nd looked one that got away
+🔦 Spotlight: Still seeking her first win but she's been banging at the door on AW since October; looked to be launching a winning move at Lingfield three weeks ago but the winner pulled out more; should be just as good on turf and ran well over C&D on her debut; each-way shout.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Bloodstock Ltd
+🏠 Owner: Miss Daisy Hitchins (Overall SR: 0/0 = 0%% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0.0%
+🚫 (No previous owner(s))
+👤 Trainer: Daisy Hitchins 1 runners this race. (Overall SR: 0/0 = 0.0% | Conn Rank: , Turf Rank: , AW Rank: N/A)
+   • Turf: 0/0 = 0.0%
+   • 14-day form:  (Rank: 10) RTF: 33.0 (OVR: 17%)
+🚫 (No previous trainer(s))
+🏇 Jockey: Brandon Wilkie(3)(14d rank: 5, 5Y rank: ? | Turf: ? | AW: ?) 🏇 Brandon Wilkie(3) winSR: 0.0% (No better alternative found.)
+   • 14-day form: 17% (1.0/6.0 runs) RTF: N/A (OVR: 0%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0/0 = 0%
+📊 **RANKS AND FLAGS**
+📉 OFR: 63.0 (Rank: 8)
+📈 RPR: 86.0 (Rank: 1)
+📉 TS: 74.0 (Rank: 3)
+🏟️ Course Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 0/9 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: 43-242 → Score: 0.09 (Rank: 1)
+------------------------------------------------------------------------------------------
+🐎 4 | Alashos🐎 3 years old  gelding, b, 129 lbs.
+📊 Race Record: 1/9 total wins (🏅 11% SR) | At this age & race type: 1/3 wins (🎯 33% SR)
+Career Trend: Speed is improving (last 5: [65.0, 49.0, 49.0, 32.0, 53.0]), Results are declining (last 5: [3.0, 6.0, 6.0, 2.0, 3.0]), Official ratings are not enough data, Odds are declining (career: erratic in band 1.4–80.0 | recent: consistent in band 3.3–9.0)
+Recent vs Career: Speed is about the same, Results are about the same, Odds are improving (last 5: [6.5, 8.0, 9.0, 3.333, 3.5])
+Last win rating: No rating data | Latest rating: No rating data | Total wins: 1
+No risk data available
+🧪 Unexposed for age
+   • All races: avg runs 4.2, Unexposed rating +1.2
+   • This type: avg runs 4.2, Unexposed rating +1.2
+🧮 Furlings/sec Overall: 9 runs | 🏁 Fastest: 0.173 | 🐢 Slowest: 0.1595 | 📊 Furlings/sec Avg: 0.165 | 🎯 Median: 0.1642
+📏 Furlings/sec - This Trip (2 runs): 🏁 0.1686 best, 📊 0.1681 avg
+🎖️ Furlings/sec - This Class (7 runs): 🏁 0.173 best, 📊 0.1656 avg
+🦄 Sire: Showcasing (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🌿 Dam: Exceed Loose (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🛠️ Gear: b
+🩺 Medical History: None
+🎲 Early market: 5.5 (Rank: 3)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Solid efforts in defeat the last twice but the change of headgear needs to give him a lift
+🔦 Spotlight: Ran right up to his best when third at Nottingham last week, on first run after a gelding operation; more required to defy this mark but a change of headgear could give him a lift.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Scea Marmion Vauville, Ecurie Skymarc Fa
+🏠 Owner: Hamdani Racing & Partner (Overall SR: 0/0 = 0%% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0.0%
+🚫 (No previous owner(s))
+👤 Trainer: James Horton 1 runners this race. (Overall SR: 0/0 = 0.0% | Conn Rank: , Turf Rank: , AW Rank: N/A)
+   • Turf: 0/0 = 0.0%
+   • 14-day form: (0/8 runs) (Rank: 7) RTF: 50.0 (OVR: 0%)
+🚫 (No previous trainer(s))
+🏇 Jockey: Adam Farragher(14d rank: 8, 5Y rank: ? | Turf: ? | AW: ?) 🏇 Adam Farragher winSR: 20.0% (No better alternative found.)
+   • 14-day form: 0% (0.0/5.0 runs) RTF: N/A (OVR: 3%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0/0 = 0%
+📊 **RANKS AND FLAGS**
+📉 OFR: 69.0 (Rank: 4)
+📈 RPR: 84.0 (Rank: 3)
+📉 TS: 82.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
+🌱 Going Wins/Runs: 1/3 | SR: 0.33
+📊 Form: 3-6623 → Score: 0.06 (Rank: 2)
+------------------------------------------------------------------------------------------
+🐎 6 | Monomyth🐎 3 years old  gelding, b, 126 lbs.
+📊 Race Record: 1/11 total wins (🏅 9% SR) | At this age & race type: 0/3 wins (🎯 0% SR)
+Career Trend: Speed is declining (last 5: [15.0, 60.0, 40.0, 18.0, 14.0]), Results are stable (last 5: [9.0, 5.0, 10.0, 2.0, 8.0]), Official ratings are not enough data, Odds are declining (career: erratic in band 2.5–28.0 | recent: erratic in band 3.5–28.0)
+Recent vs Career: Speed is worsening, Results are worsening, Odds are about the same (last 5: [6.0, 28.0, 5.5, 6.0, 3.5])
+Last win rating: No rating data | Latest rating: No rating data | Total wins: 1
+No risk data available
+🧪 Unexposed for age
+   • All races: avg runs 4.2, Unexposed rating +1.2
+   • This type: avg runs 4.2, Unexposed rating +1.2
+🧮 Furlings/sec Overall: 11 runs | 🏁 Fastest: 0.1678 | 🐢 Slowest: 0.1585 | 📊 Furlings/sec Avg: 0.1634 | 🎯 Median: 0.1639
+📏 Furlings/sec - This Trip (3 runs): 🏁 0.1678 best, 📊 0.1642 avg
+🎖️ Furlings/sec - This Class (7 runs): 🏁 0.1678 best, 📊 0.1637 avg
+🦄 Sire: Dark Angel (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🌿 Dam: Rush (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🛠️ Gear: h
+🩺 Medical History: None
+🎲 Early market: 8.0 (Rank: 4)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 8th | ⚡ Speed: 107.49% | 📊 Rank: 5728.0 | 🔺 AvgDiff: -2.03 | 🔼 MaxDiff: -374.41 | 🔽 MinDiff: 14.92 | 🔴 1st Sect: – (14.92s) | 🔴 Last Sect: – (12.38s)
+🗞️ **PRESS OPINION**
+💬 Comment: Won off this mark in August; ✂️ gelded since last start; now hooded; significant rain a query
+🔦 Spotlight: Made a winning nursery debut at Doncaster (6f, good to firm) last August and he's finished runner-up twice since (both on AW); ✂️ gelded since a lesser run at Lingfield nine weeks ago and now wears a hood for the first time; significant rain would be a query.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Golden Farm Thoroughbreds Ltd
+🏠 Owner: Arjun Waney (Overall SR: 0/0 = 0%% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0.0%
+🚫 (No previous owner(s))
+👤 Trainer: Ollie Sangster 1 runners this race. (Overall SR: 0/0 = 0.0% | Conn Rank: , Turf Rank: , AW Rank: N/A)
+   • Turf: 0/0 = 0.0%
+   • 14-day form: (1/11 runs) (Rank: 1) RTF: 45.0 (OVR: 7%)
+🚫 (No previous trainer(s))
+🏇 Jockey: Trevor Whelan(14d rank: 4, 5Y rank: ? | Turf: ? | AW: ?) 🏇 Trevor Whelan winSR: 0.0% | 🏆 Better Alternative: C Fallon (1/2 - 50.0%)
+   • 14-day form: 19% (3.0/16.0 runs) RTF: N/A (OVR: 10%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0/0 = 0%
+📊 **RANKS AND FLAGS**
+📉 OFR: 66.0 (Rank: 6)
+📈 RPR: 82.0 (Rank: 8)
+📉 TS: 72.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/3 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
+🌱 Going Wins/Runs: 1/2 | SR: 0.5
+📊 Form: 950-28 → Score: 0.04 (Rank: 9)
+------------------------------------------------------------------------------------------
+🐎 1 | Kinetic Force🐎 3 years old  gelding, b, 135 lbs.
+📊 Race Record: 1/6 total wins (🏅 17% SR) | At this age & race type: 1/4 wins (🎯 25% SR)
+Career Trend: Speed is declining (last 5: [59.0, 57.0, 72.0, 17.0, 35.0]), Results are improving (last 5: [3.0, 4.0, 2.0, 7.0, 6.0]), Official ratings are not enough data, Odds are declining (career: erratic in band 4.5–66.0 | recent: erratic in band 4.5–66.0)
+Recent vs Career: Speed is worsening, Results are about the same, Odds are about the same (last 5: [5.0, 66.0, 4.5, 12.0, 11.0])
+Last win rating: No rating data | Latest rating: No rating data | Total wins: 1
+No risk data available
+🧪 Unexposed for age
+   • All races: avg runs 4.2, Unexposed rating +0.2
+   • This type: avg runs 4.2, Unexposed rating +0.2
+🧮 Furlings/sec Overall: 6 runs | 🏁 Fastest: 0.1773 | 🐢 Slowest: 0.1595 | 📊 Furlings/sec Avg: 0.1675 | 🎯 Median: 0.1672
+📏 Furlings/sec - This Trip (6 runs): 🏁 0.1773 best, 📊 0.1675 avg
+🎖️ Furlings/sec - This Class (3 runs): 🏁 0.1773 best, 📊 0.1736 avg
+🦄 Sire: Land Force (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🌿 Dam: Kinematic (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🛠️ Gear: t
+🩺 Medical History: None
+🎲 Early market: 8.5 (Rank: 5)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 6th | ⚡ Speed: 102.5% | 📊 Rank: 6179.5 | 🔺 AvgDiff: -1.19 | 🔼 MaxDiff: -373.57 | 🔽 MinDiff: 15.76 | 🟢 1st Sect: + (13.53s) | 🔴 Last Sect: – (12.56s)
+🗞️ **PRESS OPINION**
+💬 Comment: Quiet in two AW runs this winter but return to turf/new tongue-tie could help; contender
+🔦 Spotlight: Promising 2yo, winning on debut (5f, good) and placed in novice company either side of a Listed fourth subsequently; two modest AW runs this winter but dropped 5lb for his troubles and he could prove a different proposition back on turf with a tongue-tie fitted; Silvestre De Sousa back on for the first time since that debut success.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Queen Elizabeth II
+🏠 Owner: W P Flynn (Overall SR: 0/0 = 0%% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0.0%
+🚫 (No previous owner(s))
+👤 Trainer: D Donovan 1 runners this race. (Overall SR: 0/0 = 0.0% | Conn Rank: , Turf Rank: , AW Rank: N/A)
+   • Turf: 0/0 = 0.0%
+   • 14-day form: (1/2 runs) (Rank: 2) RTF: 100.0 (OVR: 0%)
+🚫 (No previous trainer(s))
+🏇 Jockey: Silvestre De Sousa(14d rank: 1, 5Y rank: ? | Turf: ? | AW: ?) 🏇 Silvestre De Sousa winSR: 0.0% (No better alternative found.)
+   • 14-day form: 7% (1.0/15.0 runs) RTF: N/A (OVR: 11%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0/0 = 0%
+📊 **RANKS AND FLAGS**
+📉 OFR: 75.0 (Rank: 1)
+📈 RPR: 81.0 (Rank: 9)
+📉 TS: 77.0 (Rank: 2)
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 1/6 | SR: 0.17
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
+🌱 Going Wins/Runs: 0/2 | SR: 0.0
+📊 Form: 342-76 → Score: 0.05 (Rank: 6)
+------------------------------------------------------------------------------------------
+🐎 3 | Sunshine Soul🐎 3 years old  filly, b, 130 lbs.
+📊 Race Record: 0/7 total wins (🏅 0% SR) | At this age & race type: 0/6 wins (🎯 0% SR)
+Career Trend: Speed is declining (last 5: [56.0, 70.0, 38.0, 6.0, 35.0]), Results are improving (last 5: [2.0, 4.0, 5.0, 4.0, 7.0]), Official ratings are not enough data, Odds are declining (career: consistent in band 1.0–7.5 | recent: consistent in band 1.0–7.5)
+Recent vs Career: Speed is worsening, Results are about the same, Odds are about the same (last 5: [7.5, 1.875, 1.0, 3.5, 4.5])
+Last win rating: No rating data | Latest rating: No rating data | Total wins: 0
+No risk data available
+🧪 Unexposed for age
+   • All races: avg runs 4.2, Unexposed rating -1.8
+   • This type: avg runs 4.2, Unexposed rating -1.8
+🧮 Furlings/sec Overall: 7 runs | 🏁 Fastest: 0.1736 | 🐢 Slowest: 0.155 | 📊 Furlings/sec Avg: 0.1631 | 🎯 Median: 0.1645
+📏 Furlings/sec - This Trip (5 runs): 🏁 0.1736 best, 📊 0.1647 avg
+🎖️ Furlings/sec - This Class (5 runs): 🏁 0.1736 best, 📊 0.1664 avg
+🦄 Sire: Mehmas (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🌿 Dam: Tower Of Pisa (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🛠️ Gear: tp
+🩺 Medical History: None
+🎲 Early market: 10.0 (Rank: 6)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Not progressing but the return to turf can help; cheekpieces now added
+🔦 Spotlight: Seven-race maiden who isn't progressing; handicapper easing her burden and she could benefit from the return to turf; cheekpieces join the tongue-tie this afternoon.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Sun Bloodstock Sarl
+🏠 Owner: Ms L Phillips (Overall SR: 0/0 = 0%% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0.0%
+🚫 (No previous owner(s))
+👤 Trainer: George Boughey 1 runners this race. (Overall SR: 0/0 = 0.0% | Conn Rank: , Turf Rank: , AW Rank: N/A)
+   • Turf: 0/0 = 0.0%
+   • 14-day form: (2/18 runs) (Rank: 5) RTF: 56.0 (OVR: 23%)
+🚫 (No previous trainer(s))
+🏇 Jockey: Jack Callan(7)(14d rank: 8, 5Y rank: ? | Turf: ? | AW: ?) 🏇 Jack Callan(7) winSR: 0.0% (No better alternative found.)
+   • 14-day form: 0% (0.0/3.0 runs) RTF: N/A (OVR: -) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0/0 = 0%
+📊 **RANKS AND FLAGS**
+📉 OFR: 70.0 (Rank: 3)
+📈 RPR: 83.0 (Rank: 5)
+📉 TS: 68.0 (Rank: 6)
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/5 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
+🌱 Going Wins/Runs: 0/2 | SR: 0.0
+📊 Form: 24-547 → Score: 0.05 (Rank: 8)
+------------------------------------------------------------------------------------------
+🐎 10 | Over Spiced🐎 3 years old  filly, b, 122 lbs.
+📊 Race Record: 1/11 total wins (🏅 9% SR) | At this age & race type: 1/6 wins (🎯 17% SR)
+Career Trend: Speed is declining (last 5: [47.0, 40.0, 16.0, 20.0, 31.0]), Results are stable (last 5: [6.0, 6.0, 7.0, 5.0, 5.0]), Official ratings are not enough data, Odds are improving (career: erratic in band 3.5–33.0 | recent: erratic in band 7.0–28.0)
+Recent vs Career: Speed is worsening, Results are worsening, Odds are worsening (last 5: [7.0, 18.0, 20.0, 28.0, 16.0])
+Last win rating: No rating data | Latest rating: No rating data | Total wins: 1
+No risk data available
+🧪 Unexposed for age
+   • All races: avg runs 4.2, Unexposed rating -1.8
+   • This type: avg runs 4.2, Unexposed rating -1.8
+🧮 Furlings/sec Overall: 11 runs | 🏁 Fastest: 0.1709 | 🐢 Slowest: 0.1546 | 📊 Furlings/sec Avg: 0.1658 | 🎯 Median: 0.1664
+📏 Furlings/sec - This Trip (10 runs): 🏁 0.1709 best, 📊 0.1653 avg
+🎖️ Furlings/sec - This Class (10 runs): 🏁 0.1709 best, 📊 0.1669 avg
+🦄 Sire: Adaay (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🌿 Dam: Alices Dancer (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 13.0 (Rank: 7)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Went the wrong way on AW over the winter but changed yards and could be revived by turf
+🔦 Spotlight: Went the wrong way for Paul Attwater this winter but she's dropped 13lb in the weights and makes her stable debut (sold 4,600gns this month) at a realistic level; interesting back on turf.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Kassala Ltd
+🏠 Owner: Clancy, Coles & Colthart (Overall SR: 0/0 = 0%% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0.0%
+🚫 (No previous owner(s))
+👤 Trainer: Grace Harris 2 runners this race. (Overall SR: 0/0 = 0.0% | Conn Rank: , Turf Rank: , AW Rank: N/A)
+   • Turf: 0/0 = 0.0%
+   • 14-day form: (1/4 runs) (Rank: 3) RTF: 40.0 (OVR: 9%)
+🚫 (No previous trainer(s))
+🏇 Jockey: Ray Dawson(14d rank: 7, 5Y rank: ? | Turf: ? | AW: ?) 🏇 Ray Dawson winSR: 0.0% | 🏆 Better Alternative: Joanna Mason (1/1 - 100.0%)
+   • 14-day form: 11% (2.0/19.0 runs) RTF: N/A (OVR: 8%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0/0 = 0%
+📊 **RANKS AND FLAGS**
+📉 OFR: 62.0 (Rank: 10)
+📈 RPR: 85.0 (Rank: 2)
+📉 TS: 70.0 (Rank: 5)
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 1/10 | SR: 0.1
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
+🌱 Going Wins/Runs: 0/2 | SR: 0.0
+📊 Form: 66-755 → Score: 0.03 (Rank: 10)
+------------------------------------------------------------------------------------------
+🐎 5 | Solar Edge🐎 3 years old  gelding, gr, 129 lbs.
+📊 Race Record: 2/8 total wins (🏅 25% SR) | At this age & race type: 0/3 wins (🎯 0% SR)
+Career Trend: Speed is declining (last 5: [43.0, 4.0, 51.0, 35.0, 25.0]), Results are improving (last 5: [1.0, 11.0, 1.0, 9.0, 8.0]), Official ratings are not enough data, Odds are declining (career: erratic in band 4.5–150.0 | recent: erratic in band 4.5–18.0)
+Recent vs Career: Speed is worsening, Results are about the same, Odds are improving (last 5: [8.0, 18.0, 6.0, 16.0, 4.5])
+Last win rating: No rating data | Latest rating: No rating data | Total wins: 2
+No risk data available
+🧪 Unexposed for age
+   • All races: avg runs 4.2, Unexposed rating +1.2
+   • This type: avg runs 4.2, Unexposed rating +1.2
+🧮 Furlings/sec Overall: 8 runs | 🏁 Fastest: 0.1709 | 🐢 Slowest: 0.16 | 📊 Furlings/sec Avg: 0.1658 | 🎯 Median: 0.1675
+📏 Furlings/sec - This Trip (6 runs): 🏁 0.1709 best, 📊 0.1675 avg
+🎖️ Furlings/sec - This Class (5 runs): 🏁 0.1695 best, 📊 0.1653 avg
+🦄 Sire: Havana Grey (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🌿 Dam: Heavenly Edge (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 15.0 (Rank: 8)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Two 5f nursery wins last year; dropped away on his return but should last longer today
+🔦 Spotlight: Won 5f nurseries at Chepstow (good to soft) and Lingfield (AW) last year; dropped away tamely on return to action three weeks ago but likely to last longer today.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Christopher And Annabelle Mason Racing
+🏠 Owner: Taylor,Hodges,Mason (Overall SR: 0/0 = 0%% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0.0%
+🚫 (No previous owner(s))
+👤 Trainer: Christopher Mason 1 runners this race. (Overall SR: 0/0 = 0.0% | Conn Rank: , Turf Rank: , AW Rank: N/A)
+   • Turf: 0/0 = 0.0%
+   • 14-day form: (0/2 runs) (Rank: 7) RTF: N/A (OVR: 6%)
+🚫 (No previous trainer(s))
+🏇 Jockey: David Probert(14d rank: 2, 5Y rank: ? | Turf: ? | AW: ?) 🏇 David Probert winSR: 100.0% (No better alternative found.)
+   • 14-day form: 21% (7.0/34.0 runs) RTF: N/A (OVR: 18%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0/0 = 0%
+📊 **RANKS AND FLAGS**
+📉 OFR: 69.0 (Rank: 4)
+📈 RPR: 84.0 (Rank: 3)
+📉 TS: 57.0 (Rank: 10)
+🏟️ Course Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 2/6 | SR: 0.33
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
+🌱 Going Wins/Runs: 0/2 | SR: 0.0
+📊 Form: 1019-8 → Score: 0.06 (Rank: 3)
+------------------------------------------------------------------------------------------
+🐎 8 | Lady Dorchester💤🐎 3 years old  filly, gr, 123 lbs.
+📊 Race Record: 0/9 total wins (🏅 0% SR) | At this age & race type: 0/6 wins (🎯 0% SR)
+Career Trend: Speed is improving (last 5: [29.0, 44.0, 32.0, 11.0, 43.0]), Results are improving (last 5: [3.0, 15.0, 7.0, 2.0, 9.0]), Official ratings are not enough data, Odds are improving (career: erratic in band 2.5–125.0 | recent: erratic in band 7.0–125.0)
+Recent vs Career: Speed is about the same, Results are worsening, Odds are worsening (last 5: [12.0, 125.0, 7.0, 12.0, 25.0])
+Last win rating: No rating data | Latest rating: No rating data | Total wins: 0
+No risk data available
+🧪 Unexposed for age
+   • All races: avg runs 4.2, Unexposed rating -1.8
+   • This type: avg runs 4.2, Unexposed rating -1.8
+🧮 Furlings/sec Overall: 9 runs | 🏁 Fastest: 0.165 | 🐢 Slowest: 0.1466 | 📊 Furlings/sec Avg: 0.1582 | 🎯 Median: 0.1603
+📏 Furlings/sec - This Trip (6 runs): 🏁 0.1639 best, 📊 0.161 avg
+🎖️ Furlings/sec - This Class (4 runs): 🏁 0.1639 best, 📊 0.1577 avg
+🦄 Sire: Dark Angel (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🌿 Dam: Lady Kermit (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🛠️ No gear today
+🩺 Medical History: 💨 Wind Surgery (2025-02-24)
+🎲 Early market: 21.0 (Rank: 9)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: 0-9 as a 2yo; had a wind op during her 201-day absence; improvement required
+🔦 Spotlight: 0-9 as a 2yo; last seen struggling on heavy ground here on stable debut in October; had a wind op prior to this reappearance; others bring more pressing claims.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Grangemore Stud & Cavalier Bloodstock
+🏠 Owner: Paul & Ann De Weck (Overall SR: 0/0 = 0%% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0.0%
+🚫 (No previous owner(s))
+👤 Trainer: Grace Harris 2 runners this race. (Overall SR: 0/0 = 0.0% | Conn Rank: , Turf Rank: , AW Rank: N/A)
+   • Turf: 0/0 = 0.0%
+   • 14-day form: (1/4 runs) (Rank: 3) RTF: 40.0 (OVR: 9%)
+🚫 (No previous trainer(s))
+🏇 Jockey: Callum Hutchinson(14d rank: 8, 5Y rank: ? | Turf: ? | AW: ?) 🏇 Callum Hutchinson winSR: 0.0% (No better alternative found.)
+   • 14-day form: 0% (0.0/6.0 runs) RTF: N/A (OVR: 8%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0/0 = 0%
+📊 **RANKS AND FLAGS**
+📉 OFR: 63.0 (Rank: 8)
+📈 RPR: 83.0 (Rank: 5)
+📉 TS: 61.0 (Rank: 8)
+🏟️ Course Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 0/6 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
+🌱 Going Wins/Runs: 0/1 | SR: 0.0
+📊 Form: 30729- → Score: 0.05 (Rank: 4)
+------------------------------------------------------------------------------------------
+🐎 7 | Beautiful Things🐎 3 years old  filly, b, 125 lbs.
+📊 Race Record: 0/8 total wins (🏅 0% SR) | At this age & race type: 0/3 wins (🎯 0% SR)
+Career Trend: Speed is declining (last 5: [56.0, 27.0, 36.0, 14.0, 8.0]), Results are stable (last 5: [3.0, 2.0, 9.0, 12.0, 8.0]), Official ratings are not enough data, Odds are improving (career: erratic in band 7.0–150.0 | recent: erratic in band 25.0–150.0)
+Recent vs Career: Speed is about the same, Results are about the same, Odds are worsening (last 5: [25.0, 33.0, 66.0, 50.0, 150.0])
+Last win rating: No rating data | Latest rating: No rating data | Total wins: 0
+No risk data available
+🧪 Unexposed for age
+   • All races: avg runs 4.2, Unexposed rating +1.2
+   • This type: avg runs 4.2, Unexposed rating +1.2
+🧮 Furlings/sec Overall: 8 runs | 🏁 Fastest: 0.1706 | 🐢 Slowest: 0.1522 | 📊 Furlings/sec Avg: 0.1618 | 🎯 Median: 0.1621
+📏 Furlings/sec - This Trip (2 runs): 🏁 0.1706 best, 📊 0.1661 avg
+🎖️ Furlings/sec - This Class (5 runs): 🏁 0.1706 best, 📊 0.1621 avg
+🦄 Sire: Profitable (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🌿 Dam: Dry Your Eyes (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 51.0 (Rank: 10)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Returns to turf with plenty to prove after two lacklustre AW runs this year
+🔦 Spotlight: Ended 2024 with a disappointing run at Kempton and she's offered little in two AW runs this year; hopes rest on the return to turf sparking a revival (ran well here on heavy last October).
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Mountarmstrong Stud
+🏠 Owner: Dare To Dream & Martyn Cruse (Overall SR: 0/0 = 0%% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0.0%
+🚫 (No previous owner(s))
+👤 Trainer: Michael Attwater 1 runners this race. (Overall SR: 0/0 = 0.0% | Conn Rank: , Turf Rank: , AW Rank: N/A)
+   • Turf: 0/0 = 0.0%
+   • 14-day form: (0/9 runs) (Rank: 7) RTF: 11.0 (OVR: 4%)
+🚫 (No previous trainer(s))
+🏇 Jockey: Richard Kingscote(14d rank: 6, 5Y rank: ? | Turf: ? | AW: ?) 🏇 Richard Kingscote winSR: 0.0% (No better alternative found.)
+   • 14-day form: 14% (3.0/22.0 runs) RTF: N/A (OVR: 14%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0/0 = 0%
+📊 **RANKS AND FLAGS**
+📉 OFR: 65.0 (Rank: 7)
+📈 RPR: 83.0 (Rank: 5)
+📉 TS: 68.0 (Rank: 6)
+🏟️ Course Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
+🌱 Going Wins/Runs: 0/1 | SR: 0.0
+📊 Form: 329-08 → Score: 0.05 (Rank: 6)
+------------------------------------------------------------------------------------------
