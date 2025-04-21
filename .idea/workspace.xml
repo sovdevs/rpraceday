@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="new columns">
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="reg update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,15 +104,7 @@
       <workItem from="1743788996007" duration="22220000" />
       <workItem from="1744353573721" duration="2789000" />
       <workItem from="1744614807891" duration="85000" />
-      <workItem from="1744871690822" duration="10138000" />
-    </task>
-    <task id="LOCAL-00055" summary="todays files">
-      <option name="closed" value="true" />
-      <created>1740738378814</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1740738378814</updated>
+      <workItem from="1744871690822" duration="11113000" />
     </task>
     <task id="LOCAL-00056" summary="todays files -- cleaned up code -- added STAR indicator for exceptionally ranked horses. Performance Table down to maintenance. No horse form history yet.">
       <option name="closed" value="true" />
@@ -498,14 +490,21 @@
       <option name="project" value="LOCAL" />
       <updated>1745054770294</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="reg update">
+      <option name="closed" value="true" />
+      <created>1745142302694</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1745142302694</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new data- minor changes before big update v.0.5 (RP statistics)" />
     <MESSAGE value="new data. no major changes till v 1.0" />
     <MESSAGE value="h2h and repeatPerformance in-horse stats and new h2h table." />
     <MESSAGE value="added race-specific speed performance table." />
@@ -530,6 +529,7 @@
     <MESSAGE value="Dynamic Performance Table improved- new cols added." />
     <MESSAGE value="Minor fixes to horses UI" />
     <MESSAGE value="new columns" />
-    <option name="LAST_COMMIT_MESSAGE" value="new columns" />
+    <MESSAGE value="reg update" />
+    <option name="LAST_COMMIT_MESSAGE" value="reg update" />
   </component>
 </project>
