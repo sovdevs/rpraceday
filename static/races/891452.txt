@@ -1,0 +1,527 @@
+⏰ Off Time: 2025-04-22 17:00
+📍 Venue: Epsom (left-handed, sharp track (very sharp up to 1m))
+🏁 Race ID: 891452 - 🏆 Name: Betfred 'The Classic Bookmaker' Handicap
+🏇 Type: Flat
+📏 Distance: 8.5 furlongs
+🏇 Class/Grade: Class 4
+🎂 Age Band: 4yo+
+💰 Prize money: 💰 6K
+☁️ Weather: Cloudy
+🌱 Going: Good
+10 runners declared
+
+📊 Head to Head History for Race 891452:
+
+🔷            🧾            📜            📉            ⚖️           🧮            💰            🧷           
+775546       orbaan       revich       1.0          16.0         6.0          2.5          -0.5        
+810146       orbaan       mostawaa     7.0          4.0          4.0          2.0          3.1         
+813938       orbaan       revich       2.0          -9.0         -9.0         3.3          1.2         
+816064       orbaan       revich       5.0          3.0          3.0          1.1          3.9         
+839630       orbaan       revich       5.0          -1.0         -1.0         0.3          15.6        
+839630       orbaan       hodler       8.0          8.0          8.0          0.9          7.2         
+839630       revich       hodler       3.0          9.0          9.0          2.7          0.5         
+839660       orbaan       revich       -11.0        -1.0         -1.0         1.6          -6.8        
+843118       orbaan       revich       -5.0         -1.0         -1.0         0.5          -9.6        
+843298       orbaan       revich       11.0         -1.0         -1.0         0.3          33.6        
+846710       revich       hodler       3.0          17.0         7.0          1.8          0.3         
+868175       orbaan       mostawaa     -9.0         8.0          8.0          0.6          -17.0       
+869346       orbaan       mostawaa     2.0          16.0         6.0          1.0          -0.2        
+870560       orbaan       revich       -1.0         -6.0         -6.0         7.8          0.0         
+875738       mostawaa     uncle-dick   1.0          18.0         4.0          8.9          -0.1        
+889588       the-bitter-m port-road    -5.0         -1.0         -1.0         0.9          -5.6        
+🔷 shared_race_id   🧾 horse_name1   📜 horse_name2
+📉 perfDiff         ⚖️ weight_diff   🧮 rating_diff   💰 odds_ratio   🧷 perfDiff_weighted
+
+
+🔍 No previous identical race runs found for race_id 891452.
+++++++++++++++++++++++++++++++++++++++++++++++++++ Dynamic Performance Table ++++++++++++++++++++++++++++++++++++++++++++++++++
+#️⃣      | 🐎                         | 🆔        | 📈        | 📊        | 💡        | 🎯        | 📓        | 🏟️       | 💰       
+number   | horse_name                | horse_id | RPR      | TS       | OFR      | J-All-Prf | FSCRE    | CRSE     | OP-ODDS 
+-----------------------------------------------------------------------------------------------------------------------------
+10       | Kracking                  | 4455659  | 📈 3.0    | 📊 7.0    | 💡 10.0   | 🎯 1.0    | 📓 10.0   | 🏟️ N/A    | 💰 1.0   
+6        | Port Road                 | 5831363  | 📈 6.0    | 📊 N/A    | 💡 5.0    | 🎯 9.0    | 📓 8.0    | 🏟️ N/A    | 💰 2.0   
+2        | Mafnood                   | 5055488  | 📈 2.0    | 📊 4.0    | 💡 2.0    | 🎯 6.0    | 📓 9.0    | 🏟️ N/A    | 💰 3.0   
+5        | Tribal Rhythm             | 5151727  | 📈 10.0   | 📊 8.0    | 💡 5.0    | 🎯 8.0    | 📓 4.0    | 🏟️ N/A    | 💰 4.0   
+7        | Orbaan                    | 1371584  | 📈 1.0    | 📊 1.0    | 💡 7.0    | 🎯 4.0    | 📓 3.0    | 🏟️ 3.0    | 💰 4.0   
+4        | Mostawaa                  | 2292606  | 📈 6.0    | 📊 5.0    | 💡 4.0    | 🎯 10.0   | 📓 1.0    | 🏟️ 2.0    | 💰 4.0   
+3        | Hodler                    | 3662556  | 📈 6.0    | 📊 2.0    | 💡 3.0    | 🎯 2.0    | 📓 7.0    | 🏟️ 1.0    | 💰 7.0   
+9        | The Bitter Moose          | 4924444  | 📈 6.0    | 📊 8.0    | 💡 8.0    | 🎯 7.0    | 📓 6.0    | 🏟️ 3.0    | 💰 8.0   
+1        | Revich                    | 1954893  | 📈 3.0    | 📊 2.0    | 💡 1.0    | 🎯 3.0    | 📓 2.0    | 🏟️ 3.0    | 💰 9.0   
+8        | Uncle Dick                | 3136504  | 📈 3.0    | 📊 6.0    | 💡 8.0    | 🎯 5.0    | 📓 5.0    | 🏟️ 3.0    | 💰 10.0  
+
+Legend:
+🚀 SPD-BEST: rank_minSecs | ⏱️ SPD-AVG: rank_avgSecs | 📈 RPR: rpr_rank | 📊 TS: ts_rank | 💡 OFR: ofr_rank
+🎯 J-All-Prf: stats_jockey_ovr_profit_rank | 📓 FSCRE: formScore_rank | 🏟️ CRSE: stats_course_ratio_rank | 💰 OP-ODDS: opDec_rank | 🏃 furlSecTrip_FAST: furlings_sec_thistrip_fastest_rank
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+🐎 10 | Kracking🐎 5 years old  gelding, gr, 123 lbs.
+Kracking⚠️ isLSW
+
+📊 Race Record: 4/25 total wins (🏅 16% SR) | At this age & race type: 0/3 wins (🎯 0% SR)
+Career Trend: Speed is improving (last 5: [48.0, 36.0, 56.0, 53.0, 53.0]), Results are declining (last 5: [9.0, 6.0, 4.0, 3.0, 1.0]), Official ratings are not enough data, Odds are stable (career: erratic in band 1.2–80.0 | recent: consistent in band 3.3–8.0)
+Recent vs Career: Speed is improving, Results are about the same, Odds are improving (last 5: [5.5, 8.0, 3.333, 4.5, 4.0])
+Last win rating: No rating data | Latest rating: No rating data | Total wins: 4
+No risk data available
+🧪 Unexposed for age
+   • All races: avg runs 4.0, Unexposed rating +1.0
+   • This type: avg runs 5.0, Unexposed rating +2.0
+🧮 Furlings/sec Overall: 25 runs | 🏁 Fastest: 0.1718 | 🐢 Slowest: 0.1546 | 📊 Furlings/sec Avg: 0.1623 | 🎯 Median: 0.1618
+📏 Furlings/sec - This Trip (2 runs): 🏁 0.1613 best, 📊 0.1605 avg
+🎖️ Furlings/sec - This Class (4 runs): 🏁 0.1618 best, 📊 0.1608 avg
+🦄 Sire: Muhaarar (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🌿 Dam: Vallado (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🛠️ Gear: ht
+🩺 Medical History: None
+🎲 Early market: 4.5 (Rank: 1)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Clearcut win at Brighton ten days ago; should take well to Epsom; highly respected
+🔦 Spotlight: Unraced on ground softer than good; registered a clearcut win under Warren Fentiman at Brighton (1m) returned to turf ten days ago, taking record in this sphere to 3-12; should take well to Epsom; highly respected.
+Horse quote: 2024-08-14 at Salisbury (7f): "Kracking jumped well and travelled along really well. He was always doing enough and I never really felt any pressure from another horse. Mr [Stuart] Williams was confident so I just let him bowl along. I'm happy to be back with Mr Hannon doing what I love. I could do with an agent to keep the ball rolling into the winter and get a few more rides - Tyrese Cameron, jockey."
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Wood Hall Stud
+🏠 Owner: Michael Wood And Mathew Wood (Overall SR: 0/0 = 0%% | Rank: ?, Turf Rank: 940, AW Rank: 2061)
+   • Turf: 0/0 = 0.0%
+🚫 (No previous owner(s))
+👤 Trainer: Stuart Williams 1 runners this race. (Overall SR: 0/0 = 0.0% | Conn Rank: , Turf Rank: 428.0, AW Rank: 162.0)
+   • Turf: 0/0 = 0.0%
+   • 14-day form: (3/15 runs) (Rank: 3) RTF: 53.0 (OVR: 7%)
+🚫 (No previous trainer(s))
+🏇 Jockey: Warren Fentiman(5)(14d rank: 2, 5Y rank: ? | Turf: 240 | AW: 132) 🏇 Warren Fentiman(5) winSR: 0.0% | 🏆 Better Alternative: T Cameron (1/1 - 100.0%)
+   • 14-day form: 5% (1.0/21.0 runs) RTF: N/A (OVR: -) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0/0 = 0%
+📊 **RANKS AND FLAGS**
+📉 OFR: 71.0 (Rank: 10)
+📈 RPR: 95.0 (Rank: 3)
+📉 TS: 70.0 (Rank: 7)
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
+🌱 Going Wins/Runs: 1/6 | SR: 0.17
+📊 Form: 696431 → Score: 0.04 (Rank: 10)
+------------------------------------------------------------------------------------------
+🐎 6 | Port Road🐎 4 years old  gelding, gr, 126 lbs.
+Port Road✅ No negative signals
+
+📊 Race Record: 0/9 total wins (🏅 0% SR) | At this age & race type: 0/5 wins (🎯 0% SR)
+Career Trend: Speed is improving (last 5: [40.0, 60.0, 73.0, 71.0, 61.0]), Results are declining (last 5: [5.0, 8.0, 6.0, 2.0, 2.0]), Official ratings are not enough data, Odds are declining (career: erratic in band 1.5–200.0 | recent: erratic in band 1.5–40.0)
+Recent vs Career: Speed is improving, Results are about the same, Odds are improving (last 5: [14.0, 40.0, 14.0, 1.5, 6.0])
+Last win rating: No rating data | Latest rating: No rating data | Total wins: 0
+No risk data available
+🧪 Unexposed for age
+   • All races: avg runs 4.1, Unexposed rating -0.9
+   • This type: avg runs 4.7, Unexposed rating -0.3
+🧮 Furlings/sec Overall: 9 runs | 🏁 Fastest: 0.1653 | 🐢 Slowest: 0.1605 | 📊 Furlings/sec Avg: 0.1634 | 🎯 Median: 0.1642
+🎖️ Furlings/sec - This Class (4 runs): 🏁 0.1653 best, 📊 0.1637 avg
+🦄 Sire: Quality Road (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🌿 Dam: Tacking (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 5.0 (Rank: 2)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Maiden whose last two AW efforts suggest his turn is near; shortlisted on turf debut
+🔦 Spotlight: Nine-race maiden whose turn looks near, having finished second off this mark in last two AW runs (7f/1m); represents an Epsom trainer and looks shortlist material switched to this venue on turf debut.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Newtown Anner Stud
+🏠 Owner: Mike Convey And Adam Riches (Overall SR: 0/0 = 0%% | Rank: ?, Turf Rank: nan, AW Rank: nan)
+   • Turf: 0/0 = 0.0%
+🚫 (No previous owner(s))
+👤 Trainer: Simon Dow 1 runners this race. (Overall SR: 0/0 = 0.0% | Conn Rank: , Turf Rank: 480.0, AW Rank: 217.0)
+   • Turf: 0/0 = 0.0%
+   • 14-day form: (0/4 runs) (Rank: 5) RTF: 50.0 (OVR: 8%)
+🚫 (No previous trainer(s))
+🏇 Jockey: Paddy Bradley(14d rank: 8, 5Y rank: ? | Turf: 539 | AW: 147) 🏇 Paddy Bradley winSR: 0.0% (No better alternative found.)
+   • 14-day form: 0% (0.0/10.0 runs) RTF: N/A (OVR: 6%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0/0 = 0%
+📊 **RANKS AND FLAGS**
+📉 OFR: 74.0 (Rank: 5)
+📈 RPR: 93.0 (Rank: 6)
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
+🌱 Going Wins/Runs: 0/0 | SR: N/A
+📊 Form: 58-622 → Score: 0.05 (Rank: 8)
+------------------------------------------------------------------------------------------
+🐎 2 | Mafnood💤🐎 4 years old  gelding, b, 133 lbs.
+Mafnood✅ No negative signals
+
+📊 Race Record: 1/14 total wins (🏅 7% SR) | At this age & race type: 1/3 wins (🎯 33% SR)
+Career Trend: Speed is declining (last 5: [56.0, 61.0, 58.0, 75.0, 44.0]), Results are improving (last 5: [2.0, 7.0, 3.0, 6.0, 6.0]), Official ratings are not enough data, Odds are improving (career: consistent in band 2.2–20.0 | recent: erratic in band 4.5–20.0)
+Recent vs Career: Speed is about the same, Results are worsening, Odds are worsening (last 5: [4.5, 7.0, 20.0, 6.5, 4.5])
+Last win rating: No rating data | Latest rating: No rating data | Total wins: 1
+No risk data available
+🧪 Unexposed for age
+   • All races: avg runs 4.1, Unexposed rating +1.1
+   • This type: avg runs 4.7, Unexposed rating +1.6
+🧮 Furlings/sec Overall: 14 runs | 🏁 Fastest: 0.1647 | 🐢 Slowest: 0.1453 | 📊 Furlings/sec Avg: 0.1555 | 🎯 Median: 0.1558
+🎖️ Furlings/sec - This Class (9 runs): 🏁 0.1647 best, 📊 0.1555 avg
+🦄 Sire: Kingman (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🌿 Dam: Rayaheen (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 7.0 (Rank: 3)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Only 1-14 but needs a close look switched to this venue on first run for an Epsom yard
+🔦 Spotlight: Only 1-14 for Richard Hannon and raced over longer trips last term (subsequently sold for 36,000gns) but needs a close look switched to this venue on first run for an Epsom yard; heed the market signals.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Shadwell Estate Company Limited
+🏠 Owner: Mrs Pao, Stafford & Tucker (Overall SR: 0/0 = 0%% | Rank: ?, Turf Rank: nan, AW Rank: nan)
+   • Turf: 0/0 = 0.0%
+🚫 (No previous owner(s))
+👤 Trainer: George Baker 1 runners this race. (Overall SR: 0/0 = 0.0% | Conn Rank: , Turf Rank: 288.0, AW Rank: 225.0)
+   • Turf: 0/0 = 0.0%
+   • 14-day form: (0/8 runs) (Rank: 5) RTF: 13.0 (OVR: 12%)
+🚫 (No previous trainer(s))
+🏇 Jockey: Jim Crowley(14d rank: 7, 5Y rank: ? | Turf: 107 | AW: 49) 🏇 Jim Crowley winSR: 10.0% (No better alternative found.)
+   • 14-day form: 10% (1.0/10.0 runs) RTF: N/A (OVR: 13%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0/0 = 0%
+📊 **RANKS AND FLAGS**
+📉 OFR: 81.0 (Rank: 2)
+📈 RPR: 96.0 (Rank: 2)
+📉 TS: 82.0 (Rank: 4)
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
+🌱 Going Wins/Runs: 1/2 | SR: 0.5
+📊 Form: 27366- → Score: 0.05 (Rank: 9)
+------------------------------------------------------------------------------------------
+🐎 5 | Tribal Rhythm💤🐎 4 years old  gelding, ch, 126 lbs.
+Tribal Rhythm✅ No negative signals
+
+📊 Race Record: 0/5 total wins (🏅 0% SR) | At this age & race type: 0/3 wins (🎯 0% SR)
+Career Trend: Speed is improving (last 5: [58.0, 53.0, 65.0, 52.0, 61.0]), Results are improving (last 5: [4.0, 3.0, 2.0, 4.0, 9.0]), Official ratings are not enough data, Odds are improving (career: erratic in band 1.2–16.0 | recent: erratic in band 1.2–16.0)
+Recent vs Career: Speed is about the same, Results are about the same, Odds are about the same (last 5: [11.0, 1.2, 4.0, 6.0, 16.0])
+Last win rating: No rating data | Latest rating: No rating data | Total wins: 0
+No risk data available
+🧪 Unexposed for age
+   • All races: avg runs 4.1, Unexposed rating +1.1
+   • This type: avg runs 4.7, Unexposed rating +1.6
+🧮 Furlings/sec Overall: 5 runs | 🏁 Fastest: 0.1623 | 🐢 Slowest: 0.1534 | 📊 Furlings/sec Avg: 0.1572 | 🎯 Median: 0.1577
+🎖️ Furlings/sec - This Class (2 runs): 🏁 0.1577 best, 📊 0.156 avg
+🦄 Sire: Ulysses (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🌿 Dam: Russian Punch (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 8.0 (Rank: 4)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Five-race maiden; the booking of Tom Marquand catches the eye; check the betting
+🔦 Spotlight: Five-race maiden who failed to improve in two handicaps last season for new stable; however, the booking of Tom Marquand catches the eye and market support should be heeded.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Mrs D O'Brien
+🏠 Owner: Mrs U M Loughrey (Overall SR: 0/0 = 0%% | Rank: ?, Turf Rank: 5748, AW Rank: 2638)
+   • Turf: 0/0 = 0.0%
+🚫 (No previous owner(s))
+👤 Trainer: Denis Coakley 1 runners this race. (Overall SR: 0/0 = 0.0% | Conn Rank: , Turf Rank: 572.0, AW Rank: 263.0)
+   • Turf: 0/0 = 0.0%
+   • 14-day form: (1/4 runs) (Rank: 2) RTF: 50.0 (OVR: 0%)
+🚫 (No previous trainer(s))
+🏇 Jockey: Tom Marquand(14d rank: 3, 5Y rank: ? | Turf: 131 | AW: 70) 🏇 Tom Marquand winSR: 0.0% (No better alternative found.)
+   • 14-day form: 27% (9.0/33.0 runs) RTF: N/A (OVR: 8%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0/0 = 0%
+📊 **RANKS AND FLAGS**
+📉 OFR: 74.0 (Rank: 5)
+📈 RPR: 91.0 (Rank: 10)
+📉 TS: 66.0 (Rank: 8)
+🏟️ Course Wins/Runs: 0/0 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
+🌱 Going Wins/Runs: 0/1 | SR: 0.0
+📊 Form: 32/49- → Score: 0.06 (Rank: 4)
+------------------------------------------------------------------------------------------
+🐎 7 | Orbaan🐎 10 years old  gelding, b, 125 lbs.
+Orbaan✅ No negative signals
+
+📊 Race Record: 6/68 total wins (🏅 9% SR) | At this age & race type: 3/10 wins (🎯 30% SR)
+Career Trend: Speed is declining (last 5: [39.0, 66.0, 21.0, 39.0, 24.0]), Results are improving (last 5: [3.0, 8.0, 3.0, 11.0, 4.0]), Official ratings are not enough data, Odds are improving (career: erratic in band 1.2–66.0 | recent: erratic in band 9.0–50.0)
+Recent vs Career: Speed is worsening, Results are about the same, Odds are worsening (last 5: [50.0, 16.0, 9.0, 50.0, 22.0])
+Last win rating: No rating data | Latest rating: No rating data | Total wins: 6
+No risk data available
+🧪 Unexposed for age
+   • All races: avg runs 3.7, Unexposed rating -6.3
+   • This type: avg runs 4.9, Unexposed rating -5.1
+🧮 Furlings/sec Overall: 34 runs | 🏁 Fastest: 0.1664 | 🐢 Slowest: 0.1458 | 📊 Furlings/sec Avg: 0.1582 | 🎯 Median: 0.1592
+📏 Furlings/sec - This Trip (2 runs): 🏁 0.1629 best, 📊 0.16 avg
+🎖️ Furlings/sec - This Class (12 runs): 🏁 0.1623 best, 📊 0.159 avg
+🦄 Sire: Invincible Spirit (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🌿 Dam: Contradict (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🛠️ Gear: t
+🩺 Medical History: 💨 Wind Surgery (2021-04-20) | 💨 Wind Surgery (2020-11-02)
+🎲 Early market: 8.0 (Rank: 4)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 4th | ⚡ Speed: 105.33% | 📊 Rank: 10752.0 | 🔺 AvgDiff: 0.30 | 🔼 MaxDiff: -372.08 | 🔽 MinDiff: 17.25 | 🟢 1st Sect: + (15.66s) | 🔴 Last Sect: – (13.13s)
+🗞️ **PRESS OPINION**
+💬 Comment: Inconsistent since winning last year's Carlisle Bell; not sure what to expect
+🔦 Spotlight: Defied a higher mark in last year's Carlisle Bell but that's his only success since 2022 and subsequent form is inconsistent; not entirely sure what to expect from this veteran.
+Horse quote: 2024-06-26 at Carlisle (8f): "Orbaan is nine years old now and dropping in class, and deserves to win a race like this - Danny Tudhope, jockey."
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Nawara Stud Limited
+🏠 Owner: J C G Chua (Overall SR: 0/0 = 0%% | Rank: ?, Turf Rank: 4865, AW Rank: 1876)
+   • Turf: 0/0 = 0.0%
+🚫 (No previous owner(s))
+👤 Trainer: David Omeara 1 runners this race. (Overall SR: 0/0 = 0.0% | Conn Rank: , Turf Rank: 237.0, AW Rank: 137.0)
+   • Turf: 0/0 = 0.0%
+   • 14-day form: (3/26 runs) (Rank: 4) RTF: 35.0 (OVR: 15%)
+🚫 (No previous trainer(s))
+🏇 Jockey: Daniel Tudhope(14d rank: 4, 5Y rank: ? | Turf: 159 | AW: 39) 🏇 Daniel Tudhope winSR: 12.0% | 🏆 Better Alternative: N Callan (1/2 - 50.0%)
+   • 14-day form: 21% (5.0/24.0 runs) RTF: N/A (OVR: 17%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0/0 = 0%
+📊 **RANKS AND FLAGS**
+📉 OFR: 73.0 (Rank: 7)
+📈 RPR: 98.0 (Rank: 1)
+📉 TS: 100.0 (Rank: 1)
+🏟️ Course Wins/Runs: 0/3 | SR: 0.0
+📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/2 | SR: 0.0
+🌱 Going Wins/Runs: 0/18 | SR: 0.0
+📊 Form: 38-304 → Score: 0.07 (Rank: 3)
+------------------------------------------------------------------------------------------
+🐎 4 | Mostawaa💤🐎 9 years old  gelding, ch, 130 lbs.
+Mostawaa✅ No negative signals
+
+📊 Race Record: 7/57 total wins (🏅 12% SR) | At this age & race type: 1/4 wins (🎯 25% SR)
+Career Trend: Speed is improving (last 5: [67.0, 40.0, 66.0, 47.0, 50.0]), Results are declining (last 5: [3.0, 3.0, 10.0, 1.0, 3.0]), Official ratings are not enough data, Odds are declining (career: erratic in band 1.6–100.0 | recent: erratic in band 1.6–25.0)
+Recent vs Career: Speed is worsening, Results are about the same, Odds are improving (last 5: [7.0, 14.0, 25.0, 1.625, 4.5])
+Last win rating: No rating data | Latest rating: No rating data | Total wins: 7
+No risk data available
+🧪 Unexposed for age
+   • All races: avg runs 3.9, Unexposed rating -0.1
+   • This type: avg runs 5.1, Unexposed rating +1.1
+🧮 Furlings/sec Overall: 18 runs | 🏁 Fastest: 0.1718 | 🐢 Slowest: 0.1473 | 📊 Furlings/sec Avg: 0.1587 | 🎯 Median: 0.1592
+📏 Furlings/sec - This Trip (2 runs): 🏁 0.157 best, 📊 0.155 avg
+🎖️ Furlings/sec - This Class (9 runs): 🏁 0.1623 best, 📊 0.1562 avg
+🦄 Sire: Poets Voice (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🌿 Dam: Mumtaza (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 8.0 (Rank: 4)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: The only C&D winner in the field; interesting, assuming he retains ability aged nine
+🔦 Spotlight: The only C&D winner in this field and gained that success on penultimate appearance (last September); fairly interesting back at Epsom, assuming he retains the same level of ability aged nine.
+Horse quote: 2023-06-28 at Carlisle (8f): "Mostawaa has turned a corner in his old age. He won at Brighton two starts ago and then he went to York and toughed it out. I got a very easy lead that day and things fell right whereas today there was plenty of pace on paper, so you just never know. He stuck to it well on soft ground and I think we can investigate going up to ten furlongs now. Between the three and the two I didn't get much of a breather into him and we were going a good gallop. Myself and Pierre were kind of taking each other on but to be fair they both fought on well - Hollie Doyle, jockey."
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Shadwell Estate Company Limited (Gb)
+🏠 Owner: The Haroldians (Overall SR: 0/0 = 0%% | Rank: ?, Turf Rank: 940, AW Rank: 2638)
+   • Turf: 0/0 = 0.0%
+🚫 (No previous owner(s))
+👤 Trainer: Heather Main 1 runners this race. (Overall SR: 0/0 = 0.0% | Conn Rank: , Turf Rank: 279.0, AW Rank: 147.0)
+   • Turf: 0/0 = 0.0%
+   • 14-day form: (0/5 runs) (Rank: 5) RTF: 17.0 (OVR: 20%)
+🚫 (No previous trainer(s))
+🏇 Jockey: Hollie Doyle(14d rank: 1, 5Y rank: ? | Turf: 178 | AW: 101) 🏇 Hollie Doyle winSR: 50.0% | 🏆 Better Alternative: M Dwyer (1/1 - 100.0%)
+   • 14-day form: 7% (3.0/41.0 runs) RTF: N/A (OVR: 6%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0/0 = 0%
+📊 **RANKS AND FLAGS**
+📉 OFR: 78.0 (Rank: 4)
+📈 RPR: 93.0 (Rank: 6)
+📉 TS: 80.0 (Rank: 5)
+🏟️ Course Wins/Runs: 1/2 | SR: 0.5
+📏 Distance Wins/Runs: 1/5 | SR: 0.2
+🏟️📏 Course+Distance Wins/Runs: 1/2 | SR: 0.5
+🌱 Going Wins/Runs: 0/13 | SR: 0.0
+📊 Form: 33013- → Score: 0.21 (Rank: 1)
+------------------------------------------------------------------------------------------
+🐎 3 | Hodler🐎 6 years old  gelding, b, 131 lbs.
+Hodler✅ No negative signals
+
+📊 Race Record: 5/37 total wins (🏅 14% SR) | At this age & race type: 0/4 wins (🎯 0% SR)
+Career Trend: Speed is improving (last 5: [21.0, 76.0, 50.0, 30.0, 57.0]), Results are stable (last 5: [5.0, 1.0, 3.0, 8.0, 6.0]), Official ratings are not enough data, Odds are improving (career: erratic in band 1.4–66.0 | recent: erratic in band 1.4–33.0)
+Recent vs Career: Speed is worsening, Results are about the same, Odds are improving (last 5: [1.375, 8.5, 3.5, 11.0, 33.0])
+Last win rating: No rating data | Latest rating: No rating data | Total wins: 5
+No risk data available
+🧪 Unexposed for age
+   • All races: avg runs 4.2, Unexposed rating +0.2
+   • This type: avg runs 5.2, Unexposed rating +1.2
+🧮 Furlings/sec Overall: 27 runs | 🏁 Fastest: 0.1739 | 🐢 Slowest: 0.1445 | 📊 Furlings/sec Avg: 0.1603 | 🎯 Median: 0.1603
+📏 Furlings/sec - This Trip (1 runs): 🏁 0.16 best, 📊 0.16 avg
+🎖️ Furlings/sec - This Class (17 runs): 🏁 0.1739 best, 📊 0.1616 avg
+🦄 Sire: Sea The Moon (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🌿 Dam: Herzprinzessin (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 9.0 (Rank: 7)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: All wins at 7f but gives the impression this return to further is worth exploring
+🔦 Spotlight: Has done all his winning over 7f but gives the impression this return to further is worth exploring; suited by Epsom (dual course scorer) and has defied higher marks; possibilities back here.
+Horse quote: 2023-05-10 at Chester (7f): "We were delighted when it kept raining as Hodler is a different horse on this sort of ground, he quickens on it and picks up well. He could go to Epsom on Oaks or Derby day, there are races over seven furlongs and a mile and half a furlong. I just hope it keeps raining! - Jim Boyle, trainer."
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Gestut Gorlsdorf
+🏠 Owner: D A Poole (Overall SR: 0/0 = 0%% | Rank: ?, Turf Rank: 5159, AW Rank: 2317)
+   • Turf: 0/0 = 0.0%
+🚫 (No previous owner(s))
+👤 Trainer: Jim Boyle 1 runners this race. (Overall SR: 0/0 = 0.0% | Conn Rank: , Turf Rank: 300.0, AW Rank: 342.0)
+   • Turf: 0/0 = 0.0%
+   • 14-day form: (0/6 runs) (Rank: 5) RTF: 50.0 (OVR: 10%)
+🚫 (No previous trainer(s))
+🏇 Jockey: Luke Catton(5)(14d rank: 8, 5Y rank: ? | Turf: 350 | AW: 213) 🏇 Luke Catton(5) winSR: 12.0% | 🏆 Better Alternative: R Sexton (4/8 - 50.0%)
+   • 14-day form: 0% (0.0/2.0 runs) RTF: N/A (OVR: 8%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0/0 = 0%
+📊 **RANKS AND FLAGS**
+📉 OFR: 79.0 (Rank: 3)
+📈 RPR: 93.0 (Rank: 6)
+📉 TS: 85.0 (Rank: 2)
+🏟️ Course Wins/Runs: 2/9 | SR: 0.22
+📏 Distance Wins/Runs: 0/1 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
+🌱 Going Wins/Runs: 2/12 | SR: 0.17
+📊 Form: 5138-6 → Score: 0.05 (Rank: 7)
+------------------------------------------------------------------------------------------
+🐎 9 | The Bitter Moose🐎 4 years old  gelding, b, 124 lbs.
+The Bitter Moose✅ No negative signals
+
+📊 Race Record: 2/17 total wins (🏅 12% SR) | At this age & race type: 0/3 wins (🎯 0% SR)
+Career Trend: Speed is improving (last 5: [23.0, 58.0, 60.0, 68.0, 46.0]), Results are improving (last 5: [6.0, 4.0, 2.0, 2.0, 7.0]), Official ratings are not enough data, Odds are stable (career: erratic in band 4.0–40.0 | recent: erratic in band 4.0–18.0)
+Recent vs Career: Speed is improving, Results are about the same, Odds are improving (last 5: [18.0, 4.0, 4.0, 4.0, 7.0])
+Last win rating: No rating data | Latest rating: No rating data | Total wins: 2
+No risk data available
+🧪 Unexposed for age
+   • All races: avg runs 4.1, Unexposed rating +1.1
+   • This type: avg runs 4.7, Unexposed rating +1.6
+🧮 Furlings/sec Overall: 17 runs | 🏁 Fastest: 0.1695 | 🐢 Slowest: 0.1548 | 📊 Furlings/sec Avg: 0.1629 | 🎯 Median: 0.1631
+🎖️ Furlings/sec - This Class (6 runs): 🏁 0.1675 best, 📊 0.1631 avg
+🦄 Sire: Kodiac (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🌿 Dam: Baroness (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🛠️ Gear: p
+🩺 Medical History: None
+🎲 Early market: 11.0 (Rank: 8)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: 0-11 on turf but ran well in sole Epsom attempt; second start for 🆕 new yard
+🔦 Spotlight: Dual 7f AW winner for previous yard (stays 1m); blew the start on stable/seasonal debut; 0-11 on turf but looks equipped for this assignment, having performed well in sole Epsom attempt.
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: Gigginstown House Stud
+🏠 Owner: David Henery (Overall SR: 0/0 = 0%% | Rank: ?, Turf Rank: 4498, AW Rank: 2368)
+   • Turf: 0/0 = 0.0%
+🚫 (No previous owner(s))
+👤 Trainer: Patrick Chamings 1 runners this race. (Overall SR: 0/0 = 0.0% | Conn Rank: , Turf Rank: 288.0, AW Rank: 295.0)
+   • Turf: 0/0 = 0.0%
+   • 14-day form: (0/4 runs) (Rank: 5) RTF: 25.0 (OVR: 7%)
+🚫 (No previous trainer(s))
+🏇 Jockey: David Probert(14d rank: 5, 5Y rank: ? | Turf: 268 | AW: 105) 🏇 David Probert winSR: 0.0% | 🏆 Better Alternative: H Davies (2/5 - 40.0%)
+   • 14-day form: 20% (7.0/35.0 runs) RTF: N/A (OVR: 9%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0/0 = 0%
+📊 **RANKS AND FLAGS**
+📉 OFR: 72.0 (Rank: 8)
+📈 RPR: 93.0 (Rank: 6)
+📉 TS: 66.0 (Rank: 8)
+🏟️ Course Wins/Runs: 0/1 | SR: 0.0
+📏 Distance Wins/Runs: 0/0 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/0 | SR: 0.0
+🌱 Going Wins/Runs: 0/8 | SR: 0.0
+📊 Form: 6422-7 → Score: 0.05 (Rank: 6)
+------------------------------------------------------------------------------------------
+🐎 1 | Revich💤🐎 9 years old  gelding, br, 135 lbs.
+Revich✅ No negative signals
+
+📊 Race Record: 7/59 total wins (🏅 12% SR) | At this age & race type: 0/4 wins (🎯 0% SR)
+Career Trend: Speed is improving (last 5: [41.0, 68.0, 65.0, 80.0, 54.0]), Results are declining (last 5: [12.0, 11.0, 11.0, 6.0, 6.0]), Official ratings are not enough data, Odds are declining (career: erratic in band 1.5–100.0 | recent: erratic in band 7.0–66.0)
+Recent vs Career: Speed is worsening, Results are worsening, Odds are worsening (last 5: [10.0, 66.0, 20.0, 25.0, 7.0])
+Last win rating: No rating data | Latest rating: No rating data | Total wins: 7
+No risk data available
+🧪 Unexposed for age
+   • All races: avg runs 3.9, Unexposed rating -0.1
+   • This type: avg runs 5.1, Unexposed rating +1.1
+🧮 Furlings/sec Overall: 21 runs | 🏁 Fastest: 0.1653 | 🐢 Slowest: 0.1473 | 📊 Furlings/sec Avg: 0.1585 | 🎯 Median: 0.1595
+📏 Furlings/sec - This Trip (1 runs): 🏁 0.1623 best, 📊 0.1623 avg
+🦄 Sire: Requinto (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🌿 Dam: Kathleen Rafferty (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🛠️ Gear: p
+🩺 Medical History: None
+🎲 Early market: 15.0 (Rank: 9)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🏁 Last start: 6th | ⚡ Speed: 101.93% | 📊 Rank: 11090.0 | 🔺 AvgDiff: -1.14 | 🔼 MaxDiff: -373.52 | 🔽 MinDiff: 15.81 | 🟢 1st Sect: + (14.989999999999998s) | 🟢 Last Sect: + (13.175s)
+🗞️ **PRESS OPINION**
+💬 Comment: No win since 2023; showed clear signs of decline last year; debut for new stable
+🔦 Spotlight: Seven wins for Richard Spencer, the most recent win in 2023; showed clear signs of decline last year and was sold for 6,500gns after final start; best watched unless the market speaks favourably.
+Horse quote: 2023-09-23 at Ayr (8f): "I didn't really plan to be that far back, but I couldn't have gone much quicker. Revich clearly thrives on this track and this is his type of ground. He's a little terrier when he's under pressure and I got a really nice lead into it from Jason (Hart, jockey Titan Rock) and he took me to the winning line. I suppose they raced up the inside yesterday and it might be a bit chopped up on that rail. It's drying ground, it's fine - Hollie Doyle, jockey."
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: T Jones
+🏠 Owner: Mrs P Goodwin (Overall SR: 0/0 = 0%% | Rank: ?, Turf Rank: 5704, AW Rank: 2638)
+   • Turf: 0/0 = 0.0%
+🚫 (No previous owner(s))
+👤 Trainer: Adrian Wintle 1 runners this race. (Overall SR: 0/0 = 0.0% | Conn Rank: , Turf Rank: 506.0, AW Rank: 301.0)
+   • Turf: 0/0 = 0.0%
+   • 14-day form: (0/11 runs) (Rank: 5) RTF: 64.0 (OVR: 0%)
+🚫 (No previous trainer(s))
+🏇 Jockey: Finley Marsh(14d rank: 6, 5Y rank: ? | Turf: 287 | AW: 92) 🏇 Finley Marsh winSR: 0.0% | 🏆 Better Alternative: T Marquand (1/1 - 100.0%)
+   • 14-day form: 11% (2.0/19.0 runs) RTF: N/A (OVR: 0%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0/0 = 0%
+📊 **RANKS AND FLAGS**
+📉 OFR: 83.0 (Rank: 1)
+📈 RPR: 95.0 (Rank: 3)
+📉 TS: 85.0 (Rank: 2)
+🏟️ Course Wins/Runs: 1/3 | SR: 0.33
+📏 Distance Wins/Runs: 0/2 | SR: 0.0
+🏟️📏 Course+Distance Wins/Runs: 0/2 | SR: 0.0
+🌱 Going Wins/Runs: 1/11 | SR: 0.09
+📊 Form: 00066- → Score: 0.08 (Rank: 2)
+------------------------------------------------------------------------------------------
+🐎 8 | Uncle Dick🐎 7 years old  gelding, b, 124 lbs.
+Uncle Dick✅ No negative signals
+
+📊 Race Record: 8/47 total wins (🏅 17% SR) | At this age & race type: 0/2 wins (🎯 0% SR)
+Career Trend: Speed is declining (last 5: [43.0, 56.0, 33.0, 40.0, 25.0]), Results are improving (last 5: [4.0, 1.0, 8.0, 4.0, 12.0]), Official ratings are not enough data, Odds are improving (career: erratic in band 1.0–50.0 | recent: erratic in band 7.0–50.0)
+Recent vs Career: Speed is worsening, Results are worsening, Odds are worsening (last 5: [8.0, 28.0, 7.0, 40.0, 50.0])
+Last win rating: No rating data | Latest rating: No rating data | Total wins: 8
+No risk data available
+🧪 Unexposed for age
+   • All races: avg runs 4.2, Unexposed rating +2.2
+   • This type: avg runs 5.1, Unexposed rating +3.1
+🧮 Furlings/sec Overall: 28 runs | 🏁 Fastest: 0.1706 | 🐢 Slowest: 0.1468 | 📊 Furlings/sec Avg: 0.161 | 🎯 Median: 0.1616
+📏 Furlings/sec - This Trip (2 runs): 🏁 0.1603 best, 📊 0.1577 avg
+🎖️ Furlings/sec - This Class (5 runs): 🏁 0.1672 best, 📊 0.1562 avg
+🦄 Sire: Toronado (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🌿 Dam: Golden Waters (Overall SR: 0/0 = 0% | Rank: ?, Turf Rank: ?, AW Rank: ?)
+   • Turf: 0/0 = 0%
+🛠️ No gear today
+🩺 Medical History: None
+🎲 Early market: 21.0 (Rank: 10)
+🎲 Repeat performance: Won before: ❌ No, Placed 2nd or 3rd before: ❌ No
+🗞️ **PRESS OPINION**
+💬 Comment: Has bits of Epsom form but all turf wins remain at Brighton
+🔦 Spotlight: Should in theory be well suited by Epsom but two attempts have resulted in defeats; may be of greater interest when back at Brighton, having gained all seven turf wins there.
+Horse quote: 2024-08-07 at Brighton (8f): "Uncle Dick is an absolute legend. He's won for all my apprentices either this year or last and just loves it at Brighton, he's just a different horse there. He'll have to go again on Thursday. If I don't run him in that there's not another race he can run in at Brighton this year so we might as well give it a go. He's such a good horse to have and the Brighton Mile is an amazing race to win. He's usually winning 2,500GBP races so it's nice to win one worth four times more - Eve Johnson Houghton, trainer."
+🧑‍🤝‍🧑**CONNECTIONS**
+🌱 Breeder: R E Crutchley
+🏠 Owner: Eden Racing Club (Overall SR: 0/0 = 0%% | Rank: ?, Turf Rank: 893, AW Rank: 2061)
+   • Turf: 0/0 = 0.0%
+🚫 (No previous owner(s))
+👤 Trainer: Eve Johnson Houghton 1 runners this race. (Overall SR: 0/0 = 0.0% | Conn Rank: , Turf Rank: 230.0, AW Rank: 177.0)
+   • Turf: 0/0 = 0.0%
+   • 14-day form: (1/16 runs) (Rank: 1) RTF: 31.0 (OVR: 15%)
+🚫 (No previous trainer(s))
+🏇 Jockey: Georgia Dobie(14d rank: 8, 5Y rank: ? | Turf: 539 | AW: 255) 🏇 Georgia Dobie winSR: 14.0% | 🏆 Better Alternative: Mia Nicholls (2/4 - 50.0%)
+   • 14-day form: 0% (0.0/11.0 runs) RTF: N/A (OVR: 8%) | 5Y: 0/0 (SR: 0.0)
+   • Turf: 0/0 = 0%
+📊 **RANKS AND FLAGS**
+📉 OFR: 72.0 (Rank: 8)
+📈 RPR: 95.0 (Rank: 3)
+📉 TS: 75.0 (Rank: 6)
+🏟️ Course Wins/Runs: 0/2 | SR: 0.0
+📏 Distance Wins/Runs: 1/3 | SR: 0.33
+🏟️📏 Course+Distance Wins/Runs: 0/1 | SR: 0.0
+🌱 Going Wins/Runs: 4/13 | SR: 0.31
+📊 Form: 4184-0 → Score: 0.06 (Rank: 5)
+------------------------------------------------------------------------------------------
