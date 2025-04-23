@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="reg update">
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="New feature negative signals">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,15 +104,7 @@
       <workItem from="1743788996007" duration="22220000" />
       <workItem from="1744353573721" duration="2789000" />
       <workItem from="1744614807891" duration="85000" />
-      <workItem from="1744871690822" duration="11997000" />
-    </task>
-    <task id="LOCAL-00057" summary="performance table improvements. Code now runs for today_str allowing for historical racedays. New ranks for perf table. No logic to which cols as yet - to come.">
-      <option name="closed" value="true" />
-      <created>1741439745534</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1741439745534</updated>
+      <workItem from="1744871690822" duration="13379000" />
     </task>
     <task id="LOCAL-00058" summary="fixed bug with sort perf table on string">
       <option name="closed" value="true" />
@@ -498,14 +490,21 @@
       <option name="project" value="LOCAL" />
       <updated>1745247018709</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="New feature negative signals">
+      <option name="closed" value="true" />
+      <created>1745306091235</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1745306091235</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new data. no major changes till v 1.0" />
     <MESSAGE value="h2h and repeatPerformance in-horse stats and new h2h table." />
     <MESSAGE value="added race-specific speed performance table." />
     <MESSAGE value="Do not ask for hash code when downloading txt file" />
@@ -530,6 +529,7 @@
     <MESSAGE value="Minor fixes to horses UI" />
     <MESSAGE value="new columns" />
     <MESSAGE value="reg update" />
-    <option name="LAST_COMMIT_MESSAGE" value="reg update" />
+    <MESSAGE value="New feature negative signals" />
+    <option name="LAST_COMMIT_MESSAGE" value="New feature negative signals" />
   </component>
 </project>
