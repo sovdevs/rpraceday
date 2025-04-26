@@ -104,15 +104,8 @@
       <workItem from="1743788996007" duration="22220000" />
       <workItem from="1744353573721" duration="2789000" />
       <workItem from="1744614807891" duration="85000" />
-      <workItem from="1744871690822" duration="14825000" />
-    </task>
-    <task id="LOCAL-00059" summary="new data - stil issue with winSR, connection sr to work on.">
-      <option name="closed" value="true" />
-      <created>1741518156662</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1741518156662</updated>
+      <workItem from="1744871690822" duration="16137000" />
+      <workItem from="1745653511414" duration="1197000" />
     </task>
     <task id="LOCAL-00060" summary="index.html bug fx">
       <option name="closed" value="true" />
@@ -498,7 +491,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745405307577</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="new data">
+      <option name="closed" value="true" />
+      <created>1745488233483</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1745488233483</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
