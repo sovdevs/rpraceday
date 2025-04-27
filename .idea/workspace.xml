@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="new data">
+    <list default="true" id="1f77031f-c71a-41b8-b0c3-bbdb634020d5" name="Changes" comment="new data - minor fix to missing race_id -&gt; race_id_str.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,15 +105,7 @@
       <workItem from="1744353573721" duration="2789000" />
       <workItem from="1744614807891" duration="85000" />
       <workItem from="1744871690822" duration="16137000" />
-      <workItem from="1745653511414" duration="1197000" />
-    </task>
-    <task id="LOCAL-00060" summary="index.html bug fx">
-      <option name="closed" value="true" />
-      <created>1741519960998</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1741519960998</updated>
+      <workItem from="1745653511414" duration="2463000" />
     </task>
     <task id="LOCAL-00061" summary="new data. WinSR fixed.">
       <option name="closed" value="true" />
@@ -499,14 +491,21 @@
       <option name="project" value="LOCAL" />
       <updated>1745488233483</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="new data - minor fix to missing race_id -&gt; race_id_str.">
+      <option name="closed" value="true" />
+      <created>1745662051291</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1745662051291</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="h2h and repeatPerformance in-horse stats and new h2h table." />
     <MESSAGE value="added race-specific speed performance table." />
     <MESSAGE value="Do not ask for hash code when downloading txt file" />
     <MESSAGE value="key race feature" />
@@ -531,6 +530,7 @@
     <MESSAGE value="reg update" />
     <MESSAGE value="New feature negative signals" />
     <MESSAGE value="new data" />
-    <option name="LAST_COMMIT_MESSAGE" value="new data" />
+    <MESSAGE value="new data - minor fix to missing race_id -&gt; race_id_str." />
+    <option name="LAST_COMMIT_MESSAGE" value="new data - minor fix to missing race_id -&gt; race_id_str." />
   </component>
 </project>
